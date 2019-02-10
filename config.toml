@@ -1,0 +1,12 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+# theme = "onepress"
+description = "Alex Wilkins: Journalist, musician and coder"
+# # Enter your tracking code to enable Google Analytics
+# googleAnalytics = ""
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+copyright = "Copyright © 2019, Alex Wilkins; all rights reserved. Built with Hugo, deployed with Netlify"
+canonifyURLS = true
+paginate = 12
