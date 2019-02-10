@@ -5,12 +5,12 @@
     </head>
 <body>
 	  <header class="header">
-			{{ partial "brand.html" . }}
+			{{ partial "header.html" . }}
 		</header>
     <nav class="main-nav">
         {{ partial "nav.html" . }}
     </nav>
-    
+
     <!-- show sidebar if widgets param is set to true -->
     {{ if .Site.Params.widgets }}
     <div id="site-wrapper">

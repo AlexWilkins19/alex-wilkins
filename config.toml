@@ -1,11 +1,43 @@
 baseURL = "https://dazzling-chandrasekhar-3a6a26.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-author = "Alex Wilkins"
 description = "Alex Wilkins: Journalist, musician and coder"
+tags = ["blog", "sidebar", "SEO"]
 # # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
 disqusShortname = "www-alex-wilkins-com"
 copyright = "Copyright © 2019, Alex Wilkins; all rights reserved."
 canonifyURLS = true
 paginate = 12
+
+
+[params]
+	author = "Alex Wilkins"
+        bio = "Alex Wilkins: Journalist, musician and coder"
+	logo = "/images/favicon.png"
+	avatar = "/images/logo.ico"
+	opengraphImage = "/images/favicon.png"
+	enableRSS = true
+	customCSS = true
+  readMore = "Read Up"
+
+    # Social
+	twitter  = "https://twitter.com/AlexWilkins22"
+	github   = "https://github.com/AlexWilkins19"
+	facebook  = ""
+  linkedin  = "https://www.linkedin.com/in/alex-wilkins-345077117/"
+
+
+    # Widget
+    widgets = true
+
+    # Author box and Share button
+    authorCard = false
+    shareButton = true
+
+    # Code highlighting with highlight.js
+    highlightJS = true
+
+# Taxonomies
+[taxonomies]
+    tag = "tags"
