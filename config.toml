@@ -12,7 +12,7 @@ paginate = 12
 
 
 [params]
-	author = "Alex Wilkins"
+	author = "Alex Welkins"
         bio = "Alex Wilkins: Journalist, musician and coder"
 	logo = "/images/favicon.png"
 	avatar = "/images/logo.ico"
