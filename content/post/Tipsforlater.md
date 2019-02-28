@@ -1,5 +1,5 @@
 ---
-title: "Tipsforlater"
+title: "Tips for later"
 date: 2019-02-10T21:47:24Z
 draft: true
 ---

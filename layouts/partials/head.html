@@ -1,11 +1,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <base href="{{ .Site.BaseURL }}">
-<!-- {{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }} -->
+{{ with .Site.Params.author }}<meta name="author" content="{{ . }}">{{ end }}
 {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
 {{ .Hugo.Generator }}
 <title>{{ .Title }}</title>
 <link rel="shortcut icon" href="{{ "/images/favicon.ico" | absURL }}" type="">
+<link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display|EB+Garamond" rel="stylesheet">
 <link rel="stylesheet" href="{{ "css/style.css" | absURL }}">
 <link rel="stylesheet" href="{{ "css/highlight.css" | absURL }}">
 {{ if .Site.Params.customCSS }}
