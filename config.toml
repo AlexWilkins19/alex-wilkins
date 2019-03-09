@@ -1,4 +1,4 @@
-baseURL = "https://dazzling-chandrasekhar-3a6a26.netlify.com/"
+baseURL = "https://alexwilkins-3a6a26.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 description = "Alex Wilkins: Journalist, musician and coder"
@@ -9,7 +9,7 @@ disqusShortname = "www-alex-wilkins-com"
 copyright = "Copyright © 2019 Alex Wilkins."
 canonifyURLS = true
 paginate = 12
-redirects= "https://dazzling-chandrasekhar-3a6a26.netlify.com/* https://www.alex-wilkins.com/:splat 301!"
+redirects= "https://alexwilkins.netlify.com/* https://www.alex-wilkins.com/:splat 301!"
 
 
 [params]
