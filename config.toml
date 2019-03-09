@@ -6,20 +6,18 @@ tags = ["blog", "sidebar", "SEO"]
 # # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
 disqusShortname = "www-alex-wilkins-com"
-copyright = "Copyright © 2019, Alex Wilkins; all rights reserved."
+copyright = "Copyright © 2019 Alex Wilkins."
 canonifyURLS = true
 paginate = 12
 
 
 [params]
-	author = "Alex Welkins"
+	author = "Alex Wilkins"
         bio = "Alex Wilkins: Journalist, musician and coder"
 	logo = "/images/favicon.png"
 	avatar = "/images/logo.ico"
 	opengraphImage = "/images/favicon.png"
-	enableRSS = true
-	customCSS = true
-  readMore = "Read Up"
+  readMore = "Read more"
 
     # Social
 	twitter  = "https://twitter.com/AlexWilkins22"
@@ -27,13 +25,6 @@ paginate = 12
 	facebook  = ""
   linkedin  = "https://www.linkedin.com/in/alex-wilkins-345077117/"
 
-
-    # Widget
-    widgets = true
-
-    # Author box and Share button
-    authorCard = false
-    shareButton = true
 
     # Code highlighting with highlight.js
     highlightJS = true

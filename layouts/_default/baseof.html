@@ -11,28 +11,13 @@
     <nav class="main-nav">
         {{ partial "nav.html" . }}
     </nav>
-
-    <!-- show sidebar if widgets param is set to true -->
-    {{ if .Site.Params.widgets }}
-    <div id="site-wrapper">
-        <main>
-            {{ block "main" . }} {{ end }}
-        </main>
-        <!-- show widget on larger screen -->
-        <aside class="desktop-only">
-            {{ block "widgets" . }}{{ end }}
-            {{ partial "footer.html" . }}
-        </aside>
-    </div>
-    {{ else }}
-    <!-- no sidebar, content centered to screen -->
-    <div id="site-wrapper-centered">
+<hr />
+    <div id="block">
         <main class="center">
             {{ block "main" . }} {{ end }}
         </main>
         {{ partial "footer.html" . }}
-    </div>
-    {{ end }}
     {{ partial "js.html" . }}
+
 </body>
 </html>
