@@ -9,6 +9,7 @@ disqusShortname = "www-alex-wilkins-com"
 copyright = "Copyright © 2019 Alex Wilkins."
 canonifyURLS = true
 paginate = 12
+redirects= "https://dazzling-chandrasekhar-3a6a26.netlify.com/* https://www.alex-wilkins.com/:splat 301!"
 
 
 [params]
