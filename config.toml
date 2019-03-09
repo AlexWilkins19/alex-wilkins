@@ -1,20 +1,18 @@
-baseURL = "https://alex-wilkins.com/"
+baseURL = "https://www.alex-wilkins.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-description = "Alex Wilkins: Journalist, musician and coder"
+title = "Alex Wilkins"
+description = "Alex Wilkins: journalist; musician and coder"
 tags = ["blog", "sidebar", "SEO"]
 # # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
-disqusShortname = "www-alex-wilkins-com"
 copyright = "Copyright © 2019 Alex Wilkins."
 canonifyURLS = true
 paginate = 12
-redirects= "https://alexwilkins.netlify.com/* https://www.alex-wilkins.com/:splat 301!"
 
 
 [params]
 	author = "Alex Wilkins"
-        bio = "Alex Wilkins: Journalist, musician and coder"
+  bio = "Alex Wilkins: Journalist, musician and coder"
 	logo = "/images/favicon.png"
 	avatar = "/images/logo.ico"
 	opengraphImage = "/images/favicon.png"
