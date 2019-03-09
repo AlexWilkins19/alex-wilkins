@@ -1,4 +1,4 @@
-baseURL = "https://alexwilkins.com/"
+baseURL = "https://alexwilkins.netlify.com/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 description = "Alex Wilkins: Journalist, musician and coder"
