@@ -1,11 +1,11 @@
 baseURL = "https://www.alex-wilkins.com/"
 languageCode = "en-us"
 title = "Alex Wilkins"
-description = "Alex Wilkins: journalist; musician and coder"
+description = "Alex Wilkins: journalist; programmer"
 tags = ["blog", "sidebar", "SEO"]
 # # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
-copyright = "Copyright © 2019 Alex Wilkins."
+copyright = "Copyright © 2022 Alex Wilkins."
 canonifyURLS = true
 paginate = 12
 

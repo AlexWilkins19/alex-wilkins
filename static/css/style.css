@@ -78,13 +78,22 @@ hr {
 
 }
 
-footer {
-	display:flex;
-	justify-content: center;
-	font-size: 12px;
-	position:fixed;
-	bottom:0;
+footer::before {
+  content: "";
+  display: block;
+  border-top: 1px solid #000;
+  margin-bottom: 10px;
 }
+
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+	font-family: Arial, sans-serif;
+	font-size: 12px;
+}
+
 
 p.small {
 	/* margin: 0 auto; */
