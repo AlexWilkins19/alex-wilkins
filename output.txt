@@ -1,0 +1,228 @@
+Folder PATH listing for volume OS
+Volume serial number is 42CF-65A9
+C:.
++---archetypes
++---content
++---data
++---layouts
+|   +---partials
+|   +---portfolio
+|   +---post
+|   \---_default
++---public
+|   +---css
+|   +---images
+|   \---js
++---resources
+|   \---_gen
+|       +---assets
+|       \---images
++---scripts
+|   \---node_modules
+|       +---.bin
+|       +---@babel
+|       |   +---code-frame
+|       |   |   \---lib
+|       |   +---helper-validator-identifier
+|       |   |   +---lib
+|       |   |   \---scripts
+|       |   \---highlight
+|       |       \---lib
+|       +---@types
+|       |   +---node
+|       |   |   +---assert
+|       |   |   +---dns
+|       |   |   +---fs
+|       |   |   +---readline
+|       |   |   +---stream
+|       |   |   +---timers
+|       |   |   \---ts4.8
+|       |   |       +---assert
+|       |   |       +---dns
+|       |   |       +---fs
+|       |   |       +---readline
+|       |   |       +---stream
+|       |   |       \---timers
+|       |   \---yauzl
+|       +---agent-base
+|       |   +---dist
+|       |   |   \---src
+|       |   \---src
+|       +---ansi-styles
+|       +---argparse
+|       |   \---lib
+|       +---balanced-match
+|       |   \---.github
+|       +---base64-js
+|       +---bl
+|       |   \---test
+|       +---brace-expansion
+|       |   \---.github
+|       +---buffer
+|       +---buffer-crc32
+|       +---callsites
+|       +---chalk
+|       |   \---types
+|       +---chownr
+|       +---chromium-bidi
+|       |   \---lib
+|       |       +---cjs
+|       |       |   +---bidiMapper
+|       |       |   |   \---domains
+|       |       |   |       +---context
+|       |       |   |       +---events
+|       |       |   |       +---log
+|       |       |   |       \---script
+|       |       |   +---bidiServer
+|       |       |   +---bidiTab
+|       |       |   +---cdp
+|       |       |   +---protocol
+|       |       |   +---protocol-parser
+|       |       |   \---utils
+|       |       \---iife
+|       +---color-convert
+|       +---color-name
+|       +---cosmiconfig
+|       |   \---dist
+|       +---cross-fetch
+|       |   +---dist
+|       |   \---polyfill
+|       +---debug
+|       |   \---src
+|       +---devtools-protocol
+|       |   +---json
+|       |   +---pdl
+|       |   \---types
+|       +---end-of-stream
+|       +---error-ex
+|       +---escape-string-regexp
+|       +---extract-zip
+|       +---fd-slicer
+|       |   \---test
+|       +---fs-constants
+|       +---fs.realpath
+|       +---get-stream
+|       +---glob
+|       |   \---dist
+|       |       +---cjs
+|       |       \---mjs
+|       +---has-flag
+|       +---https-proxy-agent
+|       |   \---dist
+|       +---ieee754
+|       +---import-fresh
+|       +---inherits
+|       +---is-arrayish
+|       +---js-tokens
+|       +---js-yaml
+|       |   +---bin
+|       |   +---dist
+|       |   \---lib
+|       |       +---schema
+|       |       \---type
+|       +---json-parse-even-better-errors
+|       +---lines-and-columns
+|       |   \---build
+|       +---lru-cache
+|       +---minimatch
+|       |   \---dist
+|       |       +---cjs
+|       |       \---mjs
+|       +---minipass
+|       +---mitt
+|       |   \---dist
+|       +---mkdirp-classic
+|       +---ms
+|       +---node-fetch
+|       |   \---lib
+|       +---once
+|       +---parent-module
+|       +---parse-json
+|       +---path-scurry
+|       |   \---dist
+|       |       +---cjs
+|       |       \---mjs
+|       +---path-type
+|       +---pend
+|       +---progress
+|       |   \---lib
+|       +---proxy-from-env
+|       +---pump
+|       +---puppeteer
+|       |   \---lib
+|       |       +---cjs
+|       |       |   \---puppeteer
+|       |       |       \---node
+|       |       \---esm
+|       |           \---puppeteer
+|       |               \---node
+|       +---puppeteer-core
+|       |   \---lib
+|       |       +---cjs
+|       |       |   +---puppeteer
+|       |       |   |   +---api
+|       |       |   |   +---common
+|       |       |   |   |   \---bidi
+|       |       |   |   +---generated
+|       |       |   |   +---injected
+|       |       |   |   +---node
+|       |       |   |   \---util
+|       |       |   \---third_party
+|       |       |       \---mitt
+|       |       \---esm
+|       |           +---puppeteer
+|       |           |   +---api
+|       |           |   +---common
+|       |           |   |   \---bidi
+|       |           |   +---generated
+|       |           |   +---injected
+|       |           |   +---node
+|       |           |   \---util
+|       |           \---third_party
+|       |               \---mitt
+|       +---readable-stream
+|       |   \---lib
+|       |       \---internal
+|       |           \---streams
+|       +---resolve-from
+|       +---rimraf
+|       |   \---dist
+|       |       +---cjs
+|       |       |   \---src
+|       |       \---mjs
+|       +---safe-buffer
+|       +---string_decoder
+|       |   \---lib
+|       +---supports-color
+|       +---tar-fs
+|       |   \---test
+|       |       \---fixtures
+|       |           +---a
+|       |           +---b
+|       |           |   \---a
+|       |           +---d
+|       |           |   +---sub-dir
+|       |           |   \---sub-files
+|       |           \---e
+|       |               \---directory
+|       +---tar-stream
+|       +---through
+|       |   \---test
+|       +---tr46
+|       |   \---lib
+|       +---unbzip2-stream
+|       |   +---dist
+|       |   \---lib
+|       +---util-deprecate
+|       +---webidl-conversions
+|       |   \---lib
+|       +---whatwg-url
+|       |   \---lib
+|       +---wrappy
+|       +---ws
+|       |   \---lib
+|       \---yauzl
+\---static
+    +---css
+    +---images
+    \---js

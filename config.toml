@@ -7,7 +7,8 @@ tags = ["blog", "sidebar", "SEO"]
 # googleAnalytics = ""
 copyright = "Copyright © 2022 Alex Wilkins."
 canonifyURLS = true
-paginate = 12
+paginate = 9
+
 
 
 [params]

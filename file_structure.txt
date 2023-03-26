@@ -1,0 +1,104 @@
+Folder PATH listing for volume OS
+Volume serial number is 42CF-65A9
+C:.
+¦   config.toml
+¦   file_structure.txt
+¦   netlify.toml
+¦   output.txt
+¦   package.json
+¦   
++---archetypes
+¦       default.md
+¦       post.md
+¦       
++---content
+¦   ¦   about.md
+¦   ¦   music.md
+¦   ¦   portfolio.md
+¦   ¦   _index.md
+¦   ¦   
+¦   +---portfolio
+¦           item1.md
+¦           
++---data
+¦       new_scientist_articles.json
+¦       
++---layouts
+¦   ¦   404.html
+¦   ¦   about.html
+¦   ¦   index.html
+¦   ¦   
+¦   +---partials
+¦   ¦       footer.html
+¦   ¦       head.html
+¦   ¦       header.html
+¦   ¦       homepage.html
+¦   ¦       js.html
+¦   ¦       nav.html
+¦   ¦       pagination.html
+¦   ¦       post-list.html
+¦   ¦       
+¦   +---portfolio
+¦   ¦       list.html
+¦   ¦       
+¦   +---post
+¦   ¦       baseof.html
+¦   ¦       
+¦   +---_default
+¦           baseof.html
+¦           list.html
+¦           single.html
+¦           
++---public
+¦   ¦   404.html
+¦   ¦   sitemap.xml
+¦   ¦   
+¦   +---css
+¦   ¦       highlight.css
+¦   ¦       style.css
+¦   ¦       
+¦   +---images
+¦   ¦       blogpost.png
+¦   ¦       close-envelope.png
+¦   ¦       facebook.png
+¦   ¦       favicon.png
+¦   ¦       hugo-home.png
+¦   ¦       linkedin.png
+¦   ¦       logo.ico
+¦   ¦       mepic.jpg
+¦   ¦       pic1.jpg
+¦   ¦       resizeletter.png
+¦   ¦       sm-icons-linkedIn-In-tm.png
+¦   ¦       twitter.png
+¦   ¦       
+¦   +---js
+¦           highlight.js
+¦           main.js
+¦           
++---resources
+¦   +---_gen
+¦       +---assets
+¦       +---images
++---static
+    +---css
+    ¦       highlight.css
+    ¦       style.css
+    ¦       
+    +---images
+    ¦       blogpost.png
+    ¦       close-envelope.png
+    ¦       facebook.png
+    ¦       favicon.png
+    ¦       hugo-home.png
+    ¦       linkedin.png
+    ¦       logo.ico
+    ¦       mepic.jpg
+    ¦       pic1.jpg
+    ¦       resizeletter.png
+    ¦       sm-icons-linkedIn-In-tm.png
+    ¦       twitter.png
+    ¦       
+    +---js
+            highlight.js
+            main.js
+            

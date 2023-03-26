@@ -1,0 +1,49 @@
+{{ define "main" }}
+  <div class="grid-wrapper">
+       <div class="introwords" style="max-width: 800px; margin: 0 auto;"> <!-- Add 'margin: 0 auto' to center the div -->
+         {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
+         {{ $num_articles := len $portfolio }}
+         <p class="words" style="text-align: left;"> <!-- Remove 'margin-left' and change 'text-align' to 'center' -->
+           I've been at New Scientist since 2021, in which time I've written {{ $num_articles }} articles.
+           You can browse them at the bottom of the page. Here is a selection of my best work.
+         </p>
+       </div>
+
+    <h2 class="SectionHeading">Highlights</h2>
+    <hr class="hrline">
+
+
+
+    <h2 class="SectionHeading">New Scientist</h2>
+    <hr class="hrline">
+    <div class="grid-container">
+      {{ $perPage := 9 }}
+      {{ $pages := where .Site.RegularPages "Type" "portfolio" }}
+      {{ $paginator := .Paginate $pages }}
+      {{ range sort $paginator.Pages ".Weight" }}
+        <div class="grid-item">
+          <a class="CardLink" href="javascript:void(0);" data-url="{{ (index $.Site.Data.external_urls (substr .File.BaseFileName 0 -1)) }}" tabindex="0">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="{{ .Params.imageUrl }}" alt="{{ .Title }}" width="1350" height="900" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">{{ .Title }}</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+      {{ end }}
+    </div>
+    <div class="paginator" style="text-align:center; clear:both;">
+      {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="prev-link">Previous</a>
+      {{ end }}
+      {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="next-link">Next</a>
+      {{ end }}
+    </div>
+  </div>
+{{ end }}
