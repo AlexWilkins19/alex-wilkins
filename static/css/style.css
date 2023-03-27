@@ -482,3 +482,41 @@ nav li {
     margin-top: 40px;
     text-align: center;
 }
+
+.Card {
+  transition: transform 0.3s ease;
+}
+
+.Card:hover {
+  transform: translateY(-5px);
+}
+
+.Card__ImageWrapper img {
+  transition: filter 0.3s ease;
+}
+
+.Card__ImageWrapper:hover img {
+  filter: grayscale(100%);
+}
+
+.prev-link,
+.next-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  margin: 0 0.5rem;
+  text-decoration: none;
+  background-color: #333;
+  border: 1px solid #707070;
+  color: #fff;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  transition: all 0.3s ease;
+}
+
+.prev-link:hover,
+.next-link:hover {
+  background-color: #555;
+  border-color: #555;
+  color: #fff;
+}
