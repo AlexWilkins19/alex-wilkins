@@ -3,7 +3,7 @@
        <div class="introwords" style="max-width: 800px; margin: 0 auto;"> <!-- Add 'margin: 0 auto' to center the div -->
          {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
          {{ $num_articles := len $portfolio }}
-         <p class="words" style="text-align: left;"> <!-- Remove 'margin-left' and change 'text-align' to 'center' -->
+         <p class="words">
            I've been at New Scientist since 2021, in which time I've written {{ $num_articles }} articles.
            You can browse them at the bottom of the page. Here is a selection of my best work.
          </p>
@@ -11,6 +11,50 @@
 
     <h2 class="SectionHeading">Highlights</h2>
     <hr class="hrline">
+    <div class="grid-container highlights">
+      <div class="grid-item">
+        <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank">
+          <article class="Card">
+            <div class="Card__Content">
+              <div class="Card__ImageWrapper grid-image-wrapper">
+                <img src="https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=900" alt="Human hibernation is a real possibility - this is how it might work" width="1350" height="900" />
+              </div>
+              <div class="Card__CopyWrapper">
+                <h3 class="Card__Title">Human hibernation is a real possibility - this is how it might work</h3>
+              </div>
+            </div>
+          </article>
+        </a>
+      </div>
+      <div class="grid-item">
+        <a class="CardLink" href="https://www.newscientist.com/article/2315418-particle-physics-could-be-rewritten-after-shock-w-boson-measurement/" target="_blank">
+          <article class="Card">
+            <div class="Card__Content">
+              <div class="Card__ImageWrapper grid-image-wrapper">
+                <img src="https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=900" alt="Particle physics could be rewritten after shock W boson measurement" width="1350" height="900" />
+              </div>
+              <div class="Card__CopyWrapper">
+                <h3 class="Card__Title">Particle physics could be rewritten after shock W boson measurement</h3>
+              </div>
+            </div>
+          </article>
+        </a>
+      </div>
+      <div class="grid-item">
+        <a class="CardLink" href="https://www.newscientist.com/article/2346939-how-will-ais-that-generate-videos-from-text-transform-media-online/" target="_blank">
+          <article class="Card">
+            <div class="Card__Content">
+              <div class="Card__ImageWrapper grid-image-wrapper">
+                <img src="https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=900" alt="How will AIs that generate videos from text transform media online?" width="1350" height="900" />
+              </div>
+              <div class="Card__CopyWrapper">
+                <h3 class="Card__Title">How will AIs that generate videos from text transform media online?</h3>
+              </div>
+            </div>
+          </article>
+        </a>
+      </div>
+    </div>
 
 
 
