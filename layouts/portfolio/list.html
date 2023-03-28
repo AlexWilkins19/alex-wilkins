@@ -64,7 +64,7 @@
     <h2 class="SectionHeading" id="newscientisttop">New Scientist</h2>
     <div class="page-indicator" style="text-align: right; margin-bottom: 1rem;"></div>
     <hr class="hrline">
-    <div class="grid-container">
+    <div class="grid-container new scientist">
       {{ $perPage := 9 }}
       {{ $pages := where .Site.RegularPages "Type" "portfolio" }}
       {{ $paginator := .Paginate $pages }}

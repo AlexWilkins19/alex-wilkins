@@ -532,22 +532,27 @@ nav li {
 
 /* Grid container */
 .grid-container {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
-/* Grid items */
-.grid-item {
-  flex: 1;
-  min-width: calc(33% - 2rem);
-  margin: 1rem;
-  box-sizing: border-box;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
 }
 
 /* Media query for mobile devices */
 @media (max-width: 767px) {
-  .grid-item {
-    min-width: 100%;
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Media query for tablets and small screens */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* Hide all articles after the 4th one on small screens */
+@media (max-width: 767px) {
+  .new-scientist .grid-item:nth-child(n+5) {
+    display: none;
   }
 }
