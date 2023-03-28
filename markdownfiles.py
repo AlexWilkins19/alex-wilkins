@@ -1,7 +1,7 @@
 import json
 import os
 
-json_file = "data/articles.json"
+json_file = "articles.json"
 
 with open(json_file, "r") as f:
     data = json.load(f)
