@@ -1,6 +1,6 @@
 ---
-title: "JWST could soon tell us what exoplanets' surfaces are made of"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/29163136/SEI_116642317.jpg?width=600"
+title: "Mice produce rat sperm with technique that could help conservation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03142533/SEI_117716588.jpg?width=600"
 index: 121
 weight: 121
 ---

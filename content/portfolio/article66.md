@@ -1,6 +1,6 @@
 ---
-title: "Smartphones can reveal whether bridges are about to fall down"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03153321/SEI_132086736.jpg?width=600"
+title: "Planets around graveyard star were consumed before Earth was even born"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/04163523/SEI_132213866.jpg?width=600"
 index: 66
 weight: 66
 ---

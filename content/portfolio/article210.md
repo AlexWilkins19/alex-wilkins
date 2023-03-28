@@ -1,6 +1,6 @@
 ---
-title: "Flying robot generates as much power as a flapping insect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
+title: "Cell studies suggest a way sleep loss may be linked to Alzheimer’s"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10170949/PRI_2224675121.jpg?width=600"
 index: 210
 weight: 210
 ---

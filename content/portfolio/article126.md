@@ -1,6 +1,6 @@
 ---
-title: "Astronomers devise new way to observe traces of the first stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21153014/SEI_115753119.jpg?width=600"
+title: "Firing a laser into the sky can redirect lightning’s path"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
 index: 126
 weight: 126
 ---
