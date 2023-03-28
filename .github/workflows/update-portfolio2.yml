@@ -3,6 +3,7 @@ name: Update Portfolio
 on:
   schedule:
     - cron: '0 0 * * *' # This will run the workflow every day at midnight (00:00)
+    workflow_dispatch:
 
 jobs:
   update:
