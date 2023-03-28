@@ -313,6 +313,14 @@ nav li {
 .words {
   width: 80%; // Adjust this value as per your preference
   padding-right: 20px; // Adjust the space between the text and the image
+  margin-top: 30px; // Add this line to align the "words" section with the rest of the content
+}
+
+.content-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
 }
 
 
@@ -519,4 +527,32 @@ nav li {
   background-color: #555;
   border-color: #555;
   color: #fff;
+}
+
+
+/* Grid container */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1rem;
+}
+
+/* Media query for mobile devices */
+@media (max-width: 767px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Media query for tablets and small screens */
+@media (min-width: 768px) and (max-width: 1024px) {
+  .grid-container {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/* Hide all articles after the 4th one on small screens */
+@media (max-width: 767px) {
+  .new-scientist .grid-item:nth-child(n+5) {
+    display: none;
+  }
 }
