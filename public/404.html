@@ -10,8 +10,10 @@
 <title>404 Page not found</title>
 <link rel="shortcut icon" href="https://www.alex-wilkins.com/images/favicon.ico" type="">
 <link href="https://fonts.googleapis.com/css?family=Merriweather|Playfair+Display|EB+Garamond|Roboto+Slab" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://www.alex-wilkins.com/css/style.css">
 <link rel="stylesheet" href="https://www.alex-wilkins.com/css/highlight.css">
+
 
 
 
@@ -42,7 +44,7 @@
     <li id="about"><a href='https://www.alex-wilkins.com/about'>About</a></li>
 
     </nav>
-<hr />
+<hr class="headerline"  />
     <div id="block">
         <main class="center">
             
@@ -63,6 +65,42 @@
           Copyright © 2022 Alex Wilkins. I coded this website with <a href="https://gohugo.io">Hugo</a>, and use <a href="https://www.netlify.com/">Netlify</a> as a host and CDN.
         </p>
     </div>
+<script> document.addEventListener('DOMContentLoaded', function() {
+    const filterButtons = document.querySelectorAll('.filter-button');
+    const portfolioItemsContainer = document.querySelector('#portfolio-items-container');
+
+    filterButtons.forEach(button => {
+        button.addEventListener('click', function() {
+            const filter = button.getAttribute('data-filter');
+
+            portfolioItemsContainer.querySelectorAll('.portfolio-item-wrapper').forEach(item => {
+                if (filter === 'all') {
+                    item.classList.remove('filtered');
+                } else {
+                    if (item.getAttribute('data-category') !== filter) {
+                        item.classList.add('filtered');
+                    } else {
+                        item.classList.remove('filtered');
+                    }
+                }
+            });
+        });
+    });
+});
+
+
+document.addEventListener("DOMContentLoaded", function() {
+  const cardLinks = document.querySelectorAll(".CardLink");
+
+  cardLinks.forEach((cardLink) => {
+    cardLink.addEventListener("click", function() {
+      const externalUrl = this.getAttribute("data-url");
+      window.open(externalUrl, "_blank", "noopener");
+    });
+  });
+});
+
+ </script>
 </footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
