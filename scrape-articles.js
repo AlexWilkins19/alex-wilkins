@@ -10,7 +10,7 @@ const fs = require('fs');
   let articles = [];
 
   while (hasNextPage) {
-    const response = await page.goto(`https://www.newscientist.com/author/alex-wilkins/${currentPage}`);
+    const response = await page.goto(`https://www.newscientist.com/author/alex-wilkins/${currentPage}`, { timeout: 60000 });
 
     if (response.status() === 404) {
       hasNextPage = false;
