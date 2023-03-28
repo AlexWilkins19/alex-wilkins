@@ -37,14 +37,10 @@ jobs:
 
     - name: Install Hugo
       run: |
-        HUGO_VERSION="0.93.1"
-        echo "Installing Hugo $HUGO_VERSION"
-        curl -sSL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz -o /tmp/hugo.tar.gz && \
-        sudo tar -xzf /tmp/hugo.tar.gz -C /usr/local/bin && \
-        sudo chmod +x /usr/local/bin/hugo && \
-        rm -f /tmp/hugo.tar.gz
-      env:
-        HUGO_VERSION: 0.93.1
+        HUGO_VERSION="0.83.1"
+        echo "Hugo version: $HUGO_VERSION"
+        curl -fsSL https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz | tar xz
+        sudo mv hugo /usr/local/bin/
 
     - name: Build Hugo site
       run: hugo
