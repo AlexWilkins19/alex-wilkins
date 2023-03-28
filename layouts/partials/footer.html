@@ -29,17 +29,22 @@
     });
 });
 
+ </script>
 
-document.addEventListener("DOMContentLoaded", function() {
+ <script> document.addEventListener("DOMContentLoaded", function () {
   const cardLinks = document.querySelectorAll(".CardLink");
 
   cardLinks.forEach((cardLink) => {
-    cardLink.addEventListener("click", function() {
+    cardLink.addEventListener("click", function (event) {
       const externalUrl = this.getAttribute("data-url");
-      window.open(externalUrl, "_blank", "noopener");
+      if (externalUrl) {
+        event.preventDefault();
+        window.open(externalUrl, "_blank", "noopener");
+      }
     });
   });
 });
 
  </script>
+
 </footer>

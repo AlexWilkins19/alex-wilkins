@@ -1,19 +1,22 @@
 {{ define "main" }}
-  <div class="grid-wrapper">
-       <div class="introwords" style="max-width: 800px; margin: 0 auto;"> <!-- Add 'margin: 0 auto' to center the div -->
-         {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
-         {{ $num_articles := len $portfolio }}
-         <p class="words">
-           I've been at New Scientist since 2021, in which time I've written {{ $num_articles }} articles.
-           You can browse them at the bottom of the page. Here is a selection of my best work.
-         </p>
-       </div>
+<div class="grid-wrapper">
+  <div class="introwords" style="max-width: 1200px; margin: 0 auto;"> <!-- Add 'margin: 0 auto' to center the div -->
+    {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
+    {{ $num_articles := len $portfolio }}
+    <div style="margin-left: 15vw;"> <!-- Add this wrapper div -->
+      <p class="words">
+        I've been at New Scientist since 2021, in which time I've written {{ $num_articles }} articles.
+        You can browse them at the bottom of the page. Here is a selection of my best work.
+      </p>
+    </div>
+  </div>
+
 
     <h2 class="SectionHeading">Highlights</h2>
     <hr class="hrline">
     <div class="grid-container highlights">
       <div class="grid-item">
-        <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank">
+        <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank" rel="noopener noreferrer">
           <article class="Card">
             <div class="Card__Content">
               <div class="Card__ImageWrapper grid-image-wrapper">
@@ -58,7 +61,8 @@
 
 
 
-    <h2 class="SectionHeading">New Scientist</h2>
+    <h2 class="SectionHeading" id="newscientisttop">New Scientist</h2>
+    <div class="page-indicator" style="text-align: right; margin-bottom: 1rem;"></div>
     <hr class="hrline">
     <div class="grid-container">
       {{ $perPage := 9 }}
@@ -66,7 +70,7 @@
       {{ $paginator := .Paginate $pages }}
       {{ range sort $paginator.Pages ".Weight" }}
         <div class="grid-item">
-          <a class="CardLink" href="javascript:void(0);" data-url="{{ (index $.Site.Data.external_urls (substr .File.BaseFileName 0 -1)) }}" tabindex="0">
+          <a class="CardLink" href="javascript:void(0);" data-url="{{ index $.Site.Data.external_urls (printf "article%d" .Params.index) }}" tabindex="0">
             <article class="Card">
               <div class="Card__Content">
                 <div class="Card__ImageWrapper grid-image-wrapper">
@@ -85,9 +89,11 @@
       {{ if $paginator.HasPrev }}
         <a href="{{ $paginator.Prev.URL }}" class="prev-link">Previous</a>
       {{ end }}
+      <div class="current-page" style="display: inline-block; margin: 0 1rem;">Page {{ $paginator.PageNumber }}/{{ $paginator.TotalPages }}</div>
       {{ if $paginator.HasNext }}
         <a href="{{ $paginator.Next.URL }}" class="next-link">Next</a>
       {{ end }}
     </div>
   </div>
+  {{ partial "scroll-to-grid.js" . }}
 {{ end }}
