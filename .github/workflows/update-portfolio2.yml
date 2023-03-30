@@ -50,5 +50,5 @@ jobs:
         git config --global user.name "Alex Wilkins"
         git config --global user.email "zanderwilkins19@gmail.com"
         git add .
-        git commit -m "Update portfolio articles"
-        git push
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Update portfolio articles" && git push)
+
