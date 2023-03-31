@@ -1,6 +1,6 @@
 ---
-title: "Mars astronauts would get unsafe radiation doses even with shielding"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12112723/SEI_118867160.jpg?width=600"
+title: "Quantum computers might not offer extreme speed boost for chemistry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
 index: 118
 weight: 118
 ---

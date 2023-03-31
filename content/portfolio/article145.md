@@ -1,6 +1,6 @@
 ---
-title: "A new kind of time crystal has been created and lasts 10 milliseconds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/09173249/SEI_108685737.jpg?width=600"
+title: "Mars looks more vivid than ever in new photos from Perseverance rover"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/15111724/SEI_109857227.jpg?width=600"
 index: 145
 weight: 145
 ---

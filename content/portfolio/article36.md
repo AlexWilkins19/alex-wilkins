@@ -1,6 +1,6 @@
 ---
-title: "The outline of people’s bodies can be detected from Wi-Fi signals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24200740/SEI_141554916.jpg?width=600"
+title: "Hearing noise and moving our body helps us gauge the passing of time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
 index: 36
 weight: 36
 ---

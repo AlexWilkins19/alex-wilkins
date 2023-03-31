@@ -1,6 +1,6 @@
 ---
-title: "Cell studies suggest a way sleep loss may be linked to Alzheimer’s"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10170949/PRI_2224675121.jpg?width=600"
+title: "RoboKrill is a one-legged robot that mimics the way krill swim"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
 index: 212
 weight: 212
 ---

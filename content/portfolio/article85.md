@@ -1,6 +1,6 @@
 ---
-title: "Black holes wobbling three times a second have proved Einstein right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
+title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
 index: 85
 weight: 85
 ---

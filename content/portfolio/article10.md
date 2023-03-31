@@ -1,6 +1,6 @@
 ---
-title: "'Red matter' superconductor may not be a wonder material after all"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17122523/SEI_148554498.jpg?width=600"
+title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
 index: 10
 weight: 10
 ---
