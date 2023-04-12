@@ -1,6 +1,6 @@
 ---
-title: "Earth's algae and moss could survive under the light of another star"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21155126/SEI_126326194.jpg?width=600"
+title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
 index: 103
 weight: 103
 ---
