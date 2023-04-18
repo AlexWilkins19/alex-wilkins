@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope captures its first pictures of Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/19132953/SEI_126060584.jpg?width=600"
+title: "Enceladus shown to have all six of the essential elements for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21140513/SEI_126315279.jpg?width=600"
 index: 107
 weight: 107
 ---
