@@ -1,6 +1,6 @@
 ---
-title: "First one-way superconductor could slash energy used by computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27110322/SEI_100916112.jpg?width=600"
+title: "Efficient battery could charge electric cars 60 per cent in 6 minutes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27162704/SEI_100929082.jpg?width=600"
 index: 190
 weight: 190
 ---
