@@ -1,6 +1,6 @@
 ---
-title: "Whale songs can spread between groups nearly 8000 kilometres apart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/30170429/SEI_121966595.jpg?width=600"
+title: "First exoplanet picture from James Webb Space Telescope revealed"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
 index: 125
 weight: 125
 ---

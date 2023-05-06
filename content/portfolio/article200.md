@@ -1,6 +1,6 @@
 ---
-title: "Particle physics could be rewritten after shock W boson measurement"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=600"
+title: "Early warning system for Amazon forest losses seen in climate models"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
 index: 200
 weight: 200
 ---
