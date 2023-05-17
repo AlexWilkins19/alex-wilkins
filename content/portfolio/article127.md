@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted sandy clouds on a distant alien world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02155357/SEI_122370897.jpg?width=600"
+title: "Two potentially habitable super-Earth planets have been discovered"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
 index: 127
 weight: 127
 ---
