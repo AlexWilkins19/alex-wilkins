@@ -1,6 +1,6 @@
 ---
-title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
+title: "Mysterious light may come from the largest molecules found in space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
 index: 159
 weight: 159
 ---

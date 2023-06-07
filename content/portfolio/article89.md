@@ -1,6 +1,6 @@
 ---
-title: "AI-generated deepfake faces could help protect privacy on social media"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
+title: "UK's quantum computing sector is flourishing after early investment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/18164327/SEI_134175591.jpg?width=600"
 index: 89
 weight: 89
 ---

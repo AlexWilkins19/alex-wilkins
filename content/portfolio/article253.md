@@ -1,6 +1,6 @@
 ---
-title: "First fully programmable quantum computer based on neutral atoms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
+title: "Yutu-2 lunar rover finds sticky soil on the far side of the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/19145050/PRI_219219172.jpg?width=600"
 index: 253
 weight: 253
 ---
