@@ -1,6 +1,6 @@
 ---
-title: "Mind-reading AI works out what you are thinking from brain scans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14115545/SEI_128881388.jpg?width=600"
+title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
 index: 116
 weight: 116
 ---
