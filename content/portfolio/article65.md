@@ -1,6 +1,6 @@
 ---
-title: "Huge young galaxies seen by JWST may upend our models of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
+title: "Google says error correction will lead to useful quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
 index: 65
 weight: 65
 ---

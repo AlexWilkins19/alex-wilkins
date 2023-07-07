@@ -1,6 +1,6 @@
 ---
-title: "Bubbles give off weird light when popped because of quantum physics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01113837/SEI_96448733.jpg?width=600"
+title: "Holograms might speed up diagnosis of urinary tract infection"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01171310/SEI_96596610.jpg?width=600"
 index: 228
 weight: 228
 ---
