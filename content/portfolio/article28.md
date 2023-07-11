@@ -1,6 +1,6 @@
 ---
-title: "Material that sends sound from water to air could help eavesdroppers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/28141818/SEI_152679364.jpg?width=600"
+title: "Electronic cochlea adjusts to noise levels like a human ear"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=600"
 index: 28
 weight: 28
 ---
