@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers may finally have their first real practical use"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
+title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
 index: 55
 weight: 55
 ---
