@@ -1,6 +1,6 @@
 ---
-title: "Virtual tennis racket uses air jet to recreate feel of hitting a ball"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/09133001/SEI_102348523.jpg?width=600"
+title: "Virtual reality mask adds realism by making it harder to breathe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/10140902/SEI_103214958.jpg?width=600"
 index: 216
 weight: 216
 ---
