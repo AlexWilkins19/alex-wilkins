@@ -1,6 +1,6 @@
 ---
-title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17105827/SEI_164398314.jpg?width=600"
+title: "Ancient graphene formed 3 billion years before humans discovered it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=600"
 index: 2
 weight: 2
 ---
