@@ -1,6 +1,6 @@
 ---
-title: "Stars found hidden in huge cloud wrapped around the Milky Way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/12115548/SEI_163183838.jpg?width=600"
+title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17105827/SEI_164398314.jpg?width=600"
 index: 4
 weight: 4
 ---
