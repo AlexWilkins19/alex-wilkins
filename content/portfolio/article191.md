@@ -1,6 +1,6 @@
 ---
-title: "Light delayed by seven years as it is bent around a galaxy cluster"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/21175548/SEI_110822884.jpg?width=600"
+title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31115459/SEI_107221617.jpg?width=600"
 index: 191
 weight: 191
 ---
