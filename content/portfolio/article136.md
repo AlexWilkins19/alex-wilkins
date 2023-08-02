@@ -1,6 +1,6 @@
 ---
-title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
+title: "Proton's stretchiness is a puzzle for particle physicists"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19115539/SEI_130141124.jpg?width=600"
 index: 136
 weight: 136
 ---

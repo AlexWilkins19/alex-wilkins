@@ -1,6 +1,6 @@
 ---
-title: "AI with no visual sensors generates an internal map to finds its way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
+title: "Huge young galaxies seen by JWST may upend our models of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
 index: 79
 weight: 79
 ---

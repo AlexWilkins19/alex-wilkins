@@ -1,6 +1,6 @@
 ---
-title: "Best evidence yet that fifth fundamental ‘chameleon’ force isn’t real"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/25155307/SEI_121072353.jpg?width=600"
+title: "Robot dog learns to walk on tough terrain in just 20 minutes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/26130547/SEI_120853152.jpg?width=600"
 index: 165
 weight: 165
 ---
