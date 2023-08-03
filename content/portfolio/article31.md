@@ -1,6 +1,6 @@
 ---
-title: "Octopus-inspired ink changes colour when exposed to light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/17173737/SEI_156365578.jpg?width=600"
+title: "This house is made from recycled diapers mixed into concrete"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/17171727/SEI_156304590.jpg?width=600"
 index: 31
 weight: 31
 ---

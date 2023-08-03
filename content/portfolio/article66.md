@@ -1,6 +1,6 @@
 ---
-title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
+title: "Quantum computers may finally have their first real practical use"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
 index: 66
 weight: 66
 ---
