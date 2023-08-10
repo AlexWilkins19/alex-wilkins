@@ -1,6 +1,6 @@
 ---
-title: "Earthquakes seem to come in a more predictable pattern than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
+title: "Best evidence yet that fifth fundamental ‘chameleon’ force isn’t real"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/25155307/SEI_121072353.jpg?width=600"
 index: 170
 weight: 170
 ---

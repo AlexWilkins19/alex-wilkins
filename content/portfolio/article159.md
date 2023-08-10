@@ -1,6 +1,6 @@
 ---
-title: "Two potentially habitable super-Earth planets have been discovered"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
+title: "James Webb Space Telescope captures its first pictures of Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/19132953/SEI_126060584.jpg?width=600"
 index: 159
 weight: 159
 ---

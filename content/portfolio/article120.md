@@ -1,6 +1,6 @@
 ---
-title: "Feeding cows hemp makes them ‘high’ and their milk could be unsafe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/14150824/SEI_133595655.jpg?width=600"
+title: "AI-generated deepfake faces could help protect privacy on social media"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
 index: 120
 weight: 120
 ---

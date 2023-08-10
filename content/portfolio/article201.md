@@ -1,6 +1,6 @@
 ---
-title: "UK may go it alone in orbit after Brexit shutout from EU space plans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/14121504/SEI_109580970.jpg?width=600"
+title: "Quantum microphone works even better than a regular one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
 index: 201
 weight: 201
 ---
