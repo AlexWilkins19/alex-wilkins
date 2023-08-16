@@ -1,6 +1,6 @@
 ---
-title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
+title: "Corkscrew-shaped robot swims through blood vessels to clear blockages"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10152121/PRI_217944403.jpg?width=600"
 index: 292
 weight: 292
 ---

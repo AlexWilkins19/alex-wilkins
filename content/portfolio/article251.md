@@ -1,6 +1,6 @@
 ---
-title: "Mathematician wins Abel prize for research on transforming shapes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/23100224/SEI_95029901.jpg?width=600"
+title: "Astronomers still can't agree on what counts as a planet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/25115617/SEI_95246757.jpg?width=600"
 index: 251
 weight: 251
 ---

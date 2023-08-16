@@ -1,6 +1,6 @@
 ---
-title: "Life Time review: Sleep deprivation kills, warns must-read book"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18103845/SEI_104644806.jpg?width=600"
+title: "Waste wood chemically recycled to produce material stronger than steel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19105923/SEI_104460819.jpg?width=600"
 index: 222
 weight: 222
 ---
