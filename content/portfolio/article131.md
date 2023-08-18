@@ -1,6 +1,6 @@
 ---
-title: "AI is better at answering questions if you get another AI to ask them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/10151212/SEI_1330711301.jpg?width=600"
+title: "Quantum trick sees light move forwards and back in time simultaneously"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/10151848/SEI_133046493.jpg?width=600"
 index: 131
 weight: 131
 ---
