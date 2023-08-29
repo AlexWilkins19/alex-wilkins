@@ -1,6 +1,6 @@
 ---
-title: "Base of the Greenland ice sheet is melting faster than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/21145942/SEI_89317128.jpg?width=600"
+title: "Mathematicians are angry that Russia may still host a major conference"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/25120408/SEI_90050166.jpg?width=600"
 index: 273
 weight: 273
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Google AI can tell what things smell like by the molecular structure"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
+title: "NASA is ready to knock an asteroid off course with its DART spacecraft"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/20094119/SEI_126068562.jpg?width=600"
 index: 167
 weight: 167
 ---
