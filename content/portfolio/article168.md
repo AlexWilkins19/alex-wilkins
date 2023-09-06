@@ -1,6 +1,6 @@
 ---
-title: "NASA is ready to knock an asteroid off course with its DART spacecraft"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/20094119/SEI_126068562.jpg?width=600"
+title: "Enceladus shown to have all six of the essential elements for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21140513/SEI_126315279.jpg?width=600"
 index: 168
 weight: 168
 ---
