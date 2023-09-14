@@ -1,6 +1,6 @@
 ---
-title: "Physicists made the most precise measurement ever of a single particle"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12141554/SEI_128952427.jpg?width=600"
+title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
 index: 156
 weight: 156
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize in physics awarded to pioneers of quantum information"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
+title: "Ships release invisible contrails that slightly cool the climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/05143706/SEI_128061021.jpg?width=600"
 index: 163
 weight: 163
 ---
