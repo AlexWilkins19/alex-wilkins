@@ -1,6 +1,6 @@
 ---
-title: "Chaotically shifting planets could be a sign of advanced aliens"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/11141746/SEI_153437478.jpg?width=600"
+title: "Smart glove enhances your sense of touch in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=600"
 index: 52
 weight: 52
 ---
