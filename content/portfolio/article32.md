@@ -1,6 +1,6 @@
 ---
-title: "Water mixed with nanoparticles can be carved into shapes by a laser"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/07142917/SEI_163195200.jpg?width=600"
+title: "Meteorite left Earth then landed back down after round trip to space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=600"
 index: 32
 weight: 32
 ---

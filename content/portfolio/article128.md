@@ -1,6 +1,6 @@
 ---
-title: "Bluewalker 3 satellite is brighter than 99.8 per cent of visible stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/25162905/SEI_135016585.jpg?width=600"
+title: "Watch this robot bird use a talon-like claw to land safely on a perch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/15151943/SEI_137542977.jpg?width=600"
 index: 128
 weight: 128
 ---

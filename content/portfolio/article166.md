@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize in physics awarded to pioneers of quantum information"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
+title: "Metal-enriched silkworm silk is one of the strongest materials ever"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06160549/SEI_128320230.jpg?width=600"
 index: 166
 weight: 166
 ---
