@@ -1,6 +1,6 @@
 ---
-title: "Rare Antarctic meteorite is one of the largest ever found"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24100842/SEI_141445914.jpg?width=600"
+title: "The outline of people’s bodies can be detected from Wi-Fi signals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24200740/SEI_141554916.jpg?width=600"
 index: 115
 weight: 115
 ---
