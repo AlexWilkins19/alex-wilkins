@@ -1,6 +1,6 @@
 ---
-title: "Google AI can tell what things smell like by the molecular structure"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
+title: "James Webb Space Telescope captures its first pictures of Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/19132953/SEI_126060584.jpg?width=600"
 index: 178
 weight: 178
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The mummy of Egyptian pharaoh Amenhotep I has been digitally unwrapped"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/24125340/PRI_216178852.jpg?width=600"
+title: "James Webb Space Telescope is carrying out its most critical manoeuvre"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/04125745/PRI_217181494.jpg?width=600"
 index: 312
 weight: 312
 ---

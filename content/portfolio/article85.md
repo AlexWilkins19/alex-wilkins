@@ -1,6 +1,6 @@
 ---
-title: "Mathematician wins Abel prize for solving equations with geometry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21133828/SEI_149134953.jpg?width=600"
+title: "Why we need to be wary of anthropomorphising chatbots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
 index: 85
 weight: 85
 ---
