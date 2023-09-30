@@ -1,6 +1,6 @@
 ---
-title: "Bendy solar panels are just as good as regular ones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24111802/SEI_157361160.jpg?width=600"
+title: "My out-of-body experience controlling a robotic avatar"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05182925/telepresence-security-robot.00_01_05_17.still0031.jpg?width=600"
 index: 51
 weight: 51
 ---

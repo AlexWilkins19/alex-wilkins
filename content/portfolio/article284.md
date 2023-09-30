@@ -1,6 +1,6 @@
 ---
-title: "Wonky black hole hints we don't understand how cosmic behemoths work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/24144722/SEI_89850752.jpg?width=600"
+title: "Light yet strong metamaterial inspired by art of paper cutting"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/28154557/SEI_900963351.jpg?width=600"
 index: 284
 weight: 284
 ---

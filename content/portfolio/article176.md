@@ -1,6 +1,6 @@
 ---
-title: "Enceladus shown to have all six of the essential elements for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21140513/SEI_126315279.jpg?width=600"
+title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
 index: 176
 weight: 176
 ---
