@@ -1,6 +1,6 @@
 ---
-title: "Male contraceptive pill is safe and effective in tests in mice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/22142846/SEI_94867969.jpg?width=600"
+title: "Mathematician wins Abel prize for research on transforming shapes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/23100224/SEI_95029901.jpg?width=600"
 index: 272
 weight: 272
 ---
