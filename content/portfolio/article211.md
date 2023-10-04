@@ -1,6 +1,6 @@
 ---
-title: "Firing a laser into the sky can redirect lightning’s path"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
+title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03145934/SEI_117717165.jpg?width=600"
 index: 211
 weight: 211
 ---

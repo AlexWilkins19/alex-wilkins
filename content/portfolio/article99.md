@@ -1,6 +1,6 @@
 ---
-title: "AI trained on YouTube and podcasts speaks with ums and ahs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/06143328/SEI_144483909.jpg?width=600"
+title: "Vent on Venus is clearest sign yet the planet is volcanically active"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15115316/SEI_148282957.jpg?width=600"
 index: 99
 weight: 99
 ---

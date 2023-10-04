@@ -1,6 +1,6 @@
 ---
-title: "Best evidence yet that fifth fundamental ‘chameleon’ force isn’t real"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/25155307/SEI_121072353.jpg?width=600"
+title: "First exoplanet picture from James Webb Space Telescope revealed"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
 index: 192
 weight: 192
 ---

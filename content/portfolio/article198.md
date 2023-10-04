@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers might not offer extreme speed boost for chemistry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
+title: "Fire-resistant aluminium-sulphur battery charges in under a minute"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/23174815/SEI_120746343.jpg?width=600"
 index: 198
 weight: 198
 ---

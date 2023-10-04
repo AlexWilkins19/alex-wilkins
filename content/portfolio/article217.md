@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image turns dust in a distant galaxy into a purple swirl"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19144341/SEI_115370440.jpg?width=600"
+title: "Astronomers devise new way to observe traces of the first stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21153014/SEI_115753119.jpg?width=600"
 index: 217
 weight: 217
 ---

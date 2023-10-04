@@ -1,6 +1,6 @@
 ---
-title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=600"
+title: "Smart glove enhances your sense of touch in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=600"
 index: 64
 weight: 64
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
+title: "Quantum microphone works even better than a regular one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
 index: 227
 weight: 227
 ---

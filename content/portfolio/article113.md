@@ -1,6 +1,6 @@
 ---
-title: "Ultrasound illusion could make buttons on a touchscreen feel real"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
+title: "ChatGPT AI passes test designed to show theory of mind in children"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
 index: 113
 weight: 113
 ---

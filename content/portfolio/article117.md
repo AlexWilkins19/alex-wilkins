@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/30164818/SEI_142270253.jpg?width=600"
+title: "Ultrasound illusion could make buttons on a touchscreen feel real"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
 index: 117
 weight: 117
 ---

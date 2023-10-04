@@ -1,6 +1,6 @@
 ---
-title: "Interstellar meteorite may be awaiting discovery on the sea floor"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12131731/SEI_118739609.jpg?width=600"
+title: "Physicists surprised to discover the proton contains a charm quark"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17103310/SEI_119824070.jpg?width=600"
 index: 200
 weight: 200
 ---

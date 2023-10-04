@@ -1,6 +1,6 @@
 ---
-title: "Curiosity rover discovers diverse cache of organic minerals on Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/10160044/SEI_92623218.jpg?width=600"
+title: "Bone-boosting lettuce could help Mars astronauts stay healthy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/21131940/SEI_94722869.jpg?width=600"
 index: 278
 weight: 278
 ---

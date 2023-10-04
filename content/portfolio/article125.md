@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT detector could help spot cheaters using AI to write essays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg?width=600"
+title: "Egyptian boy mummy was buried with a ‘second heart’ made of gold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/23162158/SEI_141445587.jpg?width=600"
 index: 125
 weight: 125
 ---

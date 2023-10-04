@@ -1,6 +1,6 @@
 ---
-title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03145934/SEI_117717165.jpg?width=600"
+title: "Soap molecule could help make alternative LED tech commercially viable"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08153000/SEI_117997622.jpg?width=600"
 index: 207
 weight: 207
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Aliens on low-oxygen worlds may never discover fire"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15131041/SEI_167617762.jpg?width=600"
+title: "3D-printed toilet is so slippery that nothing can leave a mark"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=600"
 index: 20
 weight: 20
 ---

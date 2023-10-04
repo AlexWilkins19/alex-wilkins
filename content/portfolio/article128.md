@@ -1,6 +1,6 @@
 ---
-title: "JWST finds that ancient galaxies contain fewer stars than we expected"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10131014/SEI_139790898.jpg?width=600"
+title: "Huge AI models can be halved in size without degrading performance"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/17105152/SEI_140164683.jpg?width=600"
 index: 128
 weight: 128
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robot snake that moves like a sidewinder could inspect sewage pipes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/14114447/sidewinding.gif?width=600"
+title: "'Red matter' superconductor may not be a wonder material after all"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17122523/SEI_148554498.jpg?width=600"
 index: 97
 weight: 97
 ---

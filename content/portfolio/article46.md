@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers could slash the energy use of cryptocurrencies"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/20165800/SEI_160867357.jpg?width=600"
+title: "Stunning JWST image sees Saturn show off its glowing rings"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=600"
 index: 46
 weight: 46
 ---

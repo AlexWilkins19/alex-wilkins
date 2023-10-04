@@ -1,6 +1,6 @@
 ---
-title: "Starship livestream: Watch SpaceX launch the most powerful rocket ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/17105234/SEI_152279213.jpg?width=600"
+title: "Quantum computers could simulate a black hole in the next decade"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=600"
 index: 74
 weight: 74
 ---
