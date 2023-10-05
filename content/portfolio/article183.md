@@ -1,6 +1,6 @@
 ---
-title: "Enceladus shown to have all six of the essential elements for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21140513/SEI_126315279.jpg?width=600"
+title: "Earth's algae and moss could survive under the light of another star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21155126/SEI_126326194.jpg?width=600"
 index: 183
 weight: 183
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Two potentially habitable super-Earth planets have been discovered"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
+title: "Quantum diamond sensor used to measure neuron activity in mouse tissue"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12131054/SEI_123940228.jpg?width=600"
 index: 188
 weight: 188
 ---
