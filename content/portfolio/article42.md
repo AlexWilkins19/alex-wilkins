@@ -1,6 +1,6 @@
 ---
-title: "Meteorite left Earth then landed back down after round trip to space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=600"
+title: "Stars found hidden in huge cloud wrapped around the Milky Way"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/12115548/SEI_163183838.jpg?width=600"
 index: 42
 weight: 42
 ---

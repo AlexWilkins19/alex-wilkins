@@ -1,6 +1,6 @@
 ---
-title: "Protons seem to be a different size depending on how you look at them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29150533/SEI_150114785.jpg?width=600"
+title: "Reliably detecting AI-generated text is mathematically impossible"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29175922/SEI_150112351.jpg?width=600"
 index: 89
 weight: 89
 ---
