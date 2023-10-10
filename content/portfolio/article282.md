@@ -1,6 +1,6 @@
 ---
-title: "Goo made from okra can filter microplastics out of water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/21153016/SEI_94727474.jpg?width=600"
+title: "Bone-boosting lettuce could help Mars astronauts stay healthy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/21131940/SEI_94722869.jpg?width=600"
 index: 282
 weight: 282
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Metal-enriched silkworm silk is one of the strongest materials ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06160549/SEI_128320230.jpg?width=600"
+title: "Space adverts are now economically viable but potentially dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
 index: 178
 weight: 178
 ---
