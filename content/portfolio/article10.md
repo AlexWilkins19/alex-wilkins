@@ -1,6 +1,6 @@
 ---
-title: "Waste plastic can be recycled into hydrogen fuel and graphene"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=600"
+title: "Astronomers alarmed by satellite that outshines all but seven stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02123214/SEI_174271305.jpg?width=600"
 index: 10
 weight: 10
 ---
