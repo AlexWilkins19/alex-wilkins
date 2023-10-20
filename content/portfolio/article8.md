@@ -1,6 +1,6 @@
 ---
-title: "Large Hadron Collider turned into world's biggest quantum experiment"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02162934/SEI_174317742.jpg?width=600"
+title: "Nobel prize for physics goes to trio who sliced up time with light"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03110157/SEI_174410760.jpg?width=600"
 index: 8
 weight: 8
 ---

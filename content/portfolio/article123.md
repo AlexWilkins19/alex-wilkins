@@ -1,6 +1,6 @@
 ---
-title: "AI image generators that create close copies could be a legal headache"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
+title: "Ultrasound illusion could make buttons on a touchscreen feel real"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
 index: 123
 weight: 123
 ---
