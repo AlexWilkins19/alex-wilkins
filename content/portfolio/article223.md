@@ -1,6 +1,6 @@
 ---
-title: "Astronomers devise new way to observe traces of the first stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21153014/SEI_115753119.jpg?width=600"
+title: "‘Artificial synapse’ could make neural networks work more like brains"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
 index: 223
 weight: 223
 ---

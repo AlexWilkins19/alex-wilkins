@@ -1,6 +1,6 @@
 ---
-title: "Waste plastic can be recycled into hydrogen fuel and graphene"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=600"
+title: "Nobel prize for physics goes to trio who sliced up time with light"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03110157/SEI_174410760.jpg?width=600"
 index: 12
 weight: 12
 ---

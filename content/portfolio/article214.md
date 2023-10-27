@@ -1,6 +1,6 @@
 ---
-title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
+title: "Interstellar meteorite may be awaiting discovery on the sea floor"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12131731/SEI_118739609.jpg?width=600"
 index: 214
 weight: 214
 ---

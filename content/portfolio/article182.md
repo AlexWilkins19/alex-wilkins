@@ -1,6 +1,6 @@
 ---
-title: "Ships release invisible contrails that slightly cool the climate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/05143706/SEI_128061021.jpg?width=600"
+title: "Black holes wobbling three times a second have proved Einstein right"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
 index: 182
 weight: 182
 ---

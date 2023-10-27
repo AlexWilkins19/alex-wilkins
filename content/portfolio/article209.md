@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
+title: "Earthquakes seem to come in a more predictable pattern than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
 index: 209
 weight: 209
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Holograms might speed up diagnosis of urinary tract infection"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01171310/SEI_96596610.jpg?width=600"
+title: "Early warning system for Amazon forest losses seen in climate models"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
 index: 277
 weight: 277
 ---

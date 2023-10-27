@@ -1,6 +1,6 @@
 ---
-title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
+title: "Lightest neutron star ever found could contain compressed quarks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
 index: 173
 weight: 173
 ---

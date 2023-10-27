@@ -1,6 +1,6 @@
 ---
-title: "Nanotechnology paint provides brilliant colour that doesn't fade"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/08152419/SEI_147407062.jpg?width=600"
+title: "NASA unveils new spacesuit for Artemis moon mission astronauts"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15163442/SEI_148394900.jpg?width=600"
 index: 110
 weight: 110
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Shirt woven with metal could help medical implants communicate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26145954/SEI_165498222.jpg?width=600"
+title: "Mars used to have wet and dry seasons similar to ones on Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09152817/SEI_167059781.jpg?width=600"
 index: 38
 weight: 38
 ---

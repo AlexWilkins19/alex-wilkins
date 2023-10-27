@@ -1,6 +1,6 @@
 ---
-title: "Scientists want to give robots hands made from living woodlice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16151456/SEI_160370335.jpg?width=600"
+title: "Virgin Galactic space plane makes its first commercial flight"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/29121727/SEI_162186364.jpg?width=600"
 index: 57
 weight: 57
 ---

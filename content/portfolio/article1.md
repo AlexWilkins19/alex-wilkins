@@ -1,6 +1,6 @@
 ---
-title: "Orionids: How to see the Halley’s comet meteor shower this weekend"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/18131357/SEI_176447854.jpg?width=600"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=600"
 index: 1
 weight: 1
 ---

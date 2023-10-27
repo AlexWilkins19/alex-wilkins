@@ -1,6 +1,6 @@
 ---
-title: "This Venom-like magnetic slime robot was a big hit in 2022"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/15143115/SEI_137666094.jpg?width=600"
+title: "JWST finds that ancient galaxies contain fewer stars than we expected"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10131014/SEI_139790898.jpg?width=600"
 index: 142
 weight: 142
 ---

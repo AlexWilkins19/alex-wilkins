@@ -1,6 +1,6 @@
 ---
-title: "Huge AI models can be halved in size without degrading performance"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/17105152/SEI_140164683.jpg?width=600"
+title: "Rare Antarctic meteorite is one of the largest ever found"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24100842/SEI_141445914.jpg?width=600"
 index: 134
 weight: 134
 ---

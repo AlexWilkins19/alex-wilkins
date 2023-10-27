@@ -1,6 +1,6 @@
 ---
-title: "Weird particle that remembers its past discovered by quantum computer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/09132812/SEI_154691542.jpg?width=600"
+title: "Watch 44 million atoms simulated using AI and a supercomputer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=600"
 index: 73
 weight: 73
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robot made of magnetic slime could grab objects inside your body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/31145751/SEI_96443182.jpg?width=600"
+title: "Solar panels that work at night produce enough power to charge a phone"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/05155212/SEI_97228967.jpg?width=600"
 index: 279
 weight: 279
 ---

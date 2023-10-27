@@ -1,6 +1,6 @@
 ---
-title: "Ancient meteorite upends our ideas of how Mars formed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/16171557/SEI_110053287.jpg?width=600"
+title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31115459/SEI_107221617.jpg?width=600"
 index: 234
 weight: 234
 ---

@@ -1,6 +1,6 @@
 ---
-title: "An incredibly bright star has lost its gas and is just a leftover core"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31164010/SEI_131719785.jpg?width=600"
+title: "Planets around graveyard star were consumed before Earth was even born"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/04163523/SEI_132213866.jpg?width=600"
 index: 165
 weight: 165
 ---

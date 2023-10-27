@@ -1,6 +1,6 @@
 ---
-title: "We finally know in detail how salt dissolves in water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22112231/SEI_134028847.jpg?width=600"
+title: "Bluewalker 3 satellite is brighter than 99.8 per cent of visible stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/25162905/SEI_135016585.jpg?width=600"
 index: 149
 weight: 149
 ---

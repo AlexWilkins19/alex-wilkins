@@ -1,6 +1,6 @@
 ---
-title: "Self-charging buoy could harness wave power to monitor the oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
+title: "Spinning rotors made from DNA could power minuscule machines"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/20153513/SEI_115577658.jpg?width=600"
 index: 229
 weight: 229
 ---

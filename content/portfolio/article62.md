@@ -1,6 +1,6 @@
 ---
-title: "My out-of-body experience controlling a robotic avatar"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05182925/telepresence-security-robot.00_01_05_17.still0031.jpg?width=600"
+title: "AIs will become useless if they keep learning from other AIs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16143310/SEI_160487397.jpg?width=600"
 index: 62
 weight: 62
 ---

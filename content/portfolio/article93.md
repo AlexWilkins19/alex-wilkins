@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted the earliest black hole ever seen in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/28153055/SEI_149526443.jpg?width=600"
+title: "Crystal impervious to radiation could be used in spaceship computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=600"
 index: 93
 weight: 93
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Game theory shows how people crowd on trains at rush hour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31112508/PRI_220435800.jpg?width=600"
+title: "Flying robot generates as much power as a flapping insect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
 index: 311
 weight: 311
 ---

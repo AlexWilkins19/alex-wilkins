@@ -1,6 +1,6 @@
 ---
-title: "First fully programmable quantum computer based on neutral atoms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
+title: "Migrating birds may use slope of Earth’s magnetic field as ‘stop sign’"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/27132225/PRI_220105776.jpg?width=600"
 index: 316
 weight: 316
 ---

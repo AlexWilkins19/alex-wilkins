@@ -1,6 +1,6 @@
 ---
-title: "Moon mystery could be solved by simulation of planetary smash-up"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/11172951/SEI_928248971.jpg?width=600"
+title: "Male contraceptive pill is safe and effective in tests in mice"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/22142846/SEI_94867969.jpg?width=600"
 index: 287
 weight: 287
 ---

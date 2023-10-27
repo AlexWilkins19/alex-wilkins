@@ -1,6 +1,6 @@
 ---
-title: "Mars used to have wet and dry seasons similar to ones on Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09152817/SEI_167059781.jpg?width=600"
+title: "Aliens on low-oxygen worlds may never discover fire"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15131041/SEI_167617762.jpg?width=600"
 index: 34
 weight: 34
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robofish powered by human cardiac cells gives fresh insight into heart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10144231/PRI_222646379.jpg?width=600"
+title: "Lung with switched blood type is step towards universal donor organs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16142406/PRI_223884520.jpg?width=600"
 index: 304
 weight: 304
 ---

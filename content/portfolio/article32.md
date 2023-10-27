@@ -1,6 +1,6 @@
 ---
-title: "Wonky shapes can be made to roll along a specific path of your choice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/10110106/SEI_167139728.jpg?width=600"
+title: "Flying bird robot can soar so well it uses almost no power"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15160625/SEI_167614324.jpg?width=600"
 index: 32
 weight: 32
 ---
