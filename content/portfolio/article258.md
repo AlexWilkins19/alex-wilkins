@@ -1,6 +1,6 @@
 ---
-title: "AI solves complex physics problems by looking for signs of symmetry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
+title: "Life Time review: Sleep deprivation kills, warns must-read book"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18103845/SEI_104644806.jpg?width=600"
 index: 258
 weight: 258
 ---
