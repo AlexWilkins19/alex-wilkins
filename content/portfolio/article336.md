@@ -1,6 +1,6 @@
 ---
-title: "Tardigrade is first multicellular organism to be quantum entangled"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/17135901/PRI_215499049.jpg?width=600"
+title: "Sample of asteroid Ryugu brought to Earth is a strange dark colour"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/20154247/PRI_215885960.jpg?width=600"
 index: 336
 weight: 336
 ---
