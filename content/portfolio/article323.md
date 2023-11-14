@@ -1,6 +1,6 @@
 ---
-title: "Yutu-2 lunar rover finds sticky soil on the far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/19145050/PRI_219219172.jpg?width=600"
+title: "Hibernating ground squirrels recycle urine to maintain their muscles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/26150120/PRI_220152958.jpg?width=600"
 index: 323
 weight: 323
 ---
