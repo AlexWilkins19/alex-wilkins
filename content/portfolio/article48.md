@@ -1,6 +1,6 @@
 ---
-title: "Essential molecule for life spotted floating in space for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163724/SEI_165374227.jpg?width=600"
+title: "Mars used to have wet and dry seasons similar to ones on Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09152817/SEI_167059781.jpg?width=600"
 index: 48
 weight: 48
 ---

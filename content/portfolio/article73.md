@@ -1,6 +1,6 @@
 ---
-title: "My out-of-body experience controlling a robotic avatar"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05182925/telepresence-security-robot.00_01_05_17.still0031.jpg?width=600"
+title: "Robotics gets less attention than it should given its potential impact"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/13141218/SEI_159530819.jpg?width=600"
 index: 73
 weight: 73
 ---

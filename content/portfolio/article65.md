@@ -1,6 +1,6 @@
 ---
-title: "Gravitational waves produce a background hum across the whole universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/28173144/SEI_162045713.jpg?width=600"
+title: "Mathematicians calculate 42-digit number after decades of trying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/03160510/SEI_162671292.jpg?width=600"
 index: 65
 weight: 65
 ---

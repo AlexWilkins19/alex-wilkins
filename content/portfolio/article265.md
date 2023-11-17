@@ -1,6 +1,6 @@
 ---
-title: "AI solves complex physics problems by looking for signs of symmetry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
+title: "Waste wood chemically recycled to produce material stronger than steel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19105923/SEI_104460819.jpg?width=600"
 index: 265
 weight: 265
 ---

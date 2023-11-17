@@ -1,6 +1,6 @@
 ---
-title: "Solar panels that work at night produce enough power to charge a phone"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/05155212/SEI_97228967.jpg?width=600"
+title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
 index: 286
 weight: 286
 ---

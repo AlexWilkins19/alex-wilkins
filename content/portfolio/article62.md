@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians calculate 42-digit number after decades of trying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/03160510/SEI_162671292.jpg?width=600"
+title: "Gravitational waves spark hunt for cosmic strings and dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/10095705/SEI_163211368.jpg?width=600"
 index: 62
 weight: 62
 ---

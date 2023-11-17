@@ -1,6 +1,6 @@
 ---
-title: "Mysterious light may come from the largest molecules found in space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
+title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03145934/SEI_117717165.jpg?width=600"
 index: 231
 weight: 231
 ---

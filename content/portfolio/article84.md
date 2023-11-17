@@ -1,6 +1,6 @@
 ---
-title: "Weird particle that remembers its past discovered by quantum computer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/09132812/SEI_154691542.jpg?width=600"
+title: "Smart glove enhances your sense of touch in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=600"
 index: 84
 weight: 84
 ---

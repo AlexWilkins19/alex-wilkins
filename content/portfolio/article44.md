@@ -1,6 +1,6 @@
 ---
-title: "'Demon' particle found in superconductor could explain how they work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=600"
+title: "Aliens on low-oxygen worlds may never discover fire"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15131041/SEI_167617762.jpg?width=600"
 index: 44
 weight: 44
 ---

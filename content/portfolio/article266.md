@@ -1,6 +1,6 @@
 ---
-title: "Boeing's Starliner spacecraft launches to ISS despite thruster issue"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/20111722/SEI_105106641.jpg?width=600"
+title: "Rubbing against coral seems to be a popular skin treatment in dolphins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19115901/SEI_104887282.jpg?width=600"
 index: 266
 weight: 266
 ---
