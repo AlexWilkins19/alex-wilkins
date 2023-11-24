@@ -1,6 +1,6 @@
 ---
-title: "Virtual reality mask adds realism by making it harder to breathe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/10140902/SEI_103214958.jpg?width=600"
+title: "Sweater includes a wireless charger to keep your gadgets topped up"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11104945/SEI_103213219.jpg?width=600"
 index: 274
 weight: 274
 ---
