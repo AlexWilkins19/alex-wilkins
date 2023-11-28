@@ -1,6 +1,6 @@
 ---
-title: "Robotic pill that delivers drugs to gut could end insulin injections"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
+title: "Learning to play an instrument could boost your short-term memory"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/03162732/SEI_127931877.jpg?width=600"
 index: 203
 weight: 203
 ---
