@@ -1,6 +1,6 @@
 ---
-title: "First fully programmable quantum computer based on neutral atoms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
+title: "Hibernating ground squirrels recycle urine to maintain their muscles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/26150120/PRI_220152958.jpg?width=600"
 index: 335
 weight: 335
 ---

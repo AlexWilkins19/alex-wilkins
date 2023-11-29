@@ -1,6 +1,6 @@
 ---
-title: "Enceladus shown to have all six of the essential elements for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21140513/SEI_126315279.jpg?width=600"
+title: "NASA's DART mission successfully smashed into asteroid Dimorphos"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/27102233/SEI_127081233.jpg?width=600"
 index: 208
 weight: 208
 ---

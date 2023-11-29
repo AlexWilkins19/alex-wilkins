@@ -1,6 +1,6 @@
 ---
-title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
+title: "JWST spots smallest galaxy outside our local universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/21133021/SEI_130287494.jpg?width=600"
 index: 192
 weight: 192
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Watch 44 million atoms simulated using AI and a supercomputer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=600"
+title: "This house is made from recycled diapers mixed into concrete"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/17171727/SEI_156304590.jpg?width=600"
 index: 88
 weight: 88
 ---

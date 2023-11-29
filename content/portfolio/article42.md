@@ -1,6 +1,6 @@
 ---
-title: "Toughest known structure discovered by autonomous robot lab"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/29162538/SEI_169177463.jpg?width=600"
+title: "The earliest black holes seen by JWST appear to be unusually massive"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13114910/SEI_171281973.jpg?width=600"
 index: 42
 weight: 42
 ---

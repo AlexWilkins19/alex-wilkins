@@ -1,6 +1,6 @@
 ---
-title: "Microsoft's Copilot code tool faces the first big AI copyright lawsuit"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/08170834/SEI_132742877.jpg?width=600"
+title: "Computer chip made using mushroom skin could be easily recycled"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/11161132/SEI_133177235.jpg?width=600"
 index: 179
 weight: 179
 ---

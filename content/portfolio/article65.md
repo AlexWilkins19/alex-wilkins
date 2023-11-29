@@ -1,6 +1,6 @@
 ---
-title: "Microplastics found in the soil on farms used to grow crops"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=600"
+title: "Ancient graphene formed 3 billion years before humans discovered it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=600"
 index: 65
 weight: 65
 ---

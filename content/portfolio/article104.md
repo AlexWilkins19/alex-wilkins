@@ -1,6 +1,6 @@
 ---
-title: "Exoplanets with a permanent day side may sometimes flip into night"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/05163942/SEI_150992948.jpg?width=600"
+title: "Google robot learns to sort the recyclables left in office waste bins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/20122806/SEI_152683718.jpg?width=600"
 index: 104
 weight: 104
 ---

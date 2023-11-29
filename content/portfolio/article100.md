@@ -1,6 +1,6 @@
 ---
-title: "It may have been snowing on Mars 400,000 years ago"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/28155228/SEI_153783526.jpg?width=600"
+title: "Underwater writing technique lets you draw patterns in liquids"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=600"
 index: 100
 weight: 100
 ---

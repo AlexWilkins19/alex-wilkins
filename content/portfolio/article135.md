@@ -1,6 +1,6 @@
 ---
-title: "AI with no visual sensors generates an internal map to finds its way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
+title: "Hubble Space Telescope images are being spoiled by satellite trails"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
 index: 135
 weight: 135
 ---

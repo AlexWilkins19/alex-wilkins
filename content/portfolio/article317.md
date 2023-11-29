@@ -1,6 +1,6 @@
 ---
-title: "Base of the Greenland ice sheet is melting faster than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/21145942/SEI_89317128.jpg?width=600"
+title: "Light yet strong metamaterial inspired by art of paper cutting"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/28154557/SEI_900963351.jpg?width=600"
 index: 317
 weight: 317
 ---

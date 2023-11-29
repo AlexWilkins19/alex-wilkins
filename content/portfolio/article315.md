@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians are angry that Russia may still host a major conference"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/25120408/SEI_90050166.jpg?width=600"
+title: "Foam made from algae and tree bark acts as good forest camouflage"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/03112544/SEI_91299698.jpg?width=600"
 index: 315
 weight: 315
 ---
