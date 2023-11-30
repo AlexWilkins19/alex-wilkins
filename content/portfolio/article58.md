@@ -1,6 +1,6 @@
 ---
-title: "Artificial spider silk could help us harvest drinking water from air"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163759/SEI_165508922.jpg?width=600"
+title: "Mars used to have wet and dry seasons similar to ones on Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09152817/SEI_167059781.jpg?width=600"
 index: 58
 weight: 58
 ---

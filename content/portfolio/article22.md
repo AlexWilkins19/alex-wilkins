@@ -1,6 +1,6 @@
 ---
-title: "The moon is 40 million years older than we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=600"
+title: "Record-breaking quantum computer has more than 1000 qubits"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=600"
 index: 22
 weight: 22
 ---

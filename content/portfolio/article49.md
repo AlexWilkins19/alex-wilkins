@@ -1,6 +1,6 @@
 ---
-title: "Google AI predicts floods four days early in South America and Africa"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=600"
+title: "JWST may have seen black holes suppressing the creation of new stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=600"
 index: 49
 weight: 49
 ---

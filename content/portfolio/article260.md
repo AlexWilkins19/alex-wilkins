@@ -1,6 +1,6 @@
 ---
-title: "A new kind of time crystal has been created and lasts 10 milliseconds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/09173249/SEI_108685737.jpg?width=600"
+title: "UK may go it alone in orbit after Brexit shutout from EU space plans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/14121504/SEI_109580970.jpg?width=600"
 index: 260
 weight: 260
 ---
