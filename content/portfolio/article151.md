@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/30164818/SEI_142270253.jpg?width=600"
+title: "Hearing noise and moving our body helps us gauge the passing of time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
 index: 151
 weight: 151
 ---

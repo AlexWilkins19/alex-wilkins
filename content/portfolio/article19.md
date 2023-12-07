@@ -1,6 +1,6 @@
 ---
-title: "The sun is smaller than we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/07110555/SEI_178380549.jpg?width=600"
+title: "Superconductor hopes dashed after journal retracts ‘red matter’ study"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/08121441/SEI_179191135.jpg?width=600"
 index: 19
 weight: 19
 ---
