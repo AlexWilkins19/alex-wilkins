@@ -1,6 +1,6 @@
 ---
-title: "Long-lasting radiation shields may make super-Earths friendly for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13131825/PRI_218327491.jpg?width=600"
+title: "Robot piloted by a ball of algae is powered by photosynthesis"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13122115/PRI_218332571.jpg?width=600"
 index: 344
 weight: 344
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Glimpse of the earliest supernovae could reveal our cosmic origins"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/28092054/SEI_181447073.jpg?width=600"
+title: "Physicists find ultimate limit for how accurate clocks can be"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/28104638/SEI_181798865.jpg?width=600"
 index: 6
 weight: 6
 ---
