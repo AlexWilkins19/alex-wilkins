@@ -1,6 +1,6 @@
 ---
-title: "Mars astronauts would get unsafe radiation doses even with shielding"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12112723/SEI_118867160.jpg?width=600"
+title: "Floating artificial leaf converts energy from sunlight into fuel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17150936/SEI_119854264.jpg?width=600"
 index: 243
 weight: 243
 ---

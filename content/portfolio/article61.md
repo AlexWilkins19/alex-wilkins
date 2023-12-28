@@ -1,6 +1,6 @@
 ---
-title: "Springy ice seen for the first time may explain how clouds make rain"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/16145147/SEI_167826708.jpg?width=600"
+title: "JWST may have seen black holes suppressing the creation of new stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=600"
 index: 61
 weight: 61
 ---

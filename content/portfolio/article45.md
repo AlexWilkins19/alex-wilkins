@@ -1,6 +1,6 @@
 ---
-title: "Super-heatproof computer memory survives temperatures over 500°C"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/27110926/SEI_173494949.jpg?width=600"
+title: "Large Hadron Collider turned into world's biggest quantum experiment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02162934/SEI_174317742.jpg?width=600"
 index: 45
 weight: 45
 ---

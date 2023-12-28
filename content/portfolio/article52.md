@@ -1,6 +1,6 @@
 ---
-title: "The earliest black holes seen by JWST appear to be unusually massive"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13114910/SEI_171281973.jpg?width=600"
+title: "Samples from asteroid Bennu brought back to Earth by NASA's OSIRIS-REx"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25095823/SEI_173228947.jpg?width=600"
 index: 52
 weight: 52
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Trees that grow close together are better at withstanding storms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/11150157/SEI_92758048.jpg?width=600"
+title: "Mathematician wins Abel prize for research on transforming shapes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/23100224/SEI_95029901.jpg?width=600"
 index: 318
 weight: 318
 ---

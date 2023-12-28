@@ -1,6 +1,6 @@
 ---
-title: "Largest quake ever seen on Mars points to surprising seismic activity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=600"
+title: "Record-breaking quantum computer has more than 1000 qubits"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=600"
 index: 34
 weight: 34
 ---

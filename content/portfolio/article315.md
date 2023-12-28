@@ -1,6 +1,6 @@
 ---
-title: "Male contraceptive pill is safe and effective in tests in mice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/22142846/SEI_94867969.jpg?width=600"
+title: "Robot made of magnetic slime could grab objects inside your body"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/31145751/SEI_96443182.jpg?width=600"
 index: 315
 weight: 315
 ---

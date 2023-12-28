@@ -1,6 +1,6 @@
 ---
-title: "Penguins adapt their accents to sound more like their friends"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/12172453/SEI_114337758.jpg?width=600"
+title: "China prepares to launch laboratory module to Tiangong space station"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21122312/SEI_115411756.jpg?width=600"
 index: 260
 weight: 260
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mars was wet more recently than we thought, according to Chinese rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11171827/SEI_103392220.jpg?width=600"
+title: "AI solves complex physics problems by looking for signs of symmetry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
 index: 290
 weight: 290
 ---

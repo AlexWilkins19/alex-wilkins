@@ -1,6 +1,6 @@
 ---
-title: "This is the best place to build a moon base"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25102349/SEI_172600966.jpg?width=600"
+title: "Astronomers alarmed by satellite that outshines all but seven stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02123214/SEI_174271305.jpg?width=600"
 index: 47
 weight: 47
 ---

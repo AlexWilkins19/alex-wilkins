@@ -1,6 +1,6 @@
 ---
-title: "Medical AIs are advancing - when will they be in a clinic near you?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/23113251/SEI_140932760.jpg?width=600"
+title: "AI image generators that create close copies could be a legal headache"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
 index: 160
 weight: 160
 ---

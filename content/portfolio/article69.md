@@ -1,6 +1,6 @@
 ---
-title: "Essential molecule for life spotted floating in space for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163724/SEI_165374227.jpg?width=600"
+title: "'Demon' particle found in superconductor could explain how they work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=600"
 index: 69
 weight: 69
 ---

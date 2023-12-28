@@ -1,6 +1,6 @@
 ---
-title: "First exoplanet picture from James Webb Space Telescope revealed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
+title: "Two potentially habitable super-Earth planets have been discovered"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
 index: 230
 weight: 230
 ---

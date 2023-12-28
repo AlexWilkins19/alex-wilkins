@@ -1,6 +1,6 @@
 ---
-title: "Vent on Venus is clearest sign yet the planet is volcanically active"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15115316/SEI_148282957.jpg?width=600"
+title: "Quantum computers may finally have their first real practical use"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
 index: 137
 weight: 137
 ---

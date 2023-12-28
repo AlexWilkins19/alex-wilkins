@@ -1,6 +1,6 @@
 ---
-title: "Moons might not form around rocky planets much larger than Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/01152709/PRI_221065357.jpg?width=600"
+title: "Cell studies suggest a way sleep loss may be linked to Alzheimer’s"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10170949/PRI_2224675121.jpg?width=600"
 index: 341
 weight: 341
 ---

@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT AI passes test designed to show theory of mind in children"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
+title: "Huge young galaxies seen by JWST may upend our models of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
 index: 151
 weight: 151
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robotic gripper made of paper can grab both delicate and heavy things"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/14175301/SEI_167151438.jpg?width=600"
+title: "Google AI predicts floods four days early in South America and Africa"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=600"
 index: 63
 weight: 63
 ---

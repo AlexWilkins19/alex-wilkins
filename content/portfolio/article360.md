@@ -1,6 +1,6 @@
 ---
-title: "‘Near impossible’ plant-growing technique could revolutionise farming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
+title: "Bacteria form complex structures like those seen in animals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06133757/PRI_217389353.jpg?width=600"
 index: 360
 weight: 360
 ---

@@ -1,6 +1,6 @@
 ---
-title: "First one-way superconductor could slash energy used by computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27110322/SEI_100916112.jpg?width=600"
+title: "Send thousands of people to orbit, says space tourist Jared Isaacman"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/04123010/SEI_102143744.jpg?width=600"
 index: 299
 weight: 299
 ---

@@ -1,6 +1,6 @@
 ---
-title: "How will AIs that generate videos from text transform media online?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=600"
+title: "UK's quantum computing sector is flourishing after early investment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/18164327/SEI_134175591.jpg?width=600"
 index: 186
 weight: 186
 ---

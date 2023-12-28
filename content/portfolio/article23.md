@@ -1,6 +1,6 @@
 ---
-title: "Robotic chemist discovers how to make oxygen from Martian minerals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=600"
+title: "Cooling system could replace air con and drastically cut energy use"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/16170109/SEI_180460515.jpg?width=600"
 index: 23
 weight: 23
 ---

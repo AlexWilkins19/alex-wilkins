@@ -1,6 +1,6 @@
 ---
-title: "Two potentially habitable super-Earth planets have been discovered"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
+title: "NASA is ready to knock an asteroid off course with its DART spacecraft"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/20094119/SEI_126068562.jpg?width=600"
 index: 226
 weight: 226
 ---

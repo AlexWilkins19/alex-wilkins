@@ -1,6 +1,6 @@
 ---
-title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
+title: "Aluminium alloy could boost spacecraft radiation shielding 100-fold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19153608/SEI_129853305.jpg?width=600"
 index: 207
 weight: 207
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robot dog learns to walk on tough terrain in just 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/26130547/SEI_120853152.jpg?width=600"
+title: "Physicists want the next Large Hadron Collider to be climate-friendly"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
 index: 233
 weight: 233
 ---

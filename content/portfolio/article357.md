@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope is carrying out its most critical manoeuvre"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/04125745/PRI_217181494.jpg?width=600"
+title: "Corkscrew-shaped robot swims through blood vessels to clear blockages"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10152121/PRI_217944403.jpg?width=600"
 index: 357
 weight: 357
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could mine drinking water from glass beads on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/27154841/SEI_149862284.jpg?width=600"
+title: "JWST has spotted the earliest black hole ever seen in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/28153055/SEI_149526443.jpg?width=600"
 index: 129
 weight: 129
 ---

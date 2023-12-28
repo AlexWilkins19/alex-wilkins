@@ -1,6 +1,6 @@
 ---
-title: "Metal-enriched silkworm silk is one of the strongest materials ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06160549/SEI_128320230.jpg?width=600"
+title: "Jet from neutron stars seems to travel seven times the speed of light"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12140033/SEI_129109086.jpg?width=600"
 index: 213
 weight: 213
 ---

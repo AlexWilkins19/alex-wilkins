@@ -1,6 +1,6 @@
 ---
-title: "Strange nebula changes colour rhythmically like a mood lamp"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/20115956/SEI_179471978.jpg?width=600"
+title: "‘Insect-eye’ compass can navigate by the sun even on a cloudy day"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27142057/SEI_181090253.jpg?width=600"
 index: 18
 weight: 18
 ---
