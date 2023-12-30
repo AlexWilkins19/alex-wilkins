@@ -1,6 +1,6 @@
 ---
-title: "Ancient graphene formed 3 billion years before humans discovered it"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=600"
+title: "Distant planet may be the first known to share its orbit with another"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=600"
 index: 80
 weight: 80
 ---
