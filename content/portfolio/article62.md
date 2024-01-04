@@ -1,6 +1,6 @@
 ---
-title: "Maxwell's demon imagined by physicists really exists inside our cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/25135439/SEI_168773043.jpg?width=600"
+title: "Why haven't we got useful quantum computers yet?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04155456/SEI_169692145.jpg?width=600"
 index: 62
 weight: 62
 ---

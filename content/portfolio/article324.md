@@ -1,6 +1,6 @@
 ---
-title: "Trees that grow close together are better at withstanding storms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/11150157/SEI_92758048.jpg?width=600"
+title: "Bone-boosting lettuce could help Mars astronauts stay healthy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/21131940/SEI_94722869.jpg?width=600"
 index: 324
 weight: 324
 ---
