@@ -1,6 +1,6 @@
 ---
-title: "Majestic photo shows China's Tiangong space station in all its glory"
+title: "Tiangong space station"
 imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/28105458/SEI_181884485.jpg?width=600"
-index: 24
-weight: 24
+index: 377
+weight: 377
 ---
