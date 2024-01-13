@@ -1,6 +1,6 @@
 ---
-title: "Mars was wet more recently than we thought, according to Chinese rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11171827/SEI_103392220.jpg?width=600"
+title: "Boeing's Starliner spacecraft launches to ISS despite thruster issue"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/20111722/SEI_105106641.jpg?width=600"
 index: 303
 weight: 303
 ---

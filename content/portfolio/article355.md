@@ -1,6 +1,6 @@
 ---
-title: "Lightning flash measuring 768 kilometres is the longest ever recorded"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31182332/PRI_220970367.jpg?width=600"
+title: "Flying robot generates as much power as a flapping insect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
 index: 355
 weight: 355
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Proton's stretchiness is a puzzle for particle physicists"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19115539/SEI_130141124.jpg?width=600"
+title: "Lightest neutron star ever found could contain compressed quarks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
 index: 217
 weight: 217
 ---

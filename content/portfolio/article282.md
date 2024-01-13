@@ -1,6 +1,6 @@
 ---
-title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
+title: "Ancient meteorite upends our ideas of how Mars formed"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/16171557/SEI_110053287.jpg?width=600"
 index: 282
 weight: 282
 ---

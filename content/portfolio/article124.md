@@ -1,6 +1,6 @@
 ---
-title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=600"
+title: "Material that sends sound from water to air could help eavesdroppers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/28141818/SEI_152679364.jpg?width=600"
 index: 124
 weight: 124
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Underwater writing technique lets you draw patterns in liquids"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=600"
+title: "Electronic cochlea adjusts to noise levels like a human ear"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=600"
 index: 123
 weight: 123
 ---

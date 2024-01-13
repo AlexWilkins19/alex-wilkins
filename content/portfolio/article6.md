@@ -1,6 +1,6 @@
 ---
-title: "Are autonomous labs the future of science?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=600"
+title: "Vulcan launch: Why is NASA going back to the moon?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=600"
 index: 6
 weight: 6
 ---

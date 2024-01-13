@@ -1,6 +1,6 @@
 ---
-title: "Bats show fewer signs of ageing while they are hibernating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/09165054/SEI_118602904.jpg?width=600"
+title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
 index: 257
 weight: 257
 ---

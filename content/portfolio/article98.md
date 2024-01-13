@@ -1,6 +1,6 @@
 ---
-title: "Virgin Galactic space plane makes its first commercial flight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/29121727/SEI_162186364.jpg?width=600"
+title: "Solar panels could be about to get much better at capturing sunlight"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/06160559/SEI_163064826.jpg?width=600"
 index: 98
 weight: 98
 ---

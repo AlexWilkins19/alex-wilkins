@@ -1,6 +1,6 @@
 ---
-title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
+title: "‘Artificial synapse’ could make neural networks work more like brains"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
 index: 267
 weight: 267
 ---

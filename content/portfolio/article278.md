@@ -1,6 +1,6 @@
 ---
-title: "Quantum microphone works even better than a regular one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
+title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31115459/SEI_107221617.jpg?width=600"
 index: 278
 weight: 278
 ---
