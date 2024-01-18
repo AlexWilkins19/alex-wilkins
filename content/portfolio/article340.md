@@ -1,6 +1,6 @@
 ---
-title: "Silkworms make fluorescent silk after eating quantum dots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/04120430/SEI_91456917.jpg?width=600"
+title: "Mouse pups born from unfertilised eggs through genetic manipulation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/07155928/SEI_91493552.jpg?width=600"
 index: 340
 weight: 340
 ---
