@@ -1,6 +1,6 @@
 ---
-title: "Smart glove enhances your sense of touch in virtual reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=600"
+title: "Octopus-inspired ink changes colour when exposed to light"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/17173737/SEI_156365578.jpg?width=600"
 index: 119
 weight: 119
 ---

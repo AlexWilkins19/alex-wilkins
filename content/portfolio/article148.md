@@ -1,6 +1,6 @@
 ---
-title: "Mathematician wins Abel prize for solving equations with geometry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21133828/SEI_149134953.jpg?width=600"
+title: "Graphene with ripples could help make better hydrogen fuel cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=600"
 index: 148
 weight: 148
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Distant planet may be the first known to share its orbit with another"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=600"
+title: "Could Elon Musk's xAI be exactly what the world needs?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/24135947/SEI_164679667.jpg?width=600"
 index: 91
 weight: 91
 ---

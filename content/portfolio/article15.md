@@ -1,6 +1,6 @@
 ---
-title: "Vera C. Rubin Observatory will start scanning the night sky in 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172918/SEI_184082907.jpg?width=600"
+title: "Extreme close-up of Jupiter’s moon Io captured by Juno spacecraft"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/02155408/SEI_1857667331.jpg?width=600"
 index: 15
 weight: 15
 ---

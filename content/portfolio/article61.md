@@ -1,6 +1,6 @@
 ---
-title: "Waste plastic can be recycled into hydrogen fuel and graphene"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=600"
+title: "Large Hadron Collider turned into world's biggest quantum experiment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02162934/SEI_174317742.jpg?width=600"
 index: 61
 weight: 61
 ---

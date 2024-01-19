@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers may finally have their first real practical use"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
+title: "Why we need to be wary of anthropomorphising chatbots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
 index: 150
 weight: 150
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Water may be forming on the moon thanks to Earth’s magnetic field"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/29135207/SEI_173493846.jpg?width=600"
+title: "Quantum AI image generator is no match for ones on ordinary computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02113726/SEI_173865272.jpg?width=600"
 index: 59
 weight: 59
 ---

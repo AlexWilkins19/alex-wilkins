@@ -1,6 +1,6 @@
 ---
-title: "Solar flares made in the lab could teach us about the real thing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/06102349/SEI_151063218.jpg?width=600"
+title: "Exoplanets with a permanent day side may sometimes flip into night"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/05163942/SEI_150992948.jpg?width=600"
 index: 137
 weight: 137
 ---

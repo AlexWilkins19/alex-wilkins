@@ -1,6 +1,6 @@
 ---
-title: "Artificial pain sensors could help robots avoid damaging themselves"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19112404/SEI_184620714.jpg?width=600"
+title: "Springs made from rusty metallic glass could power nanorobots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18110405/SEI_183921723.jpg?width=600"
 index: 17
 weight: 17
 ---

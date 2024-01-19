@@ -1,6 +1,6 @@
 ---
-title: "Vulcan launch: Why is NASA going back to the moon?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=600"
+title: "The sun could contain a tiny black hole that formed in the big bang"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=600"
 index: 7
 weight: 7
 ---
