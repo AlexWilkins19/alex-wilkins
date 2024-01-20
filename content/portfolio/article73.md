@@ -1,6 +1,6 @@
 ---
-title: "The MANIAC review: A dark novel about the legendary John von Neumann"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04130027/SEI_169400329.jpg?width=600"
+title: "The earliest black holes seen by JWST appear to be unusually massive"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13114910/SEI_171281973.jpg?width=600"
 index: 73
 weight: 73
 ---
