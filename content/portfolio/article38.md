@@ -1,6 +1,6 @@
 ---
-title: "AI cleaning robot can tidy up clothes in a messy bedroom"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21152134/SEI_181102879.jpg?width=600"
+title: "A mysterious, incredibly energetic cosmic ray has smashed into Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/23114133/SEI_181208026.jpg?width=600"
 index: 38
 weight: 38
 ---
