@@ -1,6 +1,6 @@
 ---
-title: "Virtual ‘answering machine’ records the real world while you are in VR"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/05135158/SEI_102180677.jpg?width=600"
+title: "Virtual reality mask adds realism by making it harder to breathe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/10140902/SEI_103214958.jpg?width=600"
 index: 316
 weight: 316
 ---

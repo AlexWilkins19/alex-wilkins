@@ -1,6 +1,6 @@
 ---
-title: "Strange nebula changes colour rhythmically like a mood lamp"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/20115956/SEI_179471978.jpg?width=600"
+title: "A mysterious, incredibly energetic cosmic ray has smashed into Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/23114133/SEI_181208026.jpg?width=600"
 index: 41
 weight: 41
 ---

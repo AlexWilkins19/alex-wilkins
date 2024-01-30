@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI image generator is no match for ones on ordinary computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02113726/SEI_173865272.jpg?width=600"
+title: "JWST should soon glimpse the very first stars born after the big bang"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/04182206/SEI_174409669.jpg?width=600"
 index: 62
 weight: 62
 ---

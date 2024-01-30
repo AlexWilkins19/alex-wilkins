@@ -1,6 +1,6 @@
 ---
-title: "Mouse pups born from unfertilised eggs through genetic manipulation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/07155928/SEI_91493552.jpg?width=600"
+title: "Perseverance rover measures speed of sound on Mars for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/09152116/SEI_92420237.jpg?width=600"
 index: 346
 weight: 346
 ---
