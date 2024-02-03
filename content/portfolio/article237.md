@@ -1,6 +1,6 @@
 ---
-title: "Space adverts are now economically viable but potentially dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
+title: "Human hibernation is a real possibility - this is how it might work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=600"
 index: 237
 weight: 237
 ---
