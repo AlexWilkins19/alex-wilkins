@@ -1,6 +1,6 @@
 ---
-title: "Lightest neutron star ever found could contain compressed quarks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
+title: "Large cities lead to more segregation between rich and poor"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/28135254/SEI_131041739.jpg?width=600"
 index: 229
 weight: 229
 ---
