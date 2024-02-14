@@ -1,6 +1,6 @@
 ---
-title: "Toughest known structure discovered by autonomous robot lab"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/29162538/SEI_169177463.jpg?width=600"
+title: "The MANIAC review: A dark novel about the legendary John von Neumann"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04130027/SEI_169400329.jpg?width=600"
 index: 86
 weight: 86
 ---
