@@ -1,6 +1,6 @@
 ---
-title: "NASA's asteroid-smashing space debris spotted by Hubble telescope"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/20162130/SEI_164808318.jpg?width=600"
+title: "Earth is coated in ancient space dust that could be from the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=600"
 index: 108
 weight: 108
 ---
