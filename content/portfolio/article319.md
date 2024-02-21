@@ -1,6 +1,6 @@
 ---
-title: "Waste wood chemically recycled to produce material stronger than steel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19105923/SEI_104460819.jpg?width=600"
+title: "Teleportation trick shows promise for a future quantum internet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/25140347/SEI_106229754.jpg?width=600"
 index: 319
 weight: 319
 ---

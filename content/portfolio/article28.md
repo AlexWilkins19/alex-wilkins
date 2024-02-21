@@ -1,6 +1,6 @@
 ---
-title: "Humanoid robot acts out prompts like it's playing charades"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/03133121/SEI_184557067.jpg?width=600"
+title: "Vulcan launch: Why is NASA going back to the moon?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=600"
 index: 28
 weight: 28
 ---

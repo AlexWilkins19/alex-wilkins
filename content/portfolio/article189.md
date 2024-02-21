@@ -1,6 +1,6 @@
 ---
-title: "The Complete Guide to Memory review: How we remember and how we forget"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06140302/SEI_142597236.jpg?width=600"
+title: "ChatGPT AI passes test designed to show theory of mind in children"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
 index: 189
 weight: 189
 ---

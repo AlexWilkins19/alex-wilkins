@@ -1,6 +1,6 @@
 ---
-title: "Mars looks more vivid than ever in new photos from Perseverance rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/15111724/SEI_109857227.jpg?width=600"
+title: "Quantum microphone works even better than a regular one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
 index: 303
 weight: 303
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image sees Saturn show off its glowing rings"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=600"
+title: "Solar panels could be about to get much better at capturing sunlight"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/06160559/SEI_163064826.jpg?width=600"
 index: 120
 weight: 120
 ---
