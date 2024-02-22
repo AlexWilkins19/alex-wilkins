@@ -1,6 +1,6 @@
 ---
-title: "Graphene with ripples could help make better hydrogen fuel cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=600"
+title: "Ultra-tough battery survives hammer blows and being run over by a car"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29094149/SEI_150004914.jpg?width=600"
 index: 166
 weight: 166
 ---
