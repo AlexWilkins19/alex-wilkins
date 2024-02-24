@@ -1,6 +1,6 @@
 ---
-title: "The moon is 40 million years older than we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=600"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=600"
 index: 71
 weight: 71
 ---

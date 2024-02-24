@@ -1,6 +1,6 @@
 ---
-title: "Metal-enriched silkworm silk is one of the strongest materials ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06160549/SEI_128320230.jpg?width=600"
+title: "Black holes wobbling three times a second have proved Einstein right"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
 index: 252
 weight: 252
 ---

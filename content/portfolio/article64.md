@@ -1,6 +1,6 @@
 ---
-title: "Plants thrive in lunar soil with help from phosphorus-making bacteria"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10124151/SEI_179602158.jpg?width=600"
+title: "3D-printed robotic hand has working tendons and muscles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/14151121/SEI_180136486.jpg?width=600"
 index: 64
 weight: 64
 ---

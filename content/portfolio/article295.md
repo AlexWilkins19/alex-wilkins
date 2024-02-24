@@ -1,6 +1,6 @@
 ---
-title: "China prepares to launch laboratory module to Tiangong space station"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21122312/SEI_115411756.jpg?width=600"
+title: "Firing a laser into the sky can redirect lightning’s path"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
 index: 295
 weight: 295
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
+title: "DNA-based detector could precisely track subatomic particles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/14105453/SEI_98519672.jpg?width=600"
 index: 343
 weight: 343
 ---

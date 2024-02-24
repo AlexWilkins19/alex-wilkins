@@ -1,6 +1,6 @@
 ---
-title: "The existence of a new kind of magnetism has been confirmed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/14153321/SEI_191483493.jpg?width=600"
+title: "Quantum computers are constantly hampered by cosmic rays"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19105140/SEI_191160138.jpg?width=600"
 index: 6
 weight: 6
 ---

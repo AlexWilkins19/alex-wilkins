@@ -1,6 +1,6 @@
 ---
-title: "Corkscrew-shaped robot swims through blood vessels to clear blockages"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10152121/PRI_217944403.jpg?width=600"
+title: "Robot piloted by a ball of algae is powered by photosynthesis"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13122115/PRI_218332571.jpg?width=600"
 index: 392
 weight: 392
 ---

@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope captures its first pictures of Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/19132953/SEI_126060584.jpg?width=600"
+title: "Earth's algae and moss could survive under the light of another star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21155126/SEI_126326194.jpg?width=600"
 index: 262
 weight: 262
 ---

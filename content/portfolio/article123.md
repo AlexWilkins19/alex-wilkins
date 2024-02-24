@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image sees Saturn show off its glowing rings"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=600"
+title: "Water mixed with nanoparticles can be carved into shapes by a laser"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/07142917/SEI_163195200.jpg?width=600"
 index: 123
 weight: 123
 ---

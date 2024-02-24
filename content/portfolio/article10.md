@@ -1,6 +1,6 @@
 ---
-title: "Old milk can be used to extract gold and other metals from e-waste"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07180717/SEI_188863733.jpg?width=600"
+title: "Satellite beamed power from space to Earth for the first time ever"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/13142701/SEI_190170768.jpg?width=600"
 index: 10
 weight: 10
 ---

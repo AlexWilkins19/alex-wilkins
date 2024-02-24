@@ -1,6 +1,6 @@
 ---
-title: "Springy ice seen for the first time may explain how clouds make rain"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/16145147/SEI_167826708.jpg?width=600"
+title: "3D-printed toilet is so slippery that nothing can leave a mark"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=600"
 index: 100
 weight: 100
 ---
