@@ -1,6 +1,6 @@
 ---
-title: "Strange supernova blasts hint we have glimpsed a black hole’s birth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/26121618/SEI_177376125.jpg?width=600"
+title: "Superconductor hopes dashed after journal retracts ‘red matter’ study"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/08121441/SEI_179191135.jpg?width=600"
 index: 70
 weight: 70
 ---

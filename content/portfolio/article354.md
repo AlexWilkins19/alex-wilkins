@@ -1,6 +1,6 @@
 ---
-title: "Astronomers still can't agree on what counts as a planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/25115617/SEI_95246757.jpg?width=600"
+title: "Bubbles give off weird light when popped because of quantum physics"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01113837/SEI_96448733.jpg?width=600"
 index: 354
 weight: 354
 ---

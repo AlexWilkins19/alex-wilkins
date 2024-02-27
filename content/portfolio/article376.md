@@ -1,6 +1,6 @@
 ---
-title: "RoboKrill is a one-legged robot that mimics the way krill swim"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
+title: "Lung with switched blood type is step towards universal donor organs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16142406/PRI_223884520.jpg?width=600"
 index: 376
 weight: 376
 ---
