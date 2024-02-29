@@ -1,6 +1,6 @@
 ---
-title: "Interstellar meteorite may be awaiting discovery on the sea floor"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12131731/SEI_118739609.jpg?width=600"
+title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
 index: 286
 weight: 286
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Lung with switched blood type is step towards universal donor organs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16142406/PRI_223884520.jpg?width=600"
+title: "Most schemes to capture and reuse carbon actually increase emissions"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/18153007/SEI_88764006.jpg?width=600"
 index: 376
 weight: 376
 ---
