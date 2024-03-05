@@ -1,6 +1,6 @@
 ---
-title: "‘Near impossible’ plant-growing technique could revolutionise farming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
+title: "At least 70 'rogue' planets spotted drifting in space without a star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22155209/PRI_216077944.jpg?width=600"
 index: 405
 weight: 405
 ---

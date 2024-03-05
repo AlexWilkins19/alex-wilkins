@@ -1,6 +1,6 @@
 ---
-title: "Crystal-hunting DeepMind AI could help discover new wonder materials"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27144700/SEI_181772473.jpg?width=600"
+title: "Why adding water when you grind coffee beans makes for a better brew"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/06114043/SEI_183010524.jpg?width=600"
 index: 54
 weight: 54
 ---
