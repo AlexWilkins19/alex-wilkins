@@ -1,6 +1,6 @@
 ---
-title: "Heating and cooling seem to be fundamentally different, not opposites"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/26120258/SEI_187336726.jpg?width=600"
+title: "Some animal cells contain tiny tornadoes that mix up their contents"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/01150819/SEI_188748554.jpg?width=600"
 index: 23
 weight: 23
 ---

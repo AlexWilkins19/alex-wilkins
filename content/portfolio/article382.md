@@ -1,6 +1,6 @@
 ---
-title: "Robofish powered by human cardiac cells gives fresh insight into heart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10144231/PRI_222646379.jpg?width=600"
+title: "RoboKrill is a one-legged robot that mimics the way krill swim"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
 index: 382
 weight: 382
 ---
