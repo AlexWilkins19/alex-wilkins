@@ -1,6 +1,6 @@
 ---
-title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=600"
+title: "Underwater writing technique lets you draw patterns in liquids"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=600"
 index: 160
 weight: 160
 ---

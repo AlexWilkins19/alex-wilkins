@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians discover 'soft cell' shapes behind the natural world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23130124/SEI_192578233.jpg?width=600"
+title: "How will AIs like ChatGPT affect elections this year?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=600"
 index: 6
 weight: 6
 ---
