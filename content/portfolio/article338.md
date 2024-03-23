@@ -1,6 +1,6 @@
 ---
-title: "Boeing's Starliner spacecraft launches to ISS despite thruster issue"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/20111722/SEI_105106641.jpg?width=600"
+title: "AI solves complex physics problems by looking for signs of symmetry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
 index: 338
 weight: 338
 ---
