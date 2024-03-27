@@ -1,6 +1,6 @@
 ---
-title: "AI-generated deepfake faces could help protect privacy on social media"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
+title: "We finally know in detail how salt dissolves in water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22112231/SEI_134028847.jpg?width=600"
 index: 236
 weight: 236
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers could simulate a black hole in the next decade"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=600"
+title: "Alien messages responding to NASA signals could reach us by 2029"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/27163359/SEI_153322353.jpg?width=600"
 index: 164
 weight: 164
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Solar panels could be about to get much better at capturing sunlight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/06160559/SEI_163064826.jpg?width=600"
+title: "Meteorite left Earth then landed back down after round trip to space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=600"
 index: 134
 weight: 134
 ---

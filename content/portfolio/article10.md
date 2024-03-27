@@ -1,6 +1,6 @@
 ---
-title: "Huge set of galaxies is set to form largest cluster in known universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/21162939/SEI_191496908.jpg?width=600"
+title: "Google launches $5m prize to find actual uses for quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=600"
 index: 10
 weight: 10
 ---

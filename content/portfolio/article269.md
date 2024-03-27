@@ -1,6 +1,6 @@
 ---
-title: "Robotic pill that delivers drugs to gut could end insulin injections"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
+title: "Ships release invisible contrails that slightly cool the climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/05143706/SEI_128061021.jpg?width=600"
 index: 269
 weight: 269
 ---

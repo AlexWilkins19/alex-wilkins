@@ -1,6 +1,6 @@
 ---
-title: "3D-printed toilet is so slippery that nothing can leave a mark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=600"
+title: "Toughest known structure discovered by autonomous robot lab"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/29162538/SEI_169177463.jpg?width=600"
 index: 110
 weight: 110
 ---

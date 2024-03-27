@@ -1,6 +1,6 @@
 ---
-title: "Most schemes to capture and reuse carbon actually increase emissions"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/18153007/SEI_88764006.jpg?width=600"
+title: "Mathematicians are angry that Russia may still host a major conference"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/25120408/SEI_90050166.jpg?width=600"
 index: 383
 weight: 383
 ---

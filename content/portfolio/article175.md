@@ -1,6 +1,6 @@
 ---
-title: "This map of Venus shows every volcano we know about on its surface"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/30125556/SEI_150233936.jpg?width=600"
+title: "Solar flares made in the lab could teach us about the real thing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/06102349/SEI_151063218.jpg?width=600"
 index: 175
 weight: 175
 ---
