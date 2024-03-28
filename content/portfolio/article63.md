@@ -1,6 +1,6 @@
 ---
-title: "Why adding water when you grind coffee beans makes for a better brew"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/06114043/SEI_183010524.jpg?width=600"
+title: "2023 was the year that artificial intelligence went mainstream"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg?width=600"
 index: 63
 weight: 63
 ---

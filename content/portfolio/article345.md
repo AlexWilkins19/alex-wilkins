@@ -1,6 +1,6 @@
 ---
-title: "Mars was wet more recently than we thought, according to Chinese rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11171827/SEI_103392220.jpg?width=600"
+title: "Quantum communication system could detect earthquakes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/16165756/SEI_103772762.jpg?width=600"
 index: 345
 weight: 345
 ---

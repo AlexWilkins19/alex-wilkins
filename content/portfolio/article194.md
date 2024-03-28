@@ -1,6 +1,6 @@
 ---
-title: "Robot snake that moves like a sidewinder could inspect sewage pipes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/14114447/sidewinding.gif?width=600"
+title: "Vent on Venus is clearest sign yet the planet is volcanically active"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15115316/SEI_148282957.jpg?width=600"
 index: 194
 weight: 194
 ---

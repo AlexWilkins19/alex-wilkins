@@ -1,6 +1,6 @@
 ---
-title: "Crystal-hunting DeepMind AI could help discover new wonder materials"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27144700/SEI_181772473.jpg?width=600"
+title: "Tiny balls fit best inside a sausage, physicists confirm"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/12110452/SEI_183056402.jpg?width=600"
 index: 64
 weight: 64
 ---
