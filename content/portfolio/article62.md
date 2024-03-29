@@ -1,6 +1,6 @@
 ---
-title: "Housework robot can learn to do almost any chore in 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/13121855/SEI_183894622.jpg?width=600"
+title: "Google wants to solve tricky physics problems with quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=600"
 index: 62
 weight: 62
 ---

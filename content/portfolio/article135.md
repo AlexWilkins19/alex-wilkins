@@ -1,6 +1,6 @@
 ---
-title: "Microplastics found in the soil on farms used to grow crops"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=600"
+title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26124744/SEI_165484170.jpg?width=600"
 index: 135
 weight: 135
 ---
