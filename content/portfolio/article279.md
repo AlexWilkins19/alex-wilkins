@@ -1,6 +1,6 @@
 ---
-title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
+title: "Learning to play an instrument could boost your short-term memory"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/03162732/SEI_127931877.jpg?width=600"
 index: 279
 weight: 279
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=600"
+title: "AI forecaster can predict the future better than humans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/25191017/SEI_196712963.jpg?width=600"
 index: 10
 weight: 10
 ---

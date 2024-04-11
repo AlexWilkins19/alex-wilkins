@@ -1,6 +1,6 @@
 ---
-title: "A mysterious, incredibly energetic cosmic ray has smashed into Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/23114133/SEI_181208026.jpg?width=600"
+title: "Glimpse of the earliest supernovae could reveal our cosmic origins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/14145539/SEI_184045393.jpg?width=600"
 index: 76
 weight: 76
 ---

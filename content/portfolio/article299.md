@@ -1,6 +1,6 @@
 ---
-title: "Floating artificial leaf converts energy from sunlight into fuel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17150936/SEI_119854264.jpg?width=600"
+title: "Fire-resistant aluminium-sulphur battery charges in under a minute"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/23174815/SEI_120746343.jpg?width=600"
 index: 299
 weight: 299
 ---

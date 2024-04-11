@@ -1,6 +1,6 @@
 ---
-title: "Largest known solar storm struck Earth 14,300 years ago"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/06162635/SEI_174908249.jpg?width=600"
+title: "The moon is 40 million years older than we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=600"
 index: 95
 weight: 95
 ---

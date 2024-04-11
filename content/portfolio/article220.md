@@ -1,6 +1,6 @@
 ---
-title: "Medical AIs are advancing - when will they be in a clinic near you?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/23113251/SEI_140932760.jpg?width=600"
+title: "Flying robot echolocates like a bat to avoid banging into walls"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
 index: 220
 weight: 220
 ---

@@ -1,6 +1,6 @@
 ---
-title: "2023 was the year that artificial intelligence went mainstream"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg?width=600"
+title: "Google wants to solve tricky physics problems with quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=600"
 index: 66
 weight: 66
 ---

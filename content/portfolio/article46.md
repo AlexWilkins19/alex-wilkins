@@ -1,6 +1,6 @@
 ---
-title: "Will AI make computer screens a thing of the past?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12164130/SEI_186914971.jpg?width=600"
+title: "New fiery doughnut image is our most detailed glimpse of a black hole"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18081148/SEI_187707989.jpg?width=600"
 index: 46
 weight: 46
 ---

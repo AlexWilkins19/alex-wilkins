@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians are bitterly divided over a controversial proof"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=600"
+title: "Mathematician wins Turing award for harnessing randomness"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/08121417/SEI_198618497.jpg?width=600"
 index: 3
 weight: 3
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The W boson gave particle physicists a major shock in 2022"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/14121032/SEI_135596939.jpg?width=600"
+title: "Super-absorbent towel soaks up liquids better than cloth or paper"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/21161110/SEI_138274087.jpg?width=600"
 index: 236
 weight: 236
 ---

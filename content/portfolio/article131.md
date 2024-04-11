@@ -1,6 +1,6 @@
 ---
-title: "Could Elon Musk's xAI be exactly what the world needs?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/24135947/SEI_164679667.jpg?width=600"
+title: "Artificial spider silk could help us harvest drinking water from air"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163759/SEI_165508922.jpg?width=600"
 index: 131
 weight: 131
 ---

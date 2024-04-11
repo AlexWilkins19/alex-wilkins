@@ -1,6 +1,6 @@
 ---
-title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
+title: "Huge gas bubble that contains the solar system mapped for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/12151302/PRI_218192335.jpg?width=600"
 index: 415
 weight: 415
 ---

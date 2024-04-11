@@ -1,6 +1,6 @@
 ---
-title: "Flavour-predicting AI can tell brewers how to make beer taste better"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/26151256/SEI_197492060.jpg?width=600"
+title: "Mathematicians are bitterly divided over a controversial proof"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=600"
 index: 6
 weight: 6
 ---

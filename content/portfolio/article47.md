@@ -1,6 +1,6 @@
 ---
-title: "The sun could contain a tiny black hole that formed in the big bang"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=600"
+title: "DeepMind AI solves hard geometry problems from mathematics olympiad"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17135354/SEI_187607754.jpg?width=600"
 index: 47
 weight: 47
 ---

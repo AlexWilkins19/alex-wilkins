@@ -1,6 +1,6 @@
 ---
-title: "NASA is ready to knock an asteroid off course with its DART spacecraft"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/20094119/SEI_126068562.jpg?width=600"
+title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
 index: 282
 weight: 282
 ---

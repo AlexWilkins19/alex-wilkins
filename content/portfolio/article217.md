@@ -1,6 +1,6 @@
 ---
-title: "Flying robot echolocates like a bat to avoid banging into walls"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
+title: "Dwarf planet Quaoar has a weirdly big ring of debris encircling it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/08145813/SEI_143250080.jpg?width=600"
 index: 217
 weight: 217
 ---
