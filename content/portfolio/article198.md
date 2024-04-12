@@ -1,6 +1,6 @@
 ---
-title: "'Red matter' superconductor may not be a wonder material after all"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17122523/SEI_148554498.jpg?width=600"
+title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
 index: 198
 weight: 198
 ---
