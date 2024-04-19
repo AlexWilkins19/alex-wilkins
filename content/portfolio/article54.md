@@ -1,6 +1,6 @@
 ---
-title: "Vulcan launch: Why is NASA going back to the moon?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=600"
+title: "‘Islands’ poking out of black holes may solve the information paradox"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08133444/SEI_184643771.jpg?width=600"
 index: 54
 weight: 54
 ---

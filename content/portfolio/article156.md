@@ -1,6 +1,6 @@
 ---
-title: "Fastest star in the galaxy clocked at 2285 kilometres per second"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/14112653/SEI_159968470.jpg?width=600"
+title: "Robotics gets less attention than it should given its potential impact"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/13141218/SEI_159530819.jpg?width=600"
 index: 156
 weight: 156
 ---
