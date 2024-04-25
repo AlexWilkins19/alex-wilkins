@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image of Uranus shows 13 rings and nine moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=600"
+title: "Liquid magnet propellers could be a safer way to power boats"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18150559/SEI_184539989.jpg?width=600"
 index: 69
 weight: 69
 ---

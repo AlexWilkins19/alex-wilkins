@@ -1,6 +1,6 @@
 ---
-title: "Superconductor hopes dashed after journal retracts ‘red matter’ study"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/08121441/SEI_179191135.jpg?width=600"
+title: "Underwater walkie-talkies could work long-distance with radio trick"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=600"
 index: 91
 weight: 91
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robot dog learns to walk on tough terrain in just 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/26130547/SEI_120853152.jpg?width=600"
+title: "Whale songs can spread between groups nearly 8000 kilometres apart"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/30170429/SEI_121966595.jpg?width=600"
 index: 298
 weight: 298
 ---

@@ -1,6 +1,6 @@
 ---
-title: "This map of Venus shows every volcano we know about on its surface"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/30125556/SEI_150233936.jpg?width=600"
+title: "Crystal impervious to radiation could be used in spaceship computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=600"
 index: 188
 weight: 188
 ---

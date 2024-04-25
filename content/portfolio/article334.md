@@ -1,6 +1,6 @@
 ---
-title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
+title: "Mars looks more vivid than ever in new photos from Perseverance rover"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/15111724/SEI_109857227.jpg?width=600"
 index: 334
 weight: 334
 ---

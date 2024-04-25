@@ -1,6 +1,6 @@
 ---
-title: "'Demon' particle found in superconductor could explain how they work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=600"
+title: "Robotic gripper made of paper can grab both delicate and heavy things"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/14175301/SEI_167151438.jpg?width=600"
 index: 130
 weight: 130
 ---

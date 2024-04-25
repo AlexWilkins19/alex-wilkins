@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians plan computer proof of Fermat's last theorem"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/15125942/SEI_196127014.jpg?width=600"
+title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=600"
 index: 17
 weight: 17
 ---

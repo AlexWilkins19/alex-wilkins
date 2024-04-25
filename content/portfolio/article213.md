@@ -1,6 +1,6 @@
 ---
-title: "AI with no visual sensors generates an internal map to finds its way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
+title: "Google says error correction will lead to useful quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
 index: 213
 weight: 213
 ---

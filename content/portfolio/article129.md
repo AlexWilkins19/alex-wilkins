@@ -1,6 +1,6 @@
 ---
-title: "Wonky shapes can be made to roll along a specific path of your choice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/10110106/SEI_167139728.jpg?width=600"
+title: "Aliens on low-oxygen worlds may never discover fire"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15131041/SEI_167617762.jpg?width=600"
 index: 129
 weight: 129
 ---
