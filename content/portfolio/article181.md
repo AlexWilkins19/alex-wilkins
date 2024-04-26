@@ -1,6 +1,6 @@
 ---
-title: "Google robot learns to sort the recyclables left in office waste bins"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/20122806/SEI_152683718.jpg?width=600"
+title: "It may have been snowing on Mars 400,000 years ago"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/28155228/SEI_153783526.jpg?width=600"
 index: 181
 weight: 181
 ---

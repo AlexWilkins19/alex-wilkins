@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image turns dust in a distant galaxy into a purple swirl"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19144341/SEI_115370440.jpg?width=600"
+title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
 index: 326
 weight: 326
 ---
