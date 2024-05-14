@@ -1,6 +1,6 @@
 ---
-title: "Medical dressing works like duct tape to seal internal wounds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
+title: "Flying robot generates as much power as a flapping insect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
 index: 410
 weight: 410
 ---

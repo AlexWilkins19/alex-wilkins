@@ -1,6 +1,6 @@
 ---
-title: "Tiangong space station"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/28105458/SEI_181884485.jpg?width=600"
+title: "Large deposits of water found on Mars below the surface at the equator"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/16151022/PRI_215371899.jpg?width=600"
 index: 434
 weight: 434
 ---

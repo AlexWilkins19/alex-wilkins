@@ -1,6 +1,6 @@
 ---
-title: "Early warning system for Amazon forest losses seen in climate models"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
+title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
 index: 375
 weight: 375
 ---
