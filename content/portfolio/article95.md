@@ -1,6 +1,6 @@
 ---
-title: "Underwater walkie-talkies could work long-distance with radio trick"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=600"
+title: "Robotic chemist discovers how to make oxygen from Martian minerals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=600"
 index: 95
 weight: 95
 ---

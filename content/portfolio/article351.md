@@ -1,6 +1,6 @@
 ---
-title: "Strange gamma ray flashes from lightning storms may have explanation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/26112450/SEI_106042887.jpg?width=600"
+title: "Will AI text-to-image generators put illustrators out of a job?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=600"
 index: 351
 weight: 351
 ---
