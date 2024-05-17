@@ -1,6 +1,6 @@
 ---
-title: "Flying bird robot can soar so well it uses almost no power"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15160625/SEI_167614324.jpg?width=600"
+title: "Google AI predicts floods four days early in South America and Africa"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=600"
 index: 132
 weight: 132
 ---
