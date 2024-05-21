@@ -1,6 +1,6 @@
 ---
-title: "First satellite launch from the UK failed due to an ‘anomaly’"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10004828/SEI_139692185.jpg?width=600"
+title: "JWST finds that ancient galaxies contain fewer stars than we expected"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10131014/SEI_139790898.jpg?width=600"
 index: 244
 weight: 244
 ---
