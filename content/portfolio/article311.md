@@ -1,6 +1,6 @@
 ---
-title: "Earthquakes seem to come in a more predictable pattern than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
+title: "Fire-resistant aluminium-sulphur battery charges in under a minute"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/23174815/SEI_120746343.jpg?width=600"
 index: 311
 weight: 311
 ---
