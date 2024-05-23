@@ -1,6 +1,6 @@
 ---
-title: "3D-printed robotic hand has working tendons and muscles"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/14151121/SEI_180136486.jpg?width=600"
+title: "Flexible needle goes soft after injections for safety and comfort"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/15103605/SEI_179587333.jpg?width=600"
 index: 97
 weight: 97
 ---
