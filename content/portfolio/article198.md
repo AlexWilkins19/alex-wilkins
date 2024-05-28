@@ -1,6 +1,6 @@
 ---
-title: "Cancer tumours in mice shrunk thanks to oxygen-sucking battery"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/31160016/SEI_150387548.jpg?width=600"
+title: "Crystal impervious to radiation could be used in spaceship computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=600"
 index: 198
 weight: 198
 ---
