@@ -1,6 +1,6 @@
 ---
-title: "Filterworld review: Are algorithms staging a cultural takeover?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/22161150/SEI_187619782.jpg?width=600"
+title: "Mysterious black hole jets may be the source of powerful cosmic rays"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=600"
 index: 56
 weight: 56
 ---
