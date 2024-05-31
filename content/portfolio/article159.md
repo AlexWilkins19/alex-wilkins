@@ -1,6 +1,6 @@
 ---
-title: "Gravitational waves spark hunt for cosmic strings and dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/10095705/SEI_163211368.jpg?width=600"
+title: "Microplastics found in the soil on farms used to grow crops"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=600"
 index: 159
 weight: 159
 ---

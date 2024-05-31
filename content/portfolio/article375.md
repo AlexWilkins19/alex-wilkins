@@ -1,6 +1,6 @@
 ---
-title: "Space test dummies will measure female radiation risk for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/29132653/SEI_101129092.jpg?width=600"
+title: "Chinese rover finds lunar soil could make oxygen and fuel on the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/05135311/SEI_102301534.jpg?width=600"
 index: 375
 weight: 375
 ---
