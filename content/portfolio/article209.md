@@ -1,6 +1,6 @@
 ---
-title: "Protons seem to be a different size depending on how you look at them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29150533/SEI_150114785.jpg?width=600"
+title: "JWST has spotted the earliest black hole ever seen in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/28153055/SEI_149526443.jpg?width=600"
 index: 209
 weight: 209
 ---
