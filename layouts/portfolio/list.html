@@ -1,7 +1,7 @@
 {{ define "main" }}
 <div class="grid-wrapper">
 
-  <!-- Intro section, unchanged except for counting articles from the JSON -->
+  <!-- Intro section (unchanged) -->
   <div class="introwords" style="max-width: 1200px; margin: 0 auto;">
     {{ $numArticles := len .Site.Data.articles.articles }}
     <div style="margin-left: 15vw;">
@@ -66,31 +66,14 @@
     </div>
   </div>
 
-  <!-- NEW SCIENTIST SECTION (paginated) -->
+  <!-- NEW SCIENTIST SECTION -->
   <h2 class="SectionHeading" id="newscientisttop">New Scientist</h2>
-  <div class="page-indicator" style="text-align: right; margin-bottom: 1rem;"></div>
   <hr class="hrline">
 
-  <!-- 1) Gather and define pagination variables -->
-  {{ $allArticles := .Site.Data.articles.articles }}
-  {{ $pageSize := 9 }} <!-- 9 articles per page -->
-  {{ $currentPage := .Param "page" | default "1" | int }}
-  
-  <!-- 2) Calculate start/end indices for the slice -->
-  {{ $start := mul (sub $currentPage 1) $pageSize }}
-  {{ if lt $start 0 }} {{ $start = 0 }} {{ end }}
-
-  {{ $end := add $start $pageSize }}
-  {{ $totalArticles := len $allArticles }}
-  {{ if gt $end $totalArticles }} {{ $end = $totalArticles }} {{ end }}
-
-  <!-- 3) Create a slice of articles for the current page -->
-  {{ $articlesForPage := first $pageSize (after $start $allArticles) }}
-
-  <!-- 4) Display them in a grid -->
-  <div class="grid-container new scientist">
-    {{ range $articlesForPage }}
-      <div class="grid-item">
+  <!-- 1) Output *all* articles in one container -->
+  <div id="article-grid" class="grid-container new scientist">
+    {{ range .Site.Data.articles.articles }}
+      <div class="grid-item article">
         <a class="CardLink" href="{{ .url }}" target="_blank" rel="noopener">
           <article class="Card">
             <div class="Card__Content">
@@ -109,38 +92,76 @@
     {{ end }}
   </div>
 
-  <!-- 5) Build Previous/Next links -->
-  {{ $prevPage := sub $currentPage 1 }}
-  {{ $nextPage := add $currentPage 1 }}
-  
-  <!-- Calculate total pages = ceiling(totalArticles / pageSize) -->
-  {{ $floor := div $totalArticles $pageSize }}
-  {{ $mod := mod $totalArticles $pageSize }}
-  {{ $totalPages := $floor }}
-  {{ if gt $mod 0 }} {{ $totalPages = add $floor 1 }} {{ end }}
-
-  <!-- Show pagination controls only if we have more than 1 page -->
-  {{ if gt $totalPages 1 }}
-    <div class="paginator" style="text-align:center; clear:both; margin-top: 1rem;">
-      
-      <!-- Only show 'Previous' link if currentPage > 1 -->
-      {{ if gt $currentPage 1 }}
-        <a href="{{ .Permalink }}?page={{ $prevPage }}" class="prev-link">Previous</a>
-      {{ end }}
-
-      <div class="current-page" style="display: inline-block; margin: 0 1rem;">
-        Page {{ $currentPage }} of {{ $totalPages }}
-      </div>
-
-      <!-- Only show 'Next' link if currentPage < totalPages -->
-      {{ if lt $currentPage $totalPages }}
-        <a href="{{ .Permalink }}?page={{ $nextPage }}" class="next-link">Next</a>
-      {{ end }}
-    </div>
-  {{ end }}
+  <!-- 2) The pagination controls (Previous/Next) -->
+  <div id="pagination-controls" style="text-align:center; margin: 2rem 0;">
+    <button id="prev-btn" class="prev-link" style="margin-right: 1rem;">Previous</button>
+    <span id="page-info"></span>
+    <button id="next-btn" class="next-link" style="margin-left: 1rem;">Next</button>
+  </div>
 
 </div>
 
-<!-- Scroll-to-grid script partial (unchanged) -->
+<!-- 3) Scroll-to-grid script partial (unchanged) -->
 {{ partial "scroll-to-grid.js" . }}
+
+<!-- 4) Client-Side Pagination Script -->
+<script>
+(function() {
+  // The number of articles we show per page
+  const pageSize = 9;
+
+  // Current page starts at 1
+  let currentPage = 1;
+
+  // Get ALL article elements
+  const articles = document.querySelectorAll('#article-grid .article');
+  const totalArticles = articles.length;
+  const totalPages = Math.ceil(totalArticles / pageSize);
+
+  // DOM elements
+  const prevBtn = document.getElementById('prev-btn');
+  const nextBtn = document.getElementById('next-btn');
+  const pageInfo = document.getElementById('page-info');
+
+  // This function shows only the slice of articles for the given page
+  function showPage(page) {
+    // Hide all articles
+    articles.forEach(a => (a.style.display = 'none'));
+
+    // Calculate start & end indexes
+    const start = (page - 1) * pageSize;
+    const end = start + pageSize;
+
+    // Show the subset for this page
+    for (let i = start; i < end && i < totalArticles; i++) {
+      articles[i].style.display = 'block';
+    }
+
+    // Update "Page X of Y" text
+    pageInfo.textContent = `Page ${page} of ${totalPages}`;
+
+    // Disable/enable buttons as needed
+    prevBtn.disabled = (page <= 1);
+    nextBtn.disabled = (page >= totalPages);
+  }
+
+  // Event listeners for the buttons
+  prevBtn.addEventListener('click', () => {
+    if (currentPage > 1) {
+      currentPage--;
+      showPage(currentPage);
+    }
+  });
+
+  nextBtn.addEventListener('click', () => {
+    if (currentPage < totalPages) {
+      currentPage++;
+      showPage(currentPage);
+    }
+  });
+
+  // Show page 1 initially
+  showPage(currentPage);
+})();
+</script>
 {{ end }}
