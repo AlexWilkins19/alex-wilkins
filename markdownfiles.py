@@ -1,7 +1,11 @@
 import json
 import os
 
-json_file = "articles.json"
+json_file = "data/articles.json"  # Updated path to match where Node.js saves it
+
+# Make sure the output directories exist
+os.makedirs("data", exist_ok=True)
+os.makedirs("content/portfolio", exist_ok=True)
 
 with open(json_file, "r") as f:
     data = json.load(f)
