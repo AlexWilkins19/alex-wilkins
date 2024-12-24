@@ -1,6 +1,1818 @@
 {
   "articles": [
     {
+      "title": "Should chatbots have rights – and should we care?",
+      "url": "https://www.newscientist.com/article/mg26435233-300-should-chatbots-have-rights-and-should-we-care/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/17153008/SEI_233552771.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Mathematicians spent 2024 unravelling proof almost no one understands",
+      "url": "https://www.newscientist.com/article/2459118-mathematicians-spent-2024-unravelling-proof-almost-no-one-understands/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/05154631/SEI_230438188.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "The best space images from 2024",
+      "url": "https://www.newscientist.com/article/2456158-the-best-space-images-from-2024/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/20133012/SEI_213045678.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Ultra-thin diamond wafers for electronics made using sticky tape",
+      "url": "https://www.newscientist.com/article/2461415-ultra-thin-diamond-wafers-for-electronics-made-using-sticky-tape/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "The best and weirdest photos of robots from 2024",
+      "url": "https://www.newscientist.com/article/2457179-the-best-and-weirdest-photos-of-robots-from-2024/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/11134223/robot-featured-image-.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Saturn’s rings may be far older than we thought",
+      "url": "https://www.newscientist.com/article/2460906-saturns-rings-may-be-far-older-than-we-thought/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/16150357/SEI_233444071.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "The sun may spit out giant solar flares more often than we thought",
+      "url": "https://www.newscientist.com/article/2460512-the-sun-may-spit-out-giant-solar-flares-more-often-than-we-thought/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/12160933/SEI_232965865.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "The shine began to wear off AI in 2024 as advances slowed down",
+      "url": "https://www.newscientist.com/article/mg26435210-600-the-shine-began-to-wear-off-ai-in-2024-as-advances-slowed-down/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/09172521/SEI_229326986.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Dazzling auroras lit up the skies in 2024 and we may see more in 2025",
+      "url": "https://www.newscientist.com/article/mg26435210-700-dazzling-auroras-lit-up-the-skies-in-2024-and-we-may-see-more-in-2025/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/09160216/SEI_230033581.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Earth may have had its water delivered by a vast cloud of vapour",
+      "url": "https://www.newscientist.com/article/2460173-earth-may-have-had-its-water-delivered-by-a-vast-cloud-of-vapour/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/11141245/SEI_232670154.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Mathematicians have figured out the best sofa shape for moving around",
+      "url": "https://www.newscientist.com/article/2459500-mathematicians-have-figured-out-the-best-sofa-shape-for-moving-around/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/09143954/SEI_232596963.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Mathematicians have discovered a mind-blowing new kind of infinity",
+      "url": "https://www.newscientist.com/article/2459158-mathematicians-have-discovered-a-mind-blowing-new-kind-of-infinity/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/06105425/SEI_232072501.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:44.574Z"
+    },
+    {
+      "title": "Flying robot leaps upwards and then takes to the air like a bird",
+      "url": "https://www.newscientist.com/article/2458864-flying-robot-leaps-upwards-and-then-takes-to-the-air-like-a-bird/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/04124137/SEI_231807062.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Chatbot gives medical advice to hundreds of users in largest trial yet",
+      "url": "https://www.newscientist.com/article/2458531-chatbot-gives-medical-advice-to-hundreds-of-users-in-largest-trial-yet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/12/02145407/SEI_231687662.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Swarms of cyborg cockroaches could be manufactured by robots",
+      "url": "https://www.newscientist.com/article/2458397-swarms-of-cyborg-cockroaches-could-be-manufactured-by-robots/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/29142458/SEI_231323199.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Electric Dreams is past echo of today’s debates on AI-generated art",
+      "url": "https://www.newscientist.com/video/2458269-electric-dreams-is-past-echo-of-todays-debates-on-ai-generated-art/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/28160605/suzanne-treister-fictional-videogame-stills-are-you-dreaming-1991-92.-courtesy-the-artist-annely-juda-fine-art-london-and-p.p.o.w.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Bacteria found in asteroid sample – but they're not from space",
+      "url": "https://www.newscientist.com/article/2457490-bacteria-found-in-asteroid-sample-but-theyre-not-from-space/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/22142622/SEI_230534717.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "We've taken a photo of a star in another galaxy for the first time",
+      "url": "https://www.newscientist.com/article/2457273-weve-taken-a-photo-of-a-star-in-another-galaxy-for-the-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/20164541/SEI_230303299.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Google DeepMind AI can expertly fix errors in quantum computers",
+      "url": "https://www.newscientist.com/article/2457207-google-deepmind-ai-can-expertly-fix-errors-in-quantum-computers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/20133032/SEI_230287871.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "See the sun revealed in stunning glory by Solar Orbiter pictures",
+      "url": "https://www.newscientist.com/article/2457069-see-the-sun-revealed-in-stunning-glory-by-solar-orbiter-pictures/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/19200845/SEI_230042522.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Being in space makes it harder for astronauts to think quickly",
+      "url": "https://www.newscientist.com/article/2456892-being-in-space-makes-it-harder-for-astronauts-to-think-quickly/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/19164945/SEI_230183574.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Heart-shaped mollusc has windows that work like fibre optics",
+      "url": "https://www.newscientist.com/article/2456877-heart-shaped-mollusc-has-windows-that-work-like-fibre-optics/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/19132912/SEI_230039841.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "AI maths assistant could help solve problems that humans are stuck on",
+      "url": "https://www.newscientist.com/article/2456653-ai-maths-assistant-could-help-solve-problems-that-humans-are-stuck-on/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/18114500/SEI_229691729.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "A unique pair of galactic lenses may help solve a cosmological riddle",
+      "url": "https://www.newscientist.com/article/2456391-a-unique-pair-of-galactic-lenses-may-help-solve-a-cosmological-riddle/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/15100848/SEI_229598749.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:46.875Z"
+    },
+    {
+      "title": "Does this high-tech lettuce hold the answer to the global food crisis?",
+      "url": "https://www.newscientist.com/article/mg26435172-200-does-this-high-tech-lettuce-hold-the-answer-to-the-global-food-crisis/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/11151014/SEI_228616030.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.900Z"
+    },
+    {
+      "title": "This robot can build anything you ask for out of blocks",
+      "url": "https://www.newscientist.com/article/2455713-this-robot-can-build-anything-you-ask-for-out-of-blocks/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/11142047/SEI_228478494.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Our only visit to Uranus came at an unusual time for the planet",
+      "url": "https://www.newscientist.com/article/2455695-our-only-visit-to-uranus-came-at-an-unusual-time-for-the-planet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/11/11145255/SEI_228852345.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Complex form of carbon spotted outside solar system for first time",
+      "url": "https://www.newscientist.com/article/2452199-complex-form-of-carbon-spotted-outside-solar-system-for-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/16145111/SEI_225579035.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "10 stunning James Webb Space Telescope images show the beauty of space",
+      "url": "https://www.newscientist.com/article/2452297-10-stunning-james-webb-space-telescope-images-show-the-beauty-of-space/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/17100618/sei225115412-1.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "The laws of physics appear to follow a mysterious mathematical pattern",
+      "url": "https://www.newscientist.com/article/2452341-the-laws-of-physics-appear-to-follow-a-mysterious-mathematical-pattern/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/17122723/SEI_225583756.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Mathematicians have found a new way to identify prime numbers",
+      "url": "https://www.newscientist.com/article/2452501-mathematicians-have-found-a-new-way-to-identify-prime-numbers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/18160152/SEI_225953841.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Microscopic gears powered by light could be used to make tiny machines",
+      "url": "https://www.newscientist.com/article/2450923-microscopic-gears-powered-by-light-could-be-used-to-make-tiny-machines/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/07163811/SEI_224804133.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Nobel prize for physics goes to pair who invented key AI techniques",
+      "url": "https://www.newscientist.com/article/2451012-nobel-prize-for-physics-goes-to-pair-who-invented-key-ai-techniques/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/08110301/SEI_224873524.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Astronauts could one day end up eating asteroids",
+      "url": "https://www.newscientist.com/article/2450719-astronauts-could-one-day-end-up-eating-asteroids/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/04152216/SEI_224396349.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "New Scientist recommends astronomy exhibition Borrowed Light in Berlin",
+      "url": "https://www.newscientist.com/article/mg26435110-400-new-scientist-recommends-astronomy-exhibition-borrowed-light-in-berlin/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/10/01103652/SEI_222990768.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Planet spotted orbiting Barnard's star just 6 light years away",
+      "url": "https://www.newscientist.com/article/2450016-planet-spotted-orbiting-barnards-star-just-6-light-years-away/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/30153759/SEI_223877148.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:48.901Z"
+    },
+    {
+      "title": "Useful quantum computers are edging closer with recent milestones",
+      "url": "https://www.newscientist.com/article/2450065-useful-quantum-computers-are-edging-closer-with-recent-milestones/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/30160109/SEI_223436258.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Radioactive ion beam could target tumours more precisely",
+      "url": "https://www.newscientist.com/article/2449884-radioactive-ion-beam-could-target-tumours-more-precisely/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Strange binary star system has three Earth-sized exoplanets",
+      "url": "https://www.newscientist.com/article/2448159-strange-binary-star-system-has-three-earth-sized-exoplanets/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/16163443/SEI_221268613.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Black hole’s jets are so huge that they may shake up cosmology",
+      "url": "https://www.newscientist.com/article/2448553-black-holes-jets-are-so-huge-that-they-may-shake-up-cosmology/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/18144501/SEI_222159946.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Venus could be rocked by thousands of quakes every year",
+      "url": "https://www.newscientist.com/article/2448314-venus-could-be-rocked-by-thousands-of-quakes-every-year/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/17140724/SEI_221433851.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Hopes for new physics dashed by ordinary-looking W bosons at CERN",
+      "url": "https://www.newscientist.com/article/2448286-hopes-for-new-physics-dashed-by-ordinary-looking-w-bosons-at-cern/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/17130725/SEI_222025959.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "The AI expert who says artificial general intelligence is nonsense",
+      "url": "https://www.newscientist.com/article/mg26335091-000-the-ai-expert-who-says-artificial-general-intelligence-is-nonsense/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/13114414/SEI_221422062.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Complex chemicals found on Enceladus improve prospects for life",
+      "url": "https://www.newscientist.com/article/2447923-complex-chemicals-found-on-enceladus-improve-prospects-for-life/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/13110417/SEI_221284276.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Visible aurora spotted for the first time on Mars by NASA rover",
+      "url": "https://www.newscientist.com/article/2447603-visible-aurora-spotted-for-the-first-time-on-mars-by-nasa-rover/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/11155019/SEI_221124993.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "A riveting exploration of how AI models like ChatGPT changed the world",
+      "url": "https://www.newscientist.com/article/mg26335080-300-a-riveting-exploration-of-how-ai-models-like-chatgpt-changed-the-world/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/06164614/SEI_219917842.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Huge new volcano has burst through the surface of Jupiter’s moon Io",
+      "url": "https://www.newscientist.com/article/2447437-huge-new-volcano-has-burst-through-the-surface-of-jupiters-moon-io/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/11090835/SEI_220936645.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Cloud atlas of Mars reveals an atmosphere unlike our own",
+      "url": "https://www.newscientist.com/article/2447266-cloud-atlas-of-mars-reveals-an-atmosphere-unlike-our-own/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/09/10100456/SEI_220930493.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:50.979Z"
+    },
+    {
+      "title": "Astronomers puzzled by little red galaxies that seem impossibly dense",
+      "url": "https://www.newscientist.com/article/2445967-astronomers-puzzled-by-little-red-galaxies-that-seem-impossibly-dense/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/30145831/SEI_219239644.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Dark matter could be hiding inside strange failed stars",
+      "url": "https://www.newscientist.com/article/2445863-dark-matter-could-be-hiding-inside-strange-failed-stars/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/29202755/SEI_219103506.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "DNA computer can play chess and solve sudoku puzzles",
+      "url": "https://www.newscientist.com/article/2445224-dna-computer-can-play-chess-and-solve-sudoku-puzzles/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/23170818/SEI_218243586.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "A giant wave in the Milky Way may have been created by another galaxy",
+      "url": "https://www.newscientist.com/article/2445169-a-giant-wave-in-the-milky-way-may-have-been-created-by-another-galaxy/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/23134600/SEI_218332397.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Quantum trick lets you cool objects down using nothing at all",
+      "url": "https://www.newscientist.com/article/2444536-quantum-trick-lets-you-cool-objects-down-using-nothing-at-all/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/19160033/SEI_217598995.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "AI models can't learn as they go along like humans do",
+      "url": "https://www.newscientist.com/article/2444870-ai-models-cant-learn-as-they-go-along-like-humans-do/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Astronomers might finally have explanation for mysterious Wow! signal",
+      "url": "https://www.newscientist.com/article/2444798-astronomers-might-finally-have-explanation-for-mysterious-wow-signal/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Fuzzy quantum effects have been seen on the largest scale yet",
+      "url": "https://www.newscientist.com/article/2444628-fuzzy-quantum-effects-have-been-seen-on-the-largest-scale-yet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/20140353/SEI_217596532.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Discovery of 'dark' electrons could explain how superconductors work",
+      "url": "https://www.newscientist.com/article/2444360-discovery-of-dark-electrons-could-explain-how-superconductors-work/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Hellish conditions have warped an Earth-like planet into an egg",
+      "url": "https://www.newscientist.com/article/2444193-hellish-conditions-have-warped-an-earth-like-planet-into-an-egg/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/15171521/SEI_217489486.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk",
+      "url": "https://www.newscientist.com/article/2444078-why-the-t-in-chatgpt-is-ais-biggest-breakthrough-and-greatest-risk/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/15111606/SEI_217467197.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Could Mars become habitable with the help of glitter-like iron rods?",
+      "url": "https://www.newscientist.com/article/2443105-could-mars-become-habitable-with-the-help-of-glitter-like-iron-rods/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:53.122Z"
+    },
+    {
+      "title": "Banana-shaped galaxies are helping unpeel the mysteries of dark matter",
+      "url": "https://www.newscientist.com/article/2442369-banana-shaped-galaxies-are-helping-unpeel-the-mysteries-of-dark-matter/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.659Z"
+    },
+    {
+      "title": "Black holes may inherit their magnetic fields from neutron stars",
+      "url": "https://www.newscientist.com/article/2442542-black-holes-may-inherit-their-magnetic-fields-from-neutron-stars/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/02164138/SEI_215484512.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.659Z"
+    },
+    {
+      "title": "Water molecules found in lunar rock sample for the first time",
+      "url": "https://www.newscientist.com/article/2442475-water-molecules-found-in-lunar-rock-sample-for-the-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.659Z"
+    },
+    {
+      "title": "A slight curve helps rocks make the biggest splash",
+      "url": "https://www.newscientist.com/article/2442410-a-slight-curve-helps-rocks-make-the-biggest-splash/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/08/01155207/SEI_214086567.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.659Z"
+    },
+    {
+      "title": "Particle physicists may have solved a strange mystery about the muon",
+      "url": "https://www.newscientist.com/article/2441744-particle-physicists-may-have-solved-a-strange-mystery-about-the-muon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.659Z"
+    },
+    {
+      "title": "Wafer-thin light sail could help us reach another star sooner",
+      "url": "https://www.newscientist.com/article/2441366-wafer-thin-light-sail-could-help-us-reach-another-star-sooner/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/25102200/SEI_213733419.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "Watch a robot peel a squash with human-like dexterity",
+      "url": "https://www.newscientist.com/article/2440687-watch-a-robot-peel-a-squash-with-human-like-dexterity/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/23145043/SEI_213285031.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "We may finally know what caused the biggest cosmic explosion ever seen",
+      "url": "https://www.newscientist.com/article/2441423-we-may-finally-know-what-caused-the-biggest-cosmic-explosion-ever-seen/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/25123437/SEI_213963951.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "DeepMind AI gets silver medal at International Mathematical Olympiad",
+      "url": "https://www.newscientist.com/article/2441450-deepmind-ai-gets-silver-medal-at-international-mathematical-olympiad/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/25144939/SEI_214089039.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "Robot dog can stifle weeds by blasting them with a blowtorch",
+      "url": "https://www.newscientist.com/article/2439917-robot-dog-can-stifle-weeds-by-blasting-them-with-a-blowtorch/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/18162411/SEI_213319447.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "Universe’s missing matter may be explained by galaxies leaking gas",
+      "url": "https://www.newscientist.com/article/2440552-universes-missing-matter-may-be-explained-by-galaxies-leaking-gas/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/23095940/SEI_213825644.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "Chinese nuclear reactor is completely meltdown-proof",
+      "url": "https://www.newscientist.com/article/2440388-chinese-nuclear-reactor-is-completely-meltdown-proof/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/19165155/SEI_213444327.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:55.660Z"
+    },
+    {
+      "title": "Moon of Saturn has an equivalent of freshwater rivers and salty oceans",
+      "url": "https://www.newscientist.com/article/2439695-moon-of-saturn-has-an-equivalent-of-freshwater-rivers-and-salty-oceans/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/16115146/SEI_213043344.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "AI beats top racers at Gran Turismo – without cheating",
+      "url": "https://www.newscientist.com/article/2438564-ai-beats-top-racers-at-gran-turismo-without-cheating/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/04150940/SEI_211486789.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Weird form of 'dangling' ice spotted in space for the first time",
+      "url": "https://www.newscientist.com/article/2438583-weird-form-of-dangling-ice-spotted-in-space-for-the-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/04160104/SEI_211508596.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "3D-printed egg shells can help bones regrow",
+      "url": "https://www.newscientist.com/article/2438479-3d-printed-egg-shells-can-help-bones-regrow/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/07/04122111/SEI_210465760.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "$1m prize for AI that can solve puzzles that are simple for humans",
+      "url": "https://www.newscientist.com/article/2437029-1m-prize-for-ai-that-can-solve-puzzles-that-are-simple-for-humans/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/25141856/SEI_210324857.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "China’s Chang’e 6 returns with first rocks from far side of the moon",
+      "url": "https://www.newscientist.com/article/2436868-chinas-change-6-returns-with-first-rocks-from-far-side-of-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/25100337/SEI_210303798.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Mercury may have a layer of diamond beneath its grey surface",
+      "url": "https://www.newscientist.com/article/2436656-mercury-may-have-a-layer-of-diamond-beneath-its-grey-surface/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/24111356/SEI_209752577.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Microphone made of atom-thick graphene could be used in smartphones",
+      "url": "https://www.newscientist.com/article/2436470-microphone-made-of-atom-thick-graphene-could-be-used-in-smartphones/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/20164801/SEI_209577968.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Saturn's moon Titan is experiencing coastal erosion from methane seas",
+      "url": "https://www.newscientist.com/article/2436305-saturns-moon-titan-is-experiencing-coastal-erosion-from-methane-seas/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/19171927/SEI_209458668.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Chemists invoke bizarre Maxwell's demon on the largest scale yet",
+      "url": "https://www.newscientist.com/article/2435994-chemists-invoke-bizarre-maxwells-demon-on-the-largest-scale-yet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/18122700/SEI_209151691.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Mathematicians find odd shapes that roll like a wheel in any dimension",
+      "url": "https://www.newscientist.com/article/2435851-mathematicians-find-odd-shapes-that-roll-like-a-wheel-in-any-dimension/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/17150336/SEI_208711372.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Watch a humanoid robot driving a car extremely slowly",
+      "url": "https://www.newscientist.com/article/2435826-watch-a-humanoid-robot-driving-a-car-extremely-slowly/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/17135759/SEI_208710034.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:57.729Z"
+    },
+    {
+      "title": "Google's new quantum computer may help us understand how magnets work",
+      "url": "https://www.newscientist.com/article/2435816-googles-new-quantum-computer-may-help-us-understand-how-magnets-work/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/17133805/SEI_208286866.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.728Z"
+    },
+    {
+      "title": "Hybrid design could make nuclear fusion reactors more efficient",
+      "url": "https://www.newscientist.com/article/2435679-hybrid-design-could-make-nuclear-fusion-reactors-more-efficient/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.728Z"
+    },
+    {
+      "title": "Quantum sensor gets a read on tiny worm implanted with nanodiamonds",
+      "url": "https://www.newscientist.com/article/2435140-quantum-sensor-gets-a-read-on-tiny-worm-implanted-with-nanodiamonds/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.728Z"
+    },
+    {
+      "title": "The largest volcanoes on Mars have frosted tips during winter",
+      "url": "https://www.newscientist.com/article/2434940-the-largest-volcanoes-on-mars-have-frosted-tips-during-winter/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/10144416/SEI_208143553.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Physicists want to drill a 5-kilometre-deep hole on the moon",
+      "url": "https://www.newscientist.com/article/2434325-physicists-want-to-drill-a-5-kilometre-deep-hole-on-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/05124516/SEI_207356862.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Mathematicians can't agree what 'equals' means, and that's a problem",
+      "url": "https://www.newscientist.com/article/2433958-mathematicians-cant-agree-what-equals-means-and-thats-a-problem/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/03143017/SEI_206831966.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "China's Chang'e 6 spacecraft begins sampling on far side of the moon",
+      "url": "https://www.newscientist.com/article/2433866-chinas-change-6-spacecraft-begins-sampling-on-far-side-of-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/06/03112711/SEI_207202406.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Stunning image reveals the intricate structure of supersonic plasma",
+      "url": "https://www.newscientist.com/article/2433764-stunning-image-reveals-the-intricate-structure-of-supersonic-plasma/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/31154525/SEI_206674787.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "China is about to land on the far side of the moon with Chang'e 6",
+      "url": "https://www.newscientist.com/article/2433586-china-is-about-to-land-on-the-far-side-of-the-moon-with-change-6/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/30164341/SEI_206718491.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "'Unluckiest star' may be trapped in deadly dance with a black hole",
+      "url": "https://www.newscientist.com/article/2433489-unluckiest-star-may-be-trapped-in-deadly-dance-with-a-black-hole/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/29150747/SEI_206466432.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Ray Kurzweil and other experts clash over AI’s future in new books",
+      "url": "https://www.newscientist.com/article/mg26234930-300-ray-kurzweil-and-other-experts-clash-over-ais-future-in-new-books/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/28102510/SEI_205346503.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Hackers are using AI to find software bugs - but there is a downside",
+      "url": "https://www.newscientist.com/article/2433247-hackers-are-using-ai-to-find-software-bugs-but-there-is-a-downside/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/28144505/SEI_205388489.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:47:59.729Z"
+    },
+    {
+      "title": "Active lava flows on Venus raise the stakes for future exploration",
+      "url": "https://www.newscientist.com/article/2433077-active-lava-flows-on-venus-raise-the-stakes-for-future-exploration/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/24170033/SEI_205935452.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.897Z"
+    },
+    {
+      "title": "Mysterious element promethium finally reveals its chemical properties",
+      "url": "https://www.newscientist.com/article/2432243-mysterious-element-promethium-finally-reveals-its-chemical-properties/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/21154237/SEI_205363391.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "What is artificial general intelligence, and is it a useful concept?",
+      "url": "https://www.newscientist.com/article/mg26234921-600-what-is-artificial-general-intelligence-and-is-it-a-useful-concept/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/20144944/SEI_205166454.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Incredible maths proof is so complex that almost no one can explain it",
+      "url": "https://www.newscientist.com/article/2431964-incredible-maths-proof-is-so-complex-that-almost-no-one-can-explain-it/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/20102808/SEI_204622614.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Surgeons can use AI chatbot to tell robots to help with suturing",
+      "url": "https://www.newscientist.com/article/2431083-surgeons-can-use-ai-chatbot-to-tell-robots-to-help-with-suturing/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/14170418/SEI_204050412.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Quantum internet draws near thanks to entangled memory breakthroughs",
+      "url": "https://www.newscientist.com/article/2431464-quantum-internet-draws-near-thanks-to-entangled-memory-breakthroughs/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Watch a Möbius strip robot move and climb when hit by light",
+      "url": "https://www.newscientist.com/article/2430403-watch-a-mobius-strip-robot-move-and-climb-when-hit-by-light/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/09111839/SEI_203048851.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Mars is blasting plasma out of its atmosphere into space",
+      "url": "https://www.newscientist.com/article/2430187-mars-is-blasting-plasma-out-of-its-atmosphere-into-space/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/08155636/SEI_203195668.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Fusion reactors could create ingredients for a nuclear weapon in weeks",
+      "url": "https://www.newscientist.com/article/2430012-fusion-reactors-could-create-ingredients-for-a-nuclear-weapon-in-weeks/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/05/07165056/SEI_203064463.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Birthplace of red asteroid Kamo‘oalewa pinned to specific moon crater",
+      "url": "https://www.newscientist.com/article/2428500-birthplace-of-red-asteroid-kamooalewa-pinned-to-specific-moon-crater/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/25121717/SEI_201250531.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Why curbing chatbots' worst exploits is a game of whack-a-mole",
+      "url": "https://www.newscientist.com/article/mg26234881-200-why-curbing-chatbots-worst-exploits-is-a-game-of-whack-a-mole/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/22142618/SEI_200452889.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Will Amazon's robotic revolution spark a new wave of job losses?",
+      "url": "https://www.newscientist.com/article/2428065-will-amazons-robotic-revolution-spark-a-new-wave-of-job-losses/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/23134758/SEI_200991789.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:01.898Z"
+    },
+    {
+      "title": "Jupiter's moon Io has been a volcanic inferno for billions of years",
+      "url": "https://www.newscientist.com/article/2427524-jupiters-moon-io-has-been-a-volcanic-inferno-for-billions-of-years/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/18114146/SEI_200340813.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Planets that look alike might be a sign of spacefaring aliens",
+      "url": "https://www.newscientist.com/article/2426244-planets-that-look-alike-might-be-a-sign-of-spacefaring-aliens/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/10142113/SEI_199319035.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Fractal pattern identified at molecular scale in nature for first time",
+      "url": "https://www.newscientist.com/article/2426275-fractal-pattern-identified-at-molecular-scale-in-nature-for-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "How AI mathematicians might finally deliver human-level reasoning",
+      "url": "https://www.newscientist.com/article/mg26234863-300-how-ai-mathematicians-might-finally-deliver-human-level-reasoning/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/09121015/SEI_198633450.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Mathematician wins Turing award for harnessing randomness",
+      "url": "https://www.newscientist.com/article/2425914-mathematician-wins-turing-award-for-harnessing-randomness/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/08121417/SEI_198618497.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Laser-powered licence plates could help avoid satellite collisions",
+      "url": "https://www.newscientist.com/article/2425397-laser-powered-licence-plates-could-help-avoid-satellite-collisions/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/04/03124940/SEI_197735359.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Hyperelastic gel is one of the stretchiest materials known to science",
+      "url": "https://www.newscientist.com/article/2424774-hyperelastic-gel-is-one-of-the-stretchiest-materials-known-to-science/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Mathematicians are bitterly divided over a controversial proof",
+      "url": "https://www.newscientist.com/article/2424640-mathematicians-are-bitterly-divided-over-a-controversial-proof/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "This robot predicts when you're going to smile – and smiles back",
+      "url": "https://www.newscientist.com/article/2424545-this-robot-predicts-when-youre-going-to-smile-and-smiles-back/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/27144351/SEI_197627021.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "New view of our galaxy's black hole reveals a swirling magnetic field",
+      "url": "https://www.newscientist.com/article/2424508-new-view-of-our-galaxys-black-hole-reveals-a-swirling-magnetic-field/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/27111346/SEI_197604738.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Flavour-predicting AI can tell brewers how to make beer taste better",
+      "url": "https://www.newscientist.com/article/2424332-flavour-predicting-ai-can-tell-brewers-how-to-make-beer-taste-better/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/26151256/SEI_197492060.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "AI forecaster can predict the future better than humans",
+      "url": "https://www.newscientist.com/article/2424121-ai-forecaster-can-predict-the-future-better-than-humans/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/25191017/SEI_196712963.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:03.979Z"
+    },
+    {
+      "title": "Paper planes made by a robot fly better than ones made by humans",
+      "url": "https://www.newscientist.com/article/2423858-paper-planes-made-by-a-robot-fly-better-than-ones-made-by-humans/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/22135018/SEI_196711553.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Largest recorded solar storm was even bigger than we thought",
+      "url": "https://www.newscientist.com/article/2423567-largest-recorded-solar-storm-was-even-bigger-than-we-thought/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/21125028/SEI_196726839.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Why 2024 Abel prize winner Michel Talagrand became a mathematician",
+      "url": "https://www.newscientist.com/article/2423669-why-2024-abel-prize-winner-michel-talagrand-became-a-mathematician/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Mathematician wins 2024 Abel prize for making sense of randomness",
+      "url": "https://www.newscientist.com/article/2423192-mathematician-wins-2024-abel-prize-for-making-sense-of-randomness/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/20102645/SEI_196711739.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Mathematicians plan computer proof of Fermat's last theorem",
+      "url": "https://www.newscientist.com/article/2422601-mathematicians-plan-computer-proof-of-fermats-last-theorem/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/15125942/SEI_196127014.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Google AI learns to play open-world video games by watching them",
+      "url": "https://www.newscientist.com/article/2422101-google-ai-learns-to-play-open-world-video-games-by-watching-them/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/13135436/SEI_195854788.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Rethinking space and time could let us do away with dark matter",
+      "url": "https://www.newscientist.com/article/2422011-rethinking-space-and-time-could-let-us-do-away-with-dark-matter/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/13105635/SEI_195834269.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Google launches $5m prize to find actual uses for quantum computers",
+      "url": "https://www.newscientist.com/article/2420137-google-launches-5m-prize-to-find-actual-uses-for-quantum-computers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "How will AIs like ChatGPT affect elections this year?",
+      "url": "https://www.newscientist.com/article/mg26134800-100-how-will-ais-like-chatgpt-affect-elections-this-year/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Mathematicians discover 'soft cell' shapes behind the natural world",
+      "url": "https://www.newscientist.com/article/2418791-mathematicians-discover-soft-cell-shapes-behind-the-natural-world/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/23130124/SEI_192578233.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Huge set of galaxies is set to form largest cluster in known universe",
+      "url": "https://www.newscientist.com/article/2418413-huge-set-of-galaxies-is-set-to-form-largest-cluster-in-known-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/21162939/SEI_191496908.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "Tiny magnet could help measure gravity on the quantum scale",
+      "url": "https://www.newscientist.com/article/2418653-tiny-magnet-could-help-measure-gravity-on-the-quantum-scale/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/22164052/SEI_192725345.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:06.405Z"
+    },
+    {
+      "title": "A robot dog has learned to open doors with its leg",
+      "url": "https://www.newscientist.com/article/2418439-a-robot-dog-has-learned-to-open-doors-with-its-leg/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Casimir Funk: The scientist who gave us the word 'vitamin'",
+      "url": "https://www.newscientist.com/article/2418743-casimir-funk-the-scientist-who-gave-us-the-word-vitamin/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/23122319/SEI_192870410.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Largest volcanic eruption in recorded history happened 7300 years ago",
+      "url": "https://www.newscientist.com/article/2418306-largest-volcanic-eruption-in-recorded-history-happened-7300-years-ago/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/21121747/SEI_192440192.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Why forgetting things is a key part of the way your brain works",
+      "url": "https://www.newscientist.com/article/mg26134792-000-why-forgetting-things-is-a-key-part-of-the-way-your-brain-works/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/19103805/SEI_191640941.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Quantum computers are constantly hampered by cosmic rays",
+      "url": "https://www.newscientist.com/article/2417786-quantum-computers-are-constantly-hampered-by-cosmic-rays/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/19105140/SEI_191160138.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Monster black hole powers the brightest known object in the universe",
+      "url": "https://www.newscientist.com/article/2417791-monster-black-hole-powers-the-brightest-known-object-in-the-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/19111344/SEI_191790689.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Nanobot uses a DNA clutch to engage its engine",
+      "url": "https://www.newscientist.com/article/2416953-nanobot-uses-a-dna-clutch-to-engage-its-engine/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/13124357/SEI_191150210.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "The existence of a new kind of magnetism has been confirmed",
+      "url": "https://www.newscientist.com/article/2417255-the-existence-of-a-new-kind-of-magnetism-has-been-confirmed/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/14153321/SEI_191483493.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Satellite beamed power from space to Earth for the first time ever",
+      "url": "https://www.newscientist.com/article/2416982-satellite-beamed-power-from-space-to-earth-for-the-first-time-ever/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/13142701/SEI_190170768.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.549Z"
+    },
+    {
+      "title": "Quantum quirk explains why carbon dioxide causes global warming",
+      "url": "https://www.newscientist.com/article/2416418-quantum-quirk-explains-why-carbon-dioxide-causes-global-warming/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/08150400/SEI_190165316.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.550Z"
+    },
+    {
+      "title": "Quantum Cheshire Cat effect may separate a particle from its momentum",
+      "url": "https://www.newscientist.com/article/2416409-quantum-cheshire-cat-effect-may-separate-a-particle-from-its-momentum/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/08145728/SEI_190312069.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.550Z"
+    },
+    {
+      "title": "Old milk can be used to extract gold and other metals from e-waste",
+      "url": "https://www.newscientist.com/article/2416306-old-milk-can-be-used-to-extract-gold-and-other-metals-from-e-waste/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/07180717/SEI_188863733.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:08.550Z"
+    },
+    {
+      "title": "5 amazing things discovered by the eROSITA X-ray telescope",
+      "url": "https://www.newscientist.com/article/2416383-5-amazing-things-discovered-by-the-erosita-x-ray-telescope/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/08131957/SEI_189758025.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Cyborg locusts with brain nanoparticles could act as bomb sniffers",
+      "url": "https://www.newscientist.com/article/2416090-cyborg-locusts-with-brain-nanoparticles-could-act-as-bomb-sniffers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/07133204/SEI_190412510.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Saturn’s moon Mimas may be hiding a vast global ocean under its ice",
+      "url": "https://www.newscientist.com/article/2416084-saturns-moon-mimas-may-be-hiding-a-vast-global-ocean-under-its-ice/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/07122042/SEI_190195784.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Some animal cells contain tiny tornadoes that mix up their contents",
+      "url": "https://www.newscientist.com/article/2415409-some-animal-cells-contain-tiny-tornadoes-that-mix-up-their-contents/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/02/01150819/SEI_188748554.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Japan's SLIM moon lander regains power nine days after botched landing",
+      "url": "https://www.newscientist.com/article/2414496-japans-slim-moon-lander-regains-power-nine-days-after-botched-landing/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/29111425/SEI_189200845.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Heating and cooling seem to be fundamentally different, not opposites",
+      "url": "https://www.newscientist.com/article/2414361-heating-and-cooling-seem-to-be-fundamentally-different-not-opposites/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/26120258/SEI_187336726.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Mysterious black hole jets may be the source of powerful cosmic rays",
+      "url": "https://www.newscientist.com/article/2414228-mysterious-black-hole-jets-may-be-the-source-of-powerful-cosmic-rays/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Filterworld review: Are algorithms staging a cultural takeover?",
+      "url": "https://www.newscientist.com/article/mg26134750-500-filterworld-review-are-algorithms-staging-a-cultural-takeover/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/22161150/SEI_187619782.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "The tightest knot ever made is a tied-up chain 54 atoms long",
+      "url": "https://www.newscientist.com/article/2412787-the-tightest-knot-ever-made-is-a-tied-up-chain-54-atoms-long/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/17124210/SEI_186444011.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Mysterious object may be the lightest black hole we've ever seen",
+      "url": "https://www.newscientist.com/article/2413082-mysterious-object-may-be-the-lightest-black-hole-weve-ever-seen/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/19145537/SEI_187879270.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "Watch a plant-inspired robot grow towards light like a vine",
+      "url": "https://www.newscientist.com/article/2413133-watch-a-plant-inspired-robot-grow-towards-light-like-a-vine/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/18162943/SEI_187761517.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "New fiery doughnut image is our most detailed glimpse of a black hole",
+      "url": "https://www.newscientist.com/article/2412935-new-fiery-doughnut-image-is-our-most-detailed-glimpse-of-a-black-hole/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/18081148/SEI_187707989.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:10.462Z"
+    },
+    {
+      "title": "DeepMind AI solves hard geometry problems from mathematics olympiad",
+      "url": "https://www.newscientist.com/article/2412739-deepmind-ai-solves-hard-geometry-problems-from-mathematics-olympiad/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/17135354/SEI_187607754.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Caves seen on the surface of a comet for the first time",
+      "url": "https://www.newscientist.com/article/2412032-caves-seen-on-the-surface-of-a-comet-for-the-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/12110251/SEI_186875306.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Will AI make computer screens a thing of the past?",
+      "url": "https://www.newscientist.com/article/2412157-will-ai-make-computer-screens-a-thing-of-the-past/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/12164130/SEI_186914971.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "The sun could contain a tiny black hole that formed in the big bang",
+      "url": "https://www.newscientist.com/article/2411954-the-sun-could-contain-a-tiny-black-hole-that-formed-in-the-big-bang/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Molecules vital for life could survive in Venus’s acid clouds",
+      "url": "https://www.newscientist.com/article/2412021-molecules-vital-for-life-could-survive-in-venuss-acid-clouds/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/11162322/SEI_186783605.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "‘Islands’ poking out of black holes may solve the information paradox",
+      "url": "https://www.newscientist.com/article/2411246-islands-poking-out-of-black-holes-may-solve-the-information-paradox/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/08133444/SEI_184643771.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Vulcan launch: Why is NASA going back to the moon?",
+      "url": "https://www.newscientist.com/article/2411169-vulcan-launch-why-is-nasa-going-back-to-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Neptune isn't as blue as we thought it was",
+      "url": "https://www.newscientist.com/article/2410954-neptune-isnt-as-blue-as-we-thought-it-was/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/04155439/SEI_185952561.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Humanoid robot acts out prompts like it's playing charades",
+      "url": "https://www.newscientist.com/article/2410653-humanoid-robot-acts-out-prompts-like-its-playing-charades/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/03133121/SEI_184557067.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Are autonomous labs the future of science?",
+      "url": "https://www.newscientist.com/article/mg26134721-400-are-autonomous-labs-the-future-of-science/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Celebrating dark skies at a festival in deepest Denmark",
+      "url": "https://www.newscientist.com/article/mg26134721-700-celebrating-dark-skies-at-a-festival-in-deepest-denmark/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/29105659/SEI_184725263.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Extreme close-up of Jupiter’s moon Io captured by Juno spacecraft",
+      "url": "https://www.newscientist.com/article/2410511-extreme-close-up-of-jupiters-moon-io-captured-by-juno-spacecraft/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2024/01/02155408/SEI_1857667331.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:12.434Z"
+    },
+    {
+      "title": "Aloe vera plants turned into energy-storing supercapacitors",
+      "url": "https://www.newscientist.com/article/2409497-aloe-vera-plants-turned-into-energy-storing-supercapacitors/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/19122456/SEI_184072256.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Springs made from rusty metallic glass could power nanorobots",
+      "url": "https://www.newscientist.com/article/2409232-springs-made-from-rusty-metallic-glass-could-power-nanorobots/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/18110405/SEI_183921723.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Vera C. Rubin Observatory will start scanning the night sky in 2024",
+      "url": "https://www.newscientist.com/article/mg26034712-100-vera-c-rubin-observatory-will-start-scanning-the-night-sky-in-2024/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/19172918/SEI_184082907.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "AI firms will face copyright infringement lawsuits in 2024",
+      "url": "https://www.newscientist.com/article/mg26034712-500-ai-firms-will-face-copyright-infringement-lawsuits-in-2024/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Artificial pain sensors could help robots avoid damaging themselves",
+      "url": "https://www.newscientist.com/article/2409277-artificial-pain-sensors-could-help-robots-avoid-damaging-themselves/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/19112404/SEI_184620714.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "The best robot photos of 2023, from fashion shows to Hollywood strikes",
+      "url": "https://www.newscientist.com/article/2406622-the-best-robot-photos-of-2023-from-fashion-shows-to-hollywood-strikes/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/05150418/SEI_181435769.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Liquid magnet propellers could be a safer way to power boats",
+      "url": "https://www.newscientist.com/article/2409313-liquid-magnet-propellers-could-be-a-safer-way-to-power-boats/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/18150559/SEI_184539989.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Google wants to solve tricky physics problems with quantum computers",
+      "url": "https://www.newscientist.com/article/2409147-google-wants-to-solve-tricky-physics-problems-with-quantum-computers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Stunning JWST image of Uranus shows 13 rings and nine moons",
+      "url": "https://www.newscientist.com/article/2409389-stunning-jwst-image-of-uranus-shows-13-rings-and-nine-moons/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Housework robot can learn to do almost any chore in 20 minutes",
+      "url": "https://www.newscientist.com/article/2408273-housework-robot-can-learn-to-do-almost-any-chore-in-20-minutes/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/13121855/SEI_183894622.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "2023 was the year that artificial intelligence went mainstream",
+      "url": "https://www.newscientist.com/article/mg26034693-900-2023-was-the-year-that-artificial-intelligence-went-mainstream/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Tiny balls fit best inside a sausage, physicists confirm",
+      "url": "https://www.newscientist.com/article/2407999-tiny-balls-fit-best-inside-a-sausage-physicists-confirm/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/12110452/SEI_183056402.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:15.441Z"
+    },
+    {
+      "title": "Why adding water when you grind coffee beans makes for a better brew",
+      "url": "https://www.newscientist.com/article/2406880-why-adding-water-when-you-grind-coffee-beans-makes-for-a-better-brew/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/06114043/SEI_183010524.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Crystal-hunting DeepMind AI could help discover new wonder materials",
+      "url": "https://www.newscientist.com/article/2404929-crystal-hunting-deepmind-ai-could-help-discover-new-wonder-materials/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/27144700/SEI_181772473.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Six planets found orbiting a bright star 100 light years away",
+      "url": "https://www.newscientist.com/article/2405379-six-planets-found-orbiting-a-bright-star-100-light-years-away/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/29130646/SEI_182061041.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Majestic photo shows China's Tiangong space station in all its glory",
+      "url": "https://www.newscientist.com/article/2405167-majestic-photo-shows-chinas-tiangong-space-station-in-all-its-glory/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/28105458/SEI_181884485.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Physicists find ultimate limit for how accurate clocks can be",
+      "url": "https://www.newscientist.com/article/2405140-physicists-find-ultimate-limit-for-how-accurate-clocks-can-be/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/28104638/SEI_181798865.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Glimpse of the earliest supernovae could reveal our cosmic origins",
+      "url": "https://www.newscientist.com/article/2405128-glimpse-of-the-earliest-supernovae-could-reveal-our-cosmic-origins/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/12/14145539/SEI_184045393.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "‘Insect-eye’ compass can navigate by the sun even on a cloudy day",
+      "url": "https://www.newscientist.com/article/2404911-insect-eye-compass-can-navigate-by-the-sun-even-on-a-cloudy-day/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/27142057/SEI_181090253.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Cyborg jellyfish have a swimming cap and electric propulsion system",
+      "url": "https://www.newscientist.com/article/2404025-cyborg-jellyfish-have-a-swimming-cap-and-electric-propulsion-system/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/21115603/SEI_180623332.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "A mysterious, incredibly energetic cosmic ray has smashed into Earth",
+      "url": "https://www.newscientist.com/article/2404603-a-mysterious-incredibly-energetic-cosmic-ray-has-smashed-into-earth/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/23114133/SEI_181208026.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "AI cleaning robot can tidy up clothes in a messy bedroom",
+      "url": "https://www.newscientist.com/article/2404048-ai-cleaning-robot-can-tidy-up-clothes-in-a-messy-bedroom/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/21152134/SEI_181102879.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Strange nebula changes colour rhythmically like a mood lamp",
+      "url": "https://www.newscientist.com/article/2403734-strange-nebula-changes-colour-rhythmically-like-a-mood-lamp/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/20115956/SEI_179471978.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "Cooling system could replace air con and drastically cut energy use",
+      "url": "https://www.newscientist.com/article/2403491-cooling-system-could-replace-air-con-and-drastically-cut-energy-use/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/16170109/SEI_180460515.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:18.205Z"
+    },
+    {
+      "title": "SpaceX Starship launch delayed: What time is the new launch?",
+      "url": "https://www.newscientist.com/article/2403439-spacex-starship-launch-delayed-what-time-is-the-new-launch/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/16143609/SEI_180434580.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Flexible needle goes soft after injections for safety and comfort",
+      "url": "https://www.newscientist.com/article/2403047-flexible-needle-goes-soft-after-injections-for-safety-and-comfort/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/15103605/SEI_179587333.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "3D-printed robotic hand has working tendons and muscles",
+      "url": "https://www.newscientist.com/article/2402933-3d-printed-robotic-hand-has-working-tendons-and-muscles/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/14151121/SEI_180136486.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Robotic chemist discovers how to make oxygen from Martian minerals",
+      "url": "https://www.newscientist.com/article/2402636-robotic-chemist-discovers-how-to-make-oxygen-from-martian-minerals/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Underwater walkie-talkies could work long-distance with radio trick",
+      "url": "https://www.newscientist.com/article/2402350-underwater-walkie-talkies-could-work-long-distance-with-radio-trick/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Plants thrive in lunar soil with help from phosphorus-making bacteria",
+      "url": "https://www.newscientist.com/article/2402321-plants-thrive-in-lunar-soil-with-help-from-phosphorus-making-bacteria/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/10124151/SEI_179602158.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Superconductor hopes dashed after journal retracts ‘red matter’ study",
+      "url": "https://www.newscientist.com/article/2401794-superconductor-hopes-dashed-after-journal-retracts-red-matter-study/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/08121441/SEI_179191135.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "The sun is smaller than we thought it was",
+      "url": "https://www.newscientist.com/article/2401527-the-sun-is-smaller-than-we-thought-it-was/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/11/07110555/SEI_178380549.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Strange supernova blasts hint we have glimpsed a black hole’s birth",
+      "url": "https://www.newscientist.com/article/2399802-strange-supernova-blasts-hint-we-have-glimpsed-a-black-holes-birth/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/26121618/SEI_177376125.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Ice-spewing supervolcano may have been found on Pluto",
+      "url": "https://www.newscientist.com/article/2399530-ice-spewing-supervolcano-may-have-been-found-on-pluto/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Record-breaking quantum computer has more than 1000 qubits",
+      "url": "https://www.newscientist.com/article/2399246-record-breaking-quantum-computer-has-more-than-1000-qubits/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "Oddly bright burst may mean space is more transparent than we thought",
+      "url": "https://www.newscientist.com/article/2398865-oddly-bright-burst-may-mean-space-is-more-transparent-than-we-thought/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:20.943Z"
+    },
+    {
+      "title": "The moon is 40 million years older than we thought it was",
+      "url": "https://www.newscientist.com/article/2398867-the-moon-is-40-million-years-older-than-we-thought-it-was/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.937Z"
+    },
+    {
+      "title": "How to see the Orionid meteor shower in October and November",
+      "url": "https://www.newscientist.com/article/2398322-how-to-see-the-orionid-meteor-shower-in-october-and-november/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/18131357/SEI_176447854.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.937Z"
+    },
+    {
+      "title": "Largest quake ever seen on Mars points to surprising seismic activity",
+      "url": "https://www.newscientist.com/article/2398017-largest-quake-ever-seen-on-mars-points-to-surprising-seismic-activity/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.937Z"
+    },
+    {
+      "title": "Largest known solar storm struck Earth 14,300 years ago",
+      "url": "https://www.newscientist.com/article/2396456-largest-known-solar-storm-struck-earth-14300-years-ago/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/06162635/SEI_174908249.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.937Z"
+    },
+    {
+      "title": "Why trying to photograph a black hole was a massive gamble",
+      "url": "https://www.newscientist.com/article/2395744-why-trying-to-photograph-a-black-hole-was-a-massive-gamble/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/03154918/SEI_174436548.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.937Z"
+    },
+    {
+      "title": "JWST should soon glimpse the very first stars born after the big bang",
+      "url": "https://www.newscientist.com/article/2396025-jwst-should-soon-glimpse-the-very-first-stars-born-after-the-big-bang/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/04182206/SEI_174409669.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "We still don't really understand what large language models are",
+      "url": "https://www.newscientist.com/article/mg25934590-600-we-still-dont-really-understand-what-large-language-models-are/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/03105309/SEI_173874643.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Quantum AI image generator is no match for ones on ordinary computers",
+      "url": "https://www.newscientist.com/article/2395233-quantum-ai-image-generator-is-no-match-for-ones-on-ordinary-computers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/02113726/SEI_173865272.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Nobel prize for physics goes to trio who sliced up time with light",
+      "url": "https://www.newscientist.com/article/2395567-nobel-prize-for-physics-goes-to-trio-who-sliced-up-time-with-light/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/03110157/SEI_174410760.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Large Hadron Collider turned into world's biggest quantum experiment",
+      "url": "https://www.newscientist.com/article/2395452-large-hadron-collider-turned-into-worlds-biggest-quantum-experiment/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/02162934/SEI_174317742.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Water may be forming on the moon thanks to Earth’s magnetic field",
+      "url": "https://www.newscientist.com/article/2395070-water-may-be-forming-on-the-moon-thanks-to-earths-magnetic-field/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/29135207/SEI_173493846.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Astronomers alarmed by satellite that outshines all but seven stars",
+      "url": "https://www.newscientist.com/article/2395238-astronomers-alarmed-by-satellite-that-outshines-all-but-seven-stars/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/10/02123214/SEI_174271305.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:22.938Z"
+    },
+    {
+      "title": "Waste plastic can be recycled into hydrogen fuel and graphene",
+      "url": "https://www.newscientist.com/article/2394144-waste-plastic-can-be-recycled-into-hydrogen-fuel-and-graphene/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Super-heatproof computer memory survives temperatures over 500°C",
+      "url": "https://www.newscientist.com/article/2394256-super-heatproof-computer-memory-survives-temperatures-over-500c/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/27110926/SEI_173494949.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Antimatter definitely doesn't fall up, physicists confirm",
+      "url": "https://www.newscientist.com/article/2394304-antimatter-definitely-doesnt-fall-up-physicists-confirm/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/27111234/SEI_173497491.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "This is the best place to build a moon base",
+      "url": "https://www.newscientist.com/article/2393888-this-is-the-best-place-to-build-a-moon-base/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/25102349/SEI_172600966.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Samples from asteroid Bennu brought back to Earth by NASA's OSIRIS-REx",
+      "url": "https://www.newscientist.com/article/2393877-samples-from-asteroid-bennu-brought-back-to-earth-by-nasas-osiris-rex/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/25095823/SEI_173228947.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Twisted lasers could let us send messages with gravitational waves",
+      "url": "https://www.newscientist.com/article/2393613-twisted-lasers-could-let-us-send-messages-with-gravitational-waves/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/22112712/SEI_172755805.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Watch a cyborg cockroach navigate a maze",
+      "url": "https://www.newscientist.com/article/2392588-watch-a-cyborg-cockroach-navigate-a-maze/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/18122511/SEI_171749670.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "High-flying microplastics could pose a threat to the ozone layer",
+      "url": "https://www.newscientist.com/article/2391496-high-flying-microplastics-could-pose-a-threat-to-the-ozone-layer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/13105805/SEI_171399079.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "The earliest black holes seen by JWST appear to be unusually massive",
+      "url": "https://www.newscientist.com/article/2391777-the-earliest-black-holes-seen-by-jwst-appear-to-be-unusually-massive/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/13114910/SEI_171281973.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "The MANIAC review: A dark novel about the legendary John von Neumann",
+      "url": "https://www.newscientist.com/article/mg25934550-500-the-maniac-review-a-dark-novel-about-the-legendary-john-von-neumann/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/04130027/SEI_169400329.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Why haven't we got useful quantum computers yet?",
+      "url": "https://www.newscientist.com/article/2390568-why-havent-we-got-useful-quantum-computers-yet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/09/04155456/SEI_169692145.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Toughest known structure discovered by autonomous robot lab",
+      "url": "https://www.newscientist.com/article/2389188-toughest-known-structure-discovered-by-autonomous-robot-lab/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/29162538/SEI_169177463.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:25.166Z"
+    },
+    {
+      "title": "Maxwell's demon imagined by physicists really exists inside our cells",
+      "url": "https://www.newscientist.com/article/2389336-maxwells-demon-imagined-by-physicists-really-exists-inside-our-cells/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/25135439/SEI_168773043.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "JWST may have seen black holes suppressing the creation of new stars",
+      "url": "https://www.newscientist.com/article/2389145-jwst-may-have-seen-black-holes-suppressing-the-creation-of-new-stars/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "3D-printed toilet is so slippery that nothing can leave a mark",
+      "url": "https://www.newscientist.com/article/2388226-3d-printed-toilet-is-so-slippery-that-nothing-can-leave-a-mark/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Google AI predicts floods four days early in South America and Africa",
+      "url": "https://www.newscientist.com/article/2387547-google-ai-predicts-floods-four-days-early-in-south-america-and-africa/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Flying bird robot can soar so well it uses almost no power",
+      "url": "https://www.newscientist.com/article/2387613-flying-bird-robot-can-soar-so-well-it-uses-almost-no-power/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/15160625/SEI_167614324.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Springy ice seen for the first time may explain how clouds make rain",
+      "url": "https://www.newscientist.com/article/2387874-springy-ice-seen-for-the-first-time-may-explain-how-clouds-make-rain/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/16145147/SEI_167826708.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Aliens on low-oxygen worlds may never discover fire",
+      "url": "https://www.newscientist.com/article/2387518-aliens-on-low-oxygen-worlds-may-never-discover-fire/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/15131041/SEI_167617762.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Robotic gripper made of paper can grab both delicate and heavy things",
+      "url": "https://www.newscientist.com/article/2387376-robotic-gripper-made-of-paper-can-grab-both-delicate-and-heavy-things/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/14175301/SEI_167151438.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Wonky shapes can be made to roll along a specific path of your choice",
+      "url": "https://www.newscientist.com/article/2386806-wonky-shapes-can-be-made-to-roll-along-a-specific-path-of-your-choice/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/10110106/SEI_167139728.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "'Demon' particle found in superconductor could explain how they work",
+      "url": "https://www.newscientist.com/article/2386751-demon-particle-found-in-superconductor-could-explain-how-they-work/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Mars used to have wet and dry seasons similar to ones on Earth",
+      "url": "https://www.newscientist.com/article/2386760-mars-used-to-have-wet-and-dry-seasons-similar-to-ones-on-earth/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/09152817/SEI_167059781.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Brown dwarf is locked in a destructive 2-hour orbit with a tiny star",
+      "url": "https://www.newscientist.com/article/2386788-brown-dwarf-is-locked-in-a-destructive-2-hour-orbit-with-a-tiny-star/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/08/09152027/SEI_166515883.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:27.614Z"
+    },
+    {
+      "title": "Artificial spider silk could help us harvest drinking water from air",
+      "url": "https://www.newscientist.com/article/2384658-artificial-spider-silk-could-help-us-harvest-drinking-water-from-air/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/26163759/SEI_165508922.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Essential molecule for life spotted floating in space for first time",
+      "url": "https://www.newscientist.com/article/2384657-essential-molecule-for-life-spotted-floating-in-space-for-first-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/26163724/SEI_165374227.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Shirt woven with metal could help medical implants communicate",
+      "url": "https://www.newscientist.com/article/2384486-shirt-woven-with-metal-could-help-medical-implants-communicate/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/26145954/SEI_165498222.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Could Elon Musk's xAI be exactly what the world needs?",
+      "url": "https://www.newscientist.com/article/mg25934490-700-could-elon-musks-xai-be-exactly-what-the-world-needs/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/24135947/SEI_164679667.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Earth is coated in ancient space dust that could be from the moon",
+      "url": "https://www.newscientist.com/article/2383756-earth-is-coated-in-ancient-space-dust-that-could-be-from-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "NASA's asteroid-smashing space debris spotted by Hubble telescope",
+      "url": "https://www.newscientist.com/article/2383610-nasas-asteroid-smashing-space-debris-spotted-by-hubble-telescope/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/20162130/SEI_164808318.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Distant planet may be the first known to share its orbit with another",
+      "url": "https://www.newscientist.com/article/2383249-distant-planet-may-be-the-first-known-to-share-its-orbit-with-another/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.960Z"
+    },
+    {
+      "title": "Ancient graphene formed 3 billion years before humans discovered it",
+      "url": "https://www.newscientist.com/article/2382891-ancient-graphene-formed-3-billion-years-before-humans-discovered-it/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.961Z"
+    },
+    {
+      "title": "Eunice Newton Foote: The woman who discovered the greenhouse effect",
+      "url": "https://www.newscientist.com/article/2382758-eunice-newton-foote-the-woman-who-discovered-the-greenhouse-effect/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/26124744/SEI_165484170.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.961Z"
+    },
+    {
+      "title": "Stars found hidden in huge cloud wrapped around the Milky Way",
+      "url": "https://www.newscientist.com/article/2382128-stars-found-hidden-in-huge-cloud-wrapped-around-the-milky-way/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/12115548/SEI_163183838.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.961Z"
+    },
+    {
+      "title": "Microplastics found in the soil on farms used to grow crops",
+      "url": "https://www.newscientist.com/article/2381896-microplastics-found-in-the-soil-on-farms-used-to-grow-crops/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.961Z"
+    },
+    {
+      "title": "Meteorite left Earth then landed back down after round trip to space",
+      "url": "https://www.newscientist.com/article/2381928-meteorite-left-earth-then-landed-back-down-after-round-trip-to-space/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:29.961Z"
+    },
+    {
+      "title": "Gravitational waves spark hunt for cosmic strings and dark matter",
+      "url": "https://www.newscientist.com/article/2381652-gravitational-waves-spark-hunt-for-cosmic-strings-and-dark-matter/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/10095705/SEI_163211368.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Water mixed with nanoparticles can be carved into shapes by a laser",
+      "url": "https://www.newscientist.com/article/2381574-water-mixed-with-nanoparticles-can-be-carved-into-shapes-by-a-laser/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/07142917/SEI_163195200.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Solar panels could be about to get much better at capturing sunlight",
+      "url": "https://www.newscientist.com/article/2381425-solar-panels-could-be-about-to-get-much-better-at-capturing-sunlight/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/06160559/SEI_163064826.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Mathematicians calculate 42-digit number after decades of trying",
+      "url": "https://www.newscientist.com/article/2380893-mathematicians-calculate-42-digit-number-after-decades-of-trying/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/07/03160510/SEI_162671292.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Stunning JWST image sees Saturn show off its glowing rings",
+      "url": "https://www.newscientist.com/article/2380703-stunning-jwst-image-sees-saturn-show-off-its-glowing-rings/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Virgin Galactic space plane makes its first commercial flight",
+      "url": "https://www.newscientist.com/article/2380511-virgin-galactic-space-plane-makes-its-first-commercial-flight/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/29121727/SEI_162186364.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Gravitational waves produce a background hum across the whole universe",
+      "url": "https://www.newscientist.com/article/2380451-gravitational-waves-produce-a-background-hum-across-the-whole-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/28173144/SEI_162045713.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "The Milky Way could contain thousands of stars from another galaxy",
+      "url": "https://www.newscientist.com/article/2379030-the-milky-way-could-contain-thousands-of-stars-from-another-galaxy/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/20154455/SEI_160970373.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Quantum computers could slash the energy use of cryptocurrencies",
+      "url": "https://www.newscientist.com/article/2379058-quantum-computers-could-slash-the-energy-use-of-cryptocurrencies/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/20165800/SEI_160867357.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Scientists want to give robots hands made from living woodlice",
+      "url": "https://www.newscientist.com/article/2378715-scientists-want-to-give-robots-hands-made-from-living-woodlice/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/16151456/SEI_160370335.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "AIs will become useless if they keep learning from other AIs",
+      "url": "https://www.newscientist.com/article/2378706-ais-will-become-useless-if-they-keep-learning-from-other-ais/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/16143310/SEI_160487397.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Robotics gets less attention than it should given its potential impact",
+      "url": "https://www.newscientist.com/article/mg25834430-100-robotics-gets-less-attention-than-it-should-given-its-potential-impact/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/13141218/SEI_159530819.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:32.387Z"
+    },
+    {
+      "title": "Fastest star in the galaxy clocked at 2285 kilometres per second",
+      "url": "https://www.newscientist.com/article/2378266-fastest-star-in-the-galaxy-clocked-at-2285-kilometres-per-second/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/14112653/SEI_159968470.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Robot gardener grows plants as well as humans do but uses less water",
+      "url": "https://www.newscientist.com/article/2377605-robot-gardener-grows-plants-as-well-as-humans-do-but-uses-less-water/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "My out-of-body experience controlling a robotic avatar",
+      "url": "https://www.newscientist.com/video/2377023-my-out-of-body-experience-controlling-a-robotic-avatar/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/05182925/telepresence-security-robot.00_01_05_17.still0031.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Massive Turing test shows we can only just tell AIs apart from humans",
+      "url": "https://www.newscientist.com/article/2376899-massive-turing-test-shows-we-can-only-just-tell-ais-apart-from-humans/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/06/05163041/shutterstock_1049679836-ai.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Bendy solar panels are just as good as regular ones",
+      "url": "https://www.newscientist.com/article/2375311-bendy-solar-panels-are-just-as-good-as-regular-ones/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/24111802/SEI_157361160.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Nuclear clocks could be the best timepiece in the universe",
+      "url": "https://www.newscientist.com/article/2375291-nuclear-clocks-could-be-the-best-timepiece-in-the-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/24102606/SEI_157456369.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "This house is made from recycled diapers mixed into concrete",
+      "url": "https://www.newscientist.com/article/2374238-this-house-is-made-from-recycled-diapers-mixed-into-concrete/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/17171727/SEI_156304590.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Octopus-inspired ink changes colour when exposed to light",
+      "url": "https://www.newscientist.com/article/2374039-octopus-inspired-ink-changes-colour-when-exposed-to-light/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/17173737/SEI_156365578.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Microbombs detonated by ultrasound can blast away tooth decay bacteria",
+      "url": "https://www.newscientist.com/article/2373598-microbombs-detonated-by-ultrasound-can-blast-away-tooth-decay-bacteria/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/15163443/SEI_156054205.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Watch 44 million atoms simulated using AI and a supercomputer",
+      "url": "https://www.newscientist.com/article/2373022-watch-44-million-atoms-simulated-using-ai-and-a-supercomputer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Smart glove enhances your sense of touch in virtual reality",
+      "url": "https://www.newscientist.com/article/2372921-smart-glove-enhances-your-sense-of-touch-in-virtual-reality/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Chaotically shifting planets could be a sign of advanced aliens",
+      "url": "https://www.newscientist.com/article/2373300-chaotically-shifting-planets-could-be-a-sign-of-advanced-aliens/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/11141746/SEI_153437478.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:34.780Z"
+    },
+    {
+      "title": "Saturn now has over 100 known moons - more than any other planet",
+      "url": "https://www.newscientist.com/article/2373201-saturn-now-has-over-100-known-moons-more-than-any-other-planet/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/10171227/SEI_155376828.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Weird particle that remembers its past discovered by quantum computer",
+      "url": "https://www.newscientist.com/article/2372659-weird-particle-that-remembers-its-past-discovered-by-quantum-computer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/09132812/SEI_154691542.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Mechanical backpack boosts the sensation of jumping in virtual reality",
+      "url": "https://www.newscientist.com/article/2371594-mechanical-backpack-boosts-the-sensation-of-jumping-in-virtual-reality/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Electronic cochlea adjusts to noise levels like a human ear",
+      "url": "https://www.newscientist.com/article/2372117-electronic-cochlea-adjusts-to-noise-levels-like-a-human-ear/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Material that sends sound from water to air could help eavesdroppers",
+      "url": "https://www.newscientist.com/article/2371340-material-that-sends-sound-from-water-to-air-could-help-eavesdroppers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/28141818/SEI_152679364.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Alien messages responding to NASA signals could reach us by 2029",
+      "url": "https://www.newscientist.com/article/2371222-alien-messages-responding-to-nasa-signals-could-reach-us-by-2029/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/27163359/SEI_153322353.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Underwater writing technique lets you draw patterns in liquids",
+      "url": "https://www.newscientist.com/article/2370913-underwater-writing-technique-lets-you-draw-patterns-in-liquids/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Chemists are teaching GPT-4 to do chemistry and control lab robots",
+      "url": "https://www.newscientist.com/article/2370923-chemists-are-teaching-gpt-4-to-do-chemistry-and-control-lab-robots/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Quantum computers could simulate a black hole in the next decade",
+      "url": "https://www.newscientist.com/article/2370695-quantum-computers-could-simulate-a-black-hole-in-the-next-decade/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "It may have been snowing on Mars 400,000 years ago",
+      "url": "https://www.newscientist.com/article/2371296-it-may-have-been-snowing-on-mars-400000-years-ago/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/28155228/SEI_153783526.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "Google robot learns to sort the recyclables left in office waste bins",
+      "url": "https://www.newscientist.com/article/2370068-google-robot-learns-to-sort-the-recyclables-left-in-office-waste-bins/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/20122806/SEI_152683718.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.204Z"
+    },
+    {
+      "title": "SpaceX launch cancelled: Why didn't Elon Musk's Starship blast off?",
+      "url": "https://www.newscientist.com/article/2369297-spacex-launch-cancelled-why-didnt-elon-musks-starship-blast-off/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/17143548/SEI_152279121.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:37.205Z"
+    },
+    {
+      "title": "Starship livestream: Watch SpaceX launch the most powerful rocket ever",
+      "url": "https://www.newscientist.com/article/2369173-starship-livestream-watch-spacex-launch-the-most-powerful-rocket-ever/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/17105234/SEI_152279213.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.752Z"
+    },
+    {
+      "title": "Exoplanets with a permanent day side may sometimes flip into night",
+      "url": "https://www.newscientist.com/article/2368055-exoplanets-with-a-permanent-day-side-may-sometimes-flip-into-night/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/05163942/SEI_150992948.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.752Z"
+    },
+    {
+      "title": "Shapes 3D printed into living worms could be future of brain implants",
+      "url": "https://www.newscientist.com/article/2367949-shapes-3d-printed-into-living-worms-could-be-future-of-brain-implants/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/05114158/SEI_150747213.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.752Z"
+    },
+    {
+      "title": "Breathtaking JWST image of Uranus shows rings, clouds and a polar cap",
+      "url": "https://www.newscientist.com/article/2368271-breathtaking-jwst-image-of-uranus-shows-rings-clouds-and-a-polar-cap/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/06160828/SEI_151092237.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.752Z"
+    },
+    {
+      "title": "Solar flares made in the lab could teach us about the real thing",
+      "url": "https://www.newscientist.com/article/2368042-solar-flares-made-in-the-lab-could-teach-us-about-the-real-thing/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/06102349/SEI_151063218.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.752Z"
+    },
+    {
+      "title": "Crystal impervious to radiation could be used in spaceship computers",
+      "url": "https://www.newscientist.com/article/2367286-crystal-impervious-to-radiation-could-be-used-in-spaceship-computers/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "Cancer tumours in mice shrunk thanks to oxygen-sucking battery",
+      "url": "https://www.newscientist.com/article/2367295-cancer-tumours-in-mice-shrunk-thanks-to-oxygen-sucking-battery/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/31160016/SEI_150387548.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "This map of Venus shows every volcano we know about on its surface",
+      "url": "https://www.newscientist.com/article/2367101-this-map-of-venus-shows-every-volcano-we-know-about-on-its-surface/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/30125556/SEI_150233936.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "Reliably detecting AI-generated text is mathematically impossible",
+      "url": "https://www.newscientist.com/article/2366824-reliably-detecting-ai-generated-text-is-mathematically-impossible/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/29175922/SEI_150112351.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "JWST has spotted the earliest black hole ever seen in the universe",
+      "url": "https://www.newscientist.com/article/2366656-jwst-has-spotted-the-earliest-black-hole-ever-seen-in-the-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/28153055/SEI_149526443.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "Protons seem to be a different size depending on how you look at them",
+      "url": "https://www.newscientist.com/article/2366932-protons-seem-to-be-a-different-size-depending-on-how-you-look-at-them/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/29150533/SEI_150114785.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "Ultra-tough battery survives hammer blows and being run over by a car",
+      "url": "https://www.newscientist.com/article/2366639-ultra-tough-battery-survives-hammer-blows-and-being-run-over-by-a-car/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/29094149/SEI_150004914.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:39.753Z"
+    },
+    {
+      "title": "Graphene with ripples could help make better hydrogen fuel cells",
+      "url": "https://www.newscientist.com/article/2366074-graphene-with-ripples-could-help-make-better-hydrogen-fuel-cells/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:42.076Z"
+    },
+    {
+      "title": "Astronauts could mine drinking water from glass beads on the moon",
+      "url": "https://www.newscientist.com/article/2366405-astronauts-could-mine-drinking-water-from-glass-beads-on-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/27154841/SEI_149862284.jpg?width=788",
+      "scrapedAt": "2024-12-24T14:48:42.076Z"
+    },
+    {
       "title": "Why we need to be wary of anthropomorphising chatbots",
       "url": "https://www.newscientist.com/article/0-why-we-need-to-be-wary-of-anthropomorphising-chatbots/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"

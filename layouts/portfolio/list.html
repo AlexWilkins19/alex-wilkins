@@ -1,99 +1,146 @@
 {{ define "main" }}
 <div class="grid-wrapper">
-  <div class="introwords" style="max-width: 1200px; margin: 0 auto;"> <!-- Add 'margin: 0 auto' to center the div -->
-    {{ $portfolio := where .Site.RegularPages "Section" "portfolio" }}
-    {{ $num_articles := len $portfolio }}
-    <div style="margin-left: 15vw;"> <!-- Add this wrapper div -->
+
+  <!-- Intro section, unchanged except for counting articles from the JSON -->
+  <div class="introwords" style="max-width: 1200px; margin: 0 auto;">
+    {{ $numArticles := len .Site.Data.articles.articles }}
+    <div style="margin-left: 15vw;">
       <p class="words">
-        I've been at New Scientist since 2021, in which time I've written {{ $num_articles }} articles.
+        I've been at New Scientist since 2021, in which time I've written {{ $numArticles }} articles.
         You can browse them at the bottom of the page. Here is a selection of my best work.
       </p>
     </div>
   </div>
 
-
-    <h2 class="SectionHeading">Highlights</h2>
-    <hr class="hrline">
-    <div class="grid-container highlights">
-      <div class="grid-item">
-        <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank" rel="noopener noreferrer">
-          <article class="Card">
-            <div class="Card__Content">
-              <div class="Card__ImageWrapper grid-image-wrapper">
-                <img src="https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=900" alt="Human hibernation is a real possibility - this is how it might work" width="1350" height="900" />
-              </div>
-              <div class="Card__CopyWrapper">
-                <h3 class="Card__Title">Human hibernation is a real possibility - this is how it might work</h3>
-              </div>
+  <!-- HIGHLIGHTS SECTION (unchanged) -->
+  <h2 class="SectionHeading">Highlights</h2>
+  <hr class="hrline">
+  <div class="grid-container highlights">
+    <div class="grid-item">
+      <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank" rel="noopener noreferrer">
+        <article class="Card">
+          <div class="Card__Content">
+            <div class="Card__ImageWrapper grid-image-wrapper">
+              <img src="https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=900"
+                   alt="Human hibernation is a real possibility - this is how it might work"
+                   width="1350" height="900" />
             </div>
-          </article>
-        </a>
-      </div>
-      <div class="grid-item">
-        <a class="CardLink" href="https://www.newscientist.com/article/2315418-particle-physics-could-be-rewritten-after-shock-w-boson-measurement/" target="_blank">
-          <article class="Card">
-            <div class="Card__Content">
-              <div class="Card__ImageWrapper grid-image-wrapper">
-                <img src="https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=900" alt="Particle physics could be rewritten after shock W boson measurement" width="1350" height="900" />
-              </div>
-              <div class="Card__CopyWrapper">
-                <h3 class="Card__Title">Particle physics could be rewritten after shock W boson measurement</h3>
-              </div>
+            <div class="Card__CopyWrapper">
+              <h3 class="Card__Title">Human hibernation is a real possibility - this is how it might work</h3>
             </div>
-          </article>
-        </a>
-      </div>
-      <div class="grid-item">
-        <a class="CardLink" href="https://www.newscientist.com/article/2346939-how-will-ais-that-generate-videos-from-text-transform-media-online/" target="_blank">
-          <article class="Card">
-            <div class="Card__Content">
-              <div class="Card__ImageWrapper grid-image-wrapper">
-                <img src="https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=900" alt="How will AIs that generate videos from text transform media online?" width="1350" height="900" />
-              </div>
-              <div class="Card__CopyWrapper">
-                <h3 class="Card__Title">How will AIs that generate videos from text transform media online?</h3>
-              </div>
-            </div>
-          </article>
-        </a>
-      </div>
+          </div>
+        </article>
+      </a>
     </div>
-
-
-
-    <h2 class="SectionHeading" id="newscientisttop">New Scientist</h2>
-    <div class="page-indicator" style="text-align: right; margin-bottom: 1rem;"></div>
-    <hr class="hrline">
-    <div class="grid-container new scientist">
-      {{ $perPage := 9 }}
-      {{ $pages := where .Site.RegularPages "Type" "portfolio" }}
-      {{ $paginator := .Paginate $pages }}
-      {{ range sort $paginator.Pages ".Weight" }}
-        <div class="grid-item">
-          <a class="CardLink" href="javascript:void(0);" data-url="{{ index $.Site.Data.external_urls (printf "article%d" .Params.index) }}" tabindex="0">
-            <article class="Card">
-              <div class="Card__Content">
-                <div class="Card__ImageWrapper grid-image-wrapper">
-                  <img src="{{ .Params.imageUrl }}" alt="{{ .Title }}" width="1350" height="900" />
-                </div>
-                <div class="Card__CopyWrapper">
-                  <h3 class="Card__Title">{{ .Title }}</h3>
-                </div>
-              </div>
-            </article>
-          </a>
-        </div>
-      {{ end }}
+    <div class="grid-item">
+      <a class="CardLink" href="https://www.newscientist.com/article/2315418-particle-physics-could-be-rewritten-after-shock-w-boson-measurement/" target="_blank">
+        <article class="Card">
+          <div class="Card__Content">
+            <div class="Card__ImageWrapper grid-image-wrapper">
+              <img src="https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=900"
+                   alt="Particle physics could be rewritten after shock W boson measurement"
+                   width="1350" height="900" />
+            </div>
+            <div class="Card__CopyWrapper">
+              <h3 class="Card__Title">Particle physics could be rewritten after shock W boson measurement</h3>
+            </div>
+          </div>
+        </article>
+      </a>
     </div>
-    <div class="paginator" style="text-align:center; clear:both;">
-      {{ if $paginator.HasPrev }}
-        <a href="{{ $paginator.Prev.URL }}" class="prev-link">Previous</a>
-      {{ end }}
-      <div class="current-page" style="display: inline-block; margin: 0 1rem;">Page {{ $paginator.PageNumber }}/{{ $paginator.TotalPages }}</div>
-      {{ if $paginator.HasNext }}
-        <a href="{{ $paginator.Next.URL }}" class="next-link">Next</a>
-      {{ end }}
+    <div class="grid-item">
+      <a class="CardLink" href="https://www.newscientist.com/article/2346939-how-will-ais-that-generate-videos-from-text-transform-media-online/" target="_blank">
+        <article class="Card">
+          <div class="Card__Content">
+            <div class="Card__ImageWrapper grid-image-wrapper">
+              <img src="https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=900"
+                   alt="How will AIs that generate videos from text transform media online?"
+                   width="1350" height="900" />
+            </div>
+            <div class="Card__CopyWrapper">
+              <h3 class="Card__Title">How will AIs that generate videos from text transform media online?</h3>
+            </div>
+          </div>
+        </article>
+      </a>
     </div>
   </div>
-  {{ partial "scroll-to-grid.js" . }}
+
+  <!-- NEW SCIENTIST SECTION (paginated) -->
+  <h2 class="SectionHeading" id="newscientisttop">New Scientist</h2>
+  <div class="page-indicator" style="text-align: right; margin-bottom: 1rem;"></div>
+  <hr class="hrline">
+
+  <!-- 1) Gather and define pagination variables -->
+  {{ $allArticles := .Site.Data.articles.articles }}
+  {{ $pageSize := 9 }} <!-- 9 articles per page -->
+  {{ $currentPage := .Param "page" | default "1" | int }}
+  
+  <!-- 2) Calculate start/end indices for the slice -->
+  {{ $start := mul (sub $currentPage 1) $pageSize }}
+  {{ if lt $start 0 }} {{ $start = 0 }} {{ end }}
+
+  {{ $end := add $start $pageSize }}
+  {{ $totalArticles := len $allArticles }}
+  {{ if gt $end $totalArticles }} {{ $end = $totalArticles }} {{ end }}
+
+  <!-- 3) Create a slice of articles for the current page -->
+  {{ $articlesForPage := first $pageSize (after $start $allArticles) }}
+
+  <!-- 4) Display them in a grid -->
+  <div class="grid-container new scientist">
+    {{ range $articlesForPage }}
+      <div class="grid-item">
+        <a class="CardLink" href="{{ .url }}" target="_blank" rel="noopener">
+          <article class="Card">
+            <div class="Card__Content">
+              <div class="Card__ImageWrapper grid-image-wrapper">
+                <img src="{{ .imageUrl }}"
+                     alt="{{ .title }}"
+                     width="1350" height="900" />
+              </div>
+              <div class="Card__CopyWrapper">
+                <h3 class="Card__Title">{{ .title }}</h3>
+              </div>
+            </div>
+          </article>
+        </a>
+      </div>
+    {{ end }}
+  </div>
+
+  <!-- 5) Build Previous/Next links -->
+  {{ $prevPage := sub $currentPage 1 }}
+  {{ $nextPage := add $currentPage 1 }}
+  
+  <!-- Calculate total pages = ceiling(totalArticles / pageSize) -->
+  {{ $floor := div $totalArticles $pageSize }}
+  {{ $mod := mod $totalArticles $pageSize }}
+  {{ $totalPages := $floor }}
+  {{ if gt $mod 0 }} {{ $totalPages = add $floor 1 }} {{ end }}
+
+  <!-- Show pagination controls only if we have more than 1 page -->
+  {{ if gt $totalPages 1 }}
+    <div class="paginator" style="text-align:center; clear:both; margin-top: 1rem;">
+      
+      <!-- Only show 'Previous' link if currentPage > 1 -->
+      {{ if gt $currentPage 1 }}
+        <a href="{{ .Permalink }}?page={{ $prevPage }}" class="prev-link">Previous</a>
+      {{ end }}
+
+      <div class="current-page" style="display: inline-block; margin: 0 1rem;">
+        Page {{ $currentPage }} of {{ $totalPages }}
+      </div>
+
+      <!-- Only show 'Next' link if currentPage < totalPages -->
+      {{ if lt $currentPage $totalPages }}
+        <a href="{{ .Permalink }}?page={{ $nextPage }}" class="next-link">Next</a>
+      {{ end }}
+    </div>
+  {{ end }}
+
+</div>
+
+<!-- Scroll-to-grid script partial (unchanged) -->
+{{ partial "scroll-to-grid.js" . }}
 {{ end }}
