@@ -1,6 +1,6 @@
 ---
-title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
+title: "UK's quantum computing sector is flourishing after early investment"
+imageUrl: ""
 index: 343
 weight: 343
 ---

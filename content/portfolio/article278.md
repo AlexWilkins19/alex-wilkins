@@ -1,6 +1,6 @@
 ---
-title: "Planets around graveyard star were consumed before Earth was even born"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/04163523/SEI_132213866.jpg?width=600"
+title: "Exoplanets with a permanent day side may sometimes flip into night"
+imageUrl: ""
 index: 278
 weight: 278
 ---

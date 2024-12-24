@@ -1,6 +1,6 @@
 ---
-title: "A gas made from light becomes easier to compress as you squash it"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/24162058/SEI_95244471.jpg?width=600"
+title: "Earthquakes seem to come in a more predictable pattern than we thought"
+imageUrl: ""
 index: 398
 weight: 398
 ---

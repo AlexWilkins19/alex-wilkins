@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT detector could help spot cheaters using AI to write essays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg?width=600"
+title: "Robotics gets less attention than it should given its potential impact"
+imageUrl: ""
 index: 252
 weight: 252
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Google says error correction will lead to useful quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
+title: "Shirt woven with metal could help medical implants communicate"
+imageUrl: ""
 index: 231
 weight: 231
 ---

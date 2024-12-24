@@ -1,6 +1,6 @@
 ---
-title: "The moon is 40 million years older than we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=600"
+title: "How will AIs like ChatGPT affect elections this year?"
+imageUrl: ""
 index: 117
 weight: 117
 ---

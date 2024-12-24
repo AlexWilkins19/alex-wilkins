@@ -1,6 +1,6 @@
 ---
-title: "New fiery doughnut image is our most detailed glimpse of a black hole"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18081148/SEI_187707989.jpg?width=600"
+title: "Microphone made of atom-thick graphene could be used in smartphones"
+imageUrl: ""
 index: 68
 weight: 68
 ---

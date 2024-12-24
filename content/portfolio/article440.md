@@ -1,6 +1,6 @@
 ---
-title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
+title: "Will AI text-to-image generators put illustrators out of a job?"
+imageUrl: ""
 index: 440
 weight: 440
 ---

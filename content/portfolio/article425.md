@@ -1,6 +1,6 @@
 ---
-title: "Medical dressing works like duct tape to seal internal wounds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
+title: "AI generates photorealistic 3D scenes and lets you edit them as well"
+imageUrl: ""
 index: 425
 weight: 425
 ---

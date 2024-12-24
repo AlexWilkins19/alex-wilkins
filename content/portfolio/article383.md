@@ -1,6 +1,6 @@
 ---
-title: "Efficient battery could charge electric cars 60 per cent in 6 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27162704/SEI_100929082.jpg?width=600"
+title: "NASA is ready to knock an asteroid off course with its DART spacecraft"
+imageUrl: ""
 index: 383
 weight: 383
 ---

@@ -1,6 +1,6 @@
 ---
-title: "3D-printed robotic hand has working tendons and muscles"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/14151121/SEI_180136486.jpg?width=600"
+title: "Flavour-predicting AI can tell brewers how to make beer taste better"
+imageUrl: ""
 index: 107
 weight: 107
 ---

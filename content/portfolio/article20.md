@@ -1,6 +1,6 @@
 ---
-title: "Will Amazon's robotic revolution spark a new wave of job losses?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/23134758/SEI_200991789.jpg?width=600"
+title: "Microscopic gears powered by light could be used to make tiny machines"
+imageUrl: ""
 index: 20
 weight: 20
 ---

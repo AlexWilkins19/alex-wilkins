@@ -1,6 +1,6 @@
 ---
-title: "Nanocrystals help water act like sponge to hold more oxygen than blood"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/24145159/SEI_120854208.jpg?width=600"
+title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
+imageUrl: ""
 index: 320
 weight: 320
 ---

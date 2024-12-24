@@ -1,6 +1,6 @@
 ---
-title: "Chinese rocket has crashed back to Earth but no one knows where"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/04110728/SEI_132200244.jpg?width=600"
+title: "Shapes 3D printed into living worms could be future of brain implants"
+imageUrl: ""
 index: 279
 weight: 279
 ---

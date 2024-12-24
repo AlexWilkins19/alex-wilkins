@@ -1,6 +1,6 @@
 ---
-title: "Underwater writing technique lets you draw patterns in liquids"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=600"
+title: "Largest quake ever seen on Mars points to surprising seismic activity"
+imageUrl: ""
 index: 195
 weight: 195
 ---

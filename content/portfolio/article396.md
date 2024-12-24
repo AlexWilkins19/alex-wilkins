@@ -1,6 +1,6 @@
 ---
-title: "Robot made of magnetic slime could grab objects inside your body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/31145751/SEI_96443182.jpg?width=600"
+title: "Nanocrystals help water act like sponge to hold more oxygen than blood"
+imageUrl: ""
 index: 396
 weight: 396
 ---

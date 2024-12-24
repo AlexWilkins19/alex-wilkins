@@ -1,6 +1,6 @@
 ---
-title: "First fully programmable quantum computer based on neutral atoms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
+title: "Quantum computers could create completely new forms of matter"
+imageUrl: ""
 index: 433
 weight: 433
 ---

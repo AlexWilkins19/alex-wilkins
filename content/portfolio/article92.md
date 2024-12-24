@@ -1,6 +1,6 @@
 ---
-title: "Tiny balls fit best inside a sausage, physicists confirm"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/12110452/SEI_183056402.jpg?width=600"
+title: "Mars is blasting plasma out of its atmosphere into space"
+imageUrl: ""
 index: 92
 weight: 92
 ---

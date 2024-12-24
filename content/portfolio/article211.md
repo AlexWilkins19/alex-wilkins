@@ -1,6 +1,6 @@
 ---
-title: "Protons seem to be a different size depending on how you look at them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29150533/SEI_150114785.jpg?width=600"
+title: "Watch a cyborg cockroach navigate a maze"
+imageUrl: ""
 index: 211
 weight: 211
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Artificial finger can identify what common material things are made of"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/05210720/SEI_1178551531.jpg?width=600"
+title: "First satellite launch from the UK failed due to an ‘anomaly’"
+imageUrl: ""
 index: 332
 weight: 332
 ---

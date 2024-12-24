@@ -1,6 +1,6 @@
 ---
-title: "Windows filled with see-through wood layer help hold in heat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/16121418/SEI_148522522.jpg?width=600"
+title: "Flying bird robot can soar so well it uses almost no power"
+imageUrl: ""
 index: 221
 weight: 221
 ---

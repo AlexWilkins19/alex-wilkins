@@ -1,6 +1,6 @@
 ---
-title: "Largest volcanic eruption in recorded history happened 7300 years ago"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/21121747/SEI_192440192.jpg?width=600"
+title: "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk"
+imageUrl: ""
 index: 47
 weight: 47
 ---

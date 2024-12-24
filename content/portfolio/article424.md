@@ -1,6 +1,6 @@
 ---
-title: "Flying robot generates as much power as a flapping insect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
+title: "Light delayed by seven years as it is bent around a galaxy cluster"
+imageUrl: ""
 index: 424
 weight: 424
 ---

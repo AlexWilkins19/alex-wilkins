@@ -1,6 +1,6 @@
 ---
-title: "Firing a laser into the sky can redirect lightning’s path"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
+title: "Bluewalker 3 satellite is brighter than 99.8 per cent of visible stars"
+imageUrl: ""
 index: 338
 weight: 338
 ---

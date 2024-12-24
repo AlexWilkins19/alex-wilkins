@@ -1,6 +1,6 @@
 ---
-title: "This map of Venus shows every volcano we know about on its surface"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/30125556/SEI_150233936.jpg?width=600"
+title: "This is the best place to build a moon base"
+imageUrl: ""
 index: 208
 weight: 208
 ---

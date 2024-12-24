@@ -1,6 +1,6 @@
 ---
-title: "The sun could contain a tiny black hole that formed in the big bang"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=600"
+title: "Watch a humanoid robot driving a car extremely slowly"
+imageUrl: ""
 index: 72
 weight: 72
 ---

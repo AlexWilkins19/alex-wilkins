@@ -1,6 +1,6 @@
 ---
-title: "Huge gas bubble that contains the solar system mapped for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/12151302/PRI_218192335.jpg?width=600"
+title: "World's first exascale supercomputer Frontier smashes speed records"
+imageUrl: ""
 index: 437
 weight: 437
 ---

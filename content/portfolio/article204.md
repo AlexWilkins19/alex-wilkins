@@ -1,6 +1,6 @@
 ---
-title: "Breathtaking JWST image of Uranus shows rings, clouds and a polar cap"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/06160828/SEI_151092237.jpg?width=600"
+title: "Astronomers alarmed by satellite that outshines all but seven stars"
+imageUrl: ""
 index: 204
 weight: 204
 ---

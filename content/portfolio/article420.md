@@ -1,6 +1,6 @@
 ---
-title: "Flower growth in Antarctica is accelerating due to warming climate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/14150201/PRI_2235312052.jpg?width=600"
+title: "Stunning JWST image turns dust in a distant galaxy into a purple swirl"
+imageUrl: ""
 index: 420
 weight: 420
 ---

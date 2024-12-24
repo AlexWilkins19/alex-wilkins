@@ -1,6 +1,6 @@
 ---
-title: "Stunning image reveals the intricate structure of supersonic plasma"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/31154525/SEI_206674787.jpg?width=600"
+title: "Electric Dreams is past echo of today’s debates on AI-generated art"
+imageUrl: ""
 index: 4
 weight: 4
 ---

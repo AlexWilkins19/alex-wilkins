@@ -1,6 +1,6 @@
 ---
-title: "Game theory shows how people crowd on trains at rush hour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31112508/PRI_220435800.jpg?width=600"
+title: "Mars looks more vivid than ever in new photos from Perseverance rover"
+imageUrl: ""
 index: 428
 weight: 428
 ---

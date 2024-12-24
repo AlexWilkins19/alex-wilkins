@@ -1,6 +1,6 @@
 ---
-title: "How will AIs like ChatGPT affect elections this year?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=600"
+title: "Quantum trick lets you cool objects down using nothing at all"
+imageUrl: ""
 index: 41
 weight: 41
 ---

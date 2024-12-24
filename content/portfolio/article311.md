@@ -1,6 +1,6 @@
 ---
-title: "Two potentially habitable super-Earth planets have been discovered"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
+title: "Bone conduction headphones make your own voice sound less weird"
+imageUrl: ""
 index: 311
 weight: 311
 ---

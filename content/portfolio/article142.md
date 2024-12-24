@@ -1,6 +1,6 @@
 ---
-title: "JWST may have seen black holes suppressing the creation of new stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=600"
+title: "Mysterious object may be the lightest black hole we've ever seen"
+imageUrl: ""
 index: 142
 weight: 142
 ---

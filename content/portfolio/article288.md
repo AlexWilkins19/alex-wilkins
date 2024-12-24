@@ -1,6 +1,6 @@
 ---
-title: "Aluminium alloy could boost spacecraft radiation shielding 100-fold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19153608/SEI_129853305.jpg?width=600"
+title: "Ultra-tough battery survives hammer blows and being run over by a car"
+imageUrl: ""
 index: 288
 weight: 288
 ---

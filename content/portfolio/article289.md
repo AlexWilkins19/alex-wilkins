@@ -1,6 +1,6 @@
 ---
-title: "Proton's stretchiness is a puzzle for particle physicists"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19115539/SEI_130141124.jpg?width=600"
+title: "Graphene with ripples could help make better hydrogen fuel cells"
+imageUrl: ""
 index: 289
 weight: 289
 ---

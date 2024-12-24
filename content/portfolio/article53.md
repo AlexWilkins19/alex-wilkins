@@ -1,6 +1,6 @@
 ---
-title: "Satellite beamed power from space to Earth for the first time ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/13142701/SEI_190170768.jpg?width=600"
+title: "Particle physicists may have solved a strange mystery about the muon"
+imageUrl: ""
 index: 53
 weight: 53
 ---

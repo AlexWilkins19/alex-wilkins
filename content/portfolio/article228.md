@@ -1,6 +1,6 @@
 ---
-title: "Soil bacteria enzyme generates electricity from hydrogen in the air"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/08151953/SEI_147393522.jpg?width=600"
+title: "Brown dwarf is locked in a destructive 2-hour orbit with a tiny star"
+imageUrl: ""
 index: 228
 weight: 228
 ---

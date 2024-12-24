@@ -1,6 +1,6 @@
 ---
-title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
+title: "JWST finds that ancient galaxies contain fewer stars than we expected"
+imageUrl: ""
 index: 331
 weight: 331
 ---

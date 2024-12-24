@@ -1,6 +1,6 @@
 ---
-title: "Space test dummies will measure female radiation risk for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/29132653/SEI_101129092.jpg?width=600"
+title: "Earth's algae and moss could survive under the light of another star"
+imageUrl: ""
 index: 381
 weight: 381
 ---

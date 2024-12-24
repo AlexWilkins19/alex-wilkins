@@ -1,6 +1,6 @@
 ---
-title: "Robofish powered by human cardiac cells gives fresh insight into heart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10144231/PRI_222646379.jpg?width=600"
+title: "Penguins adapt their accents to sound more like their friends"
+imageUrl: ""
 index: 421
 weight: 421
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Jupiter's moon Io has been a volcanic inferno for billions of years"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/18114146/SEI_200340813.jpg?width=600"
+title: "Nobel prize for physics goes to pair who invented key AI techniques"
+imageUrl: ""
 index: 21
 weight: 21
 ---

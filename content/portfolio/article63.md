@@ -1,6 +1,6 @@
 ---
-title: "Mysterious black hole jets may be the source of powerful cosmic rays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=600"
+title: "Weird form of 'dangling' ice spotted in space for the first time"
+imageUrl: ""
 index: 63
 weight: 63
 ---

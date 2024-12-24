@@ -1,6 +1,6 @@
 ---
-title: "Maxwell's demon imagined by physicists really exists inside our cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/25135439/SEI_168773043.jpg?width=600"
+title: "The tightest knot ever made is a tied-up chain 54 atoms long"
+imageUrl: ""
 index: 141
 weight: 141
 ---

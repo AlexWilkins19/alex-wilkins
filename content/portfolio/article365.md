@@ -1,6 +1,6 @@
 ---
-title: "Strange gamma ray flashes from lightning storms may have explanation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/26112450/SEI_106042887.jpg?width=600"
+title: "Proton's stretchiness is a puzzle for particle physicists"
+imageUrl: ""
 index: 365
 weight: 365
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Distant planet may be the first known to share its orbit with another"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=600"
+title: "Vera C. Rubin Observatory will start scanning the night sky in 2024"
+imageUrl: ""
 index: 159
 weight: 159
 ---

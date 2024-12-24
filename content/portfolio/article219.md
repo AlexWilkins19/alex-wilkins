@@ -1,6 +1,6 @@
 ---
-title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
+title: "3D-printed toilet is so slippery that nothing can leave a mark"
+imageUrl: ""
 index: 219
 weight: 219
 ---

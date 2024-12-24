@@ -1,6 +1,6 @@
 ---
-title: "2023 was the year that artificial intelligence went mainstream"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/12141558/SEI_182878822.jpg?width=600"
+title: "Watch a Möbius strip robot move and climb when hit by light"
+imageUrl: ""
 index: 91
 weight: 91
 ---

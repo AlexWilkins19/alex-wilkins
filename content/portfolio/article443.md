@@ -1,6 +1,6 @@
 ---
-title: "The mummy of Egyptian pharaoh Amenhotep I has been digitally unwrapped"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/24125340/PRI_216178852.jpg?width=600"
+title: "Tiny Möbius strip fashioned from carbon nanotube building blocks"
+imageUrl: ""
 index: 443
 weight: 443
 ---

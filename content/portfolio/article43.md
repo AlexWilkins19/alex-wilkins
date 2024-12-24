@@ -1,6 +1,6 @@
 ---
-title: "Huge set of galaxies is set to form largest cluster in known universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/21162939/SEI_191496908.jpg?width=600"
+title: "Astronomers might finally have explanation for mysterious Wow! signal"
+imageUrl: ""
 index: 43
 weight: 43
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Hackers are using AI to find software bugs - but there is a downside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/28144505/SEI_205388489.jpg?width=600"
+title: "See the sun revealed in stunning glory by Solar Orbiter pictures"
+imageUrl: ""
 index: 8
 weight: 8
 ---

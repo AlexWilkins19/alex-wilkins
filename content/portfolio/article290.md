@@ -1,6 +1,6 @@
 ---
-title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
+title: "Astronauts could mine drinking water from glass beads on the moon"
+imageUrl: ""
 index: 290
 weight: 290
 ---

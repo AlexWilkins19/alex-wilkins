@@ -1,6 +1,6 @@
 ---
-title: "My out-of-body experience controlling a robotic avatar"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05182925/telepresence-security-robot.00_01_05_17.still0031.jpg?width=600"
+title: "Strange nebula changes colour rhythmically like a mood lamp"
+imageUrl: ""
 index: 179
 weight: 179
 ---

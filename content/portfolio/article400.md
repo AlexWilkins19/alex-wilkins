@@ -1,6 +1,6 @@
 ---
-title: "Male contraceptive pill is safe and effective in tests in mice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/22142846/SEI_94867969.jpg?width=600"
+title: "Floating artificial leaf converts energy from sunlight into fuel"
+imageUrl: ""
 index: 400
 weight: 400
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Liquid magnet propellers could be a safer way to power boats"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18150559/SEI_184539989.jpg?width=600"
+title: "What is artificial general intelligence, and is it a useful concept?"
+imageUrl: ""
 index: 87
 weight: 87
 ---

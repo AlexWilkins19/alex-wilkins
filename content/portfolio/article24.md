@@ -1,6 +1,6 @@
 ---
-title: "How AI mathematicians might finally deliver human-level reasoning"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/09121015/SEI_198633450.jpg?width=600"
+title: "Planet spotted orbiting Barnard's star just 6 light years away"
+imageUrl: ""
 index: 24
 weight: 24
 ---

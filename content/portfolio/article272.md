@@ -1,6 +1,6 @@
 ---
-title: "Feeding cows hemp makes them ‘high’ and their milk could be unsafe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/14150824/SEI_133595655.jpg?width=600"
+title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
+imageUrl: ""
 index: 272
 weight: 272
 ---

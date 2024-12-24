@@ -1,6 +1,6 @@
 ---
-title: "Watch a cyborg cockroach navigate a maze"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/18122511/SEI_171749670.jpg?width=600"
+title: "Saturn’s moon Mimas may be hiding a vast global ocean under its ice"
+imageUrl: ""
 index: 135
 weight: 135
 ---

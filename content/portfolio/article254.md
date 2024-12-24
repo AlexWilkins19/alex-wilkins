@@ -1,6 +1,6 @@
 ---
-title: "Inside an insect farm: Are mealworms a sustainable meat alternative?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10162539/SEI_138362868.jpg?width=600"
+title: "Robot gardener grows plants as well as humans do but uses less water"
+imageUrl: ""
 index: 254
 weight: 254
 ---

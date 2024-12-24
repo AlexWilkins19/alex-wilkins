@@ -1,6 +1,6 @@
 ---
-title: "Birthplace of red asteroid Kamo‘oalewa pinned to specific moon crater"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/25121717/SEI_201250531.jpg?width=600"
+title: "The laws of physics appear to follow a mysterious mathematical pattern"
+imageUrl: ""
 index: 18
 weight: 18
 ---

@@ -1,6 +1,6 @@
 ---
-title: "'Demon' particle found in superconductor could explain how they work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=600"
+title: "‘Islands’ poking out of black holes may solve the information paradox"
+imageUrl: ""
 index: 150
 weight: 150
 ---

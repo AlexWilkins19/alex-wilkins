@@ -1,6 +1,6 @@
 ---
-title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
+title: "Maxwell's demon imagined by physicists really exists inside our cells"
+imageUrl: ""
 index: 217
 weight: 217
 ---

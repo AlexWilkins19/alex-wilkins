@@ -1,6 +1,6 @@
 ---
-title: "JWST finds that ancient galaxies contain fewer stars than we expected"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10131014/SEI_139790898.jpg?width=600"
+title: "My out-of-body experience controlling a robotic avatar"
+imageUrl: ""
 index: 255
 weight: 255
 ---

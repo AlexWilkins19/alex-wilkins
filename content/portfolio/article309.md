@@ -1,6 +1,6 @@
 ---
-title: "Google AI can tell what things smell like by the molecular structure"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
+title: "AI with no visual sensors generates an internal map to finds its way"
+imageUrl: ""
 index: 309
 weight: 309
 ---

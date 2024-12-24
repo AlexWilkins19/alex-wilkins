@@ -1,6 +1,6 @@
 ---
-title: "Mysterious element promethium finally reveals its chemical properties"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/21154237/SEI_205363391.jpg?width=600"
+title: "Heart-shaped mollusc has windows that work like fibre optics"
+imageUrl: ""
 index: 10
 weight: 10
 ---

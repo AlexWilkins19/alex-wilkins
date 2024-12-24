@@ -1,6 +1,6 @@
 ---
-title: "Long-lasting radiation shields may make super-Earths friendly for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13131825/PRI_218327491.jpg?width=600"
+title: "Advanced quantum computer made available to the public for first time"
+imageUrl: ""
 index: 436
 weight: 436
 ---

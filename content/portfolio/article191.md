@@ -1,6 +1,6 @@
 ---
-title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=600"
+title: "Record-breaking quantum computer has more than 1000 qubits"
+imageUrl: ""
 index: 191
 weight: 191
 ---

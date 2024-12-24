@@ -1,6 +1,6 @@
 ---
-title: "Foam made from algae and tree bark acts as good forest camouflage"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/03112544/SEI_91299698.jpg?width=600"
+title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
+imageUrl: ""
 index: 410
 weight: 410
 ---

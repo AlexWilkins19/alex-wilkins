@@ -1,6 +1,6 @@
 ---
-title: "Robotic pill that delivers drugs to gut could end insulin injections"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
+title: "AI trained on YouTube and podcasts speaks with ums and ahs"
+imageUrl: ""
 index: 302
 weight: 302
 ---

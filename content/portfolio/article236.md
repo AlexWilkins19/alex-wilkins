@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT AI passes test designed to show theory of mind in children"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
+title: "Ancient graphene formed 3 billion years before humans discovered it"
+imageUrl: ""
 index: 236
 weight: 236
 ---

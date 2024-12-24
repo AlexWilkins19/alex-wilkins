@@ -1,6 +1,6 @@
 ---
-title: "Huge young galaxies seen by JWST may upend our models of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
+title: "Could Elon Musk's xAI be exactly what the world needs?"
+imageUrl: ""
 index: 232
 weight: 232
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could mine drinking water from glass beads on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/27154841/SEI_149862284.jpg?width=600"
+title: "The MANIAC review: A dark novel about the legendary John von Neumann"
+imageUrl: ""
 index: 214
 weight: 214
 ---

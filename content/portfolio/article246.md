@@ -1,6 +1,6 @@
 ---
-title: "The outline of people’s bodies can be detected from Wi-Fi signals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24200740/SEI_141554916.jpg?width=600"
+title: "Virgin Galactic space plane makes its first commercial flight"
+imageUrl: ""
 index: 246
 weight: 246
 ---

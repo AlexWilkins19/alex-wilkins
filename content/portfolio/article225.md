@@ -1,6 +1,6 @@
 ---
-title: "Google robot can have a conversation but also fetch you a snack"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/10140310/SEI_147556711.jpg?width=600"
+title: "Wonky shapes can be made to roll along a specific path of your choice"
+imageUrl: ""
 index: 225
 weight: 225
 ---

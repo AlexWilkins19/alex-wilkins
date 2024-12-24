@@ -1,6 +1,6 @@
 ---
-title: "Collision-dodging drones can navigate tight spaces without crashing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/09125430/SEI_92084149.jpg?width=600"
+title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
+imageUrl: ""
 index: 407
 weight: 407
 ---

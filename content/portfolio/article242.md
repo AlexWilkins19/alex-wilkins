@@ -1,6 +1,6 @@
 ---
-title: "Flying robot echolocates like a bat to avoid banging into walls"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
+title: "Water mixed with nanoparticles can be carved into shapes by a laser"
+imageUrl: ""
 index: 242
 weight: 242
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Saturn now has over 100 known moons - more than any other planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10171227/SEI_155376828.jpg?width=600"
+title: "Strange supernova blasts hint we have glimpsed a black hole’s birth"
+imageUrl: ""
 index: 189
 weight: 189
 ---

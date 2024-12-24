@@ -1,6 +1,6 @@
 ---
-title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=600"
+title: "Huge new volcano has burst through the surface of Jupiter’s moon Io"
+imageUrl: ""
 index: 35
 weight: 35
 ---

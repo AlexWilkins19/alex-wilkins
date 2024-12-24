@@ -1,6 +1,6 @@
 ---
-title: "Ice-spewing supervolcano may have been found on Pluto"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=600"
+title: "Google AI learns to play open-world video games by watching them"
+imageUrl: ""
 index: 114
 weight: 114
 ---

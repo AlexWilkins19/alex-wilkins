@@ -1,6 +1,6 @@
 ---
-title: "Adding tomato pigment to solar panels increases their efficiency"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/27144928/SEI_106628391.jpg?width=600"
+title: "JWST spots smallest galaxy outside our local universe"
+imageUrl: ""
 index: 363
 weight: 363
 ---

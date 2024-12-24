@@ -1,6 +1,6 @@
 ---
-title: "Quantum internet draws near thanks to entangled memory breakthroughs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=600"
+title: "This robot can build anything you ask for out of blocks"
+imageUrl: ""
 index: 14
 weight: 14
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians discover 'soft cell' shapes behind the natural world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23130124/SEI_192578233.jpg?width=600"
+title: "AI models can't learn as they go along like humans do"
+imageUrl: ""
 index: 42
 weight: 42
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Water mixed with nanoparticles can be carved into shapes by a laser"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/07142917/SEI_163195200.jpg?width=600"
+title: "Housework robot can learn to do almost any chore in 20 minutes"
+imageUrl: ""
 index: 166
 weight: 166
 ---

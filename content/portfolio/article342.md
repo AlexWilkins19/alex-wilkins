@@ -1,6 +1,6 @@
 ---
-title: "Spinning rotors made from DNA could power minuscule machines"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/20153513/SEI_115577658.jpg?width=600"
+title: "We finally know in detail how salt dissolves in water"
+imageUrl: ""
 index: 342
 weight: 342
 ---

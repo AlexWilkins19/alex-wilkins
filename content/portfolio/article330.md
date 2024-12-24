@@ -1,6 +1,6 @@
 ---
-title: "Soap molecule could help make alternative LED tech commercially viable"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08153000/SEI_117997622.jpg?width=600"
+title: "Inside an insect farm: Are mealworms a sustainable meat alternative?"
+imageUrl: ""
 index: 330
 weight: 330
 ---

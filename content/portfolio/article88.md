@@ -1,6 +1,6 @@
 ---
-title: "Google wants to solve tricky physics problems with quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=600"
+title: "Incredible maths proof is so complex that almost no one can explain it"
+imageUrl: ""
 index: 88
 weight: 88
 ---

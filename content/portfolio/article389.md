@@ -1,6 +1,6 @@
 ---
-title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
+title: "JWST has spotted sandy clouds on a distant alien world"
+imageUrl: ""
 index: 389
 weight: 389
 ---

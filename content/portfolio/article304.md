@@ -1,6 +1,6 @@
 ---
-title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
+title: "Soil bacteria enzyme generates electricity from hydrogen in the air"
+imageUrl: ""
 index: 304
 weight: 304
 ---

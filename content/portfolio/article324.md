@@ -1,6 +1,6 @@
 ---
-title: "Floating artificial leaf converts energy from sunlight into fuel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17150936/SEI_119854264.jpg?width=600"
+title: "Egyptian boy mummy was buried with a ‘second heart’ made of gold"
+imageUrl: ""
 index: 324
 weight: 324
 ---

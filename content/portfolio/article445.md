@@ -1,6 +1,6 @@
 ---
-title: "‘Near impossible’ plant-growing technique could revolutionise farming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
+title: "Rubbing against coral seems to be a popular skin treatment in dolphins"
+imageUrl: ""
 index: 445
 weight: 445
 ---

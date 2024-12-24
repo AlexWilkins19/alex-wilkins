@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
+title: "Crocodile-like body armour resists stabbing and cuts"
+imageUrl: ""
 index: 326
 weight: 326
 ---

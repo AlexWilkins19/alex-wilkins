@@ -1,6 +1,6 @@
 ---
-title: "Monster black hole powers the brightest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19111344/SEI_191790689.jpg?width=600"
+title: "Black holes may inherit their magnetic fields from neutron stars"
+imageUrl: ""
 index: 50
 weight: 50
 ---

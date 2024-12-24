@@ -1,6 +1,6 @@
 ---
-title: "Laser-powered licence plates could help avoid satellite collisions"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/03124940/SEI_197735359.jpg?width=600"
+title: "Radioactive ion beam could target tumours more precisely"
+imageUrl: ""
 index: 26
 weight: 26
 ---

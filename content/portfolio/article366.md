@@ -1,6 +1,6 @@
 ---
-title: "Teleportation trick shows promise for a future quantum internet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/25140347/SEI_106229754.jpg?width=600"
+title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
+imageUrl: ""
 index: 366
 weight: 366
 ---

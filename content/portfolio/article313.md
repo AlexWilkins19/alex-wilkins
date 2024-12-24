@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted sandy clouds on a distant alien world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02155357/SEI_122370897.jpg?width=600"
+title: "AI generates virtual 3D cities that extend infinitely in any direction"
+imageUrl: ""
 index: 313
 weight: 313
 ---

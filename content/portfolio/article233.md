@@ -1,6 +1,6 @@
 ---
-title: "AI with no visual sensors generates an internal map to finds its way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
+title: "Earth is coated in ancient space dust that could be from the moon"
+imageUrl: ""
 index: 233
 weight: 233
 ---

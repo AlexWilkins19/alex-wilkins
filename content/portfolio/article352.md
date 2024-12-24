@@ -1,6 +1,6 @@
 ---
-title: "Mars looks more vivid than ever in new photos from Perseverance rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/15111724/SEI_109857227.jpg?width=600"
+title: "AI is better at answering questions if you get another AI to ask them"
+imageUrl: ""
 index: 352
 weight: 352
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Microbombs detonated by ultrasound can blast away tooth decay bacteria"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/15163443/SEI_156054205.jpg?width=600"
+title: "Underwater walkie-talkies could work long-distance with radio trick"
+imageUrl: ""
 index: 185
 weight: 185
 ---

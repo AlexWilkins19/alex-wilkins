@@ -1,6 +1,6 @@
 ---
-title: "Lightning flash measuring 768 kilometres is the longest ever recorded"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31182332/PRI_220970367.jpg?width=600"
+title: "Ancient meteorite upends our ideas of how Mars formed"
+imageUrl: ""
 index: 427
 weight: 427
 ---

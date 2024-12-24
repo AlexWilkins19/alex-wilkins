@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted chemical reactions in an exoplanet's atmosphere"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22160006/SEI_134740491.jpg?width=600"
+title: "Saturn now has over 100 known moons - more than any other planet"
+imageUrl: ""
 index: 265
 weight: 265
 ---

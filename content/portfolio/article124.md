@@ -1,6 +1,6 @@
 ---
-title: "Quantum AI image generator is no match for ones on ordinary computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02113726/SEI_173865272.jpg?width=600"
+title: "Why forgetting things is a key part of the way your brain works"
+imageUrl: ""
 index: 124
 weight: 124
 ---

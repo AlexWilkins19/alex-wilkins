@@ -1,6 +1,6 @@
 ---
-title: "Virgin Galactic space plane makes its first commercial flight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/29121727/SEI_162186364.jpg?width=600"
+title: "Crystal-hunting DeepMind AI could help discover new wonder materials"
+imageUrl: ""
 index: 170
 weight: 170
 ---

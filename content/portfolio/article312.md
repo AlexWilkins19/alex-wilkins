@@ -1,6 +1,6 @@
 ---
-title: "Swarm of light-sail spacecraft could be propelled by laser on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/06174711/SEI_123297727.jpg?width=600"
+title: "ChatGPT AI passes test designed to show theory of mind in children"
+imageUrl: ""
 index: 312
 weight: 312
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Quantum diamond sensor used to measure neuron activity in mouse tissue"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12131054/SEI_123940228.jpg?width=600"
+title: "Dark energy may have been hiding in the cores of black holes all along"
+imageUrl: ""
 index: 310
 weight: 310
 ---

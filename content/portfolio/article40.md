@@ -1,6 +1,6 @@
 ---
-title: "Google launches $5m prize to find actual uses for quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=600"
+title: "A giant wave in the Milky Way may have been created by another galaxy"
+imageUrl: ""
 index: 40
 weight: 40
 ---

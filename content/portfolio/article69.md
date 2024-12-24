@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI solves hard geometry problems from mathematics olympiad"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17135354/SEI_187607754.jpg?width=600"
+title: "Saturn's moon Titan is experiencing coastal erosion from methane seas"
+imageUrl: ""
 index: 69
 weight: 69
 ---

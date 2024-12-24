@@ -1,6 +1,6 @@
 ---
-title: "Could Elon Musk's xAI be exactly what the world needs?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/24135947/SEI_164679667.jpg?width=600"
+title: "Extreme close-up of Jupiter’s moon Io captured by Juno spacecraft"
+imageUrl: ""
 index: 156
 weight: 156
 ---

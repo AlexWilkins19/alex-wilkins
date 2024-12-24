@@ -1,6 +1,6 @@
 ---
-title: "Graphene with ripples could help make better hydrogen fuel cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=600"
+title: "The earliest black holes seen by JWST appear to be unusually massive"
+imageUrl: ""
 index: 213
 weight: 213
 ---

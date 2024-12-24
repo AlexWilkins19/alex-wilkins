@@ -1,6 +1,6 @@
 ---
-title: "Cyborg locusts with brain nanoparticles could act as bomb sniffers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07133204/SEI_190412510.jpg?width=600"
+title: "Robot dog can stifle weeds by blasting them with a blowtorch"
+imageUrl: ""
 index: 58
 weight: 58
 ---

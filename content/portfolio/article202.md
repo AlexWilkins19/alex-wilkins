@@ -1,6 +1,6 @@
 ---
-title: "Exoplanets with a permanent day side may sometimes flip into night"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/05163942/SEI_150992948.jpg?width=600"
+title: "Large Hadron Collider turned into world's biggest quantum experiment"
+imageUrl: ""
 index: 202
 weight: 202
 ---

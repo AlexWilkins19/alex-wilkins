@@ -1,6 +1,6 @@
 ---
-title: "3D-printed toilet is so slippery that nothing can leave a mark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=600"
+title: "Watch a plant-inspired robot grow towards light like a vine"
+imageUrl: ""
 index: 143
 weight: 143
 ---

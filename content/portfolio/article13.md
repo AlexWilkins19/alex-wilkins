@@ -1,6 +1,6 @@
 ---
-title: "Surgeons can use AI chatbot to tell robots to help with suturing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/14170418/SEI_204050412.jpg?width=600"
+title: "Does this high-tech lettuce hold the answer to the global food crisis?"
+imageUrl: ""
 index: 13
 weight: 13
 ---

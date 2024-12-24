@@ -1,6 +1,6 @@
 ---
-title: "Nuclear clocks could be the best timepiece in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24102606/SEI_157456369.jpg?width=600"
+title: "Flexible needle goes soft after injections for safety and comfort"
+imageUrl: ""
 index: 182
 weight: 182
 ---

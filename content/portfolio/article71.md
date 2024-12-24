@@ -1,6 +1,6 @@
 ---
-title: "Will AI make computer screens a thing of the past?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12164130/SEI_186914971.jpg?width=600"
+title: "Mathematicians find odd shapes that roll like a wheel in any dimension"
+imageUrl: ""
 index: 71
 weight: 71
 ---

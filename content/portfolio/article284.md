@@ -1,6 +1,6 @@
 ---
-title: "Large cities lead to more segregation between rich and poor"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/28135254/SEI_131041739.jpg?width=600"
+title: "This map of Venus shows every volcano we know about on its surface"
+imageUrl: ""
 index: 284
 weight: 284
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Quantum microphone works even better than a regular one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
+title: "Computer chip made using mushroom skin could be easily recycled"
+imageUrl: ""
 index: 350
 weight: 350
 ---

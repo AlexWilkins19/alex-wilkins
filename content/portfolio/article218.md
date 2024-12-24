@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers may finally have their first real practical use"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
+title: "JWST may have seen black holes suppressing the creation of new stars"
+imageUrl: ""
 index: 218
 weight: 218
 ---

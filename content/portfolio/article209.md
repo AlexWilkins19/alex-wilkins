@@ -1,6 +1,6 @@
 ---
-title: "Reliably detecting AI-generated text is mathematically impossible"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29175922/SEI_150112351.jpg?width=600"
+title: "Samples from asteroid Bennu brought back to Earth by NASA's OSIRIS-REx"
+imageUrl: ""
 index: 209
 weight: 209
 ---

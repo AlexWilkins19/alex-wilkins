@@ -1,6 +1,6 @@
 ---
-title: "Earthquakes seem to come in a more predictable pattern than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
+title: "The outline of people’s bodies can be detected from Wi-Fi signals"
+imageUrl: ""
 index: 322
 weight: 322
 ---

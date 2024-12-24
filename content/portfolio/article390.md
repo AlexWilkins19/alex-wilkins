@@ -1,6 +1,6 @@
 ---
-title: "Early warning system for Amazon forest losses seen in climate models"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
+title: "Physicists want the next Large Hadron Collider to be climate-friendly"
+imageUrl: ""
 index: 390
 weight: 390
 ---

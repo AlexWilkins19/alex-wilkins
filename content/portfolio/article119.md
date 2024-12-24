@@ -1,6 +1,6 @@
 ---
-title: "Largest quake ever seen on Mars points to surprising seismic activity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=600"
+title: "Huge set of galaxies is set to form largest cluster in known universe"
+imageUrl: ""
 index: 119
 weight: 119
 ---

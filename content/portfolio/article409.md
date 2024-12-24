@@ -1,6 +1,6 @@
 ---
-title: "Silkworms make fluorescent silk after eating quantum dots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/04120430/SEI_91456917.jpg?width=600"
+title: "Mice produce rat sperm with technique that could help conservation"
+imageUrl: ""
 index: 409
 weight: 409
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03145934/SEI_117717165.jpg?width=600"
+title: "Super-absorbent towel soaks up liquids better than cloth or paper"
+imageUrl: ""
 index: 334
 weight: 334
 ---

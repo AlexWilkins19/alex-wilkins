@@ -1,6 +1,6 @@
 ---
-title: "Physicists made the most precise measurement ever of a single particle"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12141554/SEI_128952427.jpg?width=600"
+title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
+imageUrl: ""
 index: 293
 weight: 293
 ---

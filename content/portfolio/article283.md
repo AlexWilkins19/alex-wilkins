@@ -1,6 +1,6 @@
 ---
-title: "JWST finds ancient galaxy may actually be two galaxies merging"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31121040/SEI_131307589.jpg?width=600"
+title: "Cancer tumours in mice shrunk thanks to oxygen-sucking battery"
+imageUrl: ""
 index: 283
 weight: 283
 ---

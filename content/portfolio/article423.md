@@ -1,6 +1,6 @@
 ---
-title: "First truly isolated black hole detected in interstellar space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/03174635/PRI_221398609.jpg?width=600"
+title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
+imageUrl: ""
 index: 423
 weight: 423
 ---

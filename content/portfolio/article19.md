@@ -1,6 +1,6 @@
 ---
-title: "Why curbing chatbots' worst exploits is a game of whack-a-mole"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/22142618/SEI_200452889.jpg?width=600"
+title: "Mathematicians have found a new way to identify prime numbers"
+imageUrl: ""
 index: 19
 weight: 19
 ---

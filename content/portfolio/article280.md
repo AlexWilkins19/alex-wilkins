@@ -1,6 +1,6 @@
 ---
-title: "Smartphones can reveal whether bridges are about to fall down"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03153321/SEI_132086736.jpg?width=600"
+title: "Breathtaking JWST image of Uranus shows rings, clouds and a polar cap"
+imageUrl: ""
 index: 280
 weight: 280
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
+title: "Planets around graveyard star were consumed before Earth was even born"
+imageUrl: ""
 index: 354
 weight: 354
 ---

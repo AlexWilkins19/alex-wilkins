@@ -1,6 +1,6 @@
 ---
-title: "Most precise atomic clock shows Einstein’s general relativity is right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16165345/PRI_223720643.jpg?width=600"
+title: "Spinning rotors made from DNA could power minuscule machines"
+imageUrl: ""
 index: 418
 weight: 418
 ---

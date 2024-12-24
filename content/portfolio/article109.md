@@ -1,6 +1,6 @@
 ---
-title: "Underwater walkie-talkies could work long-distance with radio trick"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=600"
+title: "Paper planes made by a robot fly better than ones made by humans"
+imageUrl: ""
 index: 109
 weight: 109
 ---

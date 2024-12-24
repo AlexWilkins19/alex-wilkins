@@ -1,6 +1,6 @@
 ---
-title: "Largest recorded solar storm was even bigger than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21125028/SEI_196726839.jpg?width=600"
+title: "A riveting exploration of how AI models like ChatGPT changed the world"
+imageUrl: ""
 index: 34
 weight: 34
 ---

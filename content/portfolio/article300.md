@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize in physics awarded to pioneers of quantum information"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
+title: "Robot snake that moves like a sidewinder could inspect sewage pipes"
+imageUrl: ""
 index: 300
 weight: 300
 ---

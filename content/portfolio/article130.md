@@ -1,6 +1,6 @@
 ---
-title: "Super-heatproof computer memory survives temperatures over 500°C"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/27110926/SEI_173494949.jpg?width=600"
+title: "Quantum quirk explains why carbon dioxide causes global warming"
+imageUrl: ""
 index: 130
 weight: 130
 ---

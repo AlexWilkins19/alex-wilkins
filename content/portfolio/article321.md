@@ -1,6 +1,6 @@
 ---
-title: "Fire-resistant aluminium-sulphur battery charges in under a minute"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/23174815/SEI_120746343.jpg?width=600"
+title: "Medical AIs are advancing - when will they be in a clinic near you?"
+imageUrl: ""
 index: 321
 weight: 321
 ---

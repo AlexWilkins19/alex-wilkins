@@ -1,6 +1,6 @@
 ---
-title: "Paper planes made by a robot fly better than ones made by humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/22135018/SEI_196711553.jpg?width=600"
+title: "Visible aurora spotted for the first time on Mars by NASA rover"
+imageUrl: ""
 index: 33
 weight: 33
 ---

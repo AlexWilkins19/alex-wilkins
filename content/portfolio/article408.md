@@ -1,6 +1,6 @@
 ---
-title: "Mouse pups born from unfertilised eggs through genetic manipulation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/07155928/SEI_91493552.jpg?width=600"
+title: "Artificial finger can identify what common material things are made of"
+imageUrl: ""
 index: 408
 weight: 408
 ---

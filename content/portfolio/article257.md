@@ -1,6 +1,6 @@
 ---
-title: "First satellite launch from the UK set to go ahead in Cornwall"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/09124716/SEI_139691489.jpg?width=600"
+title: "Bendy solar panels are just as good as regular ones"
+imageUrl: ""
 index: 257
 weight: 257
 ---
