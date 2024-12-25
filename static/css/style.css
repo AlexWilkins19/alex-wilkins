@@ -1,23 +1,13 @@
-/********************************************/
-/* GLOBAL RESET & BASE STYLES               */
-/********************************************/
 html {
   height: 100%;
   width: 100%;
-  margin: 0;
-  padding: 0;
+  margin: 0 auto;
   background: #fff7e6 !important;
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 20px;
   font-weight: 400;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
-  box-sizing: border-box;
-  overflow-x: hidden; /* Hide any horizontal overflow */
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
 }
 
 body {
@@ -25,118 +15,28 @@ body {
   width: 100%;
   margin: 0 auto;
   line-height: 1.6;
-  font-family: 'Merriweather', serif;
+  font-family: 'Merriweather', serif;  /* Changed from 'Roboto Slab' */
 }
 
-/********************************************/
-/* HEADINGS & TEXT                          */
-/********************************************/
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
   color: #333;
+  font-family: "Source Sans Pro", sans-serif;
+  font-weight: 400;
   letter-spacing: 1px;
   line-height: 1.2;
   margin: 0 0 20px;
 }
 
 h1 {
+  color: #333;
   font-family: 'Merriweather', serif;
   font-weight: 400;
+  letter-spacing: 1px;
   word-spacing: 3px;
+  line-height: 1.2;
+  margin: 0 0 20px;
 }
 
-h2, h3, h4, h5, h6 {
-  font-family: "Source Sans Pro", sans-serif;
-  font-weight: 400;
-}
-
-p {
-  margin: 0 0 30px;
-  padding: 0;
-}
-
-blockquote {
-  margin: 30px;
-  font-style: italic;
-}
-
-i, em {
-  font-style: italic;
-  color: #000;
-}
-
-b, strong {
-  color: #000;
-}
-
-code {
-  background-color: rgba(27,31,35,.05);
-  border-radius: 3px;
-  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
-  font-size: 85%;
-  margin: 0;
-  padding: .2em .4em;
-}
-
-pre {
-  background-color: #f6f8fa;
-  border-radius: 3px;
-  font-size: 85%;
-  line-height: 1.45;
-  overflow: auto;
-  padding: 16px;
-}
-
-pre code {
-  background: none;
-}
-
-/********************************************/
-/* LINKS                                    */
-/********************************************/
-a {
-  color: #555;
-  text-decoration: none;
-}
-a:hover {
-  text-decoration: none;
-}
-
-/********************************************/
-/* HEADERS & NAV                            */
-/********************************************/
-header {
-  text-align: center;
-  padding-top: 17px;
-  display: flex;
-  justify-content: center;
-  font-family: 'Merriweather', serif;
-  width: 100%;
-}
-header img {
-  width: 48px;
-  border-radius: 50%;
-  border: none;
-}
-
-nav {
-  width: 100%;
-  margin: 0 auto;
-  font-size: 13px;
-  font-weight: 600;
-  font-family: 'Playfair Display', serif;
-  text-transform: uppercase;
-  letter-spacing: 1.5px;
-  text-align: center;
-}
-nav li {
-  display: inline-block;
-  margin-left: 1px;
-  margin-right: 1px;
-}
-
-/********************************************/
-/* HORIZONTAL LINES                         */
-/********************************************/
 .headerline {
   border: none;
   height: 1px;
@@ -154,9 +54,34 @@ nav li {
   margin: 0 auto 20px;
 }
 
-/********************************************/
-/* FOOTER                                   */
-/********************************************/
+.about p {
+  font-family: 'Merriweather', serif;
+}
+
+#block {
+  margin: auto;
+  padding-top: 30px;
+  height: auto;
+  padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.center {
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: nowrap;
+  width: 100%;
+}
+
+.description {
+  max-width: 100%;
+}
+
 footer {
   position: relative;
   bottom: 0;
@@ -165,6 +90,7 @@ footer {
   font-family: Arial, sans-serif;
   font-size: 12px;
 }
+
 .footer-line {
   border: none;
   height: 1px;
@@ -172,6 +98,7 @@ footer {
   width: 50%;
   margin-bottom: 10px;
 }
+
 .footer-container {
   display: flex;
   justify-content: center;
@@ -182,9 +109,6 @@ footer {
   flex-wrap: nowrap;
 }
 
-/********************************************/
-/* IMAGES & SOCIAL ICONS                    */
-/********************************************/
 img.pic {
   border-radius: 50%;
   max-width: 100%;
@@ -223,9 +147,95 @@ img.pic {
   height: 25px;
 }
 
-/********************************************/
-/* LAYOUT CONTAINERS                        */
-/********************************************/
+a {
+  color: #555;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+p {
+  margin: 0 0 30px;
+  padding: 0;
+}
+
+blockquote {
+  margin: 30px;
+  font-style: italic;
+}
+
+i, em {
+  font-style: italic;
+  color: #000;
+}
+
+b, strong {
+  color: #000;
+}
+
+/* CODE INLINE & BLOCK */
+code {
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+
+pre {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  font-size: 85%;
+  line-height: 1.45;
+  overflow: auto;
+  padding: 16px;
+}
+
+pre code {
+  background: none;
+}
+
+pre a {
+  border-bottom: none;
+}
+
+/* HEADERS */
+header {
+  text-align: center;
+  padding-top: 17px;
+  display: flex;
+  justify-content: center;
+  font-family: 'Merriweather', serif;
+  width: 100%;
+}
+
+header img {
+  width: 48px;
+  border-radius: 50%;
+  border: none;
+}
+
+nav {
+  width: 100%;
+  margin: 0 auto;
+  font-size: 13px;
+  font-weight: 600;
+  font-family: 'Playfair Display', serif;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  text-align: center;
+}
+
+nav li {
+  display: inline-block;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+/* CONTENT WRAPPERS */
 .content-container {
   display: flex;
   justify-content: center;
@@ -260,21 +270,21 @@ img.pic {
   display: inline-block;
 }
 
-/********************************************/
-/* GRID & PORTFOLIO STYLES                 */
-/********************************************/
+/* Grid and Portfolio Styles */
+/* Update the grid wrapper width */
 .grid-wrapper {
   width: 100%;
-  max-width: 900px;
+  max-width: 900px;  /* Changed from 1400px to match other content */
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
 }
 
+/* Update grid container spacing */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
+  grid-template-columns: repeat(3, 1fr);  /* Two columns like NS */
+  gap: 1rem;  /* Tighter gap like NS */
   padding: 20px 0;
   margin: 0 auto;
   max-width: 800px;
@@ -288,16 +298,12 @@ img.pic {
   padding: 20px;
   box-sizing: border-box;
 }
+
 .introwords .words {
   max-width: 800px;
   margin: 0 auto;
   padding: 0;
   text-align: left;
-}
-
-/* Remove the margin-left from inline style in the Hugo template */
-.introwords div[style*="margin-left: 15vw"] {
-  margin-left: 0 !important;
 }
 
 .grid-item {
@@ -307,12 +313,13 @@ img.pic {
 
 .grid-image-wrapper {
   position: relative;
-  padding-bottom: 56.25%;
+  padding-bottom: 56.25%;  /* Changed to 16:9 aspect ratio to match NS style */
   height: 0;
   overflow: hidden;
-  border: none;
-  border-radius: 0;
+  border: none;  /* Remove the border since NS doesn't use one */
+  border-radius: 0;  /* Remove border radius */
 }
+
 .grid-image-wrapper img {
   position: absolute;
   top: 0;
@@ -324,9 +331,7 @@ img.pic {
   background-color: transparent;
 }
 
-/********************************************/
-/* HEADINGS                                 */
-/********************************************/
+/* Section heading styles */
 .SectionHeading {
   color: #333;
   font-family: 'Merriweather', serif;
@@ -337,9 +342,7 @@ img.pic {
   width: 100%;
 }
 
-/********************************************/
-/* CARD STYLES                              */
-/********************************************/
+/* Card styles */
 .Card {
   height: 100%;
   display: flex;
@@ -347,6 +350,7 @@ img.pic {
   background: transparent;
   transition: transform 0.3s ease;
 }
+
 .Card:hover {
   transform: translateY(-5px);
 }
@@ -354,23 +358,23 @@ img.pic {
 .Card__Title {
   font-family: 'Merriweather', serif;
   color: #333;
-  font-size: 1.1rem;
-  font-weight: 600;
-  margin: 0.5rem 0;
+  font-size: 1.1rem;  /* Slightly larger title */
+  font-weight: 600;  /* Bolder text */
+  margin: 0.5rem 0;  /* Add some spacing */
   padding: 0;
   text-align: left;
-  background-color: transparent;
+  background-color: transparent;  /* Remove background color */
 }
+
 .Card__ImageWrapper img {
   transition: filter 0.3s ease;
 }
+
 .Card__ImageWrapper:hover img {
   filter: grayscale(100%);
 }
 
-/********************************************/
-/* PAGINATION CONTROLS                      */
-/********************************************/
+/* Pagination controls */
 #pagination-controls {
   text-align: center;
   margin: 2rem auto;
@@ -391,6 +395,7 @@ img.pic {
   font-weight: 400;
   transition: all 0.3s ease;
 }
+
 .prev-link:hover,
 .next-link:hover {
   background-color: #555;
@@ -398,31 +403,99 @@ img.pic {
   color: #fff;
 }
 
-/********************************************/
-/* SINGLE PAGE / BODY COPY                  */
-/********************************************/
+/* Responsive styles */
+@media only screen and (max-width: 768px) {
+  nav li {
+      display: inline-block;
+      margin-left: 5px;
+      margin-right: 5px;
+  }
+
+  .content-container {
+      flex-direction: column-reverse;
+      text-align: center;
+      margin-left: 20px;
+      margin-right: 20px;
+  }
+
+  .words {
+      width: 90%;
+      margin: 20px auto;
+  }
+
+  .footer-container {
+      margin: 0 20px;
+  }
+
+  .grid-wrapper {
+      padding: 0 10px;
+  }
+
+  .grid-container {
+      grid-template-columns: 1fr;
+      gap: 1.5rem;
+      padding: 15px;
+  }
+
+  .introwords {
+      padding: 15px;
+  }
+
+  .introwords .words {
+      margin: 0;
+      text-align: center;
+  }
+
+  #pagination-controls {
+      padding: 15px 0;
+  }
+
+  .Card__Title {
+      font-size: 0.85rem;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+  .grid-container {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 1.5rem;
+  }
+}
+
+/* Remove the margin-left from intro text */
+.introwords div[style*="margin-left: 15vw"] {
+  margin-left: 0 !important;
+}
+
+/* Add these to your existing CSS file */
 .single {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
 }
 
+/* Target the main content section */
 .body {
   font-family: 'Merriweather', serif;
   line-height: 1.6;
   color: #333;
   margin: 0 auto;
 }
+
+/* Style paragraphs within the content */
 .body p {
   margin-bottom: 30px;
   font-size: 20px;
 }
+
+/* Style italics for publication names */
 .body em {
   font-style: italic;
   font-family: 'Merriweather', serif;
   color: #000;
 }
 
+/* Adjust the date section */
 .time {
   font-family: 'Source Sans Pro', sans-serif;
   font-size: 16px;
@@ -431,55 +504,46 @@ img.pic {
   margin-bottom: 20px;
 }
 
-/* Remove date if desired */
-.extras {
-  display: none;
-}
+/* Remove extra spacing from tags section if empty */
 .extras:empty {
   display: none;
 }
 
-/********************************************/
-/* CAROUSEL (HIGHLIGHTS)                    */
-/********************************************/
+/* If you want to remove the date */
+.extras {
+  display: none;
+}
+
 .highlights-wrapper {
   position: relative;
   max-width: 900px;
   margin: 0 auto;
-  /* Reduced this padding to reduce chance of overflow on mobile */
-  padding: 0 40px;
+  padding: 0 80px;  /* Increased from 40px to 80px to give more space for arrows */
 }
 
 .highlights-carousel {
+  overflow: hidden;
   position: relative;
   margin: 2rem 0;
-  overflow-x: auto; /* keep horizontal scroll for small screens */
-  overflow-y: hidden; 
-  scroll-behavior: smooth;
+  overflow-x: scroll; /* or auto */
+  scroll-behavior: smooth; /* optional for smooth scrolling on modern browsers */
+  /* optionally: scroll-snap-type, etc., if you want snapping */
+
 }
 
+/* Track and Slides */
 .carousel-track {
   display: flex;
   transition: transform 0.5s cubic-bezier(0.4, 0, 0.2, 1);
   gap: 1rem;
-  will-change: transform; /* hardware acceleration */
 }
+
 .carousel-slide {
   flex: 0 0 calc(33.333% - 0.667rem);
   min-width: 0;
 }
 
-.carousel-slide .Card {
-  height: 100%;
-}
-.carousel-slide .Card__ImageWrapper {
-  /* Slightly taller ratio if you prefer a certain look */
-  padding-bottom: 66.67%;
-}
-
-/********************************************/
-/* CAROUSEL ARROWS                          */
-/********************************************/
+/* Navigation Arrows */
 .carousel-arrow {
   position: absolute;
   top: 50%;
@@ -498,32 +562,33 @@ img.pic {
   align-items: center;
   justify-content: center;
 }
+
 .carousel-arrow:hover {
   background: rgba(51, 51, 51, 1);
   transform: translateY(-50%) scale(1.1);
 }
+
 .carousel-arrow:focus {
   outline: none;
   box-shadow: 0 0 0 2px rgba(51, 51, 51, 0.2);
 }
 
-/* On larger screens, we offset them slightly */
 .carousel-arrow.prev {
-  left: -50px; 
-}
-.carousel-arrow.next {
-  right: -50px;
+  left: -60px;  /* Changed from 0 to -60px */
 }
 
-/********************************************/
-/* CAROUSEL PROGRESS DOTS                   */
-/********************************************/
+.carousel-arrow.next {
+  right: -60px;  /* Changed from 0 to -60px */
+}
+
+/* Progress Indicators */
 .carousel-progress {
   display: flex;
   justify-content: center;
   gap: 8px;
   margin-top: 1.5rem;
 }
+
 .progress-dot {
   width: 8px;
   height: 8px;
@@ -534,106 +599,87 @@ img.pic {
   border: none;
   padding: 0;
 }
+
 .progress-dot:hover {
   background: #999;
 }
+
 .progress-dot.active {
   background: #333;
   transform: scale(1.2);
 }
 
-/********************************************/
-/* RESPONSIVE STYLES                        */
-/********************************************/
-@media only screen and (max-width: 768px) {
-  nav li {
-    margin-left: 5px;
-    margin-right: 5px;
+/* Ensure carousel cards match your existing card styles */
+.carousel-slide .Card {
+  height: 100%;
+}
+
+.carousel-slide .Card__ImageWrapper {
+  padding-bottom: 66.67%;
+}
+
+/* Touch interaction styles */
+.carousel-track.dragging {
+  cursor: grabbing;
+  transition: none;
+}
+
+/* Ensure smooth hardware acceleration */
+.carousel-track {
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Hide scrollbar while maintaining functionality */
+.highlights-carousel {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  overflow-x: scroll;  /* Added to support wheel scrolling */
+  overflow-y: hidden;  /* Prevent vertical scroll */
+}
+
+.highlights-carousel::-webkit-scrollbar {
+  display: none;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1024px) {
+  .carousel-slide {
+    flex: 0 0 calc(50% - 0.5rem);
+  }
+  
+  .highlights-wrapper {
+    padding: 0 70px;  /* Slightly reduced padding for medium screens */
+  }
+  
+  .carousel-arrow.prev {
+    left: -50px;
+  }
+  
+  .carousel-arrow.next {
+    right: -50px;
+  }
+}
+
+@media (max-width: 768px) {
+  .highlights-wrapper {
+    padding: 0 50px;  /* Further reduced padding for mobile */
   }
 
-  .content-container {
-    flex-direction: column-reverse;
-    text-align: center;
-    margin-left: 20px;
-    margin-right: 20px;
+  .carousel-slide {
+    flex: 0 0 100%;
   }
 
-  .words {
-    width: 90%;
-    margin: 20px auto;
-  }
-
-  .footer-container {
-    margin: 0 20px;
-  }
-
-  .grid-wrapper {
-    padding: 0 10px;
-  }
-
-  .grid-container {
-    grid-template-columns: 1fr;
-    gap: 1.5rem;
-    padding: 15px;
-  }
-
-  .introwords {
-    padding: 15px;
-  }
-
-  .introwords .words {
-    margin: 0;
-    text-align: center;
-  }
-
-  #pagination-controls {
-    padding: 15px 0;
-  }
-
-  .Card__Title {
-    font-size: 0.85rem;
-  }
-
-  /* Carousel arrow adjustments so they don't go off-screen */
   .carousel-arrow {
     width: 32px;
     height: 32px;
     font-size: 1rem;
   }
-
-  /* Instead of negative offsets, keep them within view */
-  .carousel-arrow.prev {
-    left: 10px;
-  }
-  .carousel-arrow.next {
-    right: 10px;
-  }
-
-  /* Make slides full-width on mobile */
-  .carousel-slide {
-    flex: 0 0 100%;
-  }
-
-  /* Reduce side padding further on mobile if desired */
-  .highlights-wrapper {
-    padding: 0 20px;
-  }
-}
-
-@media (min-width: 769px) and (max-width: 1024px) {
-  .grid-container {
-    grid-template-columns: repeat(2, 1fr);
-    gap: 1.5rem;
-  }
   
-  .carousel-slide {
-    flex: 0 0 calc(50% - 0.5rem);
-  }
-  
-  /* Slightly less negative offset for tablets */
   .carousel-arrow.prev {
     left: -40px;
   }
+  
   .carousel-arrow.next {
     right: -40px;
   }
