@@ -570,7 +570,7 @@ nav a {
 /* Style paragraphs within the content */
 .body p {
   margin-bottom: 30px;
-  font-size: 20px;
+  /* font-size: 20px; */
 }
 
 /* Style italics for publication names */
@@ -770,11 +770,20 @@ nav a {
   }
 }
 /* Blog styles to add to your existing CSS */
-.blog-wrapper {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 20px;
+.blog-wrapper,
+.blog-post {
+  font-size: 16px;       /* from 20px to 18px, for example */
+  line-height: 1.6;      /* you could do 1.65 or 1.7 if you prefer */
+  max-width: 700px;      /* narrower reading column on large screens */
+  margin: 0 auto;        /* center the content */
+  padding: 0 20px;       /* add side padding so text isn't flush against edges */
 }
+
+/* Tweak spacing/margins around paragraphs if you like */
+.blog-post p {
+  margin-bottom: 1.2em;
+}
+
 
 .blog-list {
   margin-top: 40px;
@@ -808,12 +817,12 @@ nav a {
   margin: 0;
 }
 
-/* Single post styles */
+/* Single post styles
 .blog-post {
   max-width: 800px;
   margin: 0 auto;
   padding: 20px;
-}
+} */
 
 .post-title {
   font-family: 'Merriweather', serif;
@@ -835,7 +844,7 @@ nav a {
 
 .post-content {
   font-family: 'Merriweather', serif;
-  font-size: 1.1rem;
+  /* font-size: 1.1rem; */
   line-height: 1.8;
   color: #333;
 }
@@ -857,7 +866,10 @@ nav a {
 @media (max-width: 768px) {
   .blog-wrapper,
   .blog-post {
-    padding: 15px;
+    font-size: 16px;  /* from 18px down to 16px for smaller screens */
+    line-height: 1.6; /* keep line-height similar or reduce slightly */
+    max-width: 100%;  /* let mobile screens use full width */
+    padding: 0 15px;
   }
   
   .blog-title {
