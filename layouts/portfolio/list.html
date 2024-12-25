@@ -1,8 +1,7 @@
 {{ define "main" }}
 <div class="grid-wrapper">
-
-  <!-- Intro section (unchanged) -->
-  <div class="introwords" style="max-width: 1200px; margin: 0 auto;">
+  <!-- Intro section -->
+  <div class="introwords">
     {{ $numArticles := len .Site.Data.articles.articles }}
     <div style="margin-left: 15vw;">
       <p class="words">
@@ -12,57 +11,123 @@
     </div>
   </div>
 
-  <!-- HIGHLIGHTS SECTION (unchanged) -->
+  <!-- HIGHLIGHTS SECTION -->
   <h2 class="SectionHeading">Highlights</h2>
   <hr class="hrline">
-  <div class="grid-container highlights">
-    <div class="grid-item">
-      <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank" rel="noopener noreferrer">
-        <article class="Card">
-          <div class="Card__Content">
-            <div class="Card__ImageWrapper grid-image-wrapper">
-              <img src="https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=900"
-                   alt="Human hibernation is a real possibility - this is how it might work"
-                   width="1350" height="900" />
-            </div>
-            <div class="Card__CopyWrapper">
-              <h3 class="Card__Title">Human hibernation is a real possibility - this is how it might work</h3>
-            </div>
-          </div>
-        </article>
-      </a>
+  
+  <div class="highlights-wrapper">
+    <button class="carousel-arrow prev" aria-label="Previous slide">←</button>
+    
+    <div class="highlights-carousel">
+      <div class="carousel-track" role="region" aria-label="Article highlights carousel">
+        <!-- AI Mathematicians -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/mg26234863-300-how-ai-mathematicians-might-finally-deliver-human-level-reasoning/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2024/04/09121015/SEI_198633450.jpg?width=2006"
+                       alt="How AI mathematicians might finally deliver human-level reasoning" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">How AI mathematicians might finally deliver human-level reasoning</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+
+        <!-- Hibernation Article -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/mg25634080-400-human-hibernation-is-a-real-possibility-this-is-how-it-might-work/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=900"
+                       alt="Human hibernation is a real possibility - this is how it might work" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">Human hibernation is a real possibility - this is how it might work</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+
+        <!-- AGI Interview -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/mg26335091-000-the-ai-expert-who-says-artificial-general-intelligence-is-nonsense/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2024/09/13114414/SEI_221422062.jpg?width=2006"
+                       alt="The AI expert who says artificial general intelligence is nonsense" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">The AI expert who says artificial general intelligence is nonsense</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+
+        <!-- AI Column -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/mg26234881-200-why-curbing-chatbots-worst-exploits-is-a-game-of-whack-a-mole/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2024/04/22142618/SEI_200452889.jpg?width=2006"
+                       alt="Why curbing chatbots' worst exploits is a game of whack-a-mole" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">Why curbing chatbots' worst exploits is a game of whack-a-mole</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+
+        <!-- Physics Laws Pattern -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/2452341-the-laws-of-physics-appear-to-follow-a-mysterious-mathematical-pattern/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2024/10/17122723/SEI_225583756.jpg?width=2006"
+                       alt="The laws of physics appear to follow a mysterious mathematical pattern" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">The laws of physics appear to follow a mysterious mathematical pattern</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+
+        <!-- Mathematicians Equals -->
+        <div class="carousel-slide">
+          <a class="CardLink" href="https://www.newscientist.com/article/2433958-mathematicians-cant-agree-what-equals-means-and-thats-a-problem/" target="_blank" rel="noopener noreferrer">
+            <article class="Card">
+              <div class="Card__Content">
+                <div class="Card__ImageWrapper grid-image-wrapper">
+                  <img src="https://images.newscientist.com/wp-content/uploads/2024/06/03143017/SEI_206831966.jpg?width=2006"
+                       alt="Mathematicians can't agree what equals means – and that's a problem" />
+                </div>
+                <div class="Card__CopyWrapper">
+                  <h3 class="Card__Title">Mathematicians can't agree what equals means – and that's a problem</h3>
+                </div>
+              </div>
+            </article>
+          </a>
+        </div>
+      </div>
     </div>
-    <div class="grid-item">
-      <a class="CardLink" href="https://www.newscientist.com/article/2315418-particle-physics-could-be-rewritten-after-shock-w-boson-measurement/" target="_blank">
-        <article class="Card">
-          <div class="Card__Content">
-            <div class="Card__ImageWrapper grid-image-wrapper">
-              <img src="https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=900"
-                   alt="Particle physics could be rewritten after shock W boson measurement"
-                   width="1350" height="900" />
-            </div>
-            <div class="Card__CopyWrapper">
-              <h3 class="Card__Title">Particle physics could be rewritten after shock W boson measurement</h3>
-            </div>
-          </div>
-        </article>
-      </a>
-    </div>
-    <div class="grid-item">
-      <a class="CardLink" href="https://www.newscientist.com/article/2346939-how-will-ais-that-generate-videos-from-text-transform-media-online/" target="_blank">
-        <article class="Card">
-          <div class="Card__Content">
-            <div class="Card__ImageWrapper grid-image-wrapper">
-              <img src="https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=900"
-                   alt="How will AIs that generate videos from text transform media online?"
-                   width="1350" height="900" />
-            </div>
-            <div class="Card__CopyWrapper">
-              <h3 class="Card__Title">How will AIs that generate videos from text transform media online?</h3>
-            </div>
-          </div>
-        </article>
-      </a>
+
+    <button class="carousel-arrow next" aria-label="Next slide">→</button>
+    
+    <div class="carousel-progress">
+      <!-- Progress indicators will be inserted by JavaScript -->
     </div>
   </div>
 
@@ -92,7 +157,7 @@
     {{ end }}
   </div>
 
-  <!-- 2) The pagination controls (Previous/Next) -->
+  <!-- 2) The pagination controls -->
   <div id="pagination-controls" style="text-align:center; margin: 2rem 0;">
     <button id="prev-btn" class="prev-link" style="margin-right: 1rem;">Previous</button>
     <span id="page-info"></span>
@@ -101,51 +166,45 @@
 
 </div>
 
-<!-- 3) Scroll-to-grid script partial (unchanged) -->
+<!-- Script partials -->
 {{ partial "scroll-to-grid.js" . }}
+{{ partial "carousel.js" . }}
 
-<!-- 4) Client-Side Pagination Script -->
+<!-- Pagination Script -->
 <script>
 (function() {
-  // The number of articles we show per page
   const pageSize = 9;
-
-  // Current page starts at 1
   let currentPage = 1;
-
-  // Get ALL article elements
   const articles = document.querySelectorAll('#article-grid .article');
   const totalArticles = articles.length;
   const totalPages = Math.ceil(totalArticles / pageSize);
-
-  // DOM elements
   const prevBtn = document.getElementById('prev-btn');
   const nextBtn = document.getElementById('next-btn');
   const pageInfo = document.getElementById('page-info');
+  const articleSection = document.getElementById('newscientisttop');
 
-  // This function shows only the slice of articles for the given page
+  function scrollToArticles() {
+    articleSection.scrollIntoView({ behavior: 'smooth' });
+  }
+
   function showPage(page) {
-    // Hide all articles
     articles.forEach(a => (a.style.display = 'none'));
-
-    // Calculate start & end indexes
+    
     const start = (page - 1) * pageSize;
     const end = start + pageSize;
-
-    // Show the subset for this page
+    
     for (let i = start; i < end && i < totalArticles; i++) {
       articles[i].style.display = 'block';
     }
-
-    // Update "Page X of Y" text
+    
     pageInfo.textContent = `Page ${page} of ${totalPages}`;
-
-    // Disable/enable buttons as needed
     prevBtn.disabled = (page <= 1);
     nextBtn.disabled = (page >= totalPages);
+    
+    // Scroll to the top of the articles section
+    scrollToArticles();
   }
 
-  // Event listeners for the buttons
   prevBtn.addEventListener('click', () => {
     if (currentPage > 1) {
       currentPage--;
@@ -160,7 +219,6 @@
     }
   });
 
-  // Show page 1 initially
   showPage(currentPage);
 })();
 </script>
