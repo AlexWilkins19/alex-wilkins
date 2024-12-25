@@ -447,6 +447,45 @@ nav a {
 
 /* Responsive styles */
 @media only screen and (max-width: 768px) {
+  /* Let the parent container wrap into a column */
+  .content-container {
+    display: flex; 
+    flex-direction: column; 
+    align-items: center; 
+    justify-content: center; 
+    flex-wrap: nowrap; /* or you could just do display:block if you prefer */
+    gap: 20px;         /* or whatever small gap you want */
+  }
+
+  /* Make the text take full width instead of 70% */
+  .words {
+    width: 90%;
+    max-width: 600px;  /* your call; can be narrower if you prefer */
+    margin: 0 auto;    /* center it horizontally */
+  }
+
+  /* Make sure the photo is also nicely centered */
+  .photo {
+    width: auto;       /* let the image size itself */
+    margin: 0 auto;    /* center the photo container */
+  }
+  
+  .photo-wrapper {
+    margin: 0 auto;
+    /* remove if you want the photo after the text
+       or add “order:-1” if you want the photo
+       to appear before the text on mobile */
+  }
+
+  /* Keep the image from stretching too large on mobile */
+  .pic {
+    max-width: 200px;  /* or 100% if you want it fluid */
+    height: auto;
+  }
+}
+
+
+@media only screen and (max-width: 768px) {
   nav li {
       display: inline-block;
       margin-left: 5px;
