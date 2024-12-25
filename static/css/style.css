@@ -37,7 +37,7 @@ h1 {
   color: #333;
   font-family: 'Merriweather', serif;
   font-weight: 400;
-  letter-spacing: 1px;
+  letter-spacing: 0;
   word-spacing: 3px;
   line-height: 1.2;
   margin: 0 0 20px;
@@ -48,7 +48,7 @@ h1 {
   height: 1px;
   background-color: #707070;
   width: 70%;
-  margin: 20px auto;
+  margin: 10px auto; /* Changed from 20px to 10px to move line closer */
   opacity: 0.6;
 }
 
@@ -89,21 +89,18 @@ h1 {
 }
 
 footer {
-  position: relative;
-  bottom: 0;
-  width: 100%;
-  height: 100px;
-  font-family: Arial, sans-serif;
-  font-size: 12px;
+  text-align: center;
+  font-size: 14px; /* slightly larger than 12px for readability */
+  color: #777;     /* a softer gray */
+  margin-top: 40px;
 }
 
 .footer-line {
-  border: none;
-  height: 1px;
-  background-color: #707070;
+  background-color: #ccc;
+  opacity: 0.4;
   width: 50%;
-  margin-bottom: 10px;
 }
+
 
 .footer-container {
   display: flex;
@@ -116,33 +113,27 @@ footer {
 }
 
 img.pic {
-  border-radius: 50%;
-  max-width: 100%;
-  max-height: 100%;
-  min-width: 250px;
-  min-height: 250px;
+  min-width: 200px; /* was 250px */
+  min-height: 200px;
+  max-width: 250px; /* upper bound if someone has a huge screen */
 }
 
+
 .socialbuttons {
-  width: 60%;
   display: flex;
   flex-direction: row;
-  justify-content: space-around;
+  justify-content: center; /* Center the icons underneath the pic */
+  align-items: center;
   list-style-type: none;
-  padding-top: 10px;
-  padding-right: 0px;
-  margin: 20px auto 0;
+  padding: 0;
+  margin: 20px 0; /* or however much top/bottom spacing you want */
 }
 
 .socialicon {
-  background-size: contain;
-  height: 25px;
-  width: 25px;
+  width: 22px;    /* or 20px, slightly smaller */
+  height: 22px;
   filter: grayscale(100%);
-  object-fit: contain;
-  max-width: 25px;
-  max-height: 25px;
-  display: block;
+  transition: transform 0.2s ease;
 }
 
 .socialanchor {
@@ -151,7 +142,25 @@ img.pic {
   justify-content: center;
   width: 25px;
   height: 25px;
+  margin: 0 15px;  /* Added consistent spacing between icons */
+  transition: opacity 0.3s ease;
 }
+
+.socialanchor:first-child {
+  margin-left: 0;  /* Remove left margin from first icon */
+}
+
+.socialanchor:last-child {
+  margin-right: 0;  /* Remove right margin from last icon */
+}
+
+.socialicon:hover {
+  filter: grayscale(0%); /* reveal the icon’s original color, if you like */
+  transform: scale(1.1);
+  opacity: 0.9;          /* or something subtle */
+}
+
+
 
 a {
   color: #555;
@@ -235,10 +244,26 @@ nav {
   text-align: center;
 }
 
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem; /* This creates even spacing between items */
+}
+
 nav li {
   display: inline-block;
-  margin-left: 1px;
-  margin-right: 1px;
+  margin: 0; /* Remove any default margins */
+  padding: 0; /* Remove any default padding */
+}
+
+nav a {
+  display: block;
+  padding: 0.5rem 0;
+  text-decoration: none;
+  color: #555;
 }
 
 /* CONTENT WRAPPERS */
@@ -250,7 +275,7 @@ nav li {
   max-width: 800px;
   margin: 0 auto;
   flex-wrap: nowrap;
-  gap: 40px;
+  gap: 30px;
 }
 
 .words {
@@ -260,6 +285,13 @@ nav li {
   margin-top: 30px;
 }
 
+.words p {
+  line-height: 1.8; /* was ~1.6 by default */
+  max-width: 34em;  /* a common measure for comfortable reading */
+  margin-bottom: 25px;
+}
+
+
 .content-wrapper {
   display: flex;
   flex-direction: column;
@@ -268,8 +300,12 @@ nav li {
 }
 
 .photo-wrapper {
-  flex: 0 0 40%;
+  flex: 0 0 auto;  /* or remove 'flex:0 0 40%' if you want the image sized automatically */
   text-align: center;
+  margin: 0 auto;  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 .photo {
@@ -418,10 +454,14 @@ nav li {
   }
 
   .content-container {
-      flex-direction: column-reverse;
-      text-align: center;
-      margin-left: 20px;
-      margin-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 750px;
+    margin: 0 auto;
+    flex-wrap: nowrap;
+    gap: 30px; /* was 40px; a bit tighter looks nice */
   }
 
   .words {
@@ -689,4 +729,140 @@ nav li {
   .carousel-arrow.next {
     right: -40px;
   }
+}
+/* Blog styles to add to your existing CSS */
+.blog-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.blog-list {
+  margin-top: 40px;
+}
+
+.blog-entry {
+  margin-bottom: 40px;
+}
+
+.blog-link {
+  text-decoration: none;
+  display: block;
+  transition: transform 0.3s ease;
+}
+
+.blog-link:hover {
+  transform: translateX(10px);
+}
+
+.blog-title {
+  font-family: 'Merriweather', serif;
+  font-size: 1.8rem;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.blog-subhead {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.1rem;
+  color: #666;
+  margin: 0;
+}
+
+/* Single post styles */
+.blog-post {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.post-title {
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.post-meta {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1rem;
+  color: #666;
+  margin-bottom: 30px;
+}
+
+.post-author {
+  margin-right: 20px;
+}
+
+.post-content {
+  font-family: 'Merriweather', serif;
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: #333;
+}
+.post-content a {
+  color: #333;
+  border-bottom: 1px solid #ccc;
+  transition: border-color 0.3s ease, color 0.3s ease;
+}
+
+.post-content a:hover {
+  color: #000;
+  border-bottom: 1px solid #333;
+}
+
+.post-content p a {
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .blog-wrapper,
+  .blog-post {
+    padding: 15px;
+  }
+  
+  .blog-title {
+    font-size: 1.5rem;
+  }
+  
+  .post-title {
+    font-size: 2rem;
+  }
+}
+/* Navigation active state */
+nav ul li {
+  position: relative;
+}
+
+/* Update the active line position */
+nav ul li.active::after {
+  content: '';
+  position: absolute;
+  bottom: -2px; /* Changed from -4px to -2px to move line closer */
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #333;
+}
+
+nav ul li.active a {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Also make sure child pages are marked as active */
+nav ul li.active-parent a {
+  font-weight: 600;
+  color: #333;
+}
+
+/* Add hover effect for consistency */
+nav ul li:hover::after {
+  content: '';
+  position: absolute;
+  bottom: -2px; /* Changed from -4px to -2px to match active state */
+  left: 0;
+  width: 100%;
+  height: 2px;
+  background-color: #666;
 }

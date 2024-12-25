@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="blog-wrapper">
+  <div class="blog-list">
+    {{ range .Pages.ByDate.Reverse }}
+    <article class="blog-entry">
+      <a href="{{ .RelPermalink }}" class="blog-link">
+        <h2 class="blog-title">{{ .Title }}</h2>
+        {{ with .Params.subhead }}
+          <p class="blog-subhead">{{ . }}</p>
+        {{ end }}
+      </a>
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

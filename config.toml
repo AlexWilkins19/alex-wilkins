@@ -3,32 +3,47 @@ languageCode = "en-us"
 title = "Alex Wilkins"
 description = "Alex Wilkins: journalist; programmer"
 tags = ["blog", "sidebar", "SEO"]
-# # Enter your tracking code to enable Google Analytics
-# googleAnalytics = ""
 copyright = "Copyright © 2025 Alex Wilkins."
 canonifyURLS = true
 paginate = 9
 
-
+# Enter your tracking code to enable Google Analytics
+# googleAnalytics = ""
 
 [params]
-	author = "Alex Wilkins"
-  bio = "Alex Wilkins: Journalist, musician and coder"
-	logo = "/images/favicon.png"
-	avatar = "/images/logo.ico"
-	opengraphImage = "/images/favicon.png"
-  readMore = "Read more"
+    author = "Alex Wilkins"
+    bio = "Alex Wilkins: Journalist, musician and coder"
+    logo = "/images/favicon.png"
+    avatar = "/images/logo.ico"
+    opengraphImage = "/images/favicon.png"
+    readMore = "Read more"
 
     # Social
-	twitter  = "https://twitter.com/AlexWilkins22"
-	github   = "https://github.com/AlexWilkins19"
-	facebook  = ""
-  linkedin  = "https://www.linkedin.com/in/alex-wilkins-345077117/"
-
+    twitter = "https://twitter.com/AlexWilkins22"
+    github = "https://github.com/AlexWilkins19"
+    facebook = ""
+    linkedin = "https://www.linkedin.com/in/alex-wilkins-345077117/"
 
     # Code highlighting with highlight.js
     highlightJS = true
 
-# Taxonomies
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
+    [[menu.main]]
+        name = "Portfolio"
+        url = "/portfolio/"
+        weight = 3
+    [[menu.main]]
+        name = "Blog"
+        url = "/blog/"
+        weight = 4
+
 [taxonomies]
     tag = "tags"

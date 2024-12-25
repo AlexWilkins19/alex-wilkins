@@ -1,4 +1,16 @@
-    <li id="portfolio"><a href='/portfolio'>Portfolio</a></li>
-    <li id="blog"><a href='/post'>Blog</a></li>
-    <li id="music"><a href='/music'>Music</a></li>
-    <li id="about"><a href='/about'>About</a></li>
+<nav>
+    <ul>
+      <li class="{{ if or (eq .RelPermalink "/portfolio/") (in .RelPermalink "/portfolio") }}active{{ end }}">
+        <a href="/portfolio/">Portfolio</a>
+      </li>
+      <li class="{{ if or (eq .RelPermalink "/blog/") (in .RelPermalink "/blog") }}active{{ end }}">
+        <a href="/blog/">Blog</a>
+      </li>
+      <li class="{{ if or (eq .RelPermalink "/music/") (in .RelPermalink "/music") }}active{{ end }}">
+        <a href="/music/">Music</a>
+      </li>
+      <li class="{{ if or (eq .RelPermalink "/about/") (in .RelPermalink "/about") }}active{{ end }}">
+        <a href="/about/">About</a>
+      </li>
+    </ul>
+  </nav>

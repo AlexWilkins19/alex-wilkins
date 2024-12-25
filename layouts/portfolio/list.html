@@ -167,7 +167,6 @@
 </div>
 
 <!-- Script partials -->
-{{ partial "scroll-to-grid.js" . }}
 {{ partial "carousel.js" . }}
 
 <!-- Pagination Script -->
@@ -187,7 +186,7 @@
     articleSection.scrollIntoView({ behavior: 'smooth' });
   }
 
-  function showPage(page) {
+  function showPage(page, shouldScroll = false) {
     articles.forEach(a => (a.style.display = 'none'));
     
     const start = (page - 1) * pageSize;
@@ -201,25 +200,28 @@
     prevBtn.disabled = (page <= 1);
     nextBtn.disabled = (page >= totalPages);
     
-    // Scroll to the top of the articles section
-    scrollToArticles();
+    // Only scroll if explicitly requested
+    if (shouldScroll) {
+      scrollToArticles();
+    }
   }
 
   prevBtn.addEventListener('click', () => {
     if (currentPage > 1) {
       currentPage--;
-      showPage(currentPage);
+      showPage(currentPage, true);  // scroll on button click
     }
   });
 
   nextBtn.addEventListener('click', () => {
     if (currentPage < totalPages) {
       currentPage++;
-      showPage(currentPage);
+      showPage(currentPage, true);  // scroll on button click
     }
   });
 
-  showPage(currentPage);
+  // Initial page load - don't scroll
+  showPage(currentPage, false);
 })();
 </script>
 {{ end }}
