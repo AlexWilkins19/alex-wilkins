@@ -30,3 +30,23 @@
 {{ end }}
 
 <link rel="canonical" href="{{ .Permalink }}">
+
+    <!-- Default social sharing image -->
+    {{ $defaultImage := "/images/social/default-social.jpg" }}
+    
+    <!-- If a post has a specific image defined in frontmatter, use that instead -->
+    {{ $socialImage := cond (isset .Params "image") .Params.image $defaultImage }}
+    {{ $fullImagePath := (printf "%s%s" .Site.BaseURL $socialImage) }}
+    
+    <!-- Open Graph tags -->
+    <meta property="og:title" content="{{ .Title }}" />
+    <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}" />
+    <meta property="og:url" content="{{ .Permalink }}" />
+    <meta property="og:image" content="{{ $fullImagePath }}" />
+    <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+    
+    <!-- Twitter Card tags -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="{{ .Title }}" />
+    <meta name="twitter:description" content="{{ with .Description }}{{ . }}{{ else }}{{ if .IsPage }}{{ .Summary }}{{ else }}{{ .Site.Params.description }}{{ end }}{{ end }}" />
+    <meta name="twitter:image" content="{{ $fullImagePath }}" />

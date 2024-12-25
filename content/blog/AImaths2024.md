@@ -3,6 +3,7 @@ title: "Can artificial intelligence do mathematics yet?"
 subhead: "2024's remarkable developments in maths AIs"
 date: 2024-12-25
 author: "Alex Wilkins"
+image: "/images/social/ai-math-social.jpg"
 ---
 
 As 2024 draws to a close, I'm reflecting on some of the biggest news that has happened across the beats I cover for New Scientist, in physics, space, and technology. 
