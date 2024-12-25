@@ -1,0 +1,32 @@
+<div class="subscribe-container">
+    <h3 class="subscribe-title">Want to read my next post?</h3>
+    <p class="subscribe-text">Subscribe below to get new posts delivered to your inbox.</p>
+    
+    <div class="subscription-options">
+      <div class="email-subscribe">
+        <form
+          action="https://buttondown.email/api/emails/embed-subscribe/wilkins"
+          method="post"
+          target="popupwindow"
+          class="subscribe-form"
+          onsubmit="window.open('https://buttondown.email/wilkins', 'popupwindow')"
+        >
+          <div class="input-group">
+            <input type="email" name="email" placeholder="Enter your email" required class="subscribe-input">
+            <button type="submit" class="subscribe-button">Subscribe</button>
+          </div>
+        </form>
+      </div>
+      
+      <div class="rss-subscribe">
+        <a href="/index.xml" class="rss-link">
+          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="rss-icon">
+            <path d="M4 11a9 9 0 0 1 9 9"></path>
+            <path d="M4 4a16 16 0 0 1 16 16"></path>
+            <circle cx="5" cy="19" r="1"></circle>
+          </svg>
+          RSS Feed
+        </a>
+      </div>
+    </div>
+  </div>

@@ -1,5 +1,6 @@
 {{ define "main" }}
 <div class="blog-wrapper">
+  <!-- Blog entries -->
   <div class="blog-list">
     {{ range .Pages.ByDate.Reverse }}
     <article class="blog-entry">
@@ -8,9 +9,24 @@
         {{ with .Params.subhead }}
           <p class="blog-subhead">{{ . }}</p>
         {{ end }}
+        <div class="post-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+          {{ with .Params.tags }}
+          <div class="post-tags">
+            {{ range . }}
+            <span class="post-tag">{{ . }}</span>
+            {{ end }}
+          </div>
+          {{ end }}
+        </div>
       </a>
     </article>
     {{ end }}
+  </div>
+  
+  <!-- Subscribe section at bottom -->
+  <div class="blog-footer">
+    {{ partial "subscribe.html" . }}
   </div>
 </div>
 {{ end }}

@@ -1,13 +1,33 @@
 {{ define "main" }}
-<article class="blog-post">
-  <h1 class="post-title">{{ .Title }}</h1>
-  <div class="post-meta">
-    <span class="post-author">By {{ .Params.author }}</span>
-    <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+<div class="blog-wrapper">
+  <!-- Blog post content -->
+  <article class="blog-post">
+    <a href="/blog/" class="back-to-blog">Back to Blog</a>
+    
+    <h1 class="post-title">{{ .Title }}</h1>
+    <div class="post-meta">
+      <span class="post-author">By {{ .Params.author }}</span>
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="post-date">
+        {{ .Date.Format "January 2, 2006" }}
+      </time>
+      {{ with .Params.tags }}
+      <div class="post-tags">
+        {{ range . }}
+        <a href="/tags/{{ . | urlize }}" class="post-tag">{{ . }}</a>
+        {{ end }}
+      </div>
+      {{ end }}
+    </div>
+    
+    <hr class="headerline">
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+  </article>
+
+  <!-- Subscribe section at bottom -->
+  <div class="blog-footer">
+    {{ partial "subscribe.html" . }}
   </div>
-  <hr class="headerline">
-  <div class="post-content">
-    {{ .Content }}
-  </div>
-</article>
+</div>
 {{ end }}
