@@ -15,7 +15,7 @@ body {
   width: 100%;
   margin: 0 auto;
   line-height: 1.6;
-  font-family: 'Roboto Slab', serif;
+  font-family: 'Merriweather', serif;  /* Changed from 'Roboto Slab' */
 }
 
 h2, h3, h4, h5, h6 {
@@ -271,21 +271,23 @@ nav li {
 }
 
 /* Grid and Portfolio Styles */
+/* Update the grid wrapper width */
 .grid-wrapper {
   width: 100%;
-  max-width: 1400px;
+  max-width: 900px;  /* Changed from 1400px to match other content */
   margin: 0 auto;
   padding: 0 20px;
   box-sizing: border-box;
 }
 
+/* Update grid container spacing */
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 2rem;
+  grid-template-columns: repeat(3, 1fr);  /* Two columns like NS */
+  gap: 1rem;  /* Tighter gap like NS */
   padding: 20px 0;
   margin: 0 auto;
-  max-width: 1200px;
+  max-width: 800px;
   box-sizing: border-box;
 }
 
@@ -311,11 +313,11 @@ nav li {
 
 .grid-image-wrapper {
   position: relative;
-  padding-bottom: 66.67%;  /* 3:2 aspect ratio */
+  padding-bottom: 56.25%;  /* Changed to 16:9 aspect ratio to match NS style */
   height: 0;
   overflow: hidden;
-  border: 2px solid #ffe6cc;
-  border-radius: 5px;
+  border: none;  /* Remove the border since NS doesn't use one */
+  border-radius: 0;  /* Remove border radius */
 }
 
 .grid-image-wrapper img {
@@ -325,6 +327,8 @@ nav li {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  transition: opacity 0.3s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  background-color: transparent;
 }
 
 /* Section heading styles */
@@ -354,12 +358,12 @@ nav li {
 .Card__Title {
   font-family: 'Merriweather', serif;
   color: #333;
-  font-size: 0.9rem;
-  font-weight: 300;
-  margin: 0;
-  padding: 10px;
+  font-size: 1.1rem;  /* Slightly larger title */
+  font-weight: 600;  /* Bolder text */
+  margin: 0.5rem 0;  /* Add some spacing */
+  padding: 0;
   text-align: left;
-  background-color: #ffe6cc;
+  background-color: transparent;  /* Remove background color */
 }
 
 .Card__ImageWrapper img {
@@ -461,4 +465,51 @@ nav li {
 /* Remove the margin-left from intro text */
 .introwords div[style*="margin-left: 15vw"] {
   margin-left: 0 !important;
+}
+
+/* Add these to your existing CSS file */
+.single {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+/* Target the main content section */
+.body {
+  font-family: 'Merriweather', serif;
+  line-height: 1.6;
+  color: #333;
+  margin: 0 auto;
+}
+
+/* Style paragraphs within the content */
+.body p {
+  margin-bottom: 30px;
+  font-size: 20px;
+}
+
+/* Style italics for publication names */
+.body em {
+  font-style: italic;
+  font-family: 'Merriweather', serif;
+  color: #000;
+}
+
+/* Adjust the date section */
+.time {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 16px;
+  color: #555;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+/* Remove extra spacing from tags section if empty */
+.extras:empty {
+  display: none;
+}
+
+/* If you want to remove the date */
+.extras {
+  display: none;
 }
