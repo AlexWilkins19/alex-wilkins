@@ -5,7 +5,7 @@ description = "Alex Wilkins: journalist; programmer"
 tags = ["blog", "sidebar", "SEO"]
 # # Enter your tracking code to enable Google Analytics
 # googleAnalytics = ""
-copyright = "Copyright © 2022 Alex Wilkins."
+copyright = "Copyright © 2025 Alex Wilkins."
 canonifyURLS = true
 paginate = 9
 
