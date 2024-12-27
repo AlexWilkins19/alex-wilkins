@@ -1,6 +1,6 @@
 ---
-title: "Bacteria found in asteroid sample – but they're not from space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/22142622/SEI_230534717.jpg?width=788"
+title: "Electric Dreams is past echo of today’s debates on AI-generated art"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/28160605/suzanne-treister-fictional-videogame-stills-are-you-dreaming-1991-92.-courtesy-the-artist-annely-juda-fine-art-london-and-p.p.o.w.jpg?width=788"
 index: 17
 weight: 17
 ---

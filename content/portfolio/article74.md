@@ -1,6 +1,6 @@
 ---
-title: "AI beats top racers at Gran Turismo – without cheating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04150940/SEI_211486789.jpg?width=788"
+title: "Moon of Saturn has an equivalent of freshwater rivers and salty oceans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/16115146/SEI_213043344.jpg?width=788"
 index: 74
 weight: 74
 ---
