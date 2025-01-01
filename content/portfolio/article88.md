@@ -1,6 +1,6 @@
 ---
-title: "Quantum sensor gets a read on tiny worm implanted with nanodiamonds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788"
+title: "Hybrid design could make nuclear fusion reactors more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788"
 index: 88
 weight: 88
 ---
