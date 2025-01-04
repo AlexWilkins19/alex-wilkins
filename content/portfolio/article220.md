@@ -1,6 +1,6 @@
 ---
-title: "Super-heatproof computer memory survives temperatures over 500°C"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/27110926/SEI_173494949.jpg?width=788"
+title: "Waste plastic can be recycled into hydrogen fuel and graphene"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788"
 index: 220
 weight: 220
 ---

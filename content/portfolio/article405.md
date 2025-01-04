@@ -1,6 +1,6 @@
 ---
-title: "First exoplanet picture from James Webb Space Telescope revealed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
+title: "Physicists want the next Large Hadron Collider to be climate-friendly"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
 index: 405
 weight: 405
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31115459/SEI_107221617.jpg?width=600"
+title: "Self-charging buoy could harness wave power to monitor the oceans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
 index: 437
 weight: 437
 ---
