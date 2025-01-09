@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope has finished unfolding its massive mirror"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10110947/PRI_217942257.jpg?width=600"
+title: "Huge gas bubble that contains the solar system mapped for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/12151302/PRI_218192335.jpg?width=600"
 index: 531
 weight: 531
 ---

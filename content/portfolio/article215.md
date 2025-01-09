@@ -1,6 +1,6 @@
 ---
-title: "We still don't really understand what large language models are"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03105309/SEI_173874643.jpg?width=788"
+title: "Why trying to photograph a black hole was a massive gamble"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03154918/SEI_174436548.jpg?width=788"
 index: 215
 weight: 215
 ---

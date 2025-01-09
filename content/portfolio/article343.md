@@ -1,6 +1,6 @@
 ---
-title: "Huge AI models can be halved in size without degrading performance"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/17105152/SEI_140164683.jpg?width=600"
+title: "Fabric inspired by camel’s hump could protect firefighters from heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/20170546/SEI_140914054.jpg?width=600"
 index: 343
 weight: 343
 ---

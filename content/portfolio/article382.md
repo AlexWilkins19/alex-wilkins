@@ -1,6 +1,6 @@
 ---
-title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
+title: "Aluminium alloy could boost spacecraft radiation shielding 100-fold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19153608/SEI_129853305.jpg?width=600"
 index: 382
 weight: 382
 ---
