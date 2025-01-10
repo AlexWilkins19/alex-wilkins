@@ -1,6 +1,6 @@
 ---
-title: "Computer chip made using mushroom skin could be easily recycled"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/11161132/SEI_133177235.jpg?width=600"
+title: "Nuclear fusion reactions create unexpectedly high-energy particles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/14153902/SEI_133588205.jpg?width=600"
 index: 368
 weight: 368
 ---

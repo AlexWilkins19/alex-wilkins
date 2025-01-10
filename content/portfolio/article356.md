@@ -1,6 +1,6 @@
 ---
-title: "Bluewalker 3 satellite is brighter than 99.8 per cent of visible stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/25162905/SEI_135016585.jpg?width=600"
+title: "The W boson gave particle physicists a major shock in 2022"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/14121032/SEI_135596939.jpg?width=600"
 index: 356
 weight: 356
 ---
