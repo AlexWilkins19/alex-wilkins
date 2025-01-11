@@ -1,6 +1,6 @@
 ---
-title: "Saturn’s rings may be far older than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/16150357/SEI_233444071.jpg?width=788"
+title: "Ultra-thin diamond wafers for electronics made using sticky tape"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788"
 index: 13
 weight: 13
 ---
