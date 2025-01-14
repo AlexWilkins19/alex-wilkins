@@ -1,6 +1,6 @@
 ---
-title: "Physicists discover the secret to perfect cacio e pepe pasta"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09165158/SEI_235457061.jpg?width=788"
+title: "Laser technique measures vast distances with nanometre precision"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/10162828/SEI_235256076.jpg?width=788"
 index: 2
 weight: 2
 ---

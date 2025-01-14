@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
+title: "Floating artificial leaf converts energy from sunlight into fuel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17150936/SEI_119854264.jpg?width=600"
 index: 423
 weight: 423
 ---

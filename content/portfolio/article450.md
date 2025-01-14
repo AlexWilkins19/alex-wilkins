@@ -1,6 +1,6 @@
 ---
-title: "UK may go it alone in orbit after Brexit shutout from EU space plans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/14121504/SEI_109580970.jpg?width=600"
+title: "Ancient meteorite upends our ideas of how Mars formed"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/16171557/SEI_110053287.jpg?width=600"
 index: 450
 weight: 450
 ---

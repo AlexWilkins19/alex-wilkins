@@ -1,6 +1,6 @@
 ---
-title: "Brazil picked as 2022 World Cup winners by Alan Turing Institute model"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/18112447/SEI_134130719.jpg?width=600"
+title: "We finally know in detail how salt dissolves in water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22112231/SEI_134028847.jpg?width=600"
 index: 365
 weight: 365
 ---

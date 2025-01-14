@@ -1,6 +1,6 @@
 ---
-title: "High-flying microplastics could pose a threat to the ozone layer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13105805/SEI_171399079.jpg?width=788"
+title: "Twisted lasers could let us send messages with gravitational waves"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/22112712/SEI_172755805.jpg?width=788"
 index: 233
 weight: 233
 ---
