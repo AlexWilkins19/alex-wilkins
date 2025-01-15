@@ -1,6 +1,6 @@
 ---
-title: "Casimir Funk: The scientist who gave us the word 'vitamin'"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23122319/SEI_192870410.jpg?width=788"
+title: "A robot dog has learned to open doors with its leg"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg?width=788"
 index: 145
 weight: 145
 ---
