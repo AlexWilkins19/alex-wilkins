@@ -1,6 +1,6 @@
 ---
-title: "The outline of people’s bodies can be detected from Wi-Fi signals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24200740/SEI_141554916.jpg?width=600"
+title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/30164818/SEI_142270253.jpg?width=600"
 index: 346
 weight: 346
 ---

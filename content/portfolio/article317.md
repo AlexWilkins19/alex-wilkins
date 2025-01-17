@@ -1,6 +1,6 @@
 ---
-title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
+title: "Why we need to be wary of anthropomorphising chatbots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
 index: 317
 weight: 317
 ---

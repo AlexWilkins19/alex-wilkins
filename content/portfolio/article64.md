@@ -1,6 +1,6 @@
 ---
-title: "A giant wave in the Milky Way may have been created by another galaxy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/23134600/SEI_218332397.jpg?width=788"
+title: "Dark matter could be hiding inside strange failed stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/29202755/SEI_219103506.jpg?width=788"
 index: 64
 weight: 64
 ---

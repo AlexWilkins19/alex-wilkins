@@ -1,6 +1,6 @@
 ---
-title: "China prepares to launch laboratory module to Tiangong space station"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21122312/SEI_115411756.jpg?width=600"
+title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
 index: 441
 weight: 441
 ---

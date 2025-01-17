@@ -1,6 +1,6 @@
 ---
-title: "Robotic chemist discovers how to make oxygen from Martian minerals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=788"
+title: "Flexible needle goes soft after injections for safety and comfort"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/15103605/SEI_179587333.jpg?width=788"
 index: 208
 weight: 208
 ---
