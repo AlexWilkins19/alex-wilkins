@@ -1,6 +1,6 @@
 ---
-title: "Physicists want the next Large Hadron Collider to be climate-friendly"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
+title: "Two potentially habitable super-Earth planets have been discovered"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/07141923/SEI_123721260.jpg?width=600"
 index: 416
 weight: 416
 ---

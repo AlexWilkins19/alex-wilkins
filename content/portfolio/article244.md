@@ -1,6 +1,6 @@
 ---
-title: "JWST may have seen black holes suppressing the creation of new stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=788"
+title: "Why haven't we got useful quantum computers yet?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04155456/SEI_169692145.jpg?width=788"
 index: 244
 weight: 244
 ---

@@ -1,6 +1,6 @@
 ---
-title: "We may finally know what caused the biggest cosmic explosion ever seen"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25123437/SEI_213963951.jpg?width=788"
+title: "Particle physicists may have solved a strange mystery about the muon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788"
 index: 82
 weight: 82
 ---

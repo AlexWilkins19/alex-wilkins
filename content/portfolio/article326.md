@@ -1,6 +1,6 @@
 ---
-title: "Robot snake that moves like a sidewinder could inspect sewage pipes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/14114447/sidewinding.gif?width=600"
+title: "Windows filled with see-through wood layer help hold in heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/16121418/SEI_148522522.jpg?width=600"
 index: 326
 weight: 326
 ---

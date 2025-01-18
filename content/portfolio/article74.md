@@ -1,6 +1,6 @@
 ---
-title: "Could Mars become habitable with the help of glitter-like iron rods?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788"
+title: "Discovery of 'dark' electrons could explain how superconductors work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788"
 index: 74
 weight: 74
 ---

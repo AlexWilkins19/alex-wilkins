@@ -1,6 +1,6 @@
 ---
-title: "AI models can't learn as they go along like humans do"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788"
+title: "DNA computer can play chess and solve sudoku puzzles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/23170818/SEI_218243586.jpg?width=788"
 index: 68
 weight: 68
 ---

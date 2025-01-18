@@ -1,6 +1,6 @@
 ---
-title: "Dark energy may have been hiding in the cores of black holes all along"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15163011/SEI_144308396.jpg?width=600"
+title: "Google says error correction will lead to useful quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
 index: 336
 weight: 336
 ---

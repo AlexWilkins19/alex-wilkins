@@ -1,6 +1,6 @@
 ---
-title: "Jet from neutron stars seems to travel seven times the speed of light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12140033/SEI_129109086.jpg?width=600"
+title: "Mind-reading AI works out what you are thinking from brain scans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14115545/SEI_128881388.jpg?width=600"
 index: 396
 weight: 396
 ---

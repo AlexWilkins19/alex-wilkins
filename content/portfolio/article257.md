@@ -1,6 +1,6 @@
 ---
-title: "Shirt woven with metal could help medical implants communicate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26145954/SEI_165498222.jpg?width=788"
+title: "Brown dwarf is locked in a destructive 2-hour orbit with a tiny star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09152027/SEI_166515883.jpg?width=788"
 index: 257
 weight: 257
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Moons might not form around rocky planets much larger than Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/01152709/PRI_221065357.jpg?width=600"
+title: "First truly isolated black hole detected in interstellar space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/03174635/PRI_221398609.jpg?width=600"
 index: 528
 weight: 528
 ---

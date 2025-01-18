@@ -1,6 +1,6 @@
 ---
-title: "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/15111606/SEI_217467197.jpg?width=788"
+title: "Fuzzy quantum effects have been seen on the largest scale yet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/20140353/SEI_217596532.jpg?width=788"
 index: 73
 weight: 73
 ---

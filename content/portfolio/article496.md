@@ -1,6 +1,6 @@
 ---
-title: "Holograms might speed up diagnosis of urinary tract infection"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01171310/SEI_96596610.jpg?width=600"
+title: "Particle physics could be rewritten after shock W boson measurement"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/07143511/SEI_97419882.jpg?width=600"
 index: 496
 weight: 496
 ---

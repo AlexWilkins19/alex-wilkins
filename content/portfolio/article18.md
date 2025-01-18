@@ -1,6 +1,6 @@
 ---
-title: "Ultra-thin diamond wafers for electronics made using sticky tape"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788"
+title: "Should chatbots have rights – and should we care?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/17153008/SEI_233552771.jpg?width=788"
 index: 18
 weight: 18
 ---

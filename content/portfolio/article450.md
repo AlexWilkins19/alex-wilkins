@@ -1,6 +1,6 @@
 ---
-title: "Light delayed by seven years as it is bent around a galaxy cluster"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/21175548/SEI_110822884.jpg?width=600"
+title: "Penguins adapt their accents to sound more like their friends"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/12172453/SEI_114337758.jpg?width=600"
 index: 450
 weight: 450
 ---
