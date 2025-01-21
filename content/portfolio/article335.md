@@ -1,6 +1,6 @@
 ---
-title: "Hubble Space Telescope images are being spoiled by satellite trails"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
+title: "Wooden robot hand can lift objects and withstand high temperatures"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/03144213/SEI_146640986.jpg?width=600"
 index: 335
 weight: 335
 ---
