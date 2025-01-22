@@ -1,6 +1,6 @@
 ---
-title: "Physicists surprised to discover the proton contains a charm quark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17103310/SEI_119824070.jpg?width=600"
+title: "Fire-resistant aluminium-sulphur battery charges in under a minute"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/23174815/SEI_120746343.jpg?width=600"
 index: 429
 weight: 429
 ---

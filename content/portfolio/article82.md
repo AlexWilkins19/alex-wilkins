@@ -1,6 +1,6 @@
 ---
-title: "A slight curve helps rocks make the biggest splash"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155207/SEI_214086567.jpg?width=788"
+title: "Black holes may inherit their magnetic fields from neutron stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02164138/SEI_215484512.jpg?width=788"
 index: 82
 weight: 82
 ---

@@ -1,6 +1,6 @@
 ---
-title: "How to see the Orionid meteor shower in October and November"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/18131357/SEI_176447854.jpg?width=788"
+title: "Oddly bright burst may mean space is more transparent than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788"
 index: 224
 weight: 224
 ---

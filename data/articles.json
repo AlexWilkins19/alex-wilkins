@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "An alien planet has winds that blow at 33,000 kilometres per hour",
+      "url": "https://www.newscientist.com/article/2464958-an-alien-planet-has-winds-that-blow-at-33000-kilometres-per-hour/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/01/21131105/SEI_236805022.jpg?width=788",
+      "scrapedAt": "2025-01-22T01:20:30.452Z"
+    },
+    {
+      "title": "Weird icy balls in space could be a totally new kind of star",
+      "url": "https://www.newscientist.com/article/2464596-weird-icy-balls-in-space-could-be-a-totally-new-kind-of-star/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/01/17171649/SEI_236310831.jpg?width=788",
+      "scrapedAt": "2025-01-22T01:20:30.452Z"
+    },
+    {
       "title": "Fertiliser can be made from human urine in just a few simple steps",
       "url": "https://www.newscientist.com/article/2464770-fertiliser-can-be-made-from-human-urine-in-just-a-few-simple-steps/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/01/20145124/SEI_236667263.jpg?width=788",
