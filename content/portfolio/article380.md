@@ -1,6 +1,6 @@
 ---
-title: "How will AIs that generate videos from text transform media online?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=600"
+title: "Ronnametres and quettagrams have joined the ranks of SI units"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/16180318/SEI_133874096.jpg?width=600"
 index: 380
 weight: 380
 ---
