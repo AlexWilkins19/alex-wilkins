@@ -1,6 +1,6 @@
 ---
-title: "Fertiliser can be made from human urine in just a few simple steps"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/20145124/SEI_236667263.jpg?width=788"
+title: "Weird icy balls in space could be a totally new kind of star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17171649/SEI_236310831.jpg?width=788"
 index: 5
 weight: 5
 ---
