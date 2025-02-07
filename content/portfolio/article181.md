@@ -1,6 +1,6 @@
 ---
-title: "Caves seen on the surface of a comet for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12110251/SEI_186875306.jpg?width=788"
+title: "New fiery doughnut image is our most detailed glimpse of a black hole"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18081148/SEI_187707989.jpg?width=788"
 index: 181
 weight: 181
 ---

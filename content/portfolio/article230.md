@@ -1,6 +1,6 @@
 ---
-title: "Largest quake ever seen on Mars points to surprising seismic activity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=788"
+title: "The moon is 40 million years older than we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=788"
 index: 230
 weight: 230
 ---

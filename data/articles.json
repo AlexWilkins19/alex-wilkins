@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "The perfect boiled egg takes more than half an hour to cook",
+      "url": "https://www.newscientist.com/article/2467032-the-perfect-boiled-egg-takes-more-than-half-an-hour-to-cook/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/05150121/SEI_238664712.jpg?width=788",
+      "scrapedAt": "2025-02-07T01:22:01.314Z"
+    },
+    {
+      "title": "Asteroid 2024 YR4 may hit Earth in 2032 – how worried should we be?",
+      "url": "https://www.newscientist.com/article/2467169-asteroid-2024-yr4-may-hit-earth-in-2032-how-worried-should-we-be/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/06115459/SEI_238678310.jpg?width=788",
+      "scrapedAt": "2025-02-07T01:22:01.315Z"
+    },
+    {
       "title": "Laughing gas could be picked up by a breathalyser",
       "url": "https://www.newscientist.com/article/2466710-laughing-gas-could-be-picked-up-by-a-breathalyser/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/04104009/SEI_238533460.jpg?width=788",

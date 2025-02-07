@@ -1,6 +1,6 @@
 ---
-title: "Laser technique measures vast distances with nanometre precision"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/10162828/SEI_235256076.jpg?width=788"
+title: "SpaceX is launching Blue Ghost and Resilience landers to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/14141510/SEI_235933443.jpg?width=788"
 index: 14
 weight: 14
 ---
