@@ -1,6 +1,6 @@
 ---
-title: "Self-charging buoy could harness wave power to monitor the oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
+title: "Stunning JWST image turns dust in a distant galaxy into a purple swirl"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19144341/SEI_115370440.jpg?width=600"
 index: 459
 weight: 459
 ---

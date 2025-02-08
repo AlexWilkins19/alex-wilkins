@@ -1,6 +1,6 @@
 ---
-title: "Water molecules found in lunar rock sample for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788"
+title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
 index: 88
 weight: 88
 ---

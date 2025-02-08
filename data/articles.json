@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Astronomers have spotted the largest known object in the universe",
+      "url": "https://www.newscientist.com/article/2467487-astronomers-have-spotted-the-largest-known-object-in-the-universe/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788",
+      "scrapedAt": "2025-02-08T01:18:10.371Z"
+    },
+    {
+      "title": "Dexterous and light prosthetic hand can tie knots and comb hair",
+      "url": "https://www.newscientist.com/article/2467328-dexterous-and-light-prosthetic-hand-can-tie-knots-and-comb-hair/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/07115713/SEI_238772595.jpg?width=788",
+      "scrapedAt": "2025-02-08T01:18:10.371Z"
+    },
+    {
       "title": "The perfect boiled egg takes more than half an hour to cook",
       "url": "https://www.newscientist.com/article/2467032-the-perfect-boiled-egg-takes-more-than-half-an-hour-to-cook/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/05150121/SEI_238664712.jpg?width=788",

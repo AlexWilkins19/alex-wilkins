@@ -1,6 +1,6 @@
 ---
-title: "Bacteria found in asteroid sample – but they're not from space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/22142622/SEI_230534717.jpg?width=788"
+title: "Swarms of cyborg cockroaches could be manufactured by robots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/29142458/SEI_231323199.jpg?width=788"
 index: 42
 weight: 42
 ---

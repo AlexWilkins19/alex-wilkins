@@ -1,6 +1,6 @@
 ---
-title: "An alien planet has winds that blow at 33,000 kilometres per hour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/21131105/SEI_236805022.jpg?width=788"
+title: "Does DeepSeek show a way to slash the energy demands of AI?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/29161204/SEI_237796754.jpg?width=788"
 index: 6
 weight: 6
 ---
