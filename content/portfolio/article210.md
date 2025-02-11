@@ -1,6 +1,6 @@
 ---
-title: "Six planets found orbiting a bright star 100 light years away"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/29130646/SEI_182061041.jpg?width=788"
+title: "Why adding water when you grind coffee beans makes for a better brew"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/06114043/SEI_183010524.jpg?width=788"
 index: 210
 weight: 210
 ---

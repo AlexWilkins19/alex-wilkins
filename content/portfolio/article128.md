@@ -1,6 +1,6 @@
 ---
-title: "Surgeons can use AI chatbot to tell robots to help with suturing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/14170418/SEI_204050412.jpg?width=788"
+title: "What is artificial general intelligence, and is it a useful concept?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/20144944/SEI_205166454.jpg?width=788"
 index: 128
 weight: 128
 ---

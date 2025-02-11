@@ -1,6 +1,6 @@
 ---
-title: "Heart-shaped mollusc has windows that work like fibre optics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19132912/SEI_230039841.jpg?width=788"
+title: "See the sun revealed in stunning glory by Solar Orbiter pictures"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19200845/SEI_230042522.jpg?width=788"
 index: 49
 weight: 49
 ---

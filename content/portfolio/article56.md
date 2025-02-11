@@ -1,6 +1,6 @@
 ---
-title: "10 stunning James Webb Space Telescope images show the beauty of space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/17100618/sei225115412-1.jpg?width=788"
+title: "Our only visit to Uranus came at an unusual time for the planet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11145255/SEI_228852345.jpg?width=788"
 index: 56
 weight: 56
 ---

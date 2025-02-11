@@ -1,6 +1,6 @@
 ---
-title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
+title: "World's heaviest bony fish weighs in at a whopping 2744 kilograms"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14135900/SEI_129417405.jpg?width=600"
 index: 407
 weight: 407
 ---
