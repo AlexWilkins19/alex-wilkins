@@ -1,6 +1,6 @@
 ---
-title: "Synthetic membrane could lead to self-replicating artificial cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/30144406/SEI_107219879.jpg?width=600"
+title: "Advanced quantum computer made available to the public for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/01155106/sei107499590.jpg?width=600"
 index: 479
 weight: 479
 ---

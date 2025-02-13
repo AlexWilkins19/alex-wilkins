@@ -1,6 +1,6 @@
 ---
-title: "An incredibly bright star has lost its gas and is just a leftover core"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31164010/SEI_131719785.jpg?width=600"
+title: "Smartphones can reveal whether bridges are about to fall down"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03153321/SEI_132086736.jpg?width=600"
 index: 399
 weight: 399
 ---
