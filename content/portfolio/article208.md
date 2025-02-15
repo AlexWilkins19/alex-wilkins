@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image of Uranus shows 13 rings and nine moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=788"
+title: "Google wants to solve tricky physics problems with quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=788"
 index: 208
 weight: 208
 ---
