@@ -1,6 +1,6 @@
 ---
-title: "Astronomers might finally have explanation for mysterious Wow! signal"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788"
+title: "Quantum trick lets you cool objects down using nothing at all"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/19160033/SEI_217598995.jpg?width=788"
 index: 87
 weight: 87
 ---

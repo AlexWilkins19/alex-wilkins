@@ -1,6 +1,6 @@
 ---
-title: "UK's quantum computing sector is flourishing after early investment"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/18164327/SEI_134175591.jpg?width=600"
+title: "JWST has spotted chemical reactions in an exoplanet's atmosphere"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22160006/SEI_134740491.jpg?width=600"
 index: 387
 weight: 387
 ---

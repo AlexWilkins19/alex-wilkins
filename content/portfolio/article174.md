@@ -1,6 +1,6 @@
 ---
-title: "Quantum quirk explains why carbon dioxide causes global warming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/08150400/SEI_190165316.jpg?width=788"
+title: "The existence of a new kind of magnetism has been confirmed"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/14153321/SEI_191483493.jpg?width=788"
 index: 174
 weight: 174
 ---

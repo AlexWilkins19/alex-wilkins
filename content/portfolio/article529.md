@@ -1,6 +1,6 @@
 ---
-title: "Silkworms make fluorescent silk after eating quantum dots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/04120430/SEI_91456917.jpg?width=600"
+title: "Collision-dodging drones can navigate tight spaces without crashing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/09125430/SEI_92084149.jpg?width=600"
 index: 529
 weight: 529
 ---

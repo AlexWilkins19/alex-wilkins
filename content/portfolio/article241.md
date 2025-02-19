@@ -1,6 +1,6 @@
 ---
-title: "Why trying to photograph a black hole was a massive gamble"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03154918/SEI_174436548.jpg?width=788"
+title: "Largest quake ever seen on Mars points to surprising seismic activity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=788"
 index: 241
 weight: 241
 ---

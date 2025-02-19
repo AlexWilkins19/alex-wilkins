@@ -1,6 +1,6 @@
 ---
-title: "The sun could contain a tiny black hole that formed in the big bang"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=788"
+title: "Caves seen on the surface of a comet for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12110251/SEI_186875306.jpg?width=788"
 index: 192
 weight: 192
 ---
