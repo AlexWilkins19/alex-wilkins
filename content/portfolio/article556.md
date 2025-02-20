@@ -1,6 +1,6 @@
 ---
-title: "Ancient Mars may have had a liquid ocean despite freezing temperatures"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/17160442/PRI_218935323.jpg?width=600"
+title: "Weird black hole spewed star-forming jets 500 light years long"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/19155539/PRI_219069238.jpg?width=600"
 index: 556
 weight: 556
 ---

@@ -1,6 +1,6 @@
 ---
-title: "'Red matter' superconductor may not be a wonder material after all"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17122523/SEI_148554498.jpg?width=600"
+title: "Quantum computers may finally have their first real practical use"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17163112/SEI_148704490.jpg?width=600"
 index: 342
 weight: 342
 ---

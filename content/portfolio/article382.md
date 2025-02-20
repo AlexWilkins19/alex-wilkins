@@ -1,6 +1,6 @@
 ---
-title: "Watch this robot bird use a talon-like claw to land safely on a perch"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/15151943/SEI_137542977.jpg?width=600"
+title: "Super-absorbent towel soaks up liquids better than cloth or paper"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/21161110/SEI_138274087.jpg?width=600"
 index: 382
 weight: 382
 ---

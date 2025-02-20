@@ -1,6 +1,6 @@
 ---
-title: "Record-breaking quantum computer has more than 1000 qubits"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
+title: "Strange supernova blasts hint we have glimpsed a black hole’s birth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/26121618/SEI_177376125.jpg?width=788"
 index: 237
 weight: 237
 ---

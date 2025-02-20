@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "New Scientist recommends 13 Ways of Looking at AI, Art & Music",
+      "url": "https://www.newscientist.com/article/mg26535310-500-new-scientist-recommends-13-ways-of-looking-at-ai-art-music/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/14122556/SEI_239482708.jpg?width=788",
+      "scrapedAt": "2025-02-20T01:21:19.093Z"
+    },
+    {
+      "title": "Microsoft wants to use generative AI tool to help make video games",
+      "url": "https://www.newscientist.com/article/2469180-microsoft-wants-to-use-generative-ai-tool-to-help-make-video-games/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/19135216/SEI_240544482.jpg?width=788",
+      "scrapedAt": "2025-02-20T01:21:19.093Z"
+    },
+    {
       "title": "Astronomers uncover the topsy-turvy atmosphere of a distant planet",
       "url": "https://www.newscientist.com/article/2468994-astronomers-uncover-the-topsy-turvy-atmosphere-of-a-distant-planet/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/18152351/SEI_240413141.jpg?width=788",

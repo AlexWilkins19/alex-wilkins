@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI gets silver medal at International Mathematical Olympiad"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25144939/SEI_214089039.jpg?width=788"
+title: "Watch a robot peel a squash with human-like dexterity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/23145043/SEI_213285031.jpg?width=788"
 index: 103
 weight: 103
 ---

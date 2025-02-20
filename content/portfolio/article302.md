@@ -1,6 +1,6 @@
 ---
-title: "Massive Turing test shows we can only just tell AIs apart from humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05163041/shutterstock_1049679836-ai.jpg?width=788"
+title: "Robot gardener grows plants as well as humans do but uses less water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
 index: 302
 weight: 302
 ---
