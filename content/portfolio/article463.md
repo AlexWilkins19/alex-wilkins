@@ -1,6 +1,6 @@
 ---
-title: "Firing a laser into the sky can redirect lightning’s path"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
+title: "Mysterious light may come from the largest molecules found in space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
 index: 463
 weight: 463
 ---
