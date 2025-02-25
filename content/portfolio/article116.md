@@ -1,6 +1,6 @@
 ---
-title: "China’s Chang’e 6 returns with first rocks from far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25100337/SEI_210303798.jpg?width=788"
+title: "3D-printed egg shells can help bones regrow"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04122111/SEI_210465760.jpg?width=788"
 index: 116
 weight: 116
 ---

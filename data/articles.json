@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Intuitive Machines' lunar lander Athena set to blast off to the moon",
+      "url": "https://www.newscientist.com/article/2469712-intuitive-machines-lunar-lander-athena-set-to-blast-off-to-the-moon/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/24143056/SEI_241288440.jpg?width=788",
+      "scrapedAt": "2025-02-25T01:22:54.726Z"
+    },
+    {
+      "title": "Huge thunderstorm on Jupiter captured in best detail ever seen",
+      "url": "https://www.newscientist.com/article/2469535-huge-thunderstorm-on-jupiter-captured-in-best-detail-ever-seen/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/21114434/SEI_240560667.jpg?width=788",
+      "scrapedAt": "2025-02-25T01:22:54.726Z"
+    },
+    {
       "title": "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032",
       "url": "https://www.newscientist.com/article/2469516-asteroid-2024-yr4-will-now-almost-certainly-miss-earth-in-2032/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788",

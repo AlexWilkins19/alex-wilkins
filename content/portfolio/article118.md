@@ -1,6 +1,6 @@
 ---
-title: "Microphone made of atom-thick graphene could be used in smartphones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/20164801/SEI_209577968.jpg?width=788"
+title: "China’s Chang’e 6 returns with first rocks from far side of the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25100337/SEI_210303798.jpg?width=788"
 index: 118
 weight: 118
 ---

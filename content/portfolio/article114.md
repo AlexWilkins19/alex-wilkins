@@ -1,6 +1,6 @@
 ---
-title: "3D-printed egg shells can help bones regrow"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04122111/SEI_210465760.jpg?width=788"
+title: "AI beats top racers at Gran Turismo – without cheating"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04150940/SEI_211486789.jpg?width=788"
 index: 114
 weight: 114
 ---
