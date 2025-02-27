@@ -1,6 +1,6 @@
 ---
-title: "Mind-reading AI works out what you are thinking from brain scans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14115545/SEI_128881388.jpg?width=600"
+title: "Proton's stretchiness is a puzzle for particle physicists"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19115539/SEI_130141124.jpg?width=600"
 index: 419
 weight: 419
 ---

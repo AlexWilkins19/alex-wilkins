@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers might not offer extreme speed boost for chemistry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
+title: "Physicists surprised to discover the proton contains a charm quark"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17103310/SEI_119824070.jpg?width=600"
 index: 453
 weight: 453
 ---
