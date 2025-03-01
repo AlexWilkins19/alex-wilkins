@@ -1,6 +1,6 @@
 ---
-title: "Hopes for new physics dashed by ordinary-looking W bosons at CERN"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17130725/SEI_222025959.jpg?width=788"
+title: "Venus could be rocked by thousands of quakes every year"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17140724/SEI_221433851.jpg?width=788"
 index: 84
 weight: 84
 ---
