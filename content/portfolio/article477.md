@@ -1,6 +1,6 @@
 ---
-title: "Self-charging buoy could harness wave power to monitor the oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
+title: "Penguins adapt their accents to sound more like their friends"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/12172453/SEI_114337758.jpg?width=600"
 index: 477
 weight: 477
 ---
