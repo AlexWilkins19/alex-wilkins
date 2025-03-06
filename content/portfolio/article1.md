@@ -1,6 +1,6 @@
 ---
-title: "Cryptography trick could make AI algorithms more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/03104138/SEI_241701675.jpg?width=788"
+title: "The solar system was once engulfed by a vast wave of gas and dust"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/05114240/SEI_242609564.jpg?width=788"
 index: 1
 weight: 1
 ---

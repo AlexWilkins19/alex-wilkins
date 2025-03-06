@@ -1,6 +1,6 @@
 ---
-title: "Lightning flash measuring 768 kilometres is the longest ever recorded"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31182332/PRI_220970367.jpg?width=600"
+title: "Medical dressing works like duct tape to seal internal wounds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
 index: 559
 weight: 559
 ---

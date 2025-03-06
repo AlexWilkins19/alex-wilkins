@@ -1,6 +1,6 @@
 ---
-title: "Dark energy may have been hiding in the cores of black holes all along"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15163011/SEI_144308396.jpg?width=600"
+title: "Huge young galaxies seen by JWST may upend our models of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
 index: 366
 weight: 366
 ---
