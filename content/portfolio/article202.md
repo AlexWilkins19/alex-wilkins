@@ -1,6 +1,6 @@
 ---
-title: "New fiery doughnut image is our most detailed glimpse of a black hole"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18081148/SEI_187707989.jpg?width=788"
+title: "Watch a plant-inspired robot grow towards light like a vine"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18162943/SEI_187761517.jpg?width=788"
 index: 202
 weight: 202
 ---

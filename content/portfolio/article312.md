@@ -1,6 +1,6 @@
 ---
-title: "Robot gardener grows plants as well as humans do but uses less water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
+title: "Fastest star in the galaxy clocked at 2285 kilometres per second"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/14112653/SEI_159968470.jpg?width=788"
 index: 312
 weight: 312
 ---
