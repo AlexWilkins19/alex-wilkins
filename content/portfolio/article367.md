@@ -1,6 +1,6 @@
 ---
-title: "Google says error correction will lead to useful quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
+title: "Hubble Space Telescope images are being spoiled by satellite trails"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
 index: 367
 weight: 367
 ---

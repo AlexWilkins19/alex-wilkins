@@ -1,6 +1,6 @@
 ---
-title: "Advanced quantum computer made available to the public for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/01155106/sei107499590.jpg?width=600"
+title: "AI translates maths problems into code to make them easier to solve"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg?width=600"
 index: 496
 weight: 496
 ---
