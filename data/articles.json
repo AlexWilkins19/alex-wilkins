@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "The asteroid Bennu is even weirder than we thought",
+      "url": "https://www.newscientist.com/article/2471749-the-asteroid-bennu-is-even-weirder-than-we-thought/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/03/11200520/SEI_190273320.jpg?width=788",
+      "scrapedAt": "2025-03-12T01:24:05.927Z"
+    },
+    {
       "title": "'Amazing' spinning needle proof unlocks a whole new world of maths",
       "url": "https://www.newscientist.com/article/2471211-amazing-spinning-needle-proof-unlocks-a-whole-new-world-of-maths/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/03/10144418/SEI_243316000.jpg?width=788",
