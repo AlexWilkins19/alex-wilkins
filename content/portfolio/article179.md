@@ -1,6 +1,6 @@
 ---
-title: "How will AIs like ChatGPT affect elections this year?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=788"
+title: "Google launches $5m prize to find actual uses for quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=788"
 index: 179
 weight: 179
 ---
