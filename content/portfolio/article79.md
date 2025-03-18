@@ -1,6 +1,6 @@
 ---
-title: "Complex form of carbon spotted outside solar system for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/16145111/SEI_225579035.jpg?width=788"
+title: "This robot can build anything you ask for out of blocks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11142047/SEI_228478494.jpg?width=788"
 index: 79
 weight: 79
 ---

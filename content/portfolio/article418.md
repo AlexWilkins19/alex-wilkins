@@ -1,6 +1,6 @@
 ---
-title: "Chinese rocket has crashed back to Earth but no one knows where"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/04110728/SEI_132200244.jpg?width=600"
+title: "Microsoft's Copilot code tool faces the first big AI copyright lawsuit"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/08170834/SEI_132742877.jpg?width=600"
 index: 418
 weight: 418
 ---

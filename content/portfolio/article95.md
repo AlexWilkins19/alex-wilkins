@@ -1,6 +1,6 @@
 ---
-title: "Complex chemicals found on Enceladus improve prospects for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/13110417/SEI_221284276.jpg?width=788"
+title: "Hopes for new physics dashed by ordinary-looking W bosons at CERN"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17130725/SEI_222025959.jpg?width=788"
 index: 95
 weight: 95
 ---
