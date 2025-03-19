@@ -1,6 +1,6 @@
 ---
-title: "Flexible needle goes soft after injections for safety and comfort"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/15103605/SEI_179587333.jpg?width=788"
+title: "Strange nebula changes colour rhythmically like a mood lamp"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/20115956/SEI_179471978.jpg?width=788"
 index: 247
 weight: 247
 ---

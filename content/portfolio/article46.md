@@ -1,6 +1,6 @@
 ---
-title: "Physicists discover the secret to perfect cacio e pepe pasta"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09165158/SEI_235457061.jpg?width=788"
+title: "A supermassive black hole is sending out a mysterious pulsing beat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/13152631/SEI_235856621.jpg?width=788"
 index: 46
 weight: 46
 ---

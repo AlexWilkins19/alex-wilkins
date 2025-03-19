@@ -1,6 +1,6 @@
 ---
-title: "Flying robot generates as much power as a flapping insect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
+title: "Robofish powered by human cardiac cells gives fresh insight into heart"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10144231/PRI_222646379.jpg?width=600"
 index: 565
 weight: 565
 ---

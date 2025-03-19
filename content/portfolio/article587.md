@@ -1,6 +1,6 @@
 ---
-title: "Sample of asteroid Ryugu brought to Earth is a strange dark colour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/20154247/PRI_215885960.jpg?width=600"
+title: "The mummy of Egyptian pharaoh Amenhotep I has been digitally unwrapped"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/24125340/PRI_216178852.jpg?width=600"
 index: 587
 weight: 587
 ---

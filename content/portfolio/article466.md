@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers might not offer extreme speed boost for chemistry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
+title: "Earthquakes seem to come in a more predictable pattern than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
 index: 466
 weight: 466
 ---

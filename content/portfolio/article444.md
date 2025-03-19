@@ -1,6 +1,6 @@
 ---
-title: "NASA's DART mission successfully smashed into asteroid Dimorphos"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/27102233/SEI_127081233.jpg?width=600"
+title: "Nobel prize in physics awarded to pioneers of quantum information"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
 index: 444
 weight: 444
 ---

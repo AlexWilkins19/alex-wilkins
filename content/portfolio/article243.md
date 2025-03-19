@@ -1,6 +1,6 @@
 ---
-title: "AI cleaning robot can tidy up clothes in a messy bedroom"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21152134/SEI_181102879.jpg?width=788"
+title: "‘Insect-eye’ compass can navigate by the sun even on a cloudy day"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27142057/SEI_181090253.jpg?width=788"
 index: 243
 weight: 243
 ---

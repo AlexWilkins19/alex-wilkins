@@ -1,6 +1,6 @@
 ---
-title: "Large deposits of water found on Mars below the surface at the equator"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/16151022/PRI_215371899.jpg?width=600"
+title: "‘Near impossible’ plant-growing technique could revolutionise farming"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
 index: 589
 weight: 589
 ---

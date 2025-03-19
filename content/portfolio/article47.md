@@ -1,6 +1,6 @@
 ---
-title: "BepiColombo snaps Mercury's dark craters and volcanic plains"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09123042/SEI_235439936.jpg?width=788"
+title: "Laser technique measures vast distances with nanometre precision"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/10162828/SEI_235256076.jpg?width=788"
 index: 47
 weight: 47
 ---

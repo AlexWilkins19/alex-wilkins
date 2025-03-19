@@ -1,6 +1,6 @@
 ---
-title: "Astronomers have spotted the largest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788"
+title: "How big is a neutrino? We're finally starting to get an answer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/12150305/SEI_239602405.jpg?width=788"
 index: 27
 weight: 27
 ---

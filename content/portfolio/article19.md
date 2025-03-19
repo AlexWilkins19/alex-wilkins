@@ -1,6 +1,6 @@
 ---
-title: "Microsoft wants to use generative AI tool to help make video games"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/19135216/SEI_240544482.jpg?width=788"
+title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
 index: 19
 weight: 19
 ---

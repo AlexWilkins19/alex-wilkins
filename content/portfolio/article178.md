@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians plan computer proof of Fermat's last theorem"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/15125942/SEI_196127014.jpg?width=788"
+title: "Largest recorded solar storm was even bigger than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21125028/SEI_196726839.jpg?width=788"
 index: 178
 weight: 178
 ---

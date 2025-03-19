@@ -1,6 +1,6 @@
 ---
-title: "Record-breaking quantum computer has more than 1000 qubits"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
+title: "The sun is smaller than we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/07110555/SEI_178380549.jpg?width=788"
 index: 256
 weight: 256
 ---

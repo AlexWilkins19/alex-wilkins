@@ -1,6 +1,6 @@
 ---
-title: "Swarm of light-sail spacecraft could be propelled by laser on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/06174711/SEI_123297727.jpg?width=600"
+title: "Google AI can tell what things smell like by the molecular structure"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
 index: 453
 weight: 453
 ---

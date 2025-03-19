@@ -1,6 +1,6 @@
 ---
-title: "Strange nebula changes colour rhythmically like a mood lamp"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/20115956/SEI_179471978.jpg?width=788"
+title: "Cyborg jellyfish have a swimming cap and electric propulsion system"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21115603/SEI_180623332.jpg?width=788"
 index: 244
 weight: 244
 ---
