@@ -1,6 +1,6 @@
 ---
-title: "Spinning rotors made from DNA could power minuscule machines"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/20153513/SEI_115577658.jpg?width=600"
+title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
 index: 486
 weight: 486
 ---

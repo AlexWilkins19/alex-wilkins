@@ -1,6 +1,6 @@
 ---
-title: "The mummy of Egyptian pharaoh Amenhotep I has been digitally unwrapped"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/24125340/PRI_216178852.jpg?width=600"
+title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
 index: 587
 weight: 587
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Earth may have had its water delivered by a vast cloud of vapour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/11141245/SEI_232670154.jpg?width=788"
+title: "The sun may spit out giant solar flares more often than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/12160933/SEI_232965865.jpg?width=788"
 index: 66
 weight: 66
 ---

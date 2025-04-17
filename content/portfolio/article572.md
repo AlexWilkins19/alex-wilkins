@@ -1,6 +1,6 @@
 ---
-title: "Game theory shows how people crowd on trains at rush hour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31112508/PRI_220435800.jpg?width=600"
+title: "Medical dressing works like duct tape to seal internal wounds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
 index: 572
 weight: 572
 ---

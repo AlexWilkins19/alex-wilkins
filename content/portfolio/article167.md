@@ -1,6 +1,6 @@
 ---
-title: "Fractal pattern identified at molecular scale in nature for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788"
+title: "Will Amazon's robotic revolution spark a new wave of job losses?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/23134758/SEI_200991789.jpg?width=788"
 index: 167
 weight: 167
 ---

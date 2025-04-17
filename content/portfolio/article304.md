@@ -1,6 +1,6 @@
 ---
-title: "Ancient graphene formed 3 billion years before humans discovered it"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=788"
+title: "Earth is coated in ancient space dust that could be from the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=788"
 index: 304
 weight: 304
 ---

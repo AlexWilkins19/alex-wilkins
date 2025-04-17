@@ -1,6 +1,6 @@
 ---
-title: "We still don't really understand what large language models are"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03105309/SEI_173874643.jpg?width=788"
+title: "Largest known solar storm struck Earth 14,300 years ago"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/06162635/SEI_174908249.jpg?width=788"
 index: 267
 weight: 267
 ---

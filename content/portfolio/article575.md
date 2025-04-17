@@ -1,6 +1,6 @@
 ---
-title: "Yutu-2 lunar rover finds sticky soil on the far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/19145050/PRI_219219172.jpg?width=600"
+title: "Game theory shows how people crowd on trains at rush hour"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/31112508/PRI_220435800.jpg?width=600"
 index: 575
 weight: 575
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians found - and fixed - an error in a 60-year-old proof"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20150927/SEI_233851700.jpg?width=788"
+title: "Pluto may have captured its moon Charon with a brief kiss"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/03161027/SEI_234849194.jpg?width=788"
 index: 56
 weight: 56
 ---

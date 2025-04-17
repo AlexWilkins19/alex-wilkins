@@ -1,6 +1,6 @@
 ---
-title: "Should chatbots have rights – and should we care?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/17153008/SEI_233552771.jpg?width=788"
+title: "Glowing biological quantum sensor could track how cells form"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20133550/SEI_233846796.jpg?width=788"
 index: 57
 weight: 57
 ---

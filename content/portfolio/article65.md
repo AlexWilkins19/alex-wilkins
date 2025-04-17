@@ -1,6 +1,6 @@
 ---
-title: "Dazzling auroras lit up the skies in 2024 and we may see more in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/09160216/SEI_230033581.jpg?width=788"
+title: "Saturn’s rings may be far older than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/16150357/SEI_233444071.jpg?width=788"
 index: 65
 weight: 65
 ---

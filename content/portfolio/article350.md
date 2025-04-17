@@ -1,6 +1,6 @@
 ---
-title: "Crystal impervious to radiation could be used in spaceship computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=788"
+title: "Shapes 3D printed into living worms could be future of brain implants"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/05114158/SEI_150747213.jpg?width=788"
 index: 350
 weight: 350
 ---

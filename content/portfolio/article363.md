@@ -1,6 +1,6 @@
 ---
-title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
+title: "Mathematician wins Abel prize for solving equations with geometry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21133828/SEI_149134953.jpg?width=600"
 index: 363
 weight: 363
 ---

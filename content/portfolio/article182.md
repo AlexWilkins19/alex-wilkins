@@ -1,6 +1,6 @@
 ---
-title: "Google AI learns to play open-world video games by watching them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/13135436/SEI_195854788.jpg?width=788"
+title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=788"
 index: 182
 weight: 182
 ---

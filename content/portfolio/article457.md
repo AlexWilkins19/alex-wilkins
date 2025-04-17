@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted sandy clouds on a distant alien world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02155357/SEI_122370897.jpg?width=600"
+title: "Quantum diamond sensor used to measure neuron activity in mouse tissue"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12131054/SEI_123940228.jpg?width=600"
 index: 457
 weight: 457
 ---

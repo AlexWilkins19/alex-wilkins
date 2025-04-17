@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize in physics awarded to pioneers of quantum information"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
+title: "Space adverts are now economically viable but potentially dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
 index: 444
 weight: 444
 ---

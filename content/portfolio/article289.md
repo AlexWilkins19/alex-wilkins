@@ -1,6 +1,6 @@
 ---
-title: "Flying bird robot can soar so well it uses almost no power"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15160625/SEI_167614324.jpg?width=788"
+title: "JWST may have seen black holes suppressing the creation of new stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=788"
 index: 289
 weight: 289
 ---

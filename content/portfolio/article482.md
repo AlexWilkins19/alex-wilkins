@@ -1,6 +1,6 @@
 ---
-title: "Firing a laser into the sky can redirect lightning’s path"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
+title: "JWST could soon tell us what exoplanets' surfaces are made of"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/29163136/SEI_116642317.jpg?width=600"
 index: 482
 weight: 482
 ---

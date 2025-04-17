@@ -1,6 +1,6 @@
 ---
-title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
+title: "Mars astronauts would get unsafe radiation doses even with shielding"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/12112723/SEI_118867160.jpg?width=600"
 index: 475
 weight: 475
 ---

@@ -1,6 +1,6 @@
 ---
-title: "New view of our galaxy's black hole reveals a swirling magnetic field"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27111346/SEI_197604738.jpg?width=788"
+title: "Hyperelastic gel is one of the stretchiest materials known to science"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
 index: 174
 weight: 174
 ---

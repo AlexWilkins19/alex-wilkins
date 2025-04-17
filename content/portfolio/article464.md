@@ -1,6 +1,6 @@
 ---
-title: "Nanocrystals help water act like sponge to hold more oxygen than blood"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/24145159/SEI_120854208.jpg?width=600"
+title: "JWST reveals young star that may be about to give birth to a planet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/30120808/SEI_121215872.jpg?width=600"
 index: 464
 weight: 464
 ---

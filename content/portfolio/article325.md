@@ -1,6 +1,6 @@
 ---
-title: "Bendy solar panels are just as good as regular ones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24111802/SEI_157361160.jpg?width=788"
+title: "Robot gardener grows plants as well as humans do but uses less water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
 index: 325
 weight: 325
 ---

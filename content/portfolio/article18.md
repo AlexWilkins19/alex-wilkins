@@ -1,6 +1,6 @@
 ---
-title: "Huge thunderstorm on Jupiter captured in best detail ever seen"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21114434/SEI_240560667.jpg?width=788"
+title: "Physicists capture a strange fractal ‘butterfly’ for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26133208/SEI_241527864.jpg?width=788"
 index: 18
 weight: 18
 ---

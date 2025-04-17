@@ -1,6 +1,6 @@
 ---
-title: "Moon of Saturn has an equivalent of freshwater rivers and salty oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/16115146/SEI_213043344.jpg?width=788"
+title: "Robot dog can stifle weeds by blasting them with a blowtorch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/18162411/SEI_213319447.jpg?width=788"
 index: 129
 weight: 129
 ---

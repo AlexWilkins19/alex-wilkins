@@ -1,6 +1,6 @@
 ---
-title: "Mercury may have a layer of diamond beneath its grey surface"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/24111356/SEI_209752577.jpg?width=788"
+title: "3D-printed egg shells can help bones regrow"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04122111/SEI_210465760.jpg?width=788"
 index: 135
 weight: 135
 ---

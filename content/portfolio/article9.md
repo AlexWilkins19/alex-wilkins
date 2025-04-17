@@ -1,6 +1,6 @@
 ---
-title: "Speeding star offers a rare glimpse of the Milky Way's galactic centre"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/06145351/SEI_242617308.jpg?width=788"
+title: "Quartz crystals on Mars could preserve signs of ancient life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/12161638/SEI_243559194.jpg?width=788"
 index: 9
 weight: 9
 ---
