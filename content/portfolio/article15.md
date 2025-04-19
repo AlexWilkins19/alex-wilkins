@@ -1,6 +1,6 @@
 ---
-title: "Andrew Barto and Richard Sutton win Turing award for AI training trick"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/04153425/SEI_242477387.jpg?width=788"
+title: "Two huge black holes merged into one and went flying across the cosmos"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/04115348/SEI_241709675.jpg?width=788"
 index: 15
 weight: 15
 ---

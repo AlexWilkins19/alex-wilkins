@@ -1,6 +1,6 @@
 ---
-title: "Solar panels that work at night produce enough power to charge a phone"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/05155212/SEI_97228967.jpg?width=600"
+title: "Early warning system for Amazon forest losses seen in climate models"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
 index: 539
 weight: 539
 ---

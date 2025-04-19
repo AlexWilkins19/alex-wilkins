@@ -1,6 +1,6 @@
 ---
-title: "Flying robot leaps upwards and then takes to the air like a bird"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/04124137/SEI_231807062.jpg?width=788"
+title: "Mathematicians have figured out the best sofa shape for moving around"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/09143954/SEI_232596963.jpg?width=788"
 index: 72
 weight: 72
 ---
