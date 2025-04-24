@@ -1,6 +1,6 @@
 ---
-title: "The Complete Guide to Memory review: How we remember and how we forget"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06140302/SEI_142597236.jpg?width=600"
+title: "AI generates virtual 3D cities that extend infinitely in any direction"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/13111830/SEI_143627573.jpg?width=600"
 index: 388
 weight: 388
 ---

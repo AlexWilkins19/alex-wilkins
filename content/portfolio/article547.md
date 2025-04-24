@@ -1,6 +1,6 @@
 ---
-title: "Astronomers still can't agree on what counts as a planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/25115617/SEI_95246757.jpg?width=600"
+title: "Robot made of magnetic slime could grab objects inside your body"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/31145751/SEI_96443182.jpg?width=600"
 index: 547
 weight: 547
 ---
