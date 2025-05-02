@@ -1,6 +1,6 @@
 ---
-title: "People are really bad at spotting AI-generated deepfake voices"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15110600/SEI_247528962.jpg?width=788"
+title: "Where exactly does the quantum world end and concrete reality begin?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
 index: 9
 weight: 9
 ---
