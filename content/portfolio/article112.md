@@ -1,6 +1,6 @@
 ---
-title: "A riveting exploration of how AI models like ChatGPT changed the world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/06164614/SEI_219917842.jpg?width=788"
+title: "Visible aurora spotted for the first time on Mars by NASA rover"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/11155019/SEI_221124993.jpg?width=788"
 index: 112
 weight: 112
 ---

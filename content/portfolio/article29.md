@@ -1,6 +1,6 @@
 ---
-title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
+title: "Huge thunderstorm on Jupiter captured in best detail ever seen"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21114434/SEI_240560667.jpg?width=788"
 index: 29
 weight: 29
 ---

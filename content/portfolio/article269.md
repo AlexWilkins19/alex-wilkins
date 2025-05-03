@@ -1,6 +1,6 @@
 ---
-title: "Record-breaking quantum computer has more than 1000 qubits"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788"
 index: 269
 weight: 269
 ---
