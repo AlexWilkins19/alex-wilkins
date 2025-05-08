@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Concerns raised over AI trained on 57 million NHS medical records",
+      "url": "https://www.newscientist.com/article/2479302-concerns-raised-over-ai-trained-on-57-million-nhs-medical-records/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/05/07105447/SEI_250200236.jpg?width=788",
+      "scrapedAt": "2025-05-08T01:41:18.000Z"
+    },
+    {
       "title": "Dark energy bombshell sparks race to find a new model of the universe",
       "url": "https://www.newscientist.com/article/2478344-dark-energy-bombshell-sparks-race-to-find-a-new-model-of-the-universe/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788",

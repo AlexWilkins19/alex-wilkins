@@ -1,6 +1,6 @@
 ---
-title: "Physicists capture a strange fractal ‘butterfly’ for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26133208/SEI_241527864.jpg?width=788"
+title: "Electronic tongue could let you taste cake in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/28144012/SEI_241807303.jpg?width=788"
 index: 26
 weight: 26
 ---

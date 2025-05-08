@@ -1,6 +1,6 @@
 ---
-title: "Electronic cochlea adjusts to noise levels like a human ear"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=788"
+title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=788"
 index: 347
 weight: 347
 ---
