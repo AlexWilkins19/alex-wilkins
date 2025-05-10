@@ -1,6 +1,6 @@
 ---
-title: "Water may be forming on the moon thanks to Earth’s magnetic field"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/29135207/SEI_173493846.jpg?width=788"
+title: "Nobel prize for physics goes to trio who sliced up time with light"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03110157/SEI_174410760.jpg?width=788"
 index: 283
 weight: 283
 ---

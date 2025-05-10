@@ -1,6 +1,6 @@
 ---
-title: "Huge new volcano has burst through the surface of Jupiter’s moon Io"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/11090835/SEI_220936645.jpg?width=788"
+title: "Visible aurora spotted for the first time on Mars by NASA rover"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/11155019/SEI_221124993.jpg?width=788"
 index: 115
 weight: 115
 ---
