@@ -1,6 +1,6 @@
 ---
-title: "The shine began to wear off AI in 2024 as advances slowed down"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/09172521/SEI_229326986.jpg?width=788"
+title: "The sun may spit out giant solar flares more often than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/12160933/SEI_232965865.jpg?width=788"
 index: 78
 weight: 78
 ---

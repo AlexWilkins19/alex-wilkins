@@ -1,6 +1,6 @@
 ---
-title: "Weird meteorite may be relic of lost planet that no longer exists"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/17201545/SEI_2442029351.jpg?width=788"
+title: "People are really bad at spotting AI-generated deepfake voices"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15110600/SEI_247528962.jpg?width=788"
 index: 15
 weight: 15
 ---

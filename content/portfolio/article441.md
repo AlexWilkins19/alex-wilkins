@@ -1,6 +1,6 @@
 ---
-title: "JWST finds ancient galaxy may actually be two galaxies merging"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31121040/SEI_131307589.jpg?width=600"
+title: "An incredibly bright star has lost its gas and is just a leftover core"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31164010/SEI_131719785.jpg?width=600"
 index: 441
 weight: 441
 ---
