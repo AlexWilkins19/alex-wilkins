@@ -1,6 +1,6 @@
 ---
-title: "Water molecules found in lunar rock sample for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788"
+title: "Black holes may inherit their magnetic fields from neutron stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02164138/SEI_215484512.jpg?width=788"
 index: 135
 weight: 135
 ---
