@@ -1,6 +1,6 @@
 ---
-title: "Long-lasting radiation shields may make super-Earths friendly for life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13131825/PRI_218327491.jpg?width=600"
+title: "Ancient Mars may have had a liquid ocean despite freezing temperatures"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/17160442/PRI_218935323.jpg?width=600"
 index: 597
 weight: 597
 ---

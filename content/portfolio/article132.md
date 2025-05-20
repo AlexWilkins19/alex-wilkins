@@ -1,6 +1,6 @@
 ---
-title: "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/15111606/SEI_217467197.jpg?width=788"
+title: "Discovery of 'dark' electrons could explain how superconductors work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788"
 index: 132
 weight: 132
 ---
