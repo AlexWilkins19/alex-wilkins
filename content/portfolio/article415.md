@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT detector could help spot cheaters using AI to write essays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg?width=600"
+title: "Huge AI models can be halved in size without degrading performance"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/17105152/SEI_140164683.jpg?width=600"
 index: 415
 weight: 415
 ---
