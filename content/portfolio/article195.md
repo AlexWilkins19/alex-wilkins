@@ -1,6 +1,6 @@
 ---
-title: "Flavour-predicting AI can tell brewers how to make beer taste better"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/26151256/SEI_197492060.jpg?width=788"
+title: "This robot predicts when you're going to smile – and smiles back"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27144351/SEI_197627021.jpg?width=788"
 index: 195
 weight: 195
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Space adverts are now economically viable but potentially dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
+title: "Black holes wobbling three times a second have proved Einstein right"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
 index: 461
 weight: 461
 ---

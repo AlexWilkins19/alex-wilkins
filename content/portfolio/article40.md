@@ -1,6 +1,6 @@
 ---
-title: "Odds of asteroid 2024 YR4 hitting Earth in 2032 have fallen again"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/18115827/SEI_240416865.jpg?width=788"
+title: "Huge thunderstorm on Jupiter captured in best detail ever seen"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21114434/SEI_240560667.jpg?width=788"
 index: 40
 weight: 40
 ---

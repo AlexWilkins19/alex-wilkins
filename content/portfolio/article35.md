@@ -1,6 +1,6 @@
 ---
-title: "Physicists capture a strange fractal ‘butterfly’ for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26133208/SEI_241527864.jpg?width=788"
+title: "Cryptography trick could make AI algorithms more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/03104138/SEI_241701675.jpg?width=788"
 index: 35
 weight: 35
 ---

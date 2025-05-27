@@ -1,6 +1,6 @@
 ---
-title: "Ships release invisible contrails that slightly cool the climate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/05143706/SEI_128061021.jpg?width=600"
+title: "Space adverts are now economically viable but potentially dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
 index: 463
 weight: 463
 ---

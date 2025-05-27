@@ -1,6 +1,6 @@
 ---
-title: "First exoplanet picture from James Webb Space Telescope revealed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
+title: "JWST has spotted sandy clouds on a distant alien world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02155357/SEI_122370897.jpg?width=600"
 index: 479
 weight: 479
 ---

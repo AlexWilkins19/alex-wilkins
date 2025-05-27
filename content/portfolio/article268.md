@@ -1,6 +1,6 @@
 ---
-title: "Cooling system could replace air con and drastically cut energy use"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/16170109/SEI_180460515.jpg?width=788"
+title: "AI cleaning robot can tidy up clothes in a messy bedroom"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21152134/SEI_181102879.jpg?width=788"
 index: 268
 weight: 268
 ---
