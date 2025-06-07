@@ -1,6 +1,6 @@
 ---
-title: "This robot predicts when you're going to smile – and smiles back"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27144351/SEI_197627021.jpg?width=788"
+title: "Hyperelastic gel is one of the stretchiest materials known to science"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
 index: 196
 weight: 196
 ---

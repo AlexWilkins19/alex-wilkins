@@ -1,6 +1,6 @@
 ---
-title: "Meet the man who single-handedly tracks every spaceflight mission ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/13133938/SEI_239722866.jpg?width=788"
+title: "Astronomers uncover the topsy-turvy atmosphere of a distant planet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/18152351/SEI_240413141.jpg?width=788"
 index: 48
 weight: 48
 ---

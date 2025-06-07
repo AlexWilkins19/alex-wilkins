@@ -1,6 +1,6 @@
 ---
-title: "SpaceX is launching Blue Ghost and Resilience landers to the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/14141510/SEI_235933443.jpg?width=788"
+title: "Blue Origin's New Glenn rocket reaches orbit on first launch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/16101349/SEI_236157315.jpg?width=788"
 index: 68
 weight: 68
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
+title: "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/15111606/SEI_217467197.jpg?width=788"
 index: 140
 weight: 140
 ---

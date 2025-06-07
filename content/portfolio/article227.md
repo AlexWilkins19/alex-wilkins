@@ -1,6 +1,6 @@
 ---
-title: "Some animal cells contain tiny tornadoes that mix up their contents"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/01150819/SEI_188748554.jpg?width=788"
+title: "Cyborg locusts with brain nanoparticles could act as bomb sniffers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07133204/SEI_190412510.jpg?width=788"
 index: 227
 weight: 227
 ---

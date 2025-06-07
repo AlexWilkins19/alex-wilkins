@@ -1,6 +1,6 @@
 ---
-title: "Physicists are waging a cosmic battle over the nature of dark energy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23105151/SEI_252596197.jpg?width=788"
+title: "We may have discovered the first-ever stars powered by dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/06101130/SEI_254497072.jpg?width=788"
 index: 2
 weight: 2
 ---

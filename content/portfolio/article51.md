@@ -1,6 +1,6 @@
 ---
-title: "Distant exoplanet may be the most volcanic world ever found"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07223540/SEI_238793761.jpg?width=788"
+title: "Record-breaking neutrino spotted tearing through the Mediterranean Sea"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/12124245/SEI_239472072.jpg?width=788"
 index: 51
 weight: 51
 ---

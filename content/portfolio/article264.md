@@ -1,6 +1,6 @@
 ---
-title: "Physicists find ultimate limit for how accurate clocks can be"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/28104638/SEI_181798865.jpg?width=788"
+title: "Six planets found orbiting a bright star 100 light years away"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/29130646/SEI_182061041.jpg?width=788"
 index: 264
 weight: 264
 ---
