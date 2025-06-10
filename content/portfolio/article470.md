@@ -1,6 +1,6 @@
 ---
-title: "Learning to play an instrument could boost your short-term memory"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/03162732/SEI_127931877.jpg?width=600"
+title: "Nobel prize in physics awarded to pioneers of quantum information"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
 index: 470
 weight: 470
 ---
