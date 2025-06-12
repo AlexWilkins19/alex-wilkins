@@ -1,6 +1,6 @@
 ---
-title: "Distant planet may be the first known to share its orbit with another"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=788"
+title: "Earth is coated in ancient space dust that could be from the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=788"
 index: 329
 weight: 329
 ---
