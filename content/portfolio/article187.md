@@ -1,6 +1,6 @@
 ---
-title: "Quantum internet draws near thanks to entangled memory breakthroughs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=788"
+title: "Surgeons can use AI chatbot to tell robots to help with suturing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/14170418/SEI_204050412.jpg?width=788"
 index: 187
 weight: 187
 ---

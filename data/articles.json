@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Stunning pictures show the first ever artificial solar eclipse",
+      "url": "https://www.newscientist.com/article/2484343-stunning-pictures-show-the-first-ever-artificial-solar-eclipse/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/06/16120404/SEI_255393257.jpg?width=788",
+      "scrapedAt": "2025-06-17T01:44:56.069Z"
+    },
+    {
       "title": "Is superintelligent AI just around the corner, or just a sci-fi dream?",
       "url": "https://www.newscientist.com/article/2484169-is-superintelligent-ai-just-around-the-corner-or-just-a-sci-fi-dream/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/06/13102402/SEI_255250069.jpg?width=788",

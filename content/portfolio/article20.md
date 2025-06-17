@@ -1,6 +1,6 @@
 ---
-title: "Housework robots are a step closer as they learn to work in any home"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
+title: "Dark energy bombshell sparks race to find a new model of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788"
 index: 20
 weight: 20
 ---

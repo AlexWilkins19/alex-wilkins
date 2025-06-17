@@ -1,6 +1,6 @@
 ---
-title: "Physicists want the next Large Hadron Collider to be climate-friendly"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
+title: "JWST has spotted sandy clouds on a distant alien world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02155357/SEI_122370897.jpg?width=600"
 index: 487
 weight: 487
 ---
