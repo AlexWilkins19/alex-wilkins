@@ -1,6 +1,6 @@
 ---
-title: "A photon caught in two places at once could destroy the multiverse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23124108/SEI_252757104.jpg?width=788"
+title: "Physicists are waging a cosmic battle over the nature of dark energy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23105151/SEI_252596197.jpg?width=788"
 index: 10
 weight: 10
 ---

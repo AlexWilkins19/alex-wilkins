@@ -1,6 +1,6 @@
 ---
-title: "Hackers are using AI to find software bugs - but there is a downside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/28144505/SEI_205388489.jpg?width=788"
+title: "Ray Kurzweil and other experts clash over AI’s future in new books"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/28102510/SEI_205346503.jpg?width=788"
 index: 182
 weight: 182
 ---
