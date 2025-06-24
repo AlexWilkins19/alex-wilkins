@@ -1,6 +1,6 @@
 ---
-title: "Dead NASA satellite unexpectedly emits powerful radio pulse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/19165928/SEI_256119070.jpg?width=788"
+title: "Stellar flares may hamper search for life in promising star system"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/23102406/SEI_256222611.jpg?width=788"
 index: 1
 weight: 1
 ---
