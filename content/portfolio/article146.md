@@ -1,6 +1,6 @@
 ---
-title: "Astronomers might finally have explanation for mysterious Wow! signal"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788"
+title: "AI models can't learn as they go along like humans do"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788"
 index: 146
 weight: 146
 ---
