@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "New Horizons images enable first test of interstellar navigation",
+      "url": "https://www.newscientist.com/article/2486823-new-horizons-images-enable-first-test-of-interstellar-navigation/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/07/02154153/SEI_257622793.jpg?width=788",
+      "scrapedAt": "2025-07-03T01:45:39.910Z"
+    },
+    {
       "title": "Mathematicians create a tetrahedron that always lands on the same side",
       "url": "https://www.newscientist.com/article/2486184-mathematicians-create-a-tetrahedron-that-always-lands-on-the-same-side/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/06/27162934/SEI_257070964.jpg?width=788",

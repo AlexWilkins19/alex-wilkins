@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers might not offer extreme speed boost for chemistry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
+title: "Floating artificial leaf converts energy from sunlight into fuel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17150936/SEI_119854264.jpg?width=600"
 index: 505
 weight: 505
 ---
