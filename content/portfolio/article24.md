@@ -1,6 +1,6 @@
 ---
-title: "Was a famous supernova an alien invader from another galaxy?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09150624/SEI_250570048.jpg?width=788"
+title: "Alien megastructures would likely self-destruct before we spot them"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09162806/SEI_250576334.jpg?width=788"
 index: 24
 weight: 24
 ---
