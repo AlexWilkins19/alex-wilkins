@@ -1,6 +1,6 @@
 ---
-title: "Celebrating dark skies at a festival in deepest Denmark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29105659/SEI_184725263.jpg?width=788"
+title: "Are autonomous labs the future of science?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788"
 index: 261
 weight: 261
 ---
