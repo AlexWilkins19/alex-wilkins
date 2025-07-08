@@ -1,6 +1,6 @@
 ---
-title: "Ultrasound illusion could make buttons on a touchscreen feel real"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
+title: "Dwarf planet Quaoar has a weirdly big ring of debris encircling it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/08145813/SEI_143250080.jpg?width=600"
 index: 423
 weight: 423
 ---

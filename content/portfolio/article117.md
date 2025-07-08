@@ -1,6 +1,6 @@
 ---
-title: "Heart-shaped mollusc has windows that work like fibre optics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19132912/SEI_230039841.jpg?width=788"
+title: "Being in space makes it harder for astronauts to think quickly"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19164945/SEI_230183574.jpg?width=788"
 index: 117
 weight: 117
 ---
