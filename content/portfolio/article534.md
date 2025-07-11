@@ -1,6 +1,6 @@
 ---
-title: "Quantum microphone works even better than a regular one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/17164319/SEI_110193589.jpg?width=600"
+title: "Light delayed by seven years as it is bent around a galaxy cluster"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/21175548/SEI_110822884.jpg?width=600"
 index: 534
 weight: 534
 ---

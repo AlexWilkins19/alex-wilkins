@@ -1,6 +1,6 @@
 ---
-title: "DNA-based detector could precisely track subatomic particles"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/14105453/SEI_98519672.jpg?width=600"
+title: "First one-way superconductor could slash energy used by computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27110322/SEI_100916112.jpg?width=600"
 index: 570
 weight: 570
 ---

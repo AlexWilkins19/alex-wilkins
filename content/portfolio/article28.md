@@ -1,6 +1,6 @@
 ---
-title: "All living things emit an eerie glow that is snuffed out upon death"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09144248/SEI_250569734.jpg?width=788"
+title: "Alien megastructures would likely self-destruct before we spot them"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09162806/SEI_250576334.jpg?width=788"
 index: 28
 weight: 28
 ---

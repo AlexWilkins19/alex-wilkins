@@ -1,6 +1,6 @@
 ---
-title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26124744/SEI_165484170.jpg?width=788"
+title: "Distant planet may be the first known to share its orbit with another"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=788"
 index: 345
 weight: 345
 ---

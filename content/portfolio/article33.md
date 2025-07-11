@@ -1,6 +1,6 @@
 ---
-title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
+title: "Housework robots are a step closer as they learn to work in any home"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
 index: 33
 weight: 33
 ---

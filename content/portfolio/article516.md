@@ -1,6 +1,6 @@
 ---
-title: "Artificial finger can identify what common material things are made of"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/05210720/SEI_1178551531.jpg?width=600"
+title: "Soap molecule could help make alternative LED tech commercially viable"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08153000/SEI_117997622.jpg?width=600"
 index: 516
 weight: 516
 ---

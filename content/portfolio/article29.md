@@ -1,6 +1,6 @@
 ---
-title: "Concerns raised over AI trained on 57 million NHS medical records"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/07105447/SEI_250200236.jpg?width=788"
+title: "Was a famous supernova an alien invader from another galaxy?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09150624/SEI_250570048.jpg?width=788"
 index: 29
 weight: 29
 ---
