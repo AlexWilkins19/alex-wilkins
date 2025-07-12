@@ -1,6 +1,6 @@
 ---
-title: "Nightmares can be eased by hearing sounds linked to good experiences"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/27155150/SEI_131166944.jpg?width=600"
+title: "Large cities lead to more segregation between rich and poor"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/28135254/SEI_131041739.jpg?width=600"
 index: 471
 weight: 471
 ---

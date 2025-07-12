@@ -1,6 +1,6 @@
 ---
-title: "Ronnametres and quettagrams have joined the ranks of SI units"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/16180318/SEI_133874096.jpg?width=600"
+title: "AI-generated deepfake faces could help protect privacy on social media"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
 index: 456
 weight: 456
 ---

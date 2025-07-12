@@ -1,6 +1,6 @@
 ---
-title: "Strange binary star system has three Earth-sized exoplanets"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/16163443/SEI_221268613.jpg?width=788"
+title: "Radioactive ion beam could target tumours more precisely"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788"
 index: 137
 weight: 137
 ---
