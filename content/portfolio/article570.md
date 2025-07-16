@@ -1,6 +1,6 @@
 ---
-title: "Efficient battery could charge electric cars 60 per cent in 6 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27162704/SEI_100929082.jpg?width=600"
+title: "Space test dummies will measure female radiation risk for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/29132653/SEI_101129092.jpg?width=600"
 index: 570
 weight: 570
 ---

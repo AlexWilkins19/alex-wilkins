@@ -1,6 +1,6 @@
 ---
-title: "‘Artificial synapse’ could make neural networks work more like brains"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
+title: "Cold exposure stops tumour growth in mice by hijacking glucose stores"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03145934/SEI_117717165.jpg?width=600"
 index: 523
 weight: 523
 ---

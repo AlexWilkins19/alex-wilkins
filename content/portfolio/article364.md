@@ -1,6 +1,6 @@
 ---
-title: "Fastest star in the galaxy clocked at 2285 kilometres per second"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/14112653/SEI_159968470.jpg?width=788"
+title: "AIs will become useless if they keep learning from other AIs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16143310/SEI_160487397.jpg?width=788"
 index: 364
 weight: 364
 ---
