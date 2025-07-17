@@ -1,6 +1,6 @@
 ---
-title: "Plants thrive in lunar soil with help from phosphorus-making bacteria"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10124151/SEI_179602158.jpg?width=788"
+title: "Underwater walkie-talkies could work long-distance with radio trick"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=788"
 index: 299
 weight: 299
 ---

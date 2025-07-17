@@ -1,6 +1,6 @@
 ---
-title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
+title: "First ever 'black hole bomb' created in the lab"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24112328/SEI_248622512.jpg?width=788"
 index: 38
 weight: 38
 ---
