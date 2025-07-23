@@ -1,6 +1,6 @@
 ---
-title: "Birthplace of red asteroid Kamo‘oalewa pinned to specific moon crater"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/25121717/SEI_201250531.jpg?width=788"
+title: "Fusion reactors could create ingredients for a nuclear weapon in weeks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/07165056/SEI_203064463.jpg?width=788"
 index: 208
 weight: 208
 ---
