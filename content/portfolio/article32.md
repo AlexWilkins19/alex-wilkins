@@ -1,6 +1,6 @@
 ---
-title: "Physicists reveal the secret to chopping onions without crying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15112049/SEI_251258582.jpg?width=788"
+title: "Risk of a star destroying the solar system is higher than expected"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15162112/SEI_251246544.jpg?width=788"
 index: 32
 weight: 32
 ---
