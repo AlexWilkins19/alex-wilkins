@@ -1,6 +1,6 @@
 ---
-title: "Why falling in love with an AI isn’t laughable, it’s inevitable"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/09112227/SEI_257830434.jpg?width=788"
+title: "Peculiar plant could help us reconstruct ancient Earth’s climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10110500/SEI_258525845.jpg?width=788"
 index: 8
 weight: 8
 ---

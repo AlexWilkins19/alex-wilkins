@@ -1,6 +1,6 @@
 ---
-title: "Housework robot can learn to do almost any chore in 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/13121855/SEI_183894622.jpg?width=788"
+title: "Stunning JWST image of Uranus shows 13 rings and nine moons"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=788"
 index: 282
 weight: 282
 ---

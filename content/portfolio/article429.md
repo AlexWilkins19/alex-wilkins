@@ -1,6 +1,6 @@
 ---
-title: "AI generates virtual 3D cities that extend infinitely in any direction"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/13111830/SEI_143627573.jpg?width=600"
+title: "ChatGPT AI passes test designed to show theory of mind in children"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
 index: 429
 weight: 429
 ---

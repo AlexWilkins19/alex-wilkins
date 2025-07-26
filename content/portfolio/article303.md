@@ -1,6 +1,6 @@
 ---
-title: "Superconductor hopes dashed after journal retracts ‘red matter’ study"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/08121441/SEI_179191135.jpg?width=788"
+title: "Plants thrive in lunar soil with help from phosphorus-making bacteria"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10124151/SEI_179602158.jpg?width=788"
 index: 303
 weight: 303
 ---

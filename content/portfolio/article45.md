@@ -1,6 +1,6 @@
 ---
-title: "Ancient computer's gears may not have been able to turn"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15143746/SEI_247633284.jpg?width=788"
+title: "Will we ever have confirmation of life outside our solar system?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/17155025/SEI_247848019.jpg?width=788"
 index: 45
 weight: 45
 ---
