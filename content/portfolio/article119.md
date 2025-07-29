@@ -1,6 +1,6 @@
 ---
-title: "Chatbot gives medical advice to hundreds of users in largest trial yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/02145407/SEI_231687662.jpg?width=788"
+title: "Mathematicians have discovered a mind-blowing new kind of infinity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/06105425/SEI_232072501.jpg?width=788"
 index: 119
 weight: 119
 ---

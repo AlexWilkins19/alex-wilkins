@@ -1,6 +1,6 @@
 ---
-title: "Aluminium alloy could boost spacecraft radiation shielding 100-fold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19153608/SEI_129853305.jpg?width=600"
+title: "Lightest neutron star ever found could contain compressed quarks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
 index: 481
 weight: 481
 ---

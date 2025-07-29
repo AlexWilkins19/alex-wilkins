@@ -1,6 +1,6 @@
 ---
-title: "Soil bacteria enzyme generates electricity from hydrogen in the air"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/08151953/SEI_147393522.jpg?width=600"
+title: "AI trained on YouTube and podcasts speaks with ums and ahs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/06143328/SEI_144483909.jpg?width=600"
 index: 421
 weight: 421
 ---

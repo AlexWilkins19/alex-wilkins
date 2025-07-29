@@ -1,6 +1,6 @@
 ---
-title: "How will AIs that generate videos from text transform media online?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=600"
+title: "AI-generated deepfake faces could help protect privacy on social media"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
 index: 464
 weight: 464
 ---
