@@ -1,6 +1,6 @@
 ---
-title: "Mysterious light may come from the largest molecules found in space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
+title: "‘Artificial synapse’ could make neural networks work more like brains"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
 index: 532
 weight: 532
 ---

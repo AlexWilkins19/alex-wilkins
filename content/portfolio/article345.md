@@ -1,6 +1,6 @@
 ---
-title: "'Demon' particle found in superconductor could explain how they work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=788"
+title: "Wonky shapes can be made to roll along a specific path of your choice"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/10110106/SEI_167139728.jpg?width=788"
 index: 345
 weight: 345
 ---
