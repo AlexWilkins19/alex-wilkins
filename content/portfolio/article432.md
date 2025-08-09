@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT AI passes test designed to show theory of mind in children"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
+title: "Bone conduction headphones make your own voice sound less weird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15145000/SEI_1440709581.jpg?width=600"
 index: 432
 weight: 432
 ---

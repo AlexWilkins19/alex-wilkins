@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Astronomers gather more clues about interstellar comet 3I/ATLAS",
+      "url": "https://www.newscientist.com/article/2491765-astronomers-gather-more-clues-about-interstellar-comet-3i-atlas/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/07163858/SEI_261425663.jpg?width=788",
+      "scrapedAt": "2025-08-09T01:44:55.688Z"
+    },
+    {
       "title": "We’ve discovered the most massive black hole yet",
       "url": "https://www.newscientist.com/article/2491731-weve-discovered-the-most-massive-black-hole-yet/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/07175755/SEI_261434002.jpg?width=788",
