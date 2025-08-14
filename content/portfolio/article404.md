@@ -1,6 +1,6 @@
 ---
-title: "Crystal impervious to radiation could be used in spaceship computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/03142729/SEI_150401771.jpg?width=788"
+title: "Breathtaking JWST image of Uranus shows rings, clouds and a polar cap"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/06160828/SEI_151092237.jpg?width=788"
 index: 404
 weight: 404
 ---

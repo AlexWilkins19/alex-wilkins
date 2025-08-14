@@ -1,6 +1,6 @@
 ---
-title: "Microsoft wants to use generative AI tool to help make video games"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/19135216/SEI_240544482.jpg?width=788"
+title: "Odds of asteroid 2024 YR4 hitting Earth in 2032 have fallen again"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/18115827/SEI_240416865.jpg?width=788"
 index: 76
 weight: 76
 ---

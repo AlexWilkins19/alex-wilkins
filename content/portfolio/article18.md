@@ -1,6 +1,6 @@
 ---
-title: "New Horizons images enable first test of interstellar navigation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/02154153/SEI_257622793.jpg?width=788"
+title: "Fig trees may benefit climate by turning carbon dioxide into stone"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/04115335/SEI_257617955.jpg?width=788"
 index: 18
 weight: 18
 ---

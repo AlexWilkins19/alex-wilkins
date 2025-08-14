@@ -1,6 +1,6 @@
 ---
-title: "The MANIAC review: A dark novel about the legendary John von Neumann"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04130027/SEI_169400329.jpg?width=788"
+title: "High-flying microplastics could pose a threat to the ozone layer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13105805/SEI_171399079.jpg?width=788"
 index: 336
 weight: 336
 ---

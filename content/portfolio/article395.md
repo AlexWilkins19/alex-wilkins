@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers could simulate a black hole in the next decade"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=788"
+title: "Underwater writing technique lets you draw patterns in liquids"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=788"
 index: 395
 weight: 395
 ---

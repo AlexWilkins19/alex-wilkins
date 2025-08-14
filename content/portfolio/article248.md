@@ -1,6 +1,6 @@
 ---
-title: "Monster black hole powers the brightest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19111344/SEI_191790689.jpg?width=788"
+title: "Why forgetting things is a key part of the way your brain works"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19103805/SEI_191640941.jpg?width=788"
 index: 248
 weight: 248
 ---

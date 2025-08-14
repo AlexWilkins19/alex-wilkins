@@ -1,6 +1,6 @@
 ---
-title: "AI solves complex physics problems by looking for signs of symmetry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
+title: "Rubbing against coral seems to be a popular skin treatment in dolphins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19115901/SEI_104887282.jpg?width=600"
 index: 569
 weight: 569
 ---

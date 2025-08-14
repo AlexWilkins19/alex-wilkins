@@ -1,6 +1,6 @@
 ---
-title: "Cloud atlas of Mars reveals an atmosphere unlike our own"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/10100456/SEI_220930493.jpg?width=788"
+title: "A riveting exploration of how AI models like ChatGPT changed the world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/06164614/SEI_219917842.jpg?width=788"
 index: 158
 weight: 158
 ---

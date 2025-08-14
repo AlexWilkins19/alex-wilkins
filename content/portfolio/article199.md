@@ -1,6 +1,6 @@
 ---
-title: "Physicists want to drill a 5-kilometre-deep hole on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/05124516/SEI_207356862.jpg?width=788"
+title: "Quantum sensor gets a read on tiny worm implanted with nanodiamonds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788"
 index: 199
 weight: 199
 ---
