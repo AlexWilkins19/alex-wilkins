@@ -1,6 +1,6 @@
 ---
-title: "NASA's DART mission successfully smashed into asteroid Dimorphos"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/27102233/SEI_127081233.jpg?width=600"
+title: "Robotic pill that delivers drugs to gut could end insulin injections"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
 index: 504
 weight: 504
 ---
