@@ -1,6 +1,6 @@
 ---
-title: "AI generates virtual 3D cities that extend infinitely in any direction"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/13111830/SEI_143627573.jpg?width=600"
+title: "AI with no visual sensors generates an internal map to finds its way"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
 index: 439
 weight: 439
 ---

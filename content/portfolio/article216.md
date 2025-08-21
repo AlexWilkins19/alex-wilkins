@@ -1,6 +1,6 @@
 ---
-title: "Quantum internet draws near thanks to entangled memory breakthroughs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=788"
+title: "Mysterious element promethium finally reveals its chemical properties"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/21154237/SEI_205363391.jpg?width=788"
 index: 216
 weight: 216
 ---

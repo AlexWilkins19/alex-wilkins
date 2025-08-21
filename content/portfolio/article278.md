@@ -1,6 +1,6 @@
 ---
-title: "Neptune isn't as blue as we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/04155439/SEI_185952561.jpg?width=788"
+title: "The sun could contain a tiny black hole that formed in the big bang"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=788"
 index: 278
 weight: 278
 ---

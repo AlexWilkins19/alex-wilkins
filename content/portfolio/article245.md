@@ -1,6 +1,6 @@
 ---
-title: "Huge set of galaxies is set to form largest cluster in known universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/21162939/SEI_191496908.jpg?width=788"
+title: "Rethinking space and time could let us do away with dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/13105635/SEI_195834269.jpg?width=788"
 index: 245
 weight: 245
 ---

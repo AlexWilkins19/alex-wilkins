@@ -1,6 +1,6 @@
 ---
-title: "Rethinking space and time could let us do away with dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/13105635/SEI_195834269.jpg?width=788"
+title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=788"
 index: 241
 weight: 241
 ---

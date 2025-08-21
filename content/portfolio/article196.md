@@ -1,6 +1,6 @@
 ---
-title: "Chemists invoke bizarre Maxwell's demon on the largest scale yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/18122700/SEI_209151691.jpg?width=788"
+title: "China’s Chang’e 6 returns with first rocks from far side of the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25100337/SEI_210303798.jpg?width=788"
 index: 196
 weight: 196
 ---

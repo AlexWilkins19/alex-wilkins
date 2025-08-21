@@ -1,6 +1,6 @@
 ---
-title: "Astronomers claim strongest evidence of alien life yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16155056/SEI_247753911.jpg?width=788"
+title: "Powerful blasts of X-rays could reveal a black hole waking from sleep"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22153211/SEI_248425755.jpg?width=788"
 index: 56
 weight: 56
 ---

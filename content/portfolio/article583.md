@@ -1,6 +1,6 @@
 ---
-title: "Space test dummies will measure female radiation risk for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/29132653/SEI_101129092.jpg?width=600"
+title: "Virtual tennis racket uses air jet to recreate feel of hitting a ball"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/09133001/SEI_102348523.jpg?width=600"
 index: 583
 weight: 583
 ---

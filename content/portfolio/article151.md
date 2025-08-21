@@ -1,6 +1,6 @@
 ---
-title: "Useful quantum computers are edging closer with recent milestones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30160109/SEI_223436258.jpg?width=788"
+title: "Nobel prize for physics goes to pair who invented key AI techniques"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/08110301/SEI_224873524.jpg?width=788"
 index: 151
 weight: 151
 ---

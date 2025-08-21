@@ -1,6 +1,6 @@
 ---
-title: "Adding tomato pigment to solar panels increases their efficiency"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/27144928/SEI_106628391.jpg?width=600"
+title: "AI translates maths problems into code to make them easier to solve"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg?width=600"
 index: 565
 weight: 565
 ---

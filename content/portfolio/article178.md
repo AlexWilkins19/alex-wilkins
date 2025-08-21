@@ -1,6 +1,6 @@
 ---
-title: "A slight curve helps rocks make the biggest splash"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155207/SEI_214086567.jpg?width=788"
+title: "Could Mars become habitable with the help of glitter-like iron rods?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788"
 index: 178
 weight: 178
 ---

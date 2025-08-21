@@ -1,6 +1,6 @@
 ---
-title: "Mysterious black hole jets may be the source of powerful cosmic rays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788"
+title: "Saturn’s moon Mimas may be hiding a vast global ocean under its ice"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07122042/SEI_190195784.jpg?width=788"
 index: 265
 weight: 265
 ---

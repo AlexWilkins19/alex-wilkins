@@ -1,6 +1,6 @@
 ---
-title: "Why trying to photograph a black hole was a massive gamble"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03154918/SEI_174436548.jpg?width=788"
+title: "The moon is 40 million years older than we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=788"
 index: 323
 weight: 323
 ---

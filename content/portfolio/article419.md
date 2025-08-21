@@ -1,6 +1,6 @@
 ---
-title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
+title: "Graphene with ripples could help make better hydrogen fuel cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=788"
 index: 419
 weight: 419
 ---

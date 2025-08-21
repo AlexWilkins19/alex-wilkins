@@ -1,6 +1,6 @@
 ---
-title: "JWST has spotted chemical reactions in an exoplanet's atmosphere"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22160006/SEI_134740491.jpg?width=600"
+title: "The W boson gave particle physicists a major shock in 2022"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/14121032/SEI_135596939.jpg?width=600"
 index: 467
 weight: 467
 ---

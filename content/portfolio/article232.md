@@ -1,6 +1,6 @@
 ---
-title: "New view of our galaxy's black hole reveals a swirling magnetic field"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27111346/SEI_197604738.jpg?width=788"
+title: "Laser-powered licence plates could help avoid satellite collisions"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/03124940/SEI_197735359.jpg?width=788"
 index: 232
 weight: 232
 ---

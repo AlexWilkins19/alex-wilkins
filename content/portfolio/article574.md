@@ -1,6 +1,6 @@
 ---
-title: "Boeing's Starliner spacecraft launches to ISS despite thruster issue"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/20111722/SEI_105106641.jpg?width=600"
+title: "Waste wood chemically recycled to produce material stronger than steel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/19105923/SEI_104460819.jpg?width=600"
 index: 574
 weight: 574
 ---

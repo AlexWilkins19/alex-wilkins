@@ -1,6 +1,6 @@
 ---
-title: "Meteorite left Earth then landed back down after round trip to space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=788"
+title: "Ancient graphene formed 3 billion years before humans discovered it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/17152727/SEI_164430151.jpg?width=788"
 index: 366
 weight: 366
 ---

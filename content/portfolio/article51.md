@@ -1,6 +1,6 @@
 ---
-title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
+title: "Concerns raised over AI trained on 57 million NHS medical records"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/07105447/SEI_250200236.jpg?width=788"
 index: 51
 weight: 51
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Ancient computer's gears may not have been able to turn"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15143746/SEI_247633284.jpg?width=788"
+title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
 index: 55
 weight: 55
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robotic pill that delivers drugs to gut could end insulin injections"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
+title: "Metal-enriched silkworm silk is one of the strongest materials ever"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06160549/SEI_128320230.jpg?width=600"
 index: 504
 weight: 504
 ---

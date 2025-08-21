@@ -1,6 +1,6 @@
 ---
-title: "Samples from asteroid Bennu brought back to Earth by NASA's OSIRIS-REx"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25095823/SEI_173228947.jpg?width=788"
+title: "Waste plastic can be recycled into hydrogen fuel and graphene"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788"
 index: 335
 weight: 335
 ---

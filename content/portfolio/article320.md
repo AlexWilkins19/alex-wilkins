@@ -1,6 +1,6 @@
 ---
-title: "How to see the Orionid meteor shower in October and November"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/18131357/SEI_176447854.jpg?width=788"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788"
 index: 320
 weight: 320
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The outline of people’s bodies can be detected from Wi-Fi signals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24200740/SEI_141554916.jpg?width=600"
+title: "Flying robot echolocates like a bat to avoid banging into walls"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
 index: 448
 weight: 448
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Leonardo da Vinci's 'helicopter' design could make drones quieter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/24143757/SEI_256221541.jpg?width=788"
+title: "Fig trees may benefit climate by turning carbon dioxide into stone"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/04115335/SEI_257617955.jpg?width=788"
 index: 24
 weight: 24
 ---

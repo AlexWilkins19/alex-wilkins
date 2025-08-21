@@ -1,6 +1,6 @@
 ---
-title: "Will Amazon's robotic revolution spark a new wave of job losses?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/23134758/SEI_200991789.jpg?width=788"
+title: "Mars is blasting plasma out of its atmosphere into space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/08155636/SEI_203195668.jpg?width=788"
 index: 222
 weight: 222
 ---

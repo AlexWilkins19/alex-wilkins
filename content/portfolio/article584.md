@@ -1,6 +1,6 @@
 ---
-title: "People instinctively run at their most energy-efficient speed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/28134144/SEI_101078302.jpg?width=600"
+title: "Virtual ‘answering machine’ records the real world while you are in VR"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/05135158/SEI_102180677.jpg?width=600"
 index: 584
 weight: 584
 ---

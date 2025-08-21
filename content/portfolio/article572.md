@@ -1,6 +1,6 @@
 ---
-title: "Life Time review: Sleep deprivation kills, warns must-read book"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18103845/SEI_104644806.jpg?width=600"
+title: "Teleportation trick shows promise for a future quantum internet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/25140347/SEI_106229754.jpg?width=600"
 index: 572
 weight: 572
 ---

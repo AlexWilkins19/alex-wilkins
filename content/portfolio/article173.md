@@ -1,6 +1,6 @@
 ---
-title: "Why the T in ChatGPT is AI's biggest breakthrough - and greatest risk"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/15111606/SEI_217467197.jpg?width=788"
+title: "Astronomers might finally have explanation for mysterious Wow! signal"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788"
 index: 173
 weight: 173
 ---

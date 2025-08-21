@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "title": "Super-cool cement could stop buildings trapping heat inside",
+      "url": "https://www.newscientist.com/article/2493376-super-cool-cement-could-stop-buildings-trapping-heat-inside/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788",
+      "scrapedAt": "2025-08-21T01:38:42.377Z"
+    },
+    {
+      "title": "Physicist Frank Wilczek’s unique insights on the nature of reality",
+      "url": "https://www.newscientist.com/article/2491566-physicist-frank-wilczeks-unique-insights-on-the-nature-of-reality/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/07122509/SEI_260733375.jpg?width=788",
+      "scrapedAt": "2025-08-21T01:38:42.377Z"
+    },
+    {
+      "title": "Nuclear fusion gets a boost from a controversial debunked experiment",
+      "url": "https://www.newscientist.com/article/2493372-nuclear-fusion-gets-a-boost-from-a-controversial-debunked-experiment/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/20123451/SEI_2626376081.jpg?width=788",
+      "scrapedAt": "2025-08-21T01:38:42.377Z"
+    },
+    {
+      "title": "Flower-like origami patterns could inspire folding spacecraft",
+      "url": "https://www.newscientist.com/article/2493104-flower-like-origami-patterns-could-inspire-folding-spacecraft/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/19162152/SEI_262644268.jpg?width=788",
+      "scrapedAt": "2025-08-21T01:38:42.377Z"
+    },
+    {
       "title": "Jupiter's moon Ganymede could be a giant dark matter detector",
       "url": "https://www.newscientist.com/article/2492767-jupiters-moon-ganymede-could-be-a-giant-dark-matter-detector/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/15121137/SEI_262112605.jpg?width=788",

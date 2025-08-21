@@ -1,6 +1,6 @@
 ---
-title: "Laughing gas could be picked up by a breathalyser"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/04104009/SEI_238533460.jpg?width=788"
+title: "Astronomers have spotted the largest known object in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788"
 index: 92
 weight: 92
 ---

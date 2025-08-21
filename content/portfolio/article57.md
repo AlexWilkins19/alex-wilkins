@@ -1,6 +1,6 @@
 ---
-title: "Where exactly does the quantum world end and concrete reality begin?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
+title: "Quantum batteries could make quantum computers more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22123803/SEI_247646109.jpg?width=788"
 index: 57
 weight: 57
 ---

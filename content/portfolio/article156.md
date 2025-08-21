@@ -1,6 +1,6 @@
 ---
-title: "Hopes for new physics dashed by ordinary-looking W bosons at CERN"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17130725/SEI_222025959.jpg?width=788"
+title: "Radioactive ion beam could target tumours more precisely"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788"
 index: 156
 weight: 156
 ---

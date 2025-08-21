@@ -1,6 +1,6 @@
 ---
-title: "Pluto may have captured its moon Charon with a brief kiss"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/03161027/SEI_234849194.jpg?width=788"
+title: "Physicists discover the secret to perfect cacio e pepe pasta"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09165158/SEI_235457061.jpg?width=788"
 index: 111
 weight: 111
 ---

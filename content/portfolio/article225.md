@@ -1,6 +1,6 @@
 ---
-title: "Fractal pattern identified at molecular scale in nature for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788"
+title: "Why curbing chatbots' worst exploits is a game of whack-a-mole"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/22142618/SEI_200452889.jpg?width=788"
 index: 225
 weight: 225
 ---

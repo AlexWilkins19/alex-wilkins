@@ -1,6 +1,6 @@
 ---
-title: "Deadly stellar radiation blasts 'habitable' exoplanets every few days"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/26101505/SEI_126584496.jpg?width=600"
+title: "Nobel prize in physics awarded to pioneers of quantum information"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/04105533/SEI_128035639.jpg?width=600"
 index: 506
 weight: 506
 ---

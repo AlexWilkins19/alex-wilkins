@@ -1,6 +1,6 @@
 ---
-title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=788"
+title: "Electronic cochlea adjusts to noise levels like a human ear"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=788"
 index: 398
 weight: 398
 ---

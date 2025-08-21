@@ -1,6 +1,6 @@
 ---
-title: "Venus could be rocked by thousands of quakes every year"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17140724/SEI_221433851.jpg?width=788"
+title: "Useful quantum computers are edging closer with recent milestones"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30160109/SEI_223436258.jpg?width=788"
 index: 155
 weight: 155
 ---

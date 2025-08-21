@@ -1,6 +1,6 @@
 ---
-title: "A supermassive black hole is sending out a mysterious pulsing beat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/13152631/SEI_235856621.jpg?width=788"
+title: "Robotic exoskeleton can train expert pianists to play faster"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17102316/SEI_236192486.jpg?width=788"
 index: 104
 weight: 104
 ---

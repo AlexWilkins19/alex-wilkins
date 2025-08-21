@@ -1,6 +1,6 @@
 ---
-title: "AI is better at answering questions if you get another AI to ask them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/10151212/SEI_1330711301.jpg?width=600"
+title: "Feeding cows hemp makes them ‘high’ and their milk could be unsafe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/14150824/SEI_133595655.jpg?width=600"
 index: 478
 weight: 478
 ---

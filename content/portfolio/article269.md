@@ -1,6 +1,6 @@
 ---
-title: "Watch a plant-inspired robot grow towards light like a vine"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18162943/SEI_187761517.jpg?width=788"
+title: "Mysterious black hole jets may be the source of powerful cosmic rays"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788"
 index: 269
 weight: 269
 ---

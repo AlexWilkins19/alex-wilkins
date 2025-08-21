@@ -1,6 +1,6 @@
 ---
-title: "Astronomers might finally have explanation for mysterious Wow! signal"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788"
+title: "DNA computer can play chess and solve sudoku puzzles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/23170818/SEI_218243586.jpg?width=788"
 index: 169
 weight: 169
 ---

@@ -1,6 +1,6 @@
 ---
-title: "New Scientist recommends astronomy exhibition Borrowed Light in Berlin"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/01103652/SEI_222990768.jpg?width=788"
+title: "Mathematicians have found a new way to identify prime numbers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/18160152/SEI_225953841.jpg?width=788"
 index: 149
 weight: 149
 ---

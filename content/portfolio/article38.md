@@ -1,6 +1,6 @@
 ---
-title: "A photon caught in two places at once could destroy the multiverse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23124108/SEI_252757104.jpg?width=788"
+title: "Japan's Resilience moon lander has crashed into the lunar surface"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/06105855/SEI_254502810.jpg?width=788"
 index: 38
 weight: 38
 ---

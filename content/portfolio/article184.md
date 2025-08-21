@@ -1,6 +1,6 @@
 ---
-title: "Robot dog can stifle weeds by blasting them with a blowtorch"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/18162411/SEI_213319447.jpg?width=788"
+title: "Wafer-thin light sail could help us reach another star sooner"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25102200/SEI_213733419.jpg?width=788"
 index: 184
 weight: 184
 ---

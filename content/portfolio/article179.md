@@ -1,6 +1,6 @@
 ---
-title: "Particle physicists may have solved a strange mystery about the muon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788"
+title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
 index: 179
 weight: 179
 ---

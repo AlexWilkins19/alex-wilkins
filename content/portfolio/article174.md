@@ -1,6 +1,6 @@
 ---
-title: "Could Mars become habitable with the help of glitter-like iron rods?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788"
+title: "Fuzzy quantum effects have been seen on the largest scale yet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/20140353/SEI_217596532.jpg?width=788"
 index: 174
 weight: 174
 ---

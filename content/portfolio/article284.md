@@ -1,6 +1,6 @@
 ---
-title: "Springs made from rusty metallic glass could power nanorobots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18110405/SEI_183921723.jpg?width=788"
+title: "Are autonomous labs the future of science?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788"
 index: 284
 weight: 284
 ---

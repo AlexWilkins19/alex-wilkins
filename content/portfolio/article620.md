@@ -1,6 +1,6 @@
 ---
-title: "Most precise atomic clock shows Einstein’s general relativity is right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16165345/PRI_223720643.jpg?width=600"
+title: "Wonky black hole hints we don't understand how cosmic behemoths work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/24144722/SEI_89850752.jpg?width=600"
 index: 620
 weight: 620
 ---

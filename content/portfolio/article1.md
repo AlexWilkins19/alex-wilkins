@@ -1,6 +1,6 @@
 ---
-title: "Jupiter's moon Ganymede could be a giant dark matter detector"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/15121137/SEI_262112605.jpg?width=788"
+title: "Super-cool cement could stop buildings trapping heat inside"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
 index: 1
 weight: 1
 ---

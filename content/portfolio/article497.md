@@ -1,6 +1,6 @@
 ---
-title: "Black holes wobbling three times a second have proved Einstein right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
+title: "Mind-reading AI works out what you are thinking from brain scans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14115545/SEI_128881388.jpg?width=600"
 index: 497
 weight: 497
 ---

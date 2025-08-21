@@ -1,6 +1,6 @@
 ---
-title: "Oldest fast radio burst ever seen sheds light on early star formation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/14170209/SEI_261994487.jpg?width=788"
+title: "Physicist Frank Wilczek’s unique insights on the nature of reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07122509/SEI_260733375.jpg?width=788"
 index: 2
 weight: 2
 ---

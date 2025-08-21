@@ -1,6 +1,6 @@
 ---
-title: "Should chatbots have rights – and should we care?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/17153008/SEI_233552771.jpg?width=788"
+title: "Pluto may have captured its moon Charon with a brief kiss"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/03161027/SEI_234849194.jpg?width=788"
 index: 115
 weight: 115
 ---

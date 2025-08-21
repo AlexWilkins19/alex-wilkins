@@ -1,6 +1,6 @@
 ---
-title: "AI forecaster can predict the future better than humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/25191017/SEI_196712963.jpg?width=788"
+title: "Mathematicians are bitterly divided over a controversial proof"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=788"
 index: 234
 weight: 234
 ---

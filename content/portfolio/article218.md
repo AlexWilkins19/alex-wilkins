@@ -1,6 +1,6 @@
 ---
-title: "Mars is blasting plasma out of its atmosphere into space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/08155636/SEI_203195668.jpg?width=788"
+title: "Incredible maths proof is so complex that almost no one can explain it"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/20102808/SEI_204622614.jpg?width=788"
 index: 218
 weight: 218
 ---

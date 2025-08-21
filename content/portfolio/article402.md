@@ -1,6 +1,6 @@
 ---
-title: "SpaceX launch cancelled: Why didn't Elon Musk's Starship blast off?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/17143548/SEI_152279121.jpg?width=788"
+title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=788"
 index: 402
 weight: 402
 ---
