@@ -1,6 +1,6 @@
 ---
-title: "The tightest knot ever made is a tied-up chain 54 atoms long"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17124210/SEI_186444011.jpg?width=788"
+title: "Filterworld review: Are algorithms staging a cultural takeover?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/22161150/SEI_187619782.jpg?width=788"
 index: 271
 weight: 271
 ---

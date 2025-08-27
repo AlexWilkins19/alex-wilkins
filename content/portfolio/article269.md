@@ -1,6 +1,6 @@
 ---
-title: "Mysterious black hole jets may be the source of powerful cosmic rays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788"
+title: "Heating and cooling seem to be fundamentally different, not opposites"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/26120258/SEI_187336726.jpg?width=788"
 index: 269
 weight: 269
 ---

@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "JWST gets a closer look at interstellar comet 3I/ATLAS",
+      "url": "https://www.newscientist.com/article/2493867-jwst-gets-a-closer-look-at-interstellar-comet-3i-atlas/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788",
+      "scrapedAt": "2025-08-27T01:37:03.790Z"
+    },
+    {
       "title": "Super-cool cement could stop buildings trapping heat inside",
       "url": "https://www.newscientist.com/article/2493376-super-cool-cement-could-stop-buildings-trapping-heat-inside/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788",

@@ -1,6 +1,6 @@
 ---
-title: "Saturn’s rings may be far older than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/16150357/SEI_233444071.jpg?width=788"
+title: "The best and weirdest photos of robots from 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/11134223/robot-featured-image-.jpg?width=788"
 index: 124
 weight: 124
 ---
