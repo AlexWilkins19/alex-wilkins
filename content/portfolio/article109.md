@@ -1,6 +1,6 @@
 ---
-title: "A supermassive black hole is sending out a mysterious pulsing beat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/13152631/SEI_235856621.jpg?width=788"
+title: "Humanoid robot learns to waltz by mirroring people's movements"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/16100803/SEI_236074608.jpg?width=788"
 index: 109
 weight: 109
 ---

@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Light-based AI image generator uses almost no power",
+      "url": "https://www.newscientist.com/article/2494141-light-based-ai-image-generator-uses-almost-no-power/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/27142425/SEI_263486522.jpg?width=788",
+      "scrapedAt": "2025-08-28T01:28:10.624Z"
+    },
+    {
+      "title": "Why auroras are so much brighter and more easily visible recently",
+      "url": "https://www.newscientist.com/article/2479260-why-auroras-are-so-much-brighter-and-more-easily-visible-recently/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/06/10175408/SEI_254244957.jpg?width=788",
+      "scrapedAt": "2025-08-28T01:28:10.624Z"
+    },
+    {
       "title": "JWST gets a closer look at interstellar comet 3I/ATLAS",
       "url": "https://www.newscientist.com/article/2493867-jwst-gets-a-closer-look-at-interstellar-comet-3i-atlas/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788",

@@ -1,6 +1,6 @@
 ---
-title: "How will AIs like ChatGPT affect elections this year?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=788"
+title: "Rethinking space and time could let us do away with dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/13105635/SEI_195834269.jpg?width=788"
 index: 248
 weight: 248
 ---

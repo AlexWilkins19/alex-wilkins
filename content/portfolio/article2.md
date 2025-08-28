@@ -1,6 +1,6 @@
 ---
-title: "Super-cool cement could stop buildings trapping heat inside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
+title: "Why auroras are so much brighter and more easily visible recently"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/10175408/SEI_254244957.jpg?width=788"
 index: 2
 weight: 2
 ---

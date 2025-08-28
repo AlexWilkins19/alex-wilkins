@@ -1,6 +1,6 @@
 ---
-title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=788"
+title: "Alien messages responding to NASA signals could reach us by 2029"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/27163359/SEI_153322353.jpg?width=788"
 index: 403
 weight: 403
 ---

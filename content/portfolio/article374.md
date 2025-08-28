@@ -1,6 +1,6 @@
 ---
-title: "Solar panels could be about to get much better at capturing sunlight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/06160559/SEI_163064826.jpg?width=788"
+title: "Gravitational waves spark hunt for cosmic strings and dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/10095705/SEI_163211368.jpg?width=788"
 index: 374
 weight: 374
 ---
