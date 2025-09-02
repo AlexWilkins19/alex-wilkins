@@ -1,6 +1,6 @@
 ---
-title: "Hybrid design could make nuclear fusion reactors more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788"
+title: "Google's new quantum computer may help us understand how magnets work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/17133805/SEI_208286866.jpg?width=788"
 index: 207
 weight: 207
 ---

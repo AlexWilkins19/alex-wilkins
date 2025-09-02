@@ -1,6 +1,6 @@
 ---
-title: "Hearing noise and moving our body helps us gauge the passing of time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
+title: "Flying robot echolocates like a bat to avoid banging into walls"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
 index: 452
 weight: 452
 ---

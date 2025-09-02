@@ -1,6 +1,6 @@
 ---
-title: "Ancient Mars may have had a liquid ocean despite freezing temperatures"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/17160442/PRI_218935323.jpg?width=600"
+title: "First fully programmable quantum computer based on neutral atoms"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
 index: 643
 weight: 643
 ---
