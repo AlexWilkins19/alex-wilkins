@@ -1,6 +1,6 @@
 ---
-title: "The Milky Way could contain thousands of stars from another galaxy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/20154455/SEI_160970373.jpg?width=788"
+title: "Virgin Galactic space plane makes its first commercial flight"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/29121727/SEI_162186364.jpg?width=788"
 index: 382
 weight: 382
 ---

@@ -1,6 +1,6 @@
 ---
-title: "New Scientist recommends 13 Ways of Looking at AI, Art & Music"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/14122556/SEI_239482708.jpg?width=788"
+title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
 index: 87
 weight: 87
 ---

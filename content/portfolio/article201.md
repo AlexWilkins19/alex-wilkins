@@ -1,6 +1,6 @@
 ---
-title: "Mercury may have a layer of diamond beneath its grey surface"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/24111356/SEI_209752577.jpg?width=788"
+title: "$1m prize for AI that can solve puzzles that are simple for humans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25141856/SEI_210324857.jpg?width=788"
 index: 201
 weight: 201
 ---

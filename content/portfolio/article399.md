@@ -1,6 +1,6 @@
 ---
-title: "Saturn now has over 100 known moons - more than any other planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10171227/SEI_155376828.jpg?width=788"
+title: "Smart glove enhances your sense of touch in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10110620/SEI_153779674.jpg?width=788"
 index: 399
 weight: 399
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Dark energy bombshell sparks race to find a new model of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788"
+title: "All living things emit an eerie glow that is snuffed out upon death"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09144248/SEI_250569734.jpg?width=788"
 index: 56
 weight: 56
 ---

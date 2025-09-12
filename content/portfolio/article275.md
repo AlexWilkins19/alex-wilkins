@@ -1,6 +1,6 @@
 ---
-title: "The tightest knot ever made is a tied-up chain 54 atoms long"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17124210/SEI_186444011.jpg?width=788"
+title: "Mysterious black hole jets may be the source of powerful cosmic rays"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788"
 index: 275
 weight: 275
 ---

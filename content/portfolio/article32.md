@@ -1,6 +1,6 @@
 ---
-title: "Leonardo da Vinci's 'helicopter' design could make drones quieter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/24143757/SEI_256221541.jpg?width=788"
+title: "New Horizons images enable first test of interstellar navigation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/02154153/SEI_257622793.jpg?width=788"
 index: 32
 weight: 32
 ---

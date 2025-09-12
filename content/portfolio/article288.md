@@ -1,6 +1,6 @@
 ---
-title: "Are autonomous labs the future of science?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788"
+title: "Neptune isn't as blue as we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/04155439/SEI_185952561.jpg?width=788"
 index: 288
 weight: 288
 ---

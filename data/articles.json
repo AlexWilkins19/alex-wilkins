@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "A weird cloud forms on Mars each year and now we know why",
+      "url": "https://www.newscientist.com/article/2495985-a-weird-cloud-forms-on-mars-each-year-and-now-we-know-why/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/09/10164436/SEI_265489617.jpg?width=788",
+      "scrapedAt": "2025-09-12T01:24:01.387Z"
+    },
+    {
+      "title": "Deflecting a deadly asteroid just got a lot less dangerous",
+      "url": "https://www.newscientist.com/article/2495795-deflecting-a-deadly-asteroid-just-got-a-lot-less-dangerous/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788",
+      "scrapedAt": "2025-09-12T01:24:01.387Z"
+    },
+    {
       "title": "Spacecraft used to forecast solar storm 15 hours before it hit Earth",
       "url": "https://www.newscientist.com/article/2494433-spacecraft-used-to-forecast-solar-storm-15-hours-before-it-hit-earth/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/08/29170705/SEI_263648113.jpg?width=788",
