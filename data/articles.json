@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Mars once had an atmosphere that was thicker than Earth's today",
+      "url": "https://www.newscientist.com/article/2496379-mars-once-had-an-atmosphere-that-was-thicker-than-earths-today/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/09/15151910/SEI_266234767.jpg?width=788",
+      "scrapedAt": "2025-09-16T01:24:38.500Z"
+    },
+    {
       "title": "Jupiter is smaller and more squashed than we thought",
       "url": "https://www.newscientist.com/article/2496032-jupiter-is-smaller-and-more-squashed-than-we-thought/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/09/11142830/SEI_265606409.jpg?width=788",
