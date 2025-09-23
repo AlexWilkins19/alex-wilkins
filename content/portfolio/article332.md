@@ -1,6 +1,6 @@
 ---
-title: "The moon is 40 million years older than we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=788"
+title: "Oddly bright burst may mean space is more transparent than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788"
 index: 332
 weight: 332
 ---

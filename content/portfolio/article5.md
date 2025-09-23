@@ -1,6 +1,6 @@
 ---
-title: "Deflecting a deadly asteroid just got a lot less dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
+title: "A weird cloud forms on Mars each year and now we know why"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10164436/SEI_265489617.jpg?width=788"
 index: 5
 weight: 5
 ---
