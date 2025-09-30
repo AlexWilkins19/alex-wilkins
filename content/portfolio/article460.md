@@ -1,6 +1,6 @@
 ---
-title: "Flying robot echolocates like a bat to avoid banging into walls"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
+title: "AI image generators that create close copies could be a legal headache"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
 index: 460
 weight: 460
 ---

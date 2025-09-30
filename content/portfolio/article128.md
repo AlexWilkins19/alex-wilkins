@@ -1,6 +1,6 @@
 ---
-title: "Glowing biological quantum sensor could track how cells form"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20133550/SEI_233846796.jpg?width=788"
+title: "Pluto may have captured its moon Charon with a brief kiss"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/03161027/SEI_234849194.jpg?width=788"
 index: 128
 weight: 128
 ---
