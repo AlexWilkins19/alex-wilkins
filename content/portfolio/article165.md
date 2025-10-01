@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could one day end up eating asteroids"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/04152216/SEI_224396349.jpg?width=788"
+title: "Nobel prize for physics goes to pair who invented key AI techniques"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/08110301/SEI_224873524.jpg?width=788"
 index: 165
 weight: 165
 ---

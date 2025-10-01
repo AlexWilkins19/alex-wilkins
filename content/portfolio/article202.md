@@ -1,6 +1,6 @@
 ---
-title: "Universe’s missing matter may be explained by galaxies leaking gas"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/23095940/SEI_213825644.jpg?width=788"
+title: "Robot dog can stifle weeds by blasting them with a blowtorch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/18162411/SEI_213319447.jpg?width=788"
 index: 202
 weight: 202
 ---
