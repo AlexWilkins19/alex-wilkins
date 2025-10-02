@@ -1,6 +1,6 @@
 ---
-title: "Black hole’s jets are so huge that they may shake up cosmology"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/18144501/SEI_222159946.jpg?width=788"
+title: "Radioactive ion beam could target tumours more precisely"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788"
 index: 172
 weight: 172
 ---

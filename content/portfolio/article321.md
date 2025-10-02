@@ -1,6 +1,6 @@
 ---
-title: "A mysterious, incredibly energetic cosmic ray has smashed into Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/23114133/SEI_181208026.jpg?width=788"
+title: "‘Insect-eye’ compass can navigate by the sun even on a cloudy day"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27142057/SEI_181090253.jpg?width=788"
 index: 321
 weight: 321
 ---

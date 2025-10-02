@@ -1,6 +1,6 @@
 ---
-title: "Ancient rocks show earliest evidence of tectonic activity on Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/15141855/SEI_259077598.jpg?width=788"
+title: "DeepMind and OpenAI claim gold in International Mathematical Olympiad"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/22165214/SEI_259756152.jpg?width=788"
 index: 32
 weight: 32
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Jacket that gets thinner when you sweat could help avoid overheating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/13153637/SEI_262005769.jpg?width=788"
+title: "Jupiter's moon Ganymede could be a giant dark matter detector"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/15121137/SEI_262112605.jpg?width=788"
 index: 21
 weight: 21
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Weird icy balls in space could be a totally new kind of star"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17171649/SEI_236310831.jpg?width=788"
+title: "Twisted crystals show hints of a new kind of superconductivity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/22150346/SEI_236934895.jpg?width=788"
 index: 114
 weight: 114
 ---

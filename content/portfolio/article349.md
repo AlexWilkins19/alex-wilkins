@@ -1,6 +1,6 @@
 ---
-title: "Waste plastic can be recycled into hydrogen fuel and graphene"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788"
+title: "Water may be forming on the moon thanks to Earth’s magnetic field"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/29135207/SEI_173493846.jpg?width=788"
 index: 349
 weight: 349
 ---
