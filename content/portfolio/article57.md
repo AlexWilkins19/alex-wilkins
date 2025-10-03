@@ -1,6 +1,6 @@
 ---
-title: "Physicists are waging a cosmic battle over the nature of dark energy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23105151/SEI_252596197.jpg?width=788"
+title: "Private ispace Resilience probe will attempt lunar landing this week"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/03160344/SEI_254156814.jpg?width=788"
 index: 57
 weight: 57
 ---
