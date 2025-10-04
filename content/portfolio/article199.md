@@ -1,6 +1,6 @@
 ---
-title: "A slight curve helps rocks make the biggest splash"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155207/SEI_214086567.jpg?width=788"
+title: "Water molecules found in lunar rock sample for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788"
 index: 199
 weight: 199
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Electronic tongue could let you taste cake in virtual reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/28144012/SEI_241807303.jpg?width=788"
+title: "Cryptography trick could make AI algorithms more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/03104138/SEI_241701675.jpg?width=788"
 index: 93
 weight: 93
 ---
