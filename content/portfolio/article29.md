@@ -1,6 +1,6 @@
 ---
-title: "We’ve discovered the most massive black hole yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07175755/SEI_261434002.jpg?width=788"
+title: "Mathematicians have worked out the optimal strategy for Guess Who?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/11112924/SEI_261512388.jpg?width=788"
 index: 29
 weight: 29
 ---

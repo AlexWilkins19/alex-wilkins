@@ -1,6 +1,6 @@
 ---
-title: "Mathematician wins Turing award for harnessing randomness"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/08121417/SEI_198618497.jpg?width=788"
+title: "Fractal pattern identified at molecular scale in nature for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788"
 index: 249
 weight: 249
 ---

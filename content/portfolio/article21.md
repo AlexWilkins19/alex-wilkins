@@ -1,6 +1,6 @@
 ---
-title: "Nuclear fusion gets a boost from a controversial debunked experiment"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20123451/SEI_2626376081.jpg?width=788"
+title: "Super-cool cement could stop buildings trapping heat inside"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
 index: 21
 weight: 21
 ---
