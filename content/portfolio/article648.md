@@ -1,6 +1,6 @@
 ---
-title: "Flower growth in Antarctica is accelerating due to warming climate"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/14150201/PRI_2235312052.jpg?width=600"
+title: "RoboKrill is a one-legged robot that mimics the way krill swim"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
 index: 648
 weight: 648
 ---

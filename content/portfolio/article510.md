@@ -1,6 +1,6 @@
 ---
-title: "An incredibly bright star has lost its gas and is just a leftover core"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31164010/SEI_131719785.jpg?width=600"
+title: "Gel-based encryption can only be unlocked with key of light and heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03112353/SEI_132068485.jpg?width=600"
 index: 510
 weight: 510
 ---

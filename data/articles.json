@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Quantum computers reveal that the wave function is a real thing",
+      "url": "https://www.newscientist.com/article/2502414-quantum-computers-reveal-that-the-wave-function-is-a-real-thing/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/10/30204834/SEI_270583733.jpg?width=788",
+      "scrapedAt": "2025-11-01T01:43:06.058Z"
+    },
+    {
       "title": "We can use ordinary sugar in the search for dark matter",
       "url": "https://www.newscientist.com/article/2500538-we-can-use-ordinary-sugar-in-the-search-for-dark-matter/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/10/17154209/SEI_270572247.jpg?width=788",
