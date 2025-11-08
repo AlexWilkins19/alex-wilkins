@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians spent 2024 unravelling proof almost no one understands"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/05154631/SEI_230438188.jpg?width=788"
+title: "Should chatbots have rights – and should we care?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/17153008/SEI_233552771.jpg?width=788"
 index: 143
 weight: 143
 ---

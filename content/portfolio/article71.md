@@ -1,6 +1,6 @@
 ---
-title: "Alien megastructures would likely self-destruct before we spot them"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09162806/SEI_250576334.jpg?width=788"
+title: "Physicists reveal the secret to chopping onions without crying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15112049/SEI_251258582.jpg?width=788"
 index: 71
 weight: 71
 ---

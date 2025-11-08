@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "We may never figure out where interstellar comet 3I/ATLAS came from",
+      "url": "https://www.newscientist.com/article/2503047-we-may-never-figure-out-where-interstellar-comet-3i-atlas-came-from/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/06154204/SEI_273150137.jpg?width=788",
+      "scrapedAt": "2025-11-08T01:27:27.192Z"
+    },
+    {
       "title": "Quantum computers reveal that the wave function is a real thing",
       "url": "https://www.newscientist.com/article/2502414-quantum-computers-reveal-that-the-wave-function-is-a-real-thing/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/10/30204834/SEI_270583733.jpg?width=788",

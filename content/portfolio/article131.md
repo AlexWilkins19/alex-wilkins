@@ -1,6 +1,6 @@
 ---
-title: "A supermassive black hole is sending out a mysterious pulsing beat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/13152631/SEI_235856621.jpg?width=788"
+title: "SpaceX is launching Blue Ghost and Resilience landers to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/14141510/SEI_235933443.jpg?width=788"
 index: 131
 weight: 131
 ---
