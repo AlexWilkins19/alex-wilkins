@@ -1,6 +1,6 @@
 ---
-title: "Whale songs can spread between groups nearly 8000 kilometres apart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/30170429/SEI_121966595.jpg?width=600"
+title: "Swarm of light-sail spacecraft could be propelled by laser on the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/06174711/SEI_123297727.jpg?width=600"
 index: 546
 weight: 546
 ---

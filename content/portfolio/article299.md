@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI solves hard geometry problems from mathematics olympiad"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17135354/SEI_187607754.jpg?width=788"
+title: "The tightest knot ever made is a tied-up chain 54 atoms long"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17124210/SEI_186444011.jpg?width=788"
 index: 299
 weight: 299
 ---

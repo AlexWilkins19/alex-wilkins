@@ -1,6 +1,6 @@
 ---
-title: "Watch a robot peel a squash with human-like dexterity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/23145043/SEI_213285031.jpg?width=788"
+title: "Water molecules found in lunar rock sample for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788"
 index: 209
 weight: 209
 ---

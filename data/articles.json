@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "title": "Static electricity can remove frost from windows using little energy",
+      "url": "https://www.newscientist.com/article/2503870-static-electricity-can-remove-frost-from-windows-using-little-energy/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/11151224/SEI_273953585.jpg?width=788",
+      "scrapedAt": "2025-11-12T01:41:31.861Z"
+    },
+    {
+      "title": "Odds of asteroid 2024 YR4 hitting the moon may rise to 30 per cent",
+      "url": "https://www.newscientist.com/article/2503607-odds-of-asteroid-2024-yr4-hitting-the-moon-may-rise-to-30-per-cent/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/10113243/SEI_273826369.jpg?width=788",
+      "scrapedAt": "2025-11-12T01:41:31.861Z"
+    },
+    {
+      "title": "The biggest controversy in maths could be settled by a computer",
+      "url": "https://www.newscientist.com/article/2503500-the-biggest-controversy-in-maths-could-be-settled-by-a-computer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg?width=788",
+      "scrapedAt": "2025-11-12T01:41:31.861Z"
+    },
+    {
+      "title": "Caves carved by water on Mars may hold signs of past life",
+      "url": "https://www.newscientist.com/article/2503049-caves-carved-by-water-on-mars-may-hold-signs-of-past-life/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/10095757/SEI_273160845.jpg?width=788",
+      "scrapedAt": "2025-11-12T01:41:31.861Z"
+    },
+    {
       "title": "We may never figure out where interstellar comet 3I/ATLAS came from",
       "url": "https://www.newscientist.com/article/2503047-we-may-never-figure-out-where-interstellar-comet-3i-atlas-came-from/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/06154204/SEI_273150137.jpg?width=788",

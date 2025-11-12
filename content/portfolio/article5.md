@@ -1,6 +1,6 @@
 ---
-title: "Biodegradable plastic made from bamboo is strong and easy to recycle"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07111650/SEI_269357822.jpg?width=788"
+title: "We may never figure out where interstellar comet 3I/ATLAS came from"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/06154204/SEI_273150137.jpg?width=788"
 index: 5
 weight: 5
 ---

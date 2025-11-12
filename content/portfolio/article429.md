@@ -1,6 +1,6 @@
 ---
-title: "Google robot learns to sort the recyclables left in office waste bins"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/20122806/SEI_152683718.jpg?width=788"
+title: "Underwater writing technique lets you draw patterns in liquids"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=788"
 index: 429
 weight: 429
 ---

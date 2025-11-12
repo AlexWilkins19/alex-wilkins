@@ -1,6 +1,6 @@
 ---
-title: "JWST spots smallest galaxy outside our local universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/21133021/SEI_130287494.jpg?width=600"
+title: "JWST finds ancient galaxy may actually be two galaxies merging"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31121040/SEI_131307589.jpg?width=600"
 index: 517
 weight: 517
 ---

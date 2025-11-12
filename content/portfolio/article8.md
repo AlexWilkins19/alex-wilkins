@@ -1,6 +1,6 @@
 ---
-title: "Rogue planet gains 6 billion tonnes per second in record growth spurt"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01163119/SEI_268492983.jpg?width=788"
+title: "The moon's largest crater didn't form in the way we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/08101726/SEI_269399472.jpg?width=788"
 index: 8
 weight: 8
 ---

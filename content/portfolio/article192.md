@@ -1,6 +1,6 @@
 ---
-title: "Dark matter could be hiding inside strange failed stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/29202755/SEI_219103506.jpg?width=788"
+title: "A riveting exploration of how AI models like ChatGPT changed the world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/06164614/SEI_219917842.jpg?width=788"
 index: 192
 weight: 192
 ---

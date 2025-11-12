@@ -1,6 +1,6 @@
 ---
-title: "Astronomers have spotted the largest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788"
+title: "Record-breaking neutrino spotted tearing through the Mediterranean Sea"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/12124245/SEI_239472072.jpg?width=788"
 index: 116
 weight: 116
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Dead NASA satellite unexpectedly emits powerful radio pulse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/19165928/SEI_256119070.jpg?width=788"
+title: "Mathematicians create a tetrahedron that always lands on the same side"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/27162934/SEI_257070964.jpg?width=788"
 index: 55
 weight: 55
 ---

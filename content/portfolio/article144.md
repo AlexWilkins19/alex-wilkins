@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians spent 2024 unravelling proof almost no one understands"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/05154631/SEI_230438188.jpg?width=788"
+title: "Glowing biological quantum sensor could track how cells form"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20133550/SEI_233846796.jpg?width=788"
 index: 144
 weight: 144
 ---

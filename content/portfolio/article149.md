@@ -1,6 +1,6 @@
 ---
-title: "The sun may spit out giant solar flares more often than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/12160933/SEI_232965865.jpg?width=788"
+title: "The best space images from 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/20133012/SEI_213045678.jpg?width=788"
 index: 149
 weight: 149
 ---

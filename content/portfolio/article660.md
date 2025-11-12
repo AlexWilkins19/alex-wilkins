@@ -1,6 +1,6 @@
 ---
-title: "Hibernating ground squirrels recycle urine to maintain their muscles"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/26150120/PRI_220152958.jpg?width=600"
+title: "Moons might not form around rocky planets much larger than Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/01152709/PRI_221065357.jpg?width=600"
 index: 660
 weight: 660
 ---

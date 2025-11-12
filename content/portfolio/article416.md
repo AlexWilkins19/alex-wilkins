@@ -1,6 +1,6 @@
 ---
-title: "Watch 44 million atoms simulated using AI and a supercomputer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=788"
+title: "Nuclear clocks could be the best timepiece in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24102606/SEI_157456369.jpg?width=788"
 index: 416
 weight: 416
 ---

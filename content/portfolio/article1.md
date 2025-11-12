@@ -1,6 +1,6 @@
 ---
-title: "We may never figure out where interstellar comet 3I/ATLAS came from"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/06154204/SEI_273150137.jpg?width=788"
+title: "Static electricity can remove frost from windows using little energy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/11151224/SEI_273953585.jpg?width=788"
 index: 1
 weight: 1
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Tiny magnet could help measure gravity on the quantum scale"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22164052/SEI_192725345.jpg?width=788"
+title: "Google launches $5m prize to find actual uses for quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=788"
 index: 274
 weight: 274
 ---

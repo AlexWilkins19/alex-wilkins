@@ -1,6 +1,6 @@
 ---
-title: "JWST could soon tell us what exoplanets' surfaces are made of"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/29163136/SEI_116642317.jpg?width=600"
+title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
 index: 565
 weight: 565
 ---

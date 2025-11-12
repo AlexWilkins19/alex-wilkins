@@ -1,6 +1,6 @@
 ---
-title: "Deflecting a deadly asteroid just got a lot less dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
+title: "Lunar missions may contaminate the moon with hardy Earth microbes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15115739/SEI_265737659.jpg?width=788"
 index: 20
 weight: 20
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Endearing photos of bats show clever adaptations like long tongues"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
+title: "Biodegradable plastic made from bamboo is strong and easy to recycle"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07111650/SEI_269357822.jpg?width=788"
 index: 9
 weight: 9
 ---

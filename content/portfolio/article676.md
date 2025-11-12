@@ -1,6 +1,6 @@
 ---
-title: "Sample of asteroid Ryugu brought to Earth is a strange dark colour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/20154247/PRI_215885960.jpg?width=600"
+title: "James Webb Space Telescope is carrying out its most critical manoeuvre"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/04125745/PRI_217181494.jpg?width=600"
 index: 676
 weight: 676
 ---

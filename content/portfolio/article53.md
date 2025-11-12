@@ -1,6 +1,6 @@
 ---
-title: "Stellar flares may hamper search for life in promising star system"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/23102406/SEI_256222611.jpg?width=788"
+title: "Quantum computers are surprisingly random – but that's a good thing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/03152401/SEI_257731011.jpg?width=788"
 index: 53
 weight: 53
 ---

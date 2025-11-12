@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians have discovered a mind-blowing new kind of infinity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/06105425/SEI_232072501.jpg?width=788"
+title: "The shine began to wear off AI in 2024 as advances slowed down"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/09172521/SEI_229326986.jpg?width=788"
 index: 154
 weight: 154
 ---

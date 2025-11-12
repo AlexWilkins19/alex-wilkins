@@ -1,6 +1,6 @@
 ---
-title: "Virtual tennis racket uses air jet to recreate feel of hitting a ball"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/09133001/SEI_102348523.jpg?width=600"
+title: "Quantum communication system could detect earthquakes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/16165756/SEI_103772762.jpg?width=600"
 index: 607
 weight: 607
 ---

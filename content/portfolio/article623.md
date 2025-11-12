@@ -1,6 +1,6 @@
 ---
-title: "High blood pressure may be treated by burning nerves near the kidneys"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/04154156/SEI_97125992.jpg?width=600"
+title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
 index: 623
 weight: 623
 ---

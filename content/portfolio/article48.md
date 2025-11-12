@@ -1,6 +1,6 @@
 ---
-title: "Fig trees may benefit climate by turning carbon dioxide into stone"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/04115335/SEI_257617955.jpg?width=788"
+title: "Trees on city streets cope with drought by drinking from leaky pipes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10143422/SEI_258436529.jpg?width=788"
 index: 48
 weight: 48
 ---

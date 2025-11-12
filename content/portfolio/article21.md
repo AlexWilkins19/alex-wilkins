@@ -1,6 +1,6 @@
 ---
-title: "Spacecraft used to forecast solar storm 15 hours before it hit Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/29170705/SEI_263648113.jpg?width=788"
+title: "Mars once had an atmosphere that was thicker than Earth's today"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15151910/SEI_266234767.jpg?width=788"
 index: 21
 weight: 21
 ---

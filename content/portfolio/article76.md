@@ -1,6 +1,6 @@
 ---
-title: "Dark energy bombshell sparks race to find a new model of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788"
+title: "Alien megastructures would likely self-destruct before we spot them"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09162806/SEI_250576334.jpg?width=788"
 index: 76
 weight: 76
 ---

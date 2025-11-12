@@ -1,6 +1,6 @@
 ---
-title: "Water might be even more important for alien life than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/14101405/SEI_258555691.jpg?width=788"
+title: "Gold can be heated to 14 times its melting point without melting"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/23151135/SEI_259864666.jpg?width=788"
 index: 43
 weight: 43
 ---

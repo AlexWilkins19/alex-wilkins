@@ -1,6 +1,6 @@
 ---
-title: "Hellish conditions have warped an Earth-like planet into an egg"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/15171521/SEI_217489486.jpg?width=788"
+title: "AI models can't learn as they go along like humans do"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788"
 index: 200
 weight: 200
 ---

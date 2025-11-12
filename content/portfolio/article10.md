@@ -1,6 +1,6 @@
 ---
-title: "NASA's asteroid deflection test had unexpected and puzzling outcome"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01115548/SEI_268328614.jpg?width=788"
+title: "Nobel prize for physics goes to trio behind quantum computing chips"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
 index: 10
 weight: 10
 ---

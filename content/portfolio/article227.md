@@ -1,6 +1,6 @@
 ---
-title: "Google's new quantum computer may help us understand how magnets work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/17133805/SEI_208286866.jpg?width=788"
+title: "Saturn's moon Titan is experiencing coastal erosion from methane seas"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/19171927/SEI_209458668.jpg?width=788"
 index: 227
 weight: 227
 ---

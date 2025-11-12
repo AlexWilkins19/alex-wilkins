@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians are bitterly divided over a controversial proof"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=788"
+title: "How AI mathematicians might finally deliver human-level reasoning"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/09121015/SEI_198633450.jpg?width=788"
 index: 258
 weight: 258
 ---

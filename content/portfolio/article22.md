@@ -1,6 +1,6 @@
 ---
-title: "Light-based AI image generator uses almost no power"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/27142425/SEI_263486522.jpg?width=788"
+title: "Jupiter is smaller and more squashed than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/11142830/SEI_265606409.jpg?width=788"
 index: 22
 weight: 22
 ---

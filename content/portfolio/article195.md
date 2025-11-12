@@ -1,6 +1,6 @@
 ---
-title: "Quantum trick lets you cool objects down using nothing at all"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/19160033/SEI_217598995.jpg?width=788"
+title: "Astronomers puzzled by little red galaxies that seem impossibly dense"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/30145831/SEI_219239644.jpg?width=788"
 index: 195
 weight: 195
 ---

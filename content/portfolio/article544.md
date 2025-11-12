@@ -1,6 +1,6 @@
 ---
-title: "Physicists want the next Large Hadron Collider to be climate-friendly"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
+title: "Quantum diamond sensor used to measure neuron activity in mouse tissue"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12131054/SEI_123940228.jpg?width=600"
 index: 544
 weight: 544
 ---

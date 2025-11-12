@@ -1,6 +1,6 @@
 ---
-title: "Incredible maths proof is so complex that almost no one can explain it"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/20102808/SEI_204622614.jpg?width=788"
+title: "Hackers are using AI to find software bugs - but there is a downside"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/28144505/SEI_205388489.jpg?width=788"
 index: 242
 weight: 242
 ---

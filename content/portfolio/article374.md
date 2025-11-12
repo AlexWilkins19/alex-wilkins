@@ -1,6 +1,6 @@
 ---
-title: "Google AI predicts floods four days early in South America and Africa"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=788"
+title: "Toughest known structure discovered by autonomous robot lab"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/29162538/SEI_169177463.jpg?width=788"
 index: 374
 weight: 374
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Hyperelastic gel is one of the stretchiest materials known to science"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
+title: "Fractal pattern identified at molecular scale in nature for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788"
 index: 257
 weight: 257
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Dark energy may have been hiding in the cores of black holes all along"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15163011/SEI_144308396.jpg?width=600"
+title: "Hubble Space Telescope images are being spoiled by satellite trails"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
 index: 464
 weight: 464
 ---

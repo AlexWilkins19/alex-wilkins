@@ -1,6 +1,6 @@
 ---
-title: "China’s Chang’e 6 returns with first rocks from far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25100337/SEI_210303798.jpg?width=788"
+title: "AI beats top racers at Gran Turismo – without cheating"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04150940/SEI_211486789.jpg?width=788"
 index: 220
 weight: 220
 ---

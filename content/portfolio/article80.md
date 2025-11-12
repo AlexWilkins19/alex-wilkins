@@ -1,6 +1,6 @@
 ---
-title: "Powerful blasts of X-rays could reveal a black hole waking from sleep"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22153211/SEI_248425755.jpg?width=788"
+title: "Dark energy bombshell sparks race to find a new model of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788"
 index: 80
 weight: 80
 ---

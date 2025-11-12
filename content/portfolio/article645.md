@@ -1,6 +1,6 @@
 ---
-title: "Base of the Greenland ice sheet is melting faster than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/21145942/SEI_89317128.jpg?width=600"
+title: "Our closest black hole is actually just one star eating another"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/01175200/SEI_90952100.jpg?width=600"
 index: 645
 weight: 645
 ---

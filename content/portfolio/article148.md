@@ -1,6 +1,6 @@
 ---
-title: "Saturn’s rings may be far older than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/16150357/SEI_233444071.jpg?width=788"
+title: "Mathematicians spent 2024 unravelling proof almost no one understands"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/05154631/SEI_230438188.jpg?width=788"
 index: 148
 weight: 148
 ---

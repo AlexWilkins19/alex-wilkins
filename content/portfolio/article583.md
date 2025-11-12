@@ -1,6 +1,6 @@
 ---
-title: "UK may go it alone in orbit after Brexit shutout from EU space plans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/14121504/SEI_109580970.jpg?width=600"
+title: "AI generates photorealistic 3D scenes and lets you edit them as well"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/22124400/SEI_110949917.jpg?width=600"
 index: 583
 weight: 583
 ---

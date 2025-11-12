@@ -1,6 +1,6 @@
 ---
-title: "Underwater writing technique lets you draw patterns in liquids"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26114413/SEI_152682261.jpg?width=788"
+title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=788"
 index: 425
 weight: 425
 ---

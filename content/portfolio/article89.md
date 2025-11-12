@@ -1,6 +1,6 @@
 ---
-title: "Dust devils on Mars produce lightning-like zaps of electricity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/17133857/SEI_244199521.jpg?width=788"
+title: "Where exactly does the quantum world end and concrete reality begin?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
 index: 89
 weight: 89
 ---

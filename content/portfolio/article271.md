@@ -1,6 +1,6 @@
 ---
-title: "How will AIs like ChatGPT affect elections this year?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=788"
+title: "Mathematicians plan computer proof of Fermat's last theorem"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/15125942/SEI_196127014.jpg?width=788"
 index: 271
 weight: 271
 ---

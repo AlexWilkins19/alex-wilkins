@@ -1,6 +1,6 @@
 ---
-title: "Lightest neutron star ever found could contain compressed quarks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
+title: "An incredibly bright star has lost its gas and is just a leftover core"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31164010/SEI_131719785.jpg?width=600"
 index: 516
 weight: 516
 ---

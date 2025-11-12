@@ -1,6 +1,6 @@
 ---
-title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
+title: "Physicists capture a strange fractal ‘butterfly’ for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26133208/SEI_241527864.jpg?width=788"
 index: 105
 weight: 105
 ---

@@ -1,6 +1,6 @@
 ---
-title: "NASA's DART mission successfully smashed into asteroid Dimorphos"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/27102233/SEI_127081233.jpg?width=600"
+title: "Ships release invisible contrails that slightly cool the climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/05143706/SEI_128061021.jpg?width=600"
 index: 533
 weight: 533
 ---

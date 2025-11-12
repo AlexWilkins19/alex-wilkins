@@ -1,6 +1,6 @@
 ---
-title: "$1m prize for AI that can solve puzzles that are simple for humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/25141856/SEI_210324857.jpg?width=788"
+title: "Moon of Saturn has an equivalent of freshwater rivers and salty oceans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/16115146/SEI_213043344.jpg?width=788"
 index: 219
 weight: 219
 ---

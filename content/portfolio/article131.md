@@ -1,6 +1,6 @@
 ---
-title: "SpaceX is launching Blue Ghost and Resilience landers to the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/14141510/SEI_235933443.jpg?width=788"
+title: "Blue Origin vs SpaceX: Who is winning the battle of the rockets?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17134708/SEI_236279682.jpg?width=788"
 index: 131
 weight: 131
 ---

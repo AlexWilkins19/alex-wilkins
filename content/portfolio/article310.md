@@ -1,6 +1,6 @@
 ---
-title: "Extreme close-up of Jupiter’s moon Io captured by Juno spacecraft"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/02155408/SEI_1857667331.jpg?width=788"
+title: "Neptune isn't as blue as we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/04155439/SEI_185952561.jpg?width=788"
 index: 310
 weight: 310
 ---

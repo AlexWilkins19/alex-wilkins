@@ -1,6 +1,6 @@
 ---
-title: "Quantum batteries could make quantum computers more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22123803/SEI_247646109.jpg?width=788"
+title: "Housework robots are a step closer as they learn to work in any home"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
 index: 81
 weight: 81
 ---

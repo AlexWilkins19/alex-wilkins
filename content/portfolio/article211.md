@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI gets silver medal at International Mathematical Olympiad"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25144939/SEI_214089039.jpg?width=788"
+title: "Particle physicists may have solved a strange mystery about the muon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788"
 index: 211
 weight: 211
 ---

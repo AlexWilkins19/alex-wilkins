@@ -1,6 +1,6 @@
 ---
-title: "JWST gets a closer look at interstellar comet 3I/ATLAS"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788"
+title: "Deflecting a deadly asteroid just got a lot less dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
 index: 24
 weight: 24
 ---

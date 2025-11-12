@@ -1,6 +1,6 @@
 ---
-title: "Laser technique measures vast distances with nanometre precision"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/10162828/SEI_235256076.jpg?width=788"
+title: "Blue Origin's New Glenn rocket reaches orbit on first launch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/16101349/SEI_236157315.jpg?width=788"
 index: 133
 weight: 133
 ---

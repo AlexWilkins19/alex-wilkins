@@ -1,6 +1,6 @@
 ---
-title: "10 stunning James Webb Space Telescope images show the beauty of space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/17100618/sei225115412-1.jpg?width=788"
+title: "Does this high-tech lettuce hold the answer to the global food crisis?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11151014/SEI_228616030.jpg?width=788"
 index: 171
 weight: 171
 ---

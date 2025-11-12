@@ -1,6 +1,6 @@
 ---
-title: "Radioactive ion beam could target tumours more precisely"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788"
+title: "Astronauts could one day end up eating asteroids"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/04152216/SEI_224396349.jpg?width=788"
 index: 180
 weight: 180
 ---

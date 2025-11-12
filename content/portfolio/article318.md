@@ -1,6 +1,6 @@
 ---
-title: "Google wants to solve tricky physics problems with quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18113249/SEI_183676751.jpg?width=788"
+title: "AI firms will face copyright infringement lawsuits in 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788"
 index: 318
 weight: 318
 ---

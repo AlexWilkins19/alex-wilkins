@@ -1,6 +1,6 @@
 ---
-title: "Housework robots are a step closer as they learn to work in any home"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
+title: "Was a famous supernova an alien invader from another galaxy?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09150624/SEI_250570048.jpg?width=788"
 index: 77
 weight: 77
 ---

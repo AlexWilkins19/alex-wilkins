@@ -1,6 +1,6 @@
 ---
-title: "Black hole’s jets are so huge that they may shake up cosmology"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/18144501/SEI_222159946.jpg?width=788"
+title: "Planet spotted orbiting Barnard's star just 6 light years away"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30153759/SEI_223877148.jpg?width=788"
 index: 182
 weight: 182
 ---

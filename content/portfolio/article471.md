@@ -1,6 +1,6 @@
 ---
-title: "AI image generators that create close copies could be a legal headache"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
+title: "AI generates virtual 3D cities that extend infinitely in any direction"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/13111830/SEI_143627573.jpg?width=600"
 index: 471
 weight: 471
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Celebrating dark skies at a festival in deepest Denmark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29105659/SEI_184725263.jpg?width=788"
+title: "Vulcan launch: Why is NASA going back to the moon?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=788"
 index: 309
 weight: 309
 ---

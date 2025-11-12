@@ -1,6 +1,6 @@
 ---
-title: "Super-cool cement could stop buildings trapping heat inside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
+title: "Spacecraft used to forecast solar storm 15 hours before it hit Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/29170705/SEI_263648113.jpg?width=788"
 index: 25
 weight: 25
 ---

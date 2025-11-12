@@ -1,6 +1,6 @@
 ---
-title: "Google AI can tell what things smell like by the molecular structure"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
+title: "Earth's algae and moss could survive under the light of another star"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/21155126/SEI_126326194.jpg?width=600"
 index: 539
 weight: 539
 ---

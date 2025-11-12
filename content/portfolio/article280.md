@@ -1,6 +1,6 @@
 ---
-title: "Monster black hole powers the brightest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19111344/SEI_191790689.jpg?width=788"
+title: "Casimir Funk: The scientist who gave us the word 'vitamin'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23122319/SEI_192870410.jpg?width=788"
 index: 280
 weight: 280
 ---

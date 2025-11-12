@@ -1,6 +1,6 @@
 ---
-title: "Google launches $5m prize to find actual uses for quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=788"
+title: "Mathematician wins 2024 Abel prize for making sense of randomness"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/20102645/SEI_196711739.jpg?width=788"
 index: 270
 weight: 270
 ---

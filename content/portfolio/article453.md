@@ -1,6 +1,6 @@
 ---
-title: "NASA unveils new spacesuit for Artemis moon mission astronauts"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15163442/SEI_148394900.jpg?width=600"
+title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
 index: 453
 weight: 453
 ---

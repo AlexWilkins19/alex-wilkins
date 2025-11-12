@@ -1,6 +1,6 @@
 ---
-title: "Nuclear clocks could be the best timepiece in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24102606/SEI_157456369.jpg?width=788"
+title: "Robot gardener grows plants as well as humans do but uses less water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
 index: 412
 weight: 412
 ---

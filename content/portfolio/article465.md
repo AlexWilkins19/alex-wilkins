@@ -1,6 +1,6 @@
 ---
-title: "Bone conduction headphones make your own voice sound less weird"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15145000/SEI_1440709581.jpg?width=600"
+title: "Google says error correction will lead to useful quantum computers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/23125456/SEI_145464808.jpg?width=600"
 index: 465
 weight: 465
 ---

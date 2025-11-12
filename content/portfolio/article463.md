@@ -1,6 +1,6 @@
 ---
-title: "AI with no visual sensors generates an internal map to finds its way"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
+title: "Wooden robot hand can lift objects and withstand high temperatures"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/03144213/SEI_146640986.jpg?width=600"
 index: 463
 weight: 463
 ---

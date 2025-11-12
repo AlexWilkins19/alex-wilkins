@@ -1,6 +1,6 @@
 ---
-title: "The moon's largest crater didn't form in the way we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/08101726/SEI_269399472.jpg?width=788"
+title: "Caves carved by water on Mars may hold signs of past life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10095757/SEI_273160845.jpg?width=788"
 index: 4
 weight: 4
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Did a star blow up and hit Earth 10 million years ago?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
+title: "Endearing photos of bats show clever adaptations like long tongues"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
 index: 13
 weight: 13
 ---

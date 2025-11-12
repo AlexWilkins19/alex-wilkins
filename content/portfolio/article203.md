@@ -1,6 +1,6 @@
 ---
-title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
+title: "Discovery of 'dark' electrons could explain how superconductors work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788"
 index: 203
 weight: 203
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robot gardener grows plants as well as humans do but uses less water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
+title: "Scientists want to give robots hands made from living woodlice"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16151456/SEI_160370335.jpg?width=788"
 index: 408
 weight: 408
 ---

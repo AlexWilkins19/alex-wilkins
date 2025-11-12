@@ -1,6 +1,6 @@
 ---
-title: "Peculiar galaxy seems to contain surprisingly pristine stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
+title: "Astronomers gather more clues about interstellar comet 3I/ATLAS"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07163858/SEI_261425663.jpg?width=788"
 index: 38
 weight: 38
 ---
