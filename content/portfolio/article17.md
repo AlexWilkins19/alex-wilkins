@@ -1,6 +1,6 @@
 ---
-title: "Did a star blow up and hit Earth 10 million years ago?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
+title: "We may finally know what causes will-o’-the-wisps"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/29155612/SEI_268216742.jpg?width=788"
 index: 17
 weight: 17
 ---

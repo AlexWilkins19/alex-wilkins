@@ -1,6 +1,6 @@
 ---
-title: "How a start-up plans to mine the moon for a rare form of helium"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/13154209/SEI_243688489.jpg?width=788"
+title: "Most quakes on Mars happen during the summer – and we don’t know why"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/14160308/sei243597525.jpg?width=788"
 index: 95
 weight: 95
 ---

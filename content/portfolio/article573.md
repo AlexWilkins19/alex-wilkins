@@ -1,6 +1,6 @@
 ---
-title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
+title: "Firing a laser into the sky can redirect lightning’s path"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
 index: 573
 weight: 573
 ---
