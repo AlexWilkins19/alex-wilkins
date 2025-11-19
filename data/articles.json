@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Mathematicians say Google's AI tools are supercharging their research",
+      "url": "https://www.newscientist.com/article/2504763-mathematicians-say-googles-ai-tools-are-supercharging-their-research/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/18115936/SEI_274772807.jpg?width=788",
+      "scrapedAt": "2025-11-19T01:41:06.440Z"
+    },
+    {
       "title": "Is a deadly asteroid about to hit Earth? Meet the man who can tell you",
       "url": "https://www.newscientist.com/article/2501075-is-a-deadly-asteroid-about-to-hit-earth-meet-the-man-who-can-tell-you/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788",
