@@ -1,6 +1,6 @@
 ---
-title: "Thread-based computer could be knitted into clothes to monitor health"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26121331/SEI_241382288.jpg?width=788"
+title: "Physicists capture a strange fractal ‘butterfly’ for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26133208/SEI_241527864.jpg?width=788"
 index: 108
 weight: 108
 ---
