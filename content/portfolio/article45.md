@@ -1,6 +1,6 @@
 ---
-title: "Peculiar galaxy seems to contain surprisingly pristine stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
+title: "A vast bubble around a dying star is too big to comprehend"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25143435/SEI_259975772.jpg?width=788"
 index: 45
 weight: 45
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Lunar missions may contaminate the moon with hardy Earth microbes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15115739/SEI_265737659.jpg?width=788"
+title: "We finally found the hot wind coming out of our black hole"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/24195853/SEI_267507056.jpg?width=788"
 index: 23
 weight: 23
 ---

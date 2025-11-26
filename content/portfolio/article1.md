@@ -1,6 +1,6 @@
 ---
-title: "Google's Gemini 3 model keeps the AI hype train going – for now"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/19153020/SEI_274927898.jpg?width=788"
+title: "We might have just seen the first hints of dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/25152454/SEI_275649097.jpg?width=788"
 index: 1
 weight: 1
 ---

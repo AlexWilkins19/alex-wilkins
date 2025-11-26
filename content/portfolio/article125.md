@@ -1,6 +1,6 @@
 ---
-title: "The perfect boiled egg takes more than half an hour to cook"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/05150121/SEI_238664712.jpg?width=788"
+title: "Astronomers have spotted the largest known object in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788"
 index: 125
 weight: 125
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Is a deadly asteroid about to hit Earth? Meet the man who can tell you"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788"
+title: "Google's Gemini 3 model keeps the AI hype train going – for now"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/19153020/SEI_274927898.jpg?width=788"
 index: 3
 weight: 3
 ---

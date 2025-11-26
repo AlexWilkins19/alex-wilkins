@@ -1,6 +1,6 @@
 ---
-title: "Bacteria form complex structures like those seen in animals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06133757/PRI_217389353.jpg?width=600"
+title: "James Webb Space Telescope has finished unfolding its massive mirror"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10110947/PRI_217942257.jpg?width=600"
 index: 678
 weight: 678
 ---
