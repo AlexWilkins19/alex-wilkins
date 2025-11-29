@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Why Google’s custom AI chips are shaking up the tech industry",
+      "url": "https://www.newscientist.com/article/2506354-why-googles-custom-ai-chips-are-shaking-up-the-tech-industry/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/28130712/SEI_275896064.jpg?width=788",
+      "scrapedAt": "2025-11-29T01:39:38.376Z"
+    },
+    {
       "title": "We might have just seen the first hints of dark matter",
       "url": "https://www.newscientist.com/article/2505811-we-might-have-just-seen-the-first-hints-of-dark-matter/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/11/25152454/SEI_275649097.jpg?width=788",

@@ -1,6 +1,6 @@
 ---
-title: "AI firms will face copyright infringement lawsuits in 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788"
+title: "Vera C. Rubin Observatory will start scanning the night sky in 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172918/SEI_184082907.jpg?width=788"
 index: 323
 weight: 323
 ---
