@@ -1,6 +1,6 @@
 ---
-title: "Watch 44 million atoms simulated using AI and a supercomputer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=788"
+title: "Microbombs detonated by ultrasound can blast away tooth decay bacteria"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/15163443/SEI_156054205.jpg?width=788"
 index: 426
 weight: 426
 ---
