@@ -1,6 +1,6 @@
 ---
-title: "All living things emit an eerie glow that is snuffed out upon death"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09144248/SEI_250569734.jpg?width=788"
+title: "Was a famous supernova an alien invader from another galaxy?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09150624/SEI_250570048.jpg?width=788"
 index: 85
 weight: 85
 ---

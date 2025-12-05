@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "AI can influence voters' minds. What does that mean for democracy?",
+      "url": "https://www.newscientist.com/article/2507178-ai-can-influence-voters-minds-what-does-that-mean-for-democracy/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg?width=788",
+      "scrapedAt": "2025-12-05T01:45:30.177Z"
+    },
+    {
       "title": "Planned satellite launches could ruin Hubble Space Telescope images",
       "url": "https://www.newscientist.com/article/2506858-planned-satellite-launches-could-ruin-hubble-space-telescope-images/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2025/12/03111454/SEI_276620613.jpg?width=788",

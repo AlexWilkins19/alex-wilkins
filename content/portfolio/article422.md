@@ -1,6 +1,6 @@
 ---
-title: "Bendy solar panels are just as good as regular ones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24111802/SEI_157361160.jpg?width=788"
+title: "Massive Turing test shows we can only just tell AIs apart from humans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/05163041/shutterstock_1049679836-ai.jpg?width=788"
 index: 422
 weight: 422
 ---
