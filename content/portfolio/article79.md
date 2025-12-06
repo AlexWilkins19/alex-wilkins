@@ -1,6 +1,6 @@
 ---
-title: "Astronomers double down on claim of strongest evidence for alien life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/19162235/SEI_252162102.jpg?width=788"
+title: "A photon caught in two places at once could destroy the multiverse"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23124108/SEI_252757104.jpg?width=788"
 index: 79
 weight: 79
 ---

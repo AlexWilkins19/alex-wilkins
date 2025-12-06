@@ -1,6 +1,6 @@
 ---
-title: "First truly isolated black hole detected in interstellar space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/03174635/PRI_221398609.jpg?width=600"
+title: "Cell studies suggest a way sleep loss may be linked to Alzheimer’s"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/10170949/PRI_2224675121.jpg?width=600"
 index: 665
 weight: 665
 ---
