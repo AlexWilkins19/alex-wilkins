@@ -1,6 +1,6 @@
 ---
-title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
+title: "Could Mars become habitable with the help of glitter-like iron rods?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788"
 index: 216
 weight: 216
 ---
