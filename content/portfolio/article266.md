@@ -1,6 +1,6 @@
 ---
-title: "Planets that look alike might be a sign of spacefaring aliens"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10142113/SEI_199319035.jpg?width=788"
+title: "Jupiter's moon Io has been a volcanic inferno for billions of years"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/18114146/SEI_200340813.jpg?width=788"
 index: 266
 weight: 266
 ---

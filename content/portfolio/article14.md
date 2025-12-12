@@ -1,6 +1,6 @@
 ---
-title: "Caves carved by water on Mars may hold signs of past life"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10095757/SEI_273160845.jpg?width=788"
+title: "The biggest controversy in maths could be settled by a computer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg?width=788"
 index: 14
 weight: 14
 ---
