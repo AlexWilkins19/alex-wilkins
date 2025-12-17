@@ -1,6 +1,6 @@
 ---
-title: "Jupiter is smaller and more squashed than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/11142830/SEI_265606409.jpg?width=788"
+title: "Mars once had an atmosphere that was thicker than Earth's today"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15151910/SEI_266234767.jpg?width=788"
 index: 33
 weight: 33
 ---

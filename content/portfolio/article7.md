@@ -1,6 +1,6 @@
 ---
-title: "We might have just seen the first hints of dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/25152454/SEI_275649097.jpg?width=788"
+title: "Why Google’s custom AI chips are shaking up the tech industry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/28130712/SEI_275896064.jpg?width=788"
 index: 7
 weight: 7
 ---
