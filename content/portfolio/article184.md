@@ -1,6 +1,6 @@
 ---
-title: "This robot can build anything you ask for out of blocks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11142047/SEI_228478494.jpg?width=788"
+title: "Does this high-tech lettuce hold the answer to the global food crisis?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11151014/SEI_228616030.jpg?width=788"
 index: 184
 weight: 184
 ---
