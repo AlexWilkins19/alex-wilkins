@@ -1,6 +1,6 @@
 ---
-title: "Google launches $5m prize to find actual uses for quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/04090517/SEI_194003819.jpg?width=788"
+title: "Google AI learns to play open-world video games by watching them"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/13135436/SEI_195854788.jpg?width=788"
 index: 287
 weight: 287
 ---

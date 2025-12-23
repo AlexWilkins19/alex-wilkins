@@ -1,6 +1,6 @@
 ---
-title: "Penguins adapt their accents to sound more like their friends"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/12172453/SEI_114337758.jpg?width=600"
+title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
 index: 592
 weight: 592
 ---

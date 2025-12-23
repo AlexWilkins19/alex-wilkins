@@ -1,6 +1,6 @@
 ---
-title: "Earthquakes seem to come in a more predictable pattern than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/22152132/SEI_120596702.jpg?width=600"
+title: "Nanocrystals help water act like sponge to hold more oxygen than blood"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/24145159/SEI_120854208.jpg?width=600"
 index: 569
 weight: 569
 ---

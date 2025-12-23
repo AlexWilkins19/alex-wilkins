@@ -1,6 +1,6 @@
 ---
-title: "Hubble Space Telescope images are being spoiled by satellite trails"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
+title: "Soil bacteria enzyme generates electricity from hydrogen in the air"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/08151953/SEI_147393522.jpg?width=600"
 index: 477
 weight: 477
 ---

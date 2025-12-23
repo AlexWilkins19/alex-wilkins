@@ -1,6 +1,6 @@
 ---
-title: "Why Google’s custom AI chips are shaking up the tech industry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/28130712/SEI_275896064.jpg?width=788"
+title: "AI can influence voters' minds. What does that mean for democracy?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg?width=788"
 index: 8
 weight: 8
 ---

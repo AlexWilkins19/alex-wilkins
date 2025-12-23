@@ -1,6 +1,6 @@
 ---
-title: "Why auroras are so much brighter and more easily visible recently"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/10175408/SEI_254244957.jpg?width=788"
+title: "Spacecraft used to forecast solar storm 15 hours before it hit Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/29170705/SEI_263648113.jpg?width=788"
 index: 40
 weight: 40
 ---

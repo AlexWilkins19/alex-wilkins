@@ -1,6 +1,6 @@
 ---
-title: "Firing a laser into the sky can redirect lightning’s path"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
+title: "‘Artificial synapse’ could make neural networks work more like brains"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
 index: 585
 weight: 585
 ---

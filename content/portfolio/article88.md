@@ -1,6 +1,6 @@
 ---
-title: "Physicists reveal the secret to chopping onions without crying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15112049/SEI_251258582.jpg?width=788"
+title: "Strange 'sticky' dark matter could be lurking in a distant galaxy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/19094253/SEI_251574322.jpg?width=788"
 index: 88
 weight: 88
 ---

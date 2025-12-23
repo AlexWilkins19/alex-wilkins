@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize for physics goes to trio behind quantum computing chips"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
+title: "The moon's largest crater didn't form in the way we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/08101726/SEI_269399472.jpg?width=788"
 index: 23
 weight: 23
 ---
