@@ -1,6 +1,6 @@
 ---
-title: "Large cities lead to more segregation between rich and poor"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/28135254/SEI_131041739.jpg?width=600"
+title: "Gel-based encryption can only be unlocked with key of light and heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03112353/SEI_132068485.jpg?width=600"
 index: 533
 weight: 533
 ---

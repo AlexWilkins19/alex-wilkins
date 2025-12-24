@@ -1,6 +1,6 @@
 ---
-title: "Why we need to be wary of anthropomorphising chatbots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
+title: "Ultra-tough battery survives hammer blows and being run over by a car"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29094149/SEI_150004914.jpg?width=788"
 index: 464
 weight: 464
 ---

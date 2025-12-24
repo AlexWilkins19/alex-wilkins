@@ -1,6 +1,6 @@
 ---
-title: "Self-charging buoy could harness wave power to monitor the oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
+title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
 index: 595
 weight: 595
 ---

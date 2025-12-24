@@ -1,6 +1,6 @@
 ---
-title: "A robot dog has learned to open doors with its leg"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg?width=788"
+title: "Mathematicians discover 'soft cell' shapes behind the natural world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23130124/SEI_192578233.jpg?width=788"
 index: 294
 weight: 294
 ---

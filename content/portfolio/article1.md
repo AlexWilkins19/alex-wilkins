@@ -1,6 +1,6 @@
 ---
-title: "Hopes of finding aliens were raised in 2025 – but quickly faded"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/13165735/SEI_252449787.jpg?width=788"
+title: "Stephen Wolfram: 'No AI has impressed me'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/23172802/stephen-wolfram-v2.jpg?width=788"
 index: 1
 weight: 1
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Endearing photos of bats show clever adaptations like long tongues"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
+title: "Nobel prize for physics goes to trio behind quantum computing chips"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
 index: 28
 weight: 28
 ---

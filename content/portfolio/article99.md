@@ -1,6 +1,6 @@
 ---
-title: "Powerful blasts of X-rays could reveal a black hole waking from sleep"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22153211/SEI_248425755.jpg?width=788"
+title: "Housework robots are a step closer as they learn to work in any home"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
 index: 99
 weight: 99
 ---

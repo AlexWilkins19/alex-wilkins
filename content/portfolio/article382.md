@@ -1,6 +1,6 @@
 ---
-title: "Samples from asteroid Bennu brought back to Earth by NASA's OSIRIS-REx"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25095823/SEI_173228947.jpg?width=788"
+title: "Super-heatproof computer memory survives temperatures over 500°C"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/27110926/SEI_173494949.jpg?width=788"
 index: 382
 weight: 382
 ---

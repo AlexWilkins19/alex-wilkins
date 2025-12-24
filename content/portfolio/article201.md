@@ -1,6 +1,6 @@
 ---
-title: "Black hole’s jets are so huge that they may shake up cosmology"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/18144501/SEI_222159946.jpg?width=788"
+title: "Useful quantum computers are edging closer with recent milestones"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30160109/SEI_223436258.jpg?width=788"
 index: 201
 weight: 201
 ---

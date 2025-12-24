@@ -1,6 +1,6 @@
 ---
-title: "Jupiter is smaller and more squashed than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/11142830/SEI_265606409.jpg?width=788"
+title: "Venus has lava tubes, and they're weird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/22162825/SEI_267222984.jpg?width=788"
 index: 37
 weight: 37
 ---

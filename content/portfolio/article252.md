@@ -1,6 +1,6 @@
 ---
-title: "China's Chang'e 6 spacecraft begins sampling on far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/03112711/SEI_207202406.jpg?width=788"
+title: "The largest volcanoes on Mars have frosted tips during winter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/10144416/SEI_208143553.jpg?width=788"
 index: 252
 weight: 252
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Astronomers captured an incredible view of M87’s black hole jet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/29163008/SEI_268200574.jpg?width=788"
+title: "Rogue planet gains 6 billion tonnes per second in record growth spurt"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01163119/SEI_268492983.jpg?width=788"
 index: 30
 weight: 30
 ---

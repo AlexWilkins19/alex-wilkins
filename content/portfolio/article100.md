@@ -1,6 +1,6 @@
 ---
-title: "Quantum batteries could make quantum computers more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22123803/SEI_247646109.jpg?width=788"
+title: "First ever 'black hole bomb' created in the lab"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24112328/SEI_248622512.jpg?width=788"
 index: 100
 weight: 100
 ---

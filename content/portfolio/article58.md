@@ -1,6 +1,6 @@
 ---
-title: "Gold can be heated to 14 times its melting point without melting"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/23151135/SEI_259864666.jpg?width=788"
+title: "A vast bubble around a dying star is too big to comprehend"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25143435/SEI_259975772.jpg?width=788"
 index: 58
 weight: 58
 ---

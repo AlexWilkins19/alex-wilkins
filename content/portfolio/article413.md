@@ -1,6 +1,6 @@
 ---
-title: "Meteorite left Earth then landed back down after round trip to space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11124123/SEI_163672144.jpg?width=788"
+title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26124744/SEI_165484170.jpg?width=788"
 index: 413
 weight: 413
 ---

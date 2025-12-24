@@ -1,6 +1,6 @@
 ---
-title: "Stunning image shows the closest ever Einstein ring"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/10095727/SEI_239317117.jpg?width=788"
+title: "Record-breaking neutrino spotted tearing through the Mediterranean Sea"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/12124245/SEI_239472072.jpg?width=788"
 index: 134
 weight: 134
 ---

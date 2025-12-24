@@ -1,6 +1,6 @@
 ---
-title: "Jupiter's moon Io has been a volcanic inferno for billions of years"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/18114146/SEI_200340813.jpg?width=788"
+title: "Birthplace of red asteroid Kamo‘oalewa pinned to specific moon crater"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/25121717/SEI_201250531.jpg?width=788"
 index: 270
 weight: 270
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Underwater walkie-talkies could work long-distance with radio trick"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=788"
+title: "Flexible needle goes soft after injections for safety and comfort"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/15103605/SEI_179587333.jpg?width=788"
 index: 358
 weight: 358
 ---

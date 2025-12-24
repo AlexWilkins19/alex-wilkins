@@ -1,6 +1,6 @@
 ---
-title: "We can use ordinary sugar in the search for dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/17154209/SEI_270572247.jpg?width=788"
+title: "Caves carved by water on Mars may hold signs of past life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10095757/SEI_273160845.jpg?width=788"
 index: 22
 weight: 22
 ---

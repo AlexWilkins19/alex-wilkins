@@ -1,6 +1,6 @@
 ---
-title: "Earth is coated in ancient space dust that could be from the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=788"
+title: "Essential molecule for life spotted floating in space for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163724/SEI_165374227.jpg?width=788"
 index: 406
 weight: 406
 ---

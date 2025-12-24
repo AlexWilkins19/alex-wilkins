@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize for physics goes to trio behind quantum computing chips"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
+title: "We can use ordinary sugar in the search for dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/17154209/SEI_270572247.jpg?width=788"
 index: 25
 weight: 25
 ---

@@ -1,6 +1,6 @@
 ---
-title: "AI forecaster can predict the future better than humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/25191017/SEI_196712963.jpg?width=788"
+title: "This robot predicts when you're going to smile – and smiles back"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27144351/SEI_197627021.jpg?width=788"
 index: 281
 weight: 281
 ---

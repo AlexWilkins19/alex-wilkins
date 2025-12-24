@@ -1,6 +1,6 @@
 ---
-title: "Saturn’s moon Mimas may be hiding a vast global ocean under its ice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07122042/SEI_190195784.jpg?width=788"
+title: "Old milk can be used to extract gold and other metals from e-waste"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07180717/SEI_188863733.jpg?width=788"
 index: 308
 weight: 308
 ---

@@ -1,6 +1,6 @@
 ---
-title: "DeepMind AI is as fast as humans at solving previously unseen tasks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/30164818/SEI_142270253.jpg?width=600"
+title: "AI image generators that create close copies could be a legal headache"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
 index: 493
 weight: 493
 ---

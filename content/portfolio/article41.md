@@ -1,6 +1,6 @@
 ---
-title: "Light-based AI image generator uses almost no power"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/27142425/SEI_263486522.jpg?width=788"
+title: "A weird cloud forms on Mars each year and now we know why"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10164436/SEI_265489617.jpg?width=788"
 index: 41
 weight: 41
 ---

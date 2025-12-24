@@ -1,6 +1,6 @@
 ---
-title: "Astronomers gather more clues about interstellar comet 3I/ATLAS"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07163858/SEI_261425663.jpg?width=788"
+title: "Jacket that gets thinner when you sweat could help avoid overheating"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/13153637/SEI_262005769.jpg?width=788"
 index: 53
 weight: 53
 ---

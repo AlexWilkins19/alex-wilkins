@@ -1,6 +1,6 @@
 ---
-title: "JWST finds ancient galaxy may actually be two galaxies merging"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/31121040/SEI_131307589.jpg?width=600"
+title: "Smartphones can reveal whether bridges are about to fall down"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03153321/SEI_132086736.jpg?width=600"
 index: 532
 weight: 532
 ---

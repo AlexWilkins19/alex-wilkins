@@ -1,6 +1,6 @@
 ---
-title: "DNA-based detector could precisely track subatomic particles"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/14105453/SEI_98519672.jpg?width=600"
+title: "Efficient battery could charge electric cars 60 per cent in 6 minutes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27162704/SEI_100929082.jpg?width=600"
 index: 635
 weight: 635
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Microscopic gears powered by light could be used to make tiny machines"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/07163811/SEI_224804133.jpg?width=788"
+title: "10 stunning James Webb Space Telescope images show the beauty of space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/17100618/sei225115412-1.jpg?width=788"
 index: 193
 weight: 193
 ---

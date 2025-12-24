@@ -1,6 +1,6 @@
 ---
-title: "A photon caught in two places at once could destroy the multiverse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23124108/SEI_252757104.jpg?width=788"
+title: "We may have discovered the first-ever stars powered by dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/06101130/SEI_254497072.jpg?width=788"
 index: 85
 weight: 85
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Hybrid design could make nuclear fusion reactors more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788"
+title: "Mathematicians find odd shapes that roll like a wheel in any dimension"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/17150336/SEI_208711372.jpg?width=788"
 index: 247
 weight: 247
 ---
