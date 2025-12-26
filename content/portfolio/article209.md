@@ -1,6 +1,6 @@
 ---
-title: "Visible aurora spotted for the first time on Mars by NASA rover"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/11155019/SEI_221124993.jpg?width=788"
+title: "Complex chemicals found on Enceladus improve prospects for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/13110417/SEI_221284276.jpg?width=788"
 index: 209
 weight: 209
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The best and weirdest photos of robots from 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/11134223/robot-featured-image-.jpg?width=788"
+title: "Ultra-thin diamond wafers for electronics made using sticky tape"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788"
 index: 169
 weight: 169
 ---
