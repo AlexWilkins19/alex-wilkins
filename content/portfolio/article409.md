@@ -1,6 +1,6 @@
 ---
-title: "Could Elon Musk's xAI be exactly what the world needs?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/24135947/SEI_164679667.jpg?width=788"
+title: "'Demon' particle found in superconductor could explain how they work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=788"
 index: 409
 weight: 409
 ---

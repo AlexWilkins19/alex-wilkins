@@ -1,6 +1,6 @@
 ---
-title: "Blue Origin's New Glenn rocket reaches orbit on first launch"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/16101349/SEI_236157315.jpg?width=788"
+title: "An alien planet has winds that blow at 33,000 kilometres per hour"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/21131105/SEI_236805022.jpg?width=788"
 index: 152
 weight: 152
 ---

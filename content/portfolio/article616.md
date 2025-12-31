@@ -1,6 +1,6 @@
 ---
-title: "Adding tomato pigment to solar panels increases their efficiency"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/27144928/SEI_106628391.jpg?width=600"
+title: "Quantum computers could create completely new forms of matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/09132027/SEI_107509822.jpg?width=600"
 index: 616
 weight: 616
 ---

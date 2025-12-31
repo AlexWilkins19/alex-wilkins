@@ -1,6 +1,6 @@
 ---
-title: "Learning to play an instrument could boost your short-term memory"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/03162732/SEI_127931877.jpg?width=600"
+title: "Black holes wobbling three times a second have proved Einstein right"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
 index: 554
 weight: 554
 ---

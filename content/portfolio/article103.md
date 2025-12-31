@@ -1,6 +1,6 @@
 ---
-title: "Powerful blasts of X-rays could reveal a black hole waking from sleep"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22153211/SEI_248425755.jpg?width=788"
+title: "All living things emit an eerie glow that is snuffed out upon death"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09144248/SEI_250569734.jpg?width=788"
 index: 103
 weight: 103
 ---

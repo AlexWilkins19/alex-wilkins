@@ -1,6 +1,6 @@
 ---
-title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
+title: "Mysterious light may come from the largest molecules found in space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
 index: 596
 weight: 596
 ---

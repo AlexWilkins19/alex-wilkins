@@ -1,6 +1,6 @@
 ---
-title: "Asteroid on collision course with moon could fire shrapnel at Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/18122452/SEI_255960655.jpg?width=788"
+title: "New Horizons images enable first test of interstellar navigation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/02154153/SEI_257622793.jpg?width=788"
 index: 79
 weight: 79
 ---

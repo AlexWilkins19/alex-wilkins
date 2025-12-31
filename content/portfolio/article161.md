@@ -1,6 +1,6 @@
 ---
-title: "New Glenn launch: Blue Origin's reusable rocket set for maiden flight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/08103556/SEI_235265115.jpg?width=788"
+title: "A supermassive black hole is sending out a mysterious pulsing beat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/13152631/SEI_235856621.jpg?width=788"
 index: 161
 weight: 161
 ---

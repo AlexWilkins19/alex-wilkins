@@ -1,6 +1,6 @@
 ---
-title: "Signs of alien life on exoplanet K2-18b have all but vanished"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25165419/SEI_260079229.jpg?width=788"
+title: "Jacket that gets thinner when you sweat could help avoid overheating"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/13153637/SEI_262005769.jpg?width=788"
 index: 60
 weight: 60
 ---

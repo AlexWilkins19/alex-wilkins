@@ -1,6 +1,6 @@
 ---
-title: "Black holes wobbling three times a second have proved Einstein right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/11160241/SEI_128979624.jpg?width=600"
+title: "Proton's stretchiness is a puzzle for particle physicists"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19115539/SEI_130141124.jpg?width=600"
 index: 548
 weight: 548
 ---

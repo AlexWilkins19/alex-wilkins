@@ -1,6 +1,6 @@
 ---
-title: "Planned satellite launches could ruin Hubble Space Telescope images"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/03111454/SEI_276620613.jpg?width=788"
+title: "Putting data centres in space isn't going to happen any time soon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/19143557/SEI_278498090.jpg?width=788"
 index: 13
 weight: 13
 ---

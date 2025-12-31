@@ -1,6 +1,6 @@
 ---
-title: "Rogue planet gains 6 billion tonnes per second in record growth spurt"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01163119/SEI_268492983.jpg?width=788"
+title: "Quantum computers reveal that the wave function is a real thing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/30204834/SEI_270583733.jpg?width=788"
 index: 31
 weight: 31
 ---

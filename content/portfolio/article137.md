@@ -1,6 +1,6 @@
 ---
-title: "Distant exoplanet may be the most volcanic world ever found"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07223540/SEI_238793761.jpg?width=788"
+title: "Microsoft wants to use generative AI tool to help make video games"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/19135216/SEI_240544482.jpg?width=788"
 index: 137
 weight: 137
 ---

@@ -1,6 +1,6 @@
 ---
-title: "The best and weirdest photos of robots from 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/11134223/robot-featured-image-.jpg?width=788"
+title: "Physicists bend atoms in ‘impossible’ experiment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20095956/SEI_233769413.jpg?width=788"
 index: 170
 weight: 170
 ---

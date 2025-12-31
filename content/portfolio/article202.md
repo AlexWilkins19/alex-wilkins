@@ -1,6 +1,6 @@
 ---
-title: "Useful quantum computers are edging closer with recent milestones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30160109/SEI_223436258.jpg?width=788"
+title: "Mathematicians have found a new way to identify prime numbers"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/18160152/SEI_225953841.jpg?width=788"
 index: 202
 weight: 202
 ---

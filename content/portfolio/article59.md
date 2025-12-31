@@ -1,6 +1,6 @@
 ---
-title: "A vast bubble around a dying star is too big to comprehend"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25143435/SEI_259975772.jpg?width=788"
+title: "Oldest fast radio burst ever seen sheds light on early star formation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/14170209/SEI_261994487.jpg?width=788"
 index: 59
 weight: 59
 ---

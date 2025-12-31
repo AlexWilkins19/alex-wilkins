@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image of Uranus shows 13 rings and nine moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=788"
+title: "Vera C. Rubin Observatory will start scanning the night sky in 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172918/SEI_184082907.jpg?width=788"
 index: 342
 weight: 342
 ---

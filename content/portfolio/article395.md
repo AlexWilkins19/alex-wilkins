@@ -1,6 +1,6 @@
 ---
-title: "JWST may have seen black holes suppressing the creation of new stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/24132659/SEI_168574221.jpg?width=788"
+title: "High-flying microplastics could pose a threat to the ozone layer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13105805/SEI_171399079.jpg?width=788"
 index: 395
 weight: 395
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Microsoft wants to use generative AI tool to help make video games"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/19135216/SEI_240544482.jpg?width=788"
+title: "Thread-based computer could be knitted into clothes to monitor health"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26121331/SEI_241382288.jpg?width=788"
 index: 131
 weight: 131
 ---

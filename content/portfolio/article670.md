@@ -1,6 +1,6 @@
 ---
-title: "Lung with switched blood type is step towards universal donor organs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16142406/PRI_223884520.jpg?width=600"
+title: "Our closest black hole is actually just one star eating another"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/01175200/SEI_90952100.jpg?width=600"
 index: 670
 weight: 670
 ---

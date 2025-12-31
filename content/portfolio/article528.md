@@ -1,6 +1,6 @@
 ---
-title: "Quantum trick sees light move forwards and back in time simultaneously"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/10151848/SEI_133046493.jpg?width=600"
+title: "AI-generated deepfake faces could help protect privacy on social media"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/17174857/SEI_134039137.jpg?width=600"
 index: 528
 weight: 528
 ---

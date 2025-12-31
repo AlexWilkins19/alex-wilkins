@@ -1,6 +1,6 @@
 ---
-title: "Humanoid robot acts out prompts like it's playing charades"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/03133121/SEI_184557067.jpg?width=788"
+title: "Will AI make computer screens a thing of the past?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12164130/SEI_186914971.jpg?width=788"
 index: 330
 weight: 330
 ---

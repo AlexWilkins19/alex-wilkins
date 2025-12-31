@@ -1,6 +1,6 @@
 ---
-title: "Aloe vera plants turned into energy-storing supercapacitors"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19122456/SEI_184072256.jpg?width=788"
+title: "Vulcan launch: Why is NASA going back to the moon?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/08115329/SEI_186403529.jpg?width=788"
 index: 334
 weight: 334
 ---

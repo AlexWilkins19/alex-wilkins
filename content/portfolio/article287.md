@@ -1,6 +1,6 @@
 ---
-title: "Largest recorded solar storm was even bigger than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21125028/SEI_196726839.jpg?width=788"
+title: "Mathematicians are bitterly divided over a controversial proof"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=788"
 index: 287
 weight: 287
 ---

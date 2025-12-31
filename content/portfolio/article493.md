@@ -1,6 +1,6 @@
 ---
-title: "Ultrasound illusion could make buttons on a touchscreen feel real"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
+title: "Dark energy may have been hiding in the cores of black holes all along"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15163011/SEI_144308396.jpg?width=600"
 index: 493
 weight: 493
 ---

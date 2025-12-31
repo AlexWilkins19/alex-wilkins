@@ -1,6 +1,6 @@
 ---
-title: "Physicist Frank Wilczek’s unique insights on the nature of reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07122509/SEI_260733375.jpg?width=788"
+title: "Deflecting a deadly asteroid just got a lot less dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
 index: 49
 weight: 49
 ---

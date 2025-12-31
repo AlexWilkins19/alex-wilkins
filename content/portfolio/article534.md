@@ -1,6 +1,6 @@
 ---
-title: "Gel-based encryption can only be unlocked with key of light and heat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03112353/SEI_132068485.jpg?width=600"
+title: "Quantum trick sees light move forwards and back in time simultaneously"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/10151848/SEI_133046493.jpg?width=600"
 index: 534
 weight: 534
 ---

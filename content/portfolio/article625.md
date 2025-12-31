@@ -1,6 +1,6 @@
 ---
-title: "Boeing's Starliner spacecraft launches to ISS despite thruster issue"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/20111722/SEI_105106641.jpg?width=600"
+title: "Teleportation trick shows promise for a future quantum internet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/25140347/SEI_106229754.jpg?width=600"
 index: 625
 weight: 625
 ---

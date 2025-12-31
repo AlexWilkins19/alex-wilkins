@@ -1,6 +1,6 @@
 ---
-title: "Jet from neutron stars seems to travel seven times the speed of light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12140033/SEI_129109086.jpg?width=600"
+title: "Aluminium alloy could boost spacecraft radiation shielding 100-fold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/19153608/SEI_129853305.jpg?width=600"
 index: 547
 weight: 547
 ---

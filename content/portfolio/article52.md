@@ -1,6 +1,6 @@
 ---
-title: "Jupiter's moon Ganymede could be a giant dark matter detector"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/15121137/SEI_262112605.jpg?width=788"
+title: "Why auroras are so much brighter and more easily visible recently"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/10175408/SEI_254244957.jpg?width=788"
 index: 52
 weight: 52
 ---

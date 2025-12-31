@@ -1,6 +1,6 @@
 ---
-title: "AIs will become useless if they keep learning from other AIs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16143310/SEI_160487397.jpg?width=788"
+title: "Stunning JWST image sees Saturn show off its glowing rings"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=788"
 index: 428
 weight: 428
 ---

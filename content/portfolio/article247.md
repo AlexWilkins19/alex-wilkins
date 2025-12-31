@@ -1,6 +1,6 @@
 ---
-title: "Chemists invoke bizarre Maxwell's demon on the largest scale yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/18122700/SEI_209151691.jpg?width=788"
+title: "3D-printed egg shells can help bones regrow"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04122111/SEI_210465760.jpg?width=788"
 index: 247
 weight: 247
 ---

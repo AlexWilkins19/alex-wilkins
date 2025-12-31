@@ -1,6 +1,6 @@
 ---
-title: "Tardigrade is first multicellular organism to be quantum entangled"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/17135901/PRI_215499049.jpg?width=600"
+title: "Bacteria form complex structures like those seen in animals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06133757/PRI_217389353.jpg?width=600"
 index: 700
 weight: 700
 ---

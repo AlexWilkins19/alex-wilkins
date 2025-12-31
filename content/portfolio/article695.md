@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope is carrying out its most critical manoeuvre"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/04125745/PRI_217181494.jpg?width=600"
+title: "Long-lasting radiation shields may make super-Earths friendly for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13131825/PRI_218327491.jpg?width=600"
 index: 695
 weight: 695
 ---

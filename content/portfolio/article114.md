@@ -1,6 +1,6 @@
 ---
-title: "How a start-up plans to mine the moon for a rare form of helium"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/13154209/SEI_243688489.jpg?width=788"
+title: "Where exactly does the quantum world end and concrete reality begin?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
 index: 114
 weight: 114
 ---

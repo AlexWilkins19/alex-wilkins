@@ -1,6 +1,6 @@
 ---
-title: "AI image generators that create close copies could be a legal headache"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
+title: "Bone conduction headphones make your own voice sound less weird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/15145000/SEI_1440709581.jpg?width=600"
 index: 494
 weight: 494
 ---

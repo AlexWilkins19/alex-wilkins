@@ -1,6 +1,6 @@
 ---
-title: "Watch a Möbius strip robot move and climb when hit by light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/09111839/SEI_203048851.jpg?width=788"
+title: "Active lava flows on Venus raise the stakes for future exploration"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/24170033/SEI_205935452.jpg?width=788"
 index: 268
 weight: 268
 ---

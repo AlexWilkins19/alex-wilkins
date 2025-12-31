@@ -1,6 +1,6 @@
 ---
-title: "Are autonomous labs the future of science?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788"
+title: "The sun could contain a tiny black hole that formed in the big bang"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/11131308/SEI_184538298.jpg?width=788"
 index: 331
 weight: 331
 ---

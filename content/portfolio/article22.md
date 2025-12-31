@@ -1,6 +1,6 @@
 ---
-title: "The biggest controversy in maths could be settled by a computer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg?width=788"
+title: "'Horrific and beautiful' whale rescue image wins photography prize"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18130805/sei274675219.jpg?width=788"
 index: 22
 weight: 22
 ---

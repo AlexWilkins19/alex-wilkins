@@ -1,6 +1,6 @@
 ---
-title: "AI trained on YouTube and podcasts speaks with ums and ahs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/06143328/SEI_144483909.jpg?width=600"
+title: "'Red matter' superconductor may not be a wonder material after all"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17122523/SEI_148554498.jpg?width=600"
 index: 479
 weight: 479
 ---

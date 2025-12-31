@@ -1,6 +1,6 @@
 ---
-title: "Mysterious black hole jets may be the source of powerful cosmic rays"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/25142329/SEI_188721038.jpg?width=788"
+title: "5 amazing things discovered by the eROSITA X-ray telescope"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/08131957/SEI_189758025.jpg?width=788"
 index: 316
 weight: 316
 ---

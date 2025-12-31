@@ -1,6 +1,6 @@
 ---
-title: "China is about to land on the far side of the moon with Chang'e 6"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/30164341/SEI_206718491.jpg?width=788"
+title: "Quantum sensor gets a read on tiny worm implanted with nanodiamonds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788"
 index: 258
 weight: 258
 ---

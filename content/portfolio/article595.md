@@ -1,6 +1,6 @@
 ---
-title: "Spinning rotors made from DNA could power minuscule machines"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/20153513/SEI_115577658.jpg?width=600"
+title: "‘Artificial synapse’ could make neural networks work more like brains"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/28161045/SEI_116640642.jpg?width=600"
 index: 595
 weight: 595
 ---

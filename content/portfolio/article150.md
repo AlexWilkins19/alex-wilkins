@@ -1,6 +1,6 @@
 ---
-title: "Blue Origin vs SpaceX: Who is winning the battle of the rockets?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17134708/SEI_236279682.jpg?width=788"
+title: "Does DeepSeek show a way to slash the energy demands of AI?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/29161204/SEI_237796754.jpg?width=788"
 index: 150
 weight: 150
 ---

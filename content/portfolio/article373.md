@@ -1,6 +1,6 @@
 ---
-title: "Largest known solar storm struck Earth 14,300 years ago"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/06162635/SEI_174908249.jpg?width=788"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788"
 index: 373
 weight: 373
 ---

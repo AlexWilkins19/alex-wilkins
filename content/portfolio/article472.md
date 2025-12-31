@@ -1,6 +1,6 @@
 ---
-title: "Glass made of amino acids can be 3D-printed and dissolves in the body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/17162701/SEI_148515526.jpg?width=600"
+title: "Graphene with ripples could help make better hydrogen fuel cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/24131935/SEI_149400829.jpg?width=788"
 index: 472
 weight: 472
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Why adding water when you grind coffee beans makes for a better brew"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/06114043/SEI_183010524.jpg?width=788"
+title: "Liquid magnet propellers could be a safer way to power boats"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18150559/SEI_184539989.jpg?width=788"
 index: 346
 weight: 346
 ---

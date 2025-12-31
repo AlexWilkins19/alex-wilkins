@@ -1,6 +1,6 @@
 ---
-title: "Send thousands of people to orbit, says space tourist Jared Isaacman"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/04123010/SEI_102143744.jpg?width=600"
+title: "Sweater includes a wireless charger to keep your gadgets topped up"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11104945/SEI_103213219.jpg?width=600"
 index: 633
 weight: 633
 ---

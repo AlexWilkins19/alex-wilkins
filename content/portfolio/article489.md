@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT AI passes test designed to show theory of mind in children"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
+title: "Hubble Space Telescope images are being spoiled by satellite trails"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
 index: 489
 weight: 489
 ---

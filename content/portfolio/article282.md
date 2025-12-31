@@ -1,6 +1,6 @@
 ---
-title: "This robot predicts when you're going to smile – and smiles back"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27144351/SEI_197627021.jpg?width=788"
+title: "Fractal pattern identified at molecular scale in nature for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/10140401/SEI_199323287.jpg?width=788"
 index: 282
 weight: 282
 ---

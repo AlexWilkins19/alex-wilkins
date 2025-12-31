@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers could simulate a black hole in the next decade"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=788"
+title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=788"
 index: 450
 weight: 450
 ---

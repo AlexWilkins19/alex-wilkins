@@ -1,6 +1,6 @@
 ---
-title: "Mouse pups born from unfertilised eggs through genetic manipulation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/07155928/SEI_91493552.jpg?width=600"
+title: "Goo made from okra can filter microplastics out of water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/21153016/SEI_94727474.jpg?width=600"
 index: 661
 weight: 661
 ---

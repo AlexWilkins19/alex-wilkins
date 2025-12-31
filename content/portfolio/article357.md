@@ -1,6 +1,6 @@
 ---
-title: "Cooling system could replace air con and drastically cut energy use"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/16170109/SEI_180460515.jpg?width=788"
+title: "Glimpse of the earliest supernovae could reveal our cosmic origins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/14145539/SEI_184045393.jpg?width=788"
 index: 357
 weight: 357
 ---

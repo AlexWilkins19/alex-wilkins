@@ -1,6 +1,6 @@
 ---
-title: "Fast way of making pufferfish’s neurotoxin may lead to new pain drugs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21162131/SEI_115767820.jpg?width=600"
+title: "Mice produce rat sperm with technique that could help conservation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/03142533/SEI_117716588.jpg?width=600"
 index: 592
 weight: 592
 ---

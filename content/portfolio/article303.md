@@ -1,6 +1,6 @@
 ---
-title: "Monster black hole powers the brightest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19111344/SEI_191790689.jpg?width=788"
+title: "Tiny magnet could help measure gravity on the quantum scale"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22164052/SEI_192725345.jpg?width=788"
 index: 303
 weight: 303
 ---

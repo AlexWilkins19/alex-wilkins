@@ -1,6 +1,6 @@
 ---
-title: "Robot dog learns to walk on tough terrain in just 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/26130547/SEI_120853152.jpg?width=600"
+title: "Swarm of light-sail spacecraft could be propelled by laser on the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/06174711/SEI_123297727.jpg?width=600"
 index: 571
 weight: 571
 ---

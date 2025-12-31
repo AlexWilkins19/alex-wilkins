@@ -1,6 +1,6 @@
 ---
-title: "Is superintelligent AI just around the corner, or just a sci-fi dream?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/13102402/SEI_255250069.jpg?width=788"
+title: "Leonardo da Vinci's 'helicopter' design could make drones quieter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/24143757/SEI_256221541.jpg?width=788"
 index: 81
 weight: 81
 ---

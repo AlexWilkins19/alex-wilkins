@@ -1,6 +1,6 @@
 ---
-title: "A weird cloud forms on Mars each year and now we know why"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10164436/SEI_265489617.jpg?width=788"
+title: "Did a star blow up and hit Earth 10 million years ago?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
 index: 42
 weight: 42
 ---

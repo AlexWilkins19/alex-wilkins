@@ -1,6 +1,6 @@
 ---
-title: "Advanced quantum computer made available to the public for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/01155106/sei107499590.jpg?width=600"
+title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
 index: 613
 weight: 613
 ---

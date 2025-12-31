@@ -1,6 +1,6 @@
 ---
-title: "Our closest black hole is actually just one star eating another"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/01175200/SEI_90952100.jpg?width=600"
+title: "Curiosity rover discovers diverse cache of organic minerals on Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/10160044/SEI_92623218.jpg?width=600"
 index: 664
 weight: 664
 ---

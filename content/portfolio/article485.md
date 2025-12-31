@@ -1,6 +1,6 @@
 ---
-title: "Huge young galaxies seen by JWST may upend our models of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/22150448/SEI_145339594.jpg?width=600"
+title: "AI trained on YouTube and podcasts speaks with ums and ahs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/06143328/SEI_144483909.jpg?width=600"
 index: 485
 weight: 485
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Could Mars become habitable with the help of glitter-like iron rods?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/07170508/SEI_216329040.jpg?width=788"
+title: "AI models can't learn as they go along like humans do"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788"
 index: 225
 weight: 225
 ---

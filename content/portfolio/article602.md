@@ -1,6 +1,6 @@
 ---
-title: "AI generates photorealistic 3D scenes and lets you edit them as well"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/22124400/SEI_110949917.jpg?width=600"
+title: "Wasps can grasp abstract concepts such as 'same' and 'different'"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19150824/SEI_115406104.jpg?width=600"
 index: 602
 weight: 602
 ---

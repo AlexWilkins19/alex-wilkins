@@ -1,6 +1,6 @@
 ---
-title: "Wooden robot hand can lift objects and withstand high temperatures"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/03144213/SEI_146640986.jpg?width=600"
+title: "NASA unveils new spacesuit for Artemis moon mission astronauts"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15163442/SEI_148394900.jpg?width=600"
 index: 482
 weight: 482
 ---

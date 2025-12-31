@@ -1,6 +1,6 @@
 ---
-title: "RoboKrill is a one-legged robot that mimics the way krill swim"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
+title: "Mathematicians are angry that Russia may still host a major conference"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/25120408/SEI_90050166.jpg?width=600"
 index: 672
 weight: 672
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mysterious light may come from the largest molecules found in space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/27181200/SEI_116497821.jpg?width=600"
+title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
 index: 590
 weight: 590
 ---

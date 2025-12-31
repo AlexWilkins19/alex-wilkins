@@ -1,6 +1,6 @@
 ---
-title: "Venus has lava tubes, and they're weird"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/22162825/SEI_267222984.jpg?width=788"
+title: "Endearing photos of bats show clever adaptations like long tongues"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
 index: 38
 weight: 38
 ---

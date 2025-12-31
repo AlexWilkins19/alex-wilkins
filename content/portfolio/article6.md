@@ -1,6 +1,6 @@
 ---
-title: "Black hole stars really do exist in the early universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/12140217/SEI_277755167.jpg?width=788"
+title: "A controversial experiment threatened to kill the multiverse in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/15135033/SEI_277406814.jpg?width=788"
 index: 6
 weight: 6
 ---

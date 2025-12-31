@@ -1,6 +1,6 @@
 ---
-title: "We still don't really understand what large language models are"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03105309/SEI_173874643.jpg?width=788"
+title: "The moon is 40 million years older than we thought it was"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111903/SEI_177129863.jpg?width=788"
 index: 376
 weight: 376
 ---

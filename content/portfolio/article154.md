@@ -1,6 +1,6 @@
 ---
-title: "SpaceX is launching Blue Ghost and Resilience landers to the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/14141510/SEI_235933443.jpg?width=788"
+title: "Fertiliser can be made from human urine in just a few simple steps"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/20145124/SEI_236667263.jpg?width=788"
 index: 154
 weight: 154
 ---

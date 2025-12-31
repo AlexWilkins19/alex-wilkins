@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians create a tetrahedron that always lands on the same side"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/27162934/SEI_257070964.jpg?width=788"
+title: "Peculiar plant could help us reconstruct ancient Earth’s climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10110500/SEI_258525845.jpg?width=788"
 index: 74
 weight: 74
 ---

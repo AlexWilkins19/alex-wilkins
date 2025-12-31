@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image sees Saturn show off its glowing rings"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/30164439/SEI_162348815.jpg?width=788"
+title: "Microplastics found in the soil on farms used to grow crops"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=788"
 index: 422
 weight: 422
 ---

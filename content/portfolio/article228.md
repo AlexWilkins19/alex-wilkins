@@ -1,6 +1,6 @@
 ---
-title: "Water molecules found in lunar rock sample for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02124657/SEI_215442209.jpg?width=788"
+title: "Discovery of 'dark' electrons could explain how superconductors work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788"
 index: 228
 weight: 228
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
+title: "Ancient Mars may have had a liquid ocean despite freezing temperatures"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/17160442/PRI_218935323.jpg?width=600"
 index: 693
 weight: 693
 ---

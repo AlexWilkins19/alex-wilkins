@@ -1,6 +1,6 @@
 ---
-title: "Six planets found orbiting a bright star 100 light years away"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/29130646/SEI_182061041.jpg?width=788"
+title: "Stunning JWST image of Uranus shows 13 rings and nine moons"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/18164552/SEI_184546099.jpg?width=788"
 index: 348
 weight: 348
 ---

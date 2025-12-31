@@ -1,6 +1,6 @@
 ---
-title: "Where exactly does the quantum world end and concrete reality begin?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
+title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
 index: 108
 weight: 108
 ---

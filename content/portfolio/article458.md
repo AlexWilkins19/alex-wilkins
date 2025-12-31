@@ -1,6 +1,6 @@
 ---
-title: "Solar flares made in the lab could teach us about the real thing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/06102349/SEI_151063218.jpg?width=788"
+title: "Google robot learns to sort the recyclables left in office waste bins"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/20122806/SEI_152683718.jpg?width=788"
 index: 458
 weight: 458
 ---

@@ -1,6 +1,6 @@
 ---
-title: "A giant wave in the Milky Way may have been created by another galaxy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/23134600/SEI_218332397.jpg?width=788"
+title: "A riveting exploration of how AI models like ChatGPT changed the world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/06164614/SEI_219917842.jpg?width=788"
 index: 217
 weight: 217
 ---

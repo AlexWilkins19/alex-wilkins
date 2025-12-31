@@ -1,6 +1,6 @@
 ---
-title: "Space adverts are now economically viable but potentially dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/06164803/SEI_128334074.jpg?width=600"
+title: "Mind-reading AI works out what you are thinking from brain scans"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/14115545/SEI_128881388.jpg?width=600"
 index: 550
 weight: 550
 ---

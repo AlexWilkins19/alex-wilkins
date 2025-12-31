@@ -1,6 +1,6 @@
 ---
-title: "Gaia telescope’s new map of the Milky Way will let us rewind time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/13092830/SEI_109044360.jpg?width=600"
+title: "Light delayed by seven years as it is bent around a galaxy cluster"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/21175548/SEI_110822884.jpg?width=600"
 index: 607
 weight: 607
 ---

@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope has finished unfolding its massive mirror"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10110947/PRI_217942257.jpg?width=600"
+title: "First fully programmable quantum computer based on neutral atoms"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/18144338/PRI_218477599.jpg?width=600"
 index: 692
 weight: 692
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Housework robot can learn to do almost any chore in 20 minutes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/13121855/SEI_183894622.jpg?width=788"
+title: "AI firms will face copyright infringement lawsuits in 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788"
 index: 343
 weight: 343
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Flavour-predicting AI can tell brewers how to make beer taste better"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/26151256/SEI_197492060.jpg?width=788"
+title: "Mathematician wins Turing award for harnessing randomness"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/08121417/SEI_198618497.jpg?width=788"
 index: 284
 weight: 284
 ---

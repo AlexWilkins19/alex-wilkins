@@ -1,6 +1,6 @@
 ---
-title: "Neptune isn't as blue as we thought it was"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/04155439/SEI_185952561.jpg?width=788"
+title: "Caves seen on the surface of a comet for the first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12110251/SEI_186875306.jpg?width=788"
 index: 329
 weight: 329
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Stunning pictures show the first ever artificial solar eclipse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/16120404/SEI_255393257.jpg?width=788"
+title: "Mathematicians create a tetrahedron that always lands on the same side"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/27162934/SEI_257070964.jpg?width=788"
 index: 80
 weight: 80
 ---

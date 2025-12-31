@@ -1,6 +1,6 @@
 ---
-title: "Bendy solar panels are just as good as regular ones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/24111802/SEI_157361160.jpg?width=788"
+title: "AIs will become useless if they keep learning from other AIs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/16143310/SEI_160487397.jpg?width=788"
 index: 434
 weight: 434
 ---

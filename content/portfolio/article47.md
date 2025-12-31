@@ -1,6 +1,6 @@
 ---
-title: "JWST gets a closer look at interstellar comet 3I/ATLAS"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788"
+title: "Jupiter is smaller and more squashed than we thought"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/11142830/SEI_265606409.jpg?width=788"
 index: 47
 weight: 47
 ---

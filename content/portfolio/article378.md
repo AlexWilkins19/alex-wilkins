@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize for physics goes to trio who sliced up time with light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03110157/SEI_174410760.jpg?width=788"
+title: "Largest quake ever seen on Mars points to surprising seismic activity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=788"
 index: 378
 weight: 378
 ---

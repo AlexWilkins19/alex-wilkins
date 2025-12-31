@@ -1,6 +1,6 @@
 ---
-title: "We've taken a photo of a star in another galaxy for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/20164541/SEI_230303299.jpg?width=788"
+title: "Mathematicians have discovered a mind-blowing new kind of infinity"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/06105425/SEI_232072501.jpg?width=788"
 index: 183
 weight: 183
 ---

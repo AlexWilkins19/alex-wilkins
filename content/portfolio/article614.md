@@ -1,6 +1,6 @@
 ---
-title: "World's first exascale supercomputer Frontier smashes speed records"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31104903/SEI_107324695.jpg?width=600"
+title: "A new kind of time crystal has been created and lasts 10 milliseconds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/09173249/SEI_108685737.jpg?width=600"
 index: 614
 weight: 614
 ---

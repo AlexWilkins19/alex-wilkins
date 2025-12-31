@@ -1,6 +1,6 @@
 ---
-title: "NASA unveils new spacesuit for Artemis moon mission astronauts"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15163442/SEI_148394900.jpg?width=600"
+title: "Breakthrough in fiendishly hard puzzle has mathematicians partying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21171814/SEI_149168119.jpg?width=600"
 index: 476
 weight: 476
 ---

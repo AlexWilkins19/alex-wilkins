@@ -1,6 +1,6 @@
 ---
-title: "Quantum sensor gets a read on tiny worm implanted with nanodiamonds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788"
+title: "Saturn's moon Titan is experiencing coastal erosion from methane seas"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/19171927/SEI_209458668.jpg?width=788"
 index: 252
 weight: 252
 ---

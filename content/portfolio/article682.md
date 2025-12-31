@@ -1,6 +1,6 @@
 ---
-title: "Migrating birds may use slope of Earth’s magnetic field as ‘stop sign’"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/27132225/PRI_220105776.jpg?width=600"
+title: "First truly isolated black hole detected in interstellar space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/03174635/PRI_221398609.jpg?width=600"
 index: 682
 weight: 682
 ---

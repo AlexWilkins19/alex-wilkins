@@ -1,6 +1,6 @@
 ---
-title: "New Scientist recommends astronomy exhibition Borrowed Light in Berlin"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/01103652/SEI_222990768.jpg?width=788"
+title: "10 stunning James Webb Space Telescope images show the beauty of space"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/17100618/sei225115412-1.jpg?width=788"
 index: 200
 weight: 200
 ---

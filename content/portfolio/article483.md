@@ -1,6 +1,6 @@
 ---
-title: "Hubble Space Telescope images are being spoiled by satellite trails"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/02112607/SEI_146364598.jpg?width=600"
+title: "Robot snake that moves like a sidewinder could inspect sewage pipes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/14114447/sidewinding.gif?width=600"
 index: 483
 weight: 483
 ---

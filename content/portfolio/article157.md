@@ -1,6 +1,6 @@
 ---
-title: "Comet that could shine as bright as Venus set to be visible from Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/10154735/SEI_235556609.jpg?width=788"
+title: "Robotic exoskeleton can train expert pianists to play faster"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/17102316/SEI_236192486.jpg?width=788"
 index: 157
 weight: 157
 ---

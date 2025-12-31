@@ -1,6 +1,6 @@
 ---
-title: "Banana-shaped galaxies are helping unpeel the mysteries of dark matter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155248/SEI_215286563.jpg?width=788"
+title: "Astronomers might finally have explanation for mysterious Wow! signal"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21113241/SEI_218106150.jpg?width=788"
 index: 226
 weight: 226
 ---

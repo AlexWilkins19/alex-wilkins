@@ -1,6 +1,6 @@
 ---
-title: "Virtual reality mask adds realism by making it harder to breathe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/10140902/SEI_103214958.jpg?width=600"
+title: "Life Time review: Sleep deprivation kills, warns must-read book"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18103845/SEI_104644806.jpg?width=600"
 index: 629
 weight: 629
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Heating and cooling seem to be fundamentally different, not opposites"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/26120258/SEI_187336726.jpg?width=788"
+title: "Old milk can be used to extract gold and other metals from e-waste"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/07180717/SEI_188863733.jpg?width=788"
 index: 315
 weight: 315
 ---

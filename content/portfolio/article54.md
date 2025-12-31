@@ -1,6 +1,6 @@
 ---
-title: "Jacket that gets thinner when you sweat could help avoid overheating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/13153637/SEI_262005769.jpg?width=788"
+title: "Super-cool cement could stop buildings trapping heat inside"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
 index: 54
 weight: 54
 ---

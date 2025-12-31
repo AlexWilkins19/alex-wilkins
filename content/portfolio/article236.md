@@ -1,6 +1,6 @@
 ---
-title: "Universe’s missing matter may be explained by galaxies leaking gas"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/23095940/SEI_213825644.jpg?width=788"
+title: "Particle physicists may have solved a strange mystery about the muon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788"
 index: 236
 weight: 236
 ---

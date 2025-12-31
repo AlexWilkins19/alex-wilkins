@@ -1,6 +1,6 @@
 ---
-title: "Did a star blow up and hit Earth 10 million years ago?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
+title: "Exceptional star is the most pristine object known in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/03115011/SEI_268518337.jpg?width=788"
 index: 36
 weight: 36
 ---

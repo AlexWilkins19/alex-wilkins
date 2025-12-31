@@ -1,6 +1,6 @@
 ---
-title: "Hopes for new physics dashed by ordinary-looking W bosons at CERN"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17130725/SEI_222025959.jpg?width=788"
+title: "Planet spotted orbiting Barnard's star just 6 light years away"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/30153759/SEI_223877148.jpg?width=788"
 index: 207
 weight: 207
 ---

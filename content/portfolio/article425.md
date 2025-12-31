@@ -1,6 +1,6 @@
 ---
-title: "The Milky Way could contain thousands of stars from another galaxy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/20154455/SEI_160970373.jpg?width=788"
+title: "Water mixed with nanoparticles can be carved into shapes by a laser"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/07142917/SEI_163195200.jpg?width=788"
 index: 425
 weight: 425
 ---

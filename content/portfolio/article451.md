@@ -1,6 +1,6 @@
 ---
-title: "It may have been snowing on Mars 400,000 years ago"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/28155228/SEI_153783526.jpg?width=788"
+title: "Electronic cochlea adjusts to noise levels like a human ear"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=788"
 index: 451
 weight: 451
 ---

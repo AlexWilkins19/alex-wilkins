@@ -1,6 +1,6 @@
 ---
-title: "This is the best place to build a moon base"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25102349/SEI_172600966.jpg?width=788"
+title: "Large Hadron Collider turned into world's biggest quantum experiment"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/02162934/SEI_174317742.jpg?width=788"
 index: 385
 weight: 385
 ---

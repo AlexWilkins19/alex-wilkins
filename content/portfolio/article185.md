@@ -1,6 +1,6 @@
 ---
-title: "See the sun revealed in stunning glory by Solar Orbiter pictures"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19200845/SEI_230042522.jpg?width=788"
+title: "Chatbot gives medical advice to hundreds of users in largest trial yet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/02145407/SEI_231687662.jpg?width=788"
 index: 185
 weight: 185
 ---

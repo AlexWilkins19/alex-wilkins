@@ -1,6 +1,6 @@
 ---
-title: "Hyperelastic gel is one of the stretchiest materials known to science"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
+title: "Jupiter's moon Io has been a volcanic inferno for billions of years"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/04/18114146/SEI_200340813.jpg?width=788"
 index: 280
 weight: 280
 ---

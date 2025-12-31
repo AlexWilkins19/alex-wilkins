@@ -1,6 +1,6 @@
 ---
-title: "Space test dummies will measure female radiation risk for first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/29132653/SEI_101129092.jpg?width=600"
+title: "Mars was wet more recently than we thought, according to Chinese rover"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/11171827/SEI_103392220.jpg?width=600"
 index: 634
 weight: 634
 ---

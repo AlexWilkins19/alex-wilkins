@@ -1,6 +1,6 @@
 ---
-title: "Discovery of 'dark' electrons could explain how superconductors work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/16155449/SEI_217584145.jpg?width=788"
+title: "DNA computer can play chess and solve sudoku puzzles"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/23170818/SEI_218243586.jpg?width=788"
 index: 222
 weight: 222
 ---

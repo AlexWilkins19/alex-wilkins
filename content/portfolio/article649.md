@@ -1,6 +1,6 @@
 ---
-title: "Robot made of magnetic slime could grab objects inside your body"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/31145751/SEI_96443182.jpg?width=600"
+title: "Early warning system for Amazon forest losses seen in climate models"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/11211453/SEI_98364853.jpg?width=600"
 index: 649
 weight: 649
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Watch a cyborg cockroach navigate a maze"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/18122511/SEI_171749670.jpg?width=788"
+title: "Waste plastic can be recycled into hydrogen fuel and graphene"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788"
 index: 388
 weight: 388
 ---

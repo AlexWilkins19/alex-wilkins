@@ -1,6 +1,6 @@
 ---
-title: "AI can influence voters' minds. What does that mean for democracy?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg?width=788"
+title: "Black hole stars really do exist in the early universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/12140217/SEI_277755167.jpg?width=788"
 index: 12
 weight: 12
 ---

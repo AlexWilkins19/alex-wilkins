@@ -1,6 +1,6 @@
 ---
-title: "Flying robot generates as much power as a flapping insect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02173513/PRI_2212320611.jpg?width=600"
+title: "Most precise atomic clock shows Einstein’s general relativity is right"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16165345/PRI_223720643.jpg?width=600"
 index: 677
 weight: 677
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Mechanical backpack boosts the sensation of jumping in virtual reality"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/02155324/SEI_153736831.jpg?width=788"
+title: "Microbombs detonated by ultrasound can blast away tooth decay bacteria"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/15163443/SEI_156054205.jpg?width=788"
 index: 444
 weight: 444
 ---

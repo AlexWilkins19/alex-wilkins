@@ -1,6 +1,6 @@
 ---
-title: "Male contraceptive pill is safe and effective in tests in mice"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/22142846/SEI_94867969.jpg?width=600"
+title: "Holograms might speed up diagnosis of urinary tract infection"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/01171310/SEI_96596610.jpg?width=600"
 index: 653
 weight: 653
 ---

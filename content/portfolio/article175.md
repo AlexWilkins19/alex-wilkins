@@ -1,6 +1,6 @@
 ---
-title: "Earth may have had its water delivered by a vast cloud of vapour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/11141245/SEI_232670154.jpg?width=788"
+title: "Ultra-thin diamond wafers for electronics made using sticky tape"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788"
 index: 175
 weight: 175
 ---

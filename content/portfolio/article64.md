@@ -1,6 +1,6 @@
 ---
-title: "Underwater volcanic brine pools could be home to extreme life forms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/15143850/SEI_259096022.jpg?width=788"
+title: "We’ve discovered the most massive black hole yet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/07175755/SEI_261434002.jpg?width=788"
 index: 64
 weight: 64
 ---

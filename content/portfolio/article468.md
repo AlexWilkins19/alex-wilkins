@@ -1,6 +1,6 @@
 ---
-title: "Why we need to be wary of anthropomorphising chatbots"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
+title: "Reliably detecting AI-generated text is mathematically impossible"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/29175922/SEI_150112351.jpg?width=788"
 index: 468
 weight: 468
 ---

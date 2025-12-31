@@ -1,6 +1,6 @@
 ---
-title: "Robot dog can stifle weeds by blasting them with a blowtorch"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/18162411/SEI_213319447.jpg?width=788"
+title: "A slight curve helps rocks make the biggest splash"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/01155207/SEI_214086567.jpg?width=788"
 index: 235
 weight: 235
 ---

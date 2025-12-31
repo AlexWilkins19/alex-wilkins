@@ -1,6 +1,6 @@
 ---
-title: "Deflecting a deadly asteroid just got a lot less dangerous"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
+title: "We finally found the hot wind coming out of our black hole"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/24195853/SEI_267507056.jpg?width=788"
 index: 43
 weight: 43
 ---

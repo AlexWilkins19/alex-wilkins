@@ -1,6 +1,6 @@
 ---
-title: "Sample of asteroid Ryugu brought to Earth is a strange dark colour"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/20154247/PRI_215885960.jpg?width=600"
+title: "Plumes of rock that feed volcanic hotspots are surprisingly cold"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/06145958/PRI_217404642.jpg?width=600"
 index: 699
 weight: 699
 ---

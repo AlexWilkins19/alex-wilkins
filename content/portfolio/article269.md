@@ -1,6 +1,6 @@
 ---
-title: "Mars is blasting plasma out of its atmosphere into space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/08155636/SEI_203195668.jpg?width=788"
+title: "Mysterious element promethium finally reveals its chemical properties"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/21154237/SEI_205363391.jpg?width=788"
 index: 269
 weight: 269
 ---

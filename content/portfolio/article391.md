@@ -1,6 +1,6 @@
 ---
-title: "The MANIAC review: A dark novel about the legendary John von Neumann"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/04130027/SEI_169400329.jpg?width=788"
+title: "This is the best place to build a moon base"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/25102349/SEI_172600966.jpg?width=788"
 index: 391
 weight: 391
 ---

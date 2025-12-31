@@ -1,6 +1,6 @@
 ---
-title: "Bats show fewer signs of ageing while they are hibernating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/09165054/SEI_118602904.jpg?width=600"
+title: "Physicists surprised to discover the proton contains a charm quark"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/17103310/SEI_119824070.jpg?width=600"
 index: 582
 weight: 582
 ---

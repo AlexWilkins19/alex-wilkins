@@ -1,6 +1,6 @@
 ---
-title: "New Horizons images enable first test of interstellar navigation"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/02154153/SEI_257622793.jpg?width=788"
+title: "Trees on city streets cope with drought by drinking from leaky pipes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10143422/SEI_258436529.jpg?width=788"
 index: 73
 weight: 73
 ---

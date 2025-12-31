@@ -1,6 +1,6 @@
 ---
-title: "'Horrific and beautiful' whale rescue image wins photography prize"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18130805/sei274675219.jpg?width=788"
+title: "Chance of a devastating asteroid impact briefly spiked in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09212610/SEI_273826369.jpg?width=788"
 index: 16
 weight: 16
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Physicists want the next Large Hadron Collider to be climate-friendly"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/02130534/SEI_122177667.jpg?width=600"
+title: "James Webb Space Telescope captures its first pictures of Mars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/19132953/SEI_126060584.jpg?width=600"
 index: 567
 weight: 567
 ---

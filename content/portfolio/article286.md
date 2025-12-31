@@ -1,6 +1,6 @@
 ---
-title: "Paper planes made by a robot fly better than ones made by humans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/22135018/SEI_196711553.jpg?width=788"
+title: "Hyperelastic gel is one of the stretchiest materials known to science"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
 index: 286
 weight: 286
 ---

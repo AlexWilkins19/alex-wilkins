@@ -1,6 +1,6 @@
 ---
-title: "China prepares to launch laboratory module to Tiangong space station"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21122312/SEI_115411756.jpg?width=600"
+title: "JWST could soon tell us what exoplanets' surfaces are made of"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/29163136/SEI_116642317.jpg?width=600"
 index: 594
 weight: 594
 ---

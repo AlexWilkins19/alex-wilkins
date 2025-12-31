@@ -1,6 +1,6 @@
 ---
-title: "How will AIs that generate videos from text transform media online?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/15121652/SEI_133201072.jpg?width=600"
+title: "JWST has spotted chemical reactions in an exoplanet's atmosphere"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22160006/SEI_134740491.jpg?width=600"
 index: 524
 weight: 524
 ---

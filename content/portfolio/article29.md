@@ -1,6 +1,6 @@
 ---
-title: "Nobel prize for physics goes to trio behind quantum computing chips"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
+title: "Caves carved by water on Mars may hold signs of past life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10095757/SEI_273160845.jpg?width=788"
 index: 29
 weight: 29
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Flying robot echolocates like a bat to avoid banging into walls"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/02111941/SEI_142246879.jpg?width=600"
+title: "ChatGPT AI passes test designed to show theory of mind in children"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/14133628/SEI_144177437.jpg?width=600"
 index: 495
 weight: 495
 ---

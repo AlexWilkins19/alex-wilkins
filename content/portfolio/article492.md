@@ -1,6 +1,6 @@
 ---
-title: "Dwarf planet Quaoar has a weirdly big ring of debris encircling it"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/08145813/SEI_143250080.jpg?width=600"
+title: "AI with no visual sensors generates an internal map to finds its way"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/20143949/SEI_144041942.jpg?width=600"
 index: 492
 weight: 492
 ---

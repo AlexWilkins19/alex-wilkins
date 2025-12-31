@@ -1,6 +1,6 @@
 ---
-title: "Oddly bright burst may mean space is more transparent than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788"
+title: "Plants thrive in lunar soil with help from phosphorus-making bacteria"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10124151/SEI_179602158.jpg?width=788"
 index: 369
 weight: 369
 ---

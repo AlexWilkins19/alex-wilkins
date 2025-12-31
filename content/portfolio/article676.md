@@ -1,6 +1,6 @@
 ---
-title: "First truly isolated black hole detected in interstellar space"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/03174635/PRI_221398609.jpg?width=600"
+title: "Lung with switched blood type is step towards universal donor organs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16142406/PRI_223884520.jpg?width=600"
 index: 676
 weight: 676
 ---

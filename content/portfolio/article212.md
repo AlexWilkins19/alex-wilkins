@@ -1,6 +1,6 @@
 ---
-title: "Huge new volcano has burst through the surface of Jupiter’s moon Io"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/11090835/SEI_220936645.jpg?width=788"
+title: "Venus could be rocked by thousands of quakes every year"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/17140724/SEI_221433851.jpg?width=788"
 index: 212
 weight: 212
 ---

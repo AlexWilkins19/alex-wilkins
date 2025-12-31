@@ -1,6 +1,6 @@
 ---
-title: "Stress-testing sausages may give vegan products a meat-like mouthfeel"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/12132615/SEI_98340764.jpg?width=600"
+title: "Efficient battery could charge electric cars 60 per cent in 6 minutes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/04/27162704/SEI_100929082.jpg?width=600"
 index: 642
 weight: 642
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Watch a plant-inspired robot grow towards light like a vine"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18162943/SEI_187761517.jpg?width=788"
+title: "Japan's SLIM moon lander regains power nine days after botched landing"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/29111425/SEI_189200845.jpg?width=788"
 index: 320
 weight: 320
 ---

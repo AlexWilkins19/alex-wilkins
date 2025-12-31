@@ -1,6 +1,6 @@
 ---
-title: "Astronomers have spotted the largest known object in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07165247/SEI_238926649.jpg?width=788"
+title: "Odds of asteroid 2024 YR4 hitting Earth in 2032 have reached new high"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/18115827/SEI_240416865.jpg?width=788"
 index: 139
 weight: 139
 ---

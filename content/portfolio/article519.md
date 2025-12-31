@@ -1,6 +1,6 @@
 ---
-title: "We finally know in detail how salt dissolves in water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22112231/SEI_134028847.jpg?width=600"
+title: "Watch this robot bird use a talon-like claw to land safely on a perch"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/15151943/SEI_137542977.jpg?width=600"
 index: 519
 weight: 519
 ---

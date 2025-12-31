@@ -1,6 +1,6 @@
 ---
-title: "Most precise atomic clock shows Einstein’s general relativity is right"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/16165345/PRI_223720643.jpg?width=600"
+title: "Light yet strong metamaterial inspired by art of paper cutting"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/28154557/SEI_900963351.jpg?width=600"
 index: 671
 weight: 671
 ---

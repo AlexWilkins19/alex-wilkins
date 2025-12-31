@@ -1,6 +1,6 @@
 ---
-title: "Fabric inspired by camel’s hump could protect firefighters from heat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/20170546/SEI_140914054.jpg?width=600"
+title: "Hearing noise and moving our body helps us gauge the passing of time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
 index: 502
 weight: 502
 ---

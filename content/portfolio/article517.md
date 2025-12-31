@@ -1,6 +1,6 @@
 ---
-title: "ESA's new astronauts include former Paralympian runner John McFall"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/23154942/SEI_134881268.jpg?width=600"
+title: "Super-absorbent towel soaks up liquids better than cloth or paper"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/21161110/SEI_138274087.jpg?width=600"
 index: 517
 weight: 517
 ---

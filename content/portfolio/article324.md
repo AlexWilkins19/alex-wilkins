@@ -1,6 +1,6 @@
 ---
-title: "Will AI make computer screens a thing of the past?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12164130/SEI_186914971.jpg?width=788"
+title: "The tightest knot ever made is a tied-up chain 54 atoms long"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/17124210/SEI_186444011.jpg?width=788"
 index: 324
 weight: 324
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Robotic chemist discovers how to make oxygen from Martian minerals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=788"
+title: "AI cleaning robot can tidy up clothes in a messy bedroom"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21152134/SEI_181102879.jpg?width=788"
 index: 361
 weight: 361
 ---

@@ -1,6 +1,6 @@
 ---
-title: "AI models can't learn as they go along like humans do"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/21131746/SEI_218115115.jpg?width=788"
+title: "Cloud atlas of Mars reveals an atmosphere unlike our own"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/10100456/SEI_220930493.jpg?width=788"
 index: 219
 weight: 219
 ---

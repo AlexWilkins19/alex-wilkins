@@ -1,6 +1,6 @@
 ---
-title: "‘Near impossible’ plant-growing technique could revolutionise farming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
+title: "James Webb Space Telescope has finished unfolding its massive mirror"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10110947/PRI_217942257.jpg?width=600"
 index: 698
 weight: 698
 ---

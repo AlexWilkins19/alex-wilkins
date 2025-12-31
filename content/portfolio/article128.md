@@ -1,6 +1,6 @@
 ---
-title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
+title: "Cryptography trick could make AI algorithms more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/03104138/SEI_241701675.jpg?width=788"
 index: 128
 weight: 128
 ---

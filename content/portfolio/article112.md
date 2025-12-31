@@ -1,6 +1,6 @@
 ---
-title: "Dust devils on Mars produce lightning-like zaps of electricity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/17133857/SEI_244199521.jpg?width=788"
+title: "Ancient computer's gears may not have been able to turn"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15143746/SEI_247633284.jpg?width=788"
 index: 112
 weight: 112
 ---

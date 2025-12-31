@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians calculate 42-digit number after decades of trying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/03160510/SEI_162671292.jpg?width=788"
+title: "Stars found hidden in huge cloud wrapped around the Milky Way"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/12115548/SEI_163183838.jpg?width=788"
 index: 421
 weight: 421
 ---

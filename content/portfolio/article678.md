@@ -1,6 +1,6 @@
 ---
-title: "Medical dressing works like duct tape to seal internal wounds"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
+title: "RoboKrill is a one-legged robot that mimics the way krill swim"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/15191737/PRI_222696467.jpg?width=600"
 index: 678
 weight: 678
 ---

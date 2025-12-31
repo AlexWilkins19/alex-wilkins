@@ -1,6 +1,6 @@
 ---
-title: "Largest quake ever seen on Mars points to surprising seismic activity"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/17140053/SEI_176313218.jpg?width=788"
+title: "Strange supernova blasts hint we have glimpsed a black hole’s birth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/26121618/SEI_177376125.jpg?width=788"
 index: 372
 weight: 372
 ---

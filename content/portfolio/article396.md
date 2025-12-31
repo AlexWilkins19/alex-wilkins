@@ -1,6 +1,6 @@
 ---
-title: "3D-printed toilet is so slippery that nothing can leave a mark"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/18133052/SEI_167843488.jpg?width=788"
+title: "The earliest black holes seen by JWST appear to be unusually massive"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/13114910/SEI_171281973.jpg?width=788"
 index: 396
 weight: 396
 ---

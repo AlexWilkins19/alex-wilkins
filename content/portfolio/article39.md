@@ -1,6 +1,6 @@
 ---
-title: "Lunar missions may contaminate the moon with hardy Earth microbes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15115739/SEI_265737659.jpg?width=788"
+title: "NASA's asteroid deflection test had unexpected and puzzling outcome"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01115548/SEI_268328614.jpg?width=788"
 index: 39
 weight: 39
 ---

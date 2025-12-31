@@ -1,6 +1,6 @@
 ---
-title: "Yutu-2 lunar rover finds sticky soil on the far side of the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/19145050/PRI_219219172.jpg?width=600"
+title: "Medical dressing works like duct tape to seal internal wounds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/02172135/PRI_221227421.jpg?width=600"
 index: 684
 weight: 684
 ---

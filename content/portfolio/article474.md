@@ -1,6 +1,6 @@
 ---
-title: "Windows filled with see-through wood layer help hold in heat"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/16121418/SEI_148522522.jpg?width=600"
+title: "Why we need to be wary of anthropomorphising chatbots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/21105741/SEI_1485349141.jpg?width=600"
 index: 474
 weight: 474
 ---

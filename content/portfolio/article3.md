@@ -1,6 +1,6 @@
 ---
-title: "Ancient rock art revealed in all its glory in stunning photographs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/16105537/SEI_277414882.jpg?width=788"
+title: "2026 Mars mission will set out to solve the mystery of its moons"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
 index: 3
 weight: 3
 ---

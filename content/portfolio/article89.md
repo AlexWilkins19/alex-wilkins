@@ -1,6 +1,6 @@
 ---
-title: "A photon caught in two places at once could destroy the multiverse"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23124108/SEI_252757104.jpg?width=788"
+title: "The arid air of Death Valley may actually be a valuable water source"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/11093655/SEI_255024047.jpg?width=788"
 index: 89
 weight: 89
 ---

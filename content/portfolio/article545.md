@@ -1,6 +1,6 @@
 ---
-title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
+title: "Lightest neutron star ever found could contain compressed quarks"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/24155228/SEI_130414652.jpg?width=600"
 index: 545
 weight: 545
 ---

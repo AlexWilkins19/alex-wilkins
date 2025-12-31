@@ -1,6 +1,6 @@
 ---
-title: "The best space pictures of 2025, from supernovae to moon landings"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/01113827/SEI_258150203.jpg?width=788"
+title: "Physicists stirred up controversy with scientific cooking tips in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18120711/SEI_274766337.jpg?width=788"
 index: 4
 weight: 4
 ---

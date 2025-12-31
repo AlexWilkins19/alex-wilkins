@@ -1,6 +1,6 @@
 ---
-title: "People are really bad at spotting AI-generated deepfake voices"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/15110600/SEI_247528962.jpg?width=788"
+title: "Powerful blasts of X-rays could reveal a black hole waking from sleep"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22153211/SEI_248425755.jpg?width=788"
 index: 109
 weight: 109
 ---

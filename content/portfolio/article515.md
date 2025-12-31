@@ -1,6 +1,6 @@
 ---
-title: "Bluewalker 3 satellite is brighter than 99.8 per cent of visible stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/25162905/SEI_135016585.jpg?width=600"
+title: "First satellite launch from the UK failed due to an ‘anomaly’"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10004828/SEI_139692185.jpg?width=600"
 index: 515
 weight: 515
 ---

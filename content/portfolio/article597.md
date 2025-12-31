@@ -1,6 +1,6 @@
 ---
-title: "Stunning JWST image turns dust in a distant galaxy into a purple swirl"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/19144341/SEI_115370440.jpg?width=600"
+title: "Firing a laser into the sky can redirect lightning’s path"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/22120550/SEI_115255677.jpg?width=600"
 index: 597
 weight: 597
 ---

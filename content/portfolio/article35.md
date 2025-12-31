@@ -1,6 +1,6 @@
 ---
-title: "We may finally know what causes will-o’-the-wisps"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/29155612/SEI_268216742.jpg?width=788"
+title: "Nobel prize for physics goes to trio behind quantum computing chips"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07112903/SEI_269357959.jpg?width=788"
 index: 35
 weight: 35
 ---

@@ -1,6 +1,6 @@
 ---
-title: "First exoplanet picture from James Webb Space Telescope revealed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
+title: "Google AI can tell what things smell like by the molecular structure"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12145251/SEI_123980203.jpg?width=600"
 index: 568
 weight: 568
 ---

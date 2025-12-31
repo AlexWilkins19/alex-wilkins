@@ -1,6 +1,6 @@
 ---
-title: "Physicists reveal the secret to chopping onions without crying"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15112049/SEI_251258582.jpg?width=788"
+title: "Physicists are waging a cosmic battle over the nature of dark energy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23105151/SEI_252596197.jpg?width=788"
 index: 94
 weight: 94
 ---

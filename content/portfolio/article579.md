@@ -1,6 +1,6 @@
 ---
-title: "Astronauts could use plasma to make oxygen and fertiliser on Mars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16135957/SEI_119664447.jpg?width=600"
+title: "Nanocrystals help water act like sponge to hold more oxygen than blood"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/24145159/SEI_120854208.jpg?width=600"
 index: 579
 weight: 579
 ---

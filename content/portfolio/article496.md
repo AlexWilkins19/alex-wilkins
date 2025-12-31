@@ -1,6 +1,6 @@
 ---
-title: "Hearing noise and moving our body helps us gauge the passing of time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
+title: "AI generates virtual 3D cities that extend infinitely in any direction"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/13111830/SEI_143627573.jpg?width=600"
 index: 496
 weight: 496
 ---

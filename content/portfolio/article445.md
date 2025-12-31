@@ -1,6 +1,6 @@
 ---
-title: "Electronic cochlea adjusts to noise levels like a human ear"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/04135839/SEI_154550580.jpg?width=788"
+title: "Watch 44 million atoms simulated using AI and a supercomputer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/10134949/SEI_154564255.jpg?width=788"
 index: 445
 weight: 445
 ---

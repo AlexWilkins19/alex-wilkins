@@ -1,6 +1,6 @@
 ---
-title: "Self-charging buoy could harness wave power to monitor the oceans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/30095433/SEI_112341903.jpg?width=600"
+title: "Astronomers devise new way to observe traces of the first stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/07/21153014/SEI_115753119.jpg?width=600"
 index: 599
 weight: 599
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Record-breaking quantum computer has more than 1000 qubits"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
+title: "Underwater walkie-talkies could work long-distance with radio trick"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/10140654/SEI_179026276.jpg?width=788"
 index: 368
 weight: 368
 ---

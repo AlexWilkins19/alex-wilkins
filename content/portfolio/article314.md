@@ -1,6 +1,6 @@
 ---
-title: "Japan's SLIM moon lander regains power nine days after botched landing"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/29111425/SEI_189200845.jpg?width=788"
+title: "Quantum Cheshire Cat effect may separate a particle from its momentum"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/08145728/SEI_190312069.jpg?width=788"
 index: 314
 weight: 314
 ---

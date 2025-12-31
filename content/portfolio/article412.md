@@ -1,6 +1,6 @@
 ---
-title: "Distant planet may be the first known to share its orbit with another"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/19111720/SEI_164516650.jpg?width=788"
+title: "Artificial spider silk could help us harvest drinking water from air"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26163759/SEI_165508922.jpg?width=788"
 index: 412
 weight: 412
 ---

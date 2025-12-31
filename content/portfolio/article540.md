@@ -1,6 +1,6 @@
 ---
-title: "JWST spots smallest galaxy outside our local universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/21133021/SEI_130287494.jpg?width=600"
+title: "Gel-based encryption can only be unlocked with key of light and heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/03112353/SEI_132068485.jpg?width=600"
 index: 540
 weight: 540
 ---

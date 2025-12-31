@@ -1,6 +1,6 @@
 ---
-title: "AI beats top racers at Gran Turismo – without cheating"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/04150940/SEI_211486789.jpg?width=788"
+title: "We may finally know what caused the biggest cosmic explosion ever seen"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25123437/SEI_213963951.jpg?width=788"
 index: 239
 weight: 239
 ---

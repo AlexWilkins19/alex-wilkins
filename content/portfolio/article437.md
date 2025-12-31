@@ -1,6 +1,6 @@
 ---
-title: "Octopus-inspired ink changes colour when exposed to light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/05/17173737/SEI_156365578.jpg?width=788"
+title: "Robot gardener grows plants as well as humans do but uses less water"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/06/08104419/SEI_159031365.jpg?width=788"
 index: 437
 weight: 437
 ---

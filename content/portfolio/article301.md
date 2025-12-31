@@ -1,6 +1,6 @@
 ---
-title: "Why forgetting things is a key part of the way your brain works"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/19103805/SEI_191640941.jpg?width=788"
+title: "Mathematicians discover 'soft cell' shapes behind the natural world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/23130124/SEI_192578233.jpg?width=788"
 index: 301
 weight: 301
 ---

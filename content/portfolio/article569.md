@@ -1,6 +1,6 @@
 ---
-title: "Whale songs can spread between groups nearly 8000 kilometres apart"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/30170429/SEI_121966595.jpg?width=600"
+title: "Quantum diamond sensor used to measure neuron activity in mouse tissue"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/12131054/SEI_123940228.jpg?width=600"
 index: 569
 weight: 569
 ---

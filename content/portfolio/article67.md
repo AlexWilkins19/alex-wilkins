@@ -1,6 +1,6 @@
 ---
-title: "Trees on city streets cope with drought by drinking from leaky pipes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10143422/SEI_258436529.jpg?width=788"
+title: "Peculiar galaxy seems to contain surprisingly pristine stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
 index: 67
 weight: 67
 ---

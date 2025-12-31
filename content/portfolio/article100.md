@@ -1,6 +1,6 @@
 ---
-title: "Housework robots are a step closer as they learn to work in any home"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
+title: "Physicists reveal the secret to chopping onions without crying"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/15112049/SEI_251258582.jpg?width=788"
 index: 100
 weight: 100
 ---

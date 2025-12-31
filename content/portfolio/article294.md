@@ -1,6 +1,6 @@
 ---
-title: "How will AIs like ChatGPT affect elections this year?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/27102908/SEI_192574782.jpg?width=788"
+title: "Why 2024 Abel prize winner Michel Talagrand became a mathematician"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/21141823/SEI_196851013.jpg?width=788"
 index: 294
 weight: 294
 ---

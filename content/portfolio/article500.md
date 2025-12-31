@@ -1,6 +1,6 @@
 ---
-title: "Rare Antarctic meteorite is one of the largest ever found"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/24100842/SEI_141445914.jpg?width=600"
+title: "AI image generators that create close copies could be a legal headache"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/06134248/SEI_143120328.jpg?width=600"
 index: 500
 weight: 500
 ---

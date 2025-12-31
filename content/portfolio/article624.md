@@ -1,6 +1,6 @@
 ---
-title: "AI solves complex physics problems by looking for signs of symmetry"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/18131320/SEI_1037758831.jpg?width=600"
+title: "Strange gamma ray flashes from lightning storms may have explanation"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/26112450/SEI_106042887.jpg?width=600"
 index: 624
 weight: 624
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Waste plastic can be recycled into hydrogen fuel and graphene"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/09/28103823/SEI_173548784.jpg?width=788"
+title: "We still don't really understand what large language models are"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03105309/SEI_173874643.jpg?width=788"
 index: 382
 weight: 382
 ---

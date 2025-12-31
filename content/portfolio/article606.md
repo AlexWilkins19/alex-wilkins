@@ -1,6 +1,6 @@
 ---
-title: "UK may go it alone in orbit after Brexit shutout from EU space plans"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/14121504/SEI_109580970.jpg?width=600"
+title: "Update – NASA's CAPSTONE spacecraft is on its way to the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/31115459/SEI_107221617.jpg?width=600"
 index: 606
 weight: 606
 ---

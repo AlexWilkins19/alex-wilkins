@@ -1,6 +1,6 @@
 ---
-title: "UK's quantum computing sector is flourishing after early investment"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/18164327/SEI_134175591.jpg?width=600"
+title: "The W boson gave particle physicists a major shock in 2022"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/14121032/SEI_135596939.jpg?width=600"
 index: 520
 weight: 520
 ---

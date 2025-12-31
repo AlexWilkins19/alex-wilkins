@@ -1,6 +1,6 @@
 ---
-title: "A ghostly glow was seen emanating from living things in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10171854/SEI_273019560.jpg?width=788"
+title: "Controversial satellites launching in 2026 will reflect light to Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/08142143/SEI_276637337.jpg?width=788"
 index: 1
 weight: 1
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Eunice Newton Foote: The woman who discovered the greenhouse effect"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26124744/SEI_165484170.jpg?width=788"
+title: "Shirt woven with metal could help medical implants communicate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/26145954/SEI_165498222.jpg?width=788"
 index: 414
 weight: 414
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Why trying to photograph a black hole was a massive gamble"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/03154918/SEI_174436548.jpg?width=788"
+title: "Record-breaking quantum computer has more than 1000 qubits"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
 index: 374
 weight: 374
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Super-cool cement could stop buildings trapping heat inside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
+title: "A weird cloud forms on Mars each year and now we know why"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10164436/SEI_265489617.jpg?width=788"
 index: 48
 weight: 48
 ---

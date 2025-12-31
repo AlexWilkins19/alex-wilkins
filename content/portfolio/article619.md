@@ -1,6 +1,6 @@
 ---
-title: "Teleportation trick shows promise for a future quantum internet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/25140347/SEI_106229754.jpg?width=600"
+title: "Advanced quantum computer made available to the public for first time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/06/01155106/sei107499590.jpg?width=600"
 index: 619
 weight: 619
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Ancient rocks show earliest evidence of tectonic activity on Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/15141855/SEI_259077598.jpg?width=788"
+title: "A vast bubble around a dying star is too big to comprehend"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25143435/SEI_259975772.jpg?width=788"
 index: 65
 weight: 65
 ---

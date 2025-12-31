@@ -1,6 +1,6 @@
 ---
-title: "Microplastics found in the soil on farms used to grow crops"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=788"
+title: "Earth is coated in ancient space dust that could be from the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/21143633/SEI_164937552.jpg?width=788"
 index: 416
 weight: 416
 ---

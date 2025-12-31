@@ -1,6 +1,6 @@
 ---
-title: "Google DeepMind AI can expertly fix errors in quantum computers"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/20133032/SEI_230287871.jpg?width=788"
+title: "Flying robot leaps upwards and then takes to the air like a bird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/04124137/SEI_231807062.jpg?width=788"
 index: 184
 weight: 184
 ---

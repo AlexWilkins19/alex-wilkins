@@ -1,6 +1,6 @@
 ---
-title: "Will we ever have confirmation of life outside our solar system?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/17155025/SEI_247848019.jpg?width=788"
+title: "Dark energy bombshell sparks race to find a new model of the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/29135505/SEI_249213191.jpg?width=788"
 index: 105
 weight: 105
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Meet the man who single-handedly tracks every spaceflight mission ever"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/13133938/SEI_239722866.jpg?width=788"
+title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
 index: 134
 weight: 134
 ---

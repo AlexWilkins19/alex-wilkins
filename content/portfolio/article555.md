@@ -1,6 +1,6 @@
 ---
-title: "Robotic pill that delivers drugs to gut could end insulin injections"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/28144825/SEI_127221712.jpg?width=600"
+title: "Human hibernation is a real possibility - this is how it might work"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/07134137/SEI_128464282.jpg?width=600"
 index: 555
 weight: 555
 ---

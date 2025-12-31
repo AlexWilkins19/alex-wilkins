@@ -1,6 +1,6 @@
 ---
-title: "Is a deadly asteroid about to hit Earth? Meet the man who can tell you"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788"
+title: "Planned satellite launches could ruin Hubble Space Telescope images"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/03111454/SEI_276620613.jpg?width=788"
 index: 19
 weight: 19
 ---

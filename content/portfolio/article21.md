@@ -1,6 +1,6 @@
 ---
-title: "Odds of asteroid 2024 YR4 hitting the moon may rise to 30 per cent"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10113243/SEI_273826369.jpg?width=788"
+title: "We might have just seen the first hints of dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/25152454/SEI_275649097.jpg?width=788"
 index: 21
 weight: 21
 ---

@@ -1,6 +1,6 @@
 ---
-title: "'Demon' particle found in superconductor could explain how they work"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/09155530/SEI_167062678.jpg?width=788"
+title: "Google AI predicts floods four days early in South America and Africa"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/08/15170524/SEI_167724830.jpg?width=788"
 index: 403
 weight: 403
 ---

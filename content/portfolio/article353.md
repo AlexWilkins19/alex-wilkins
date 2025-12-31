@@ -1,6 +1,6 @@
 ---
-title: "Cyborg jellyfish have a swimming cap and electric propulsion system"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/21115603/SEI_180623332.jpg?width=788"
+title: "Crystal-hunting DeepMind AI could help discover new wonder materials"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/27144700/SEI_181772473.jpg?width=788"
 index: 353
 weight: 353
 ---

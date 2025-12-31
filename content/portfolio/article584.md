@@ -1,6 +1,6 @@
 ---
-title: "Artificial neuron swaps dopamine with rat brain cells like a real one"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/08121245/SEI_117967799.jpg?width=600"
+title: "Quantum computers might not offer extreme speed boost for chemistry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/08/16142254/SEI_119657553.jpg?width=600"
 index: 584
 weight: 584
 ---

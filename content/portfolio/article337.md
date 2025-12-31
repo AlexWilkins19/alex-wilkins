@@ -1,6 +1,6 @@
 ---
-title: "AI firms will face copyright infringement lawsuits in 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788"
+title: "Are autonomous labs the future of science?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/29104722/SEI_184830843.jpg?width=788"
 index: 337
 weight: 337
 ---

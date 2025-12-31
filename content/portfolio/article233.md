@@ -1,6 +1,6 @@
 ---
-title: "We may finally know what caused the biggest cosmic explosion ever seen"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/25123437/SEI_213963951.jpg?width=788"
+title: "Black holes may inherit their magnetic fields from neutron stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02164138/SEI_215484512.jpg?width=788"
 index: 233
 weight: 233
 ---

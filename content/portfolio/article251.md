@@ -1,6 +1,6 @@
 ---
-title: "Hybrid design could make nuclear fusion reactors more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788"
+title: "Microphone made of atom-thick graphene could be used in smartphones"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/20164801/SEI_209577968.jpg?width=788"
 index: 251
 weight: 251
 ---

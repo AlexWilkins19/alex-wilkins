@@ -1,6 +1,6 @@
 ---
-title: "Most schemes to capture and reuse carbon actually increase emissions"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/02/18153007/SEI_88764006.jpg?width=600"
+title: "Foam made from algae and tree bark acts as good forest camouflage"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/03/03112544/SEI_91299698.jpg?width=600"
 index: 669
 weight: 669
 ---

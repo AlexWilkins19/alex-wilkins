@@ -1,6 +1,6 @@
 ---
-title: "Super-absorbent towel soaks up liquids better than cloth or paper"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/12/21161110/SEI_138274087.jpg?width=600"
+title: "ChatGPT detector could help spot cheaters using AI to write essays"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/16165748/SEI_140499394.jpg?width=600"
 index: 511
 weight: 511
 ---

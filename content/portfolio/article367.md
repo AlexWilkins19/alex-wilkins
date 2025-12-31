@@ -1,6 +1,6 @@
 ---
-title: "Ice-spewing supervolcano may have been found on Pluto"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788"
+title: "Robotic chemist discovers how to make oxygen from Martian minerals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/11/13152045/SEI_180043180.jpg?width=788"
 index: 367
 weight: 367
 ---

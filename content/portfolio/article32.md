@@ -1,6 +1,6 @@
 ---
-title: "Endearing photos of bats show clever adaptations like long tongues"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
+title: "We can use ordinary sugar in the search for dark matter"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/17154209/SEI_270572247.jpg?width=788"
 index: 32
 weight: 32
 ---

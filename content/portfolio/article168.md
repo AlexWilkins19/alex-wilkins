@@ -1,6 +1,6 @@
 ---
-title: "The best space images from 2024"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/20133012/SEI_213045678.jpg?width=788"
+title: "Pluto may have captured its moon Charon with a brief kiss"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/03161027/SEI_234849194.jpg?width=788"
 index: 168
 weight: 168
 ---

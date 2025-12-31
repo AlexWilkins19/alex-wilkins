@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians spent 2024 unravelling proof almost no one understands"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/05154631/SEI_230438188.jpg?width=788"
+title: "New Glenn launch: Blue Origin's reusable rocket set for maiden flight"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/08103556/SEI_235265115.jpg?width=788"
 index: 167
 weight: 167
 ---

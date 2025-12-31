@@ -1,6 +1,6 @@
 ---
-title: "Nanobot uses a DNA clutch to engage its engine"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/13124357/SEI_191150210.jpg?width=788"
+title: "A robot dog has learned to open doors with its leg"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg?width=788"
 index: 304
 weight: 304
 ---
