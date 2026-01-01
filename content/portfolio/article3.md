@@ -1,6 +1,6 @@
 ---
-title: "2026 Mars mission will set out to solve the mystery of its moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
+title: "BepiColombo mission will start to unpick Mercury's secrets in 2026"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/10171457/SEI_277537875.jpg?width=788"
 index: 3
 weight: 3
 ---

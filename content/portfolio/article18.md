@@ -1,6 +1,6 @@
 ---
-title: "AI can influence voters' minds. What does that mean for democracy?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/04162231/SEI_276790066.jpg?width=788"
+title: "Comet 3I/ATLAS from beyond solar system carries key molecule for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/05135917/SEI_276769933.jpg?width=788"
 index: 18
 weight: 18
 ---

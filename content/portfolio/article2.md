@@ -1,6 +1,6 @@
 ---
-title: "BepiColombo mission will start to unpick Mercury's secrets in 2026"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/10171457/SEI_277537875.jpg?width=788"
+title: "Controversial satellites launching in 2026 will reflect light to Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/08142143/SEI_276637337.jpg?width=788"
 index: 2
 weight: 2
 ---

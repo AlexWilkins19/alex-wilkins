@@ -1,6 +1,6 @@
 ---
-title: "Chatbot gives medical advice to hundreds of users in largest trial yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/02145407/SEI_231687662.jpg?width=788"
+title: "Flying robot leaps upwards and then takes to the air like a bird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/04124137/SEI_231807062.jpg?width=788"
 index: 185
 weight: 185
 ---
