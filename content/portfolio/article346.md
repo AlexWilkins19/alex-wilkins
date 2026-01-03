@@ -1,6 +1,6 @@
 ---
-title: "Artificial pain sensors could help robots avoid damaging themselves"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19112404/SEI_184620714.jpg?width=788"
+title: "AI firms will face copyright infringement lawsuits in 2024"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/12/19172900/SEI_184085057.jpg?width=788"
 index: 346
 weight: 346
 ---

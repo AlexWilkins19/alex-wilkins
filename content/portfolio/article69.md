@@ -1,6 +1,6 @@
 ---
-title: "Peculiar galaxy seems to contain surprisingly pristine stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
+title: "Signs of alien life on exoplanet K2-18b have all but vanished"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/25165419/SEI_260079229.jpg?width=788"
 index: 69
 weight: 69
 ---

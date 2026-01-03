@@ -1,6 +1,6 @@
 ---
-title: "Super-cool cement could stop buildings trapping heat inside"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20153107/SEI_262737271.jpg?width=788"
+title: "JWST gets a closer look at interstellar comet 3I/ATLAS"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788"
 index: 56
 weight: 56
 ---
