@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "We're about to simulate a human brain on a supercomputer",
+      "url": "https://www.newscientist.com/article/2510892-were-about-to-simulate-a-human-brain-on-a-supercomputer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/09152611/SEI_280163466.jpg?width=788",
+      "scrapedAt": "2026-01-13T01:48:05.397Z"
+    },
+    {
       "title": "Super-low-density worlds reveal how common planetary systems form",
       "url": "https://www.newscientist.com/article/2510539-super-low-density-worlds-reveal-how-common-planetary-systems-form/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/07151214/SEI_279913758.jpg?width=788",
