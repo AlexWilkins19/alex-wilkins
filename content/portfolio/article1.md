@@ -1,6 +1,6 @@
 ---
-title: "We're about to simulate a human brain on a supercomputer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/09152611/SEI_280163466.jpg?width=788"
+title: "These striking photos are a window into the world of quantum physics"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/07141826/sei279933924.jpg?width=788"
 index: 1
 weight: 1
 ---

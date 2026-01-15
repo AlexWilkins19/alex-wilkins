@@ -1,6 +1,6 @@
 ---
-title: "The largest volcanoes on Mars have frosted tips during winter"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/10144416/SEI_208143553.jpg?width=788"
+title: "Quantum sensor gets a read on tiny worm implanted with nanodiamonds"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/11143340/SEI_208268210.jpg?width=788"
 index: 264
 weight: 264
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Oddly bright burst may mean space is more transparent than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788"
+title: "Record-breaking quantum computer has more than 1000 qubits"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/24143843/SEI_177256796.jpg?width=788"
 index: 380
 weight: 380
 ---
