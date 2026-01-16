@@ -1,6 +1,6 @@
 ---
-title: "AI maths assistant could help solve problems that humans are stuck on"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/18114500/SEI_229691729.jpg?width=788"
+title: "Heart-shaped mollusc has windows that work like fibre optics"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/19132912/SEI_230039841.jpg?width=788"
 index: 200
 weight: 200
 ---

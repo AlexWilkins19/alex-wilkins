@@ -1,6 +1,6 @@
 ---
-title: "Cryptography trick could make AI algorithms more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/03104138/SEI_241701675.jpg?width=788"
+title: "Andrew Barto and Richard Sutton win Turing award for AI training trick"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/04153425/SEI_242477387.jpg?width=788"
 index: 134
 weight: 134
 ---
