@@ -1,6 +1,6 @@
 ---
-title: "Quantum batteries could make quantum computers more efficient"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22123803/SEI_247646109.jpg?width=788"
+title: "Signs of alien life on exoplanet K2-18b may just be statistical noise"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24150054/SEI_248634888.jpg?width=788"
 index: 117
 weight: 117
 ---

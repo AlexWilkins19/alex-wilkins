@@ -1,6 +1,6 @@
 ---
-title: "2026 Mars mission will set out to solve the mystery of its moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
+title: "Controversial satellites launching in 2026 will reflect light to Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/08142143/SEI_276637337.jpg?width=788"
 index: 10
 weight: 10
 ---

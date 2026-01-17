@@ -1,6 +1,6 @@
 ---
-title: "Saturn's rings form a giant dusty doughnut encircling the planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/15123721/SEI_278089709.jpg?width=788"
+title: "Black hole stars really do exist in the early universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/12140217/SEI_277755167.jpg?width=788"
 index: 21
 weight: 21
 ---

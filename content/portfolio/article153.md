@@ -1,6 +1,6 @@
 ---
-title: "Dexterous and light prosthetic hand can tie knots and comb hair"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/07115713/SEI_238772595.jpg?width=788"
+title: "Stunning image shows the closest ever Einstein ring"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/10095727/SEI_239317117.jpg?width=788"
 index: 153
 weight: 153
 ---

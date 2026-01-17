@@ -1,6 +1,6 @@
 ---
-title: "Jet from neutron stars seems to travel seven times the speed of light"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/12140033/SEI_129109086.jpg?width=600"
+title: "Bacteria and catalysts recycle waste plastic into useful chemicals"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/10/13150447/SEI_129262540.jpg?width=600"
 index: 560
 weight: 560
 ---

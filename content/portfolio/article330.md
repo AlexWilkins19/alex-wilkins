@@ -1,6 +1,6 @@
 ---
-title: "Filterworld review: Are algorithms staging a cultural takeover?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/22161150/SEI_187619782.jpg?width=788"
+title: "Heating and cooling seem to be fundamentally different, not opposites"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/26120258/SEI_187336726.jpg?width=788"
 index: 330
 weight: 330
 ---

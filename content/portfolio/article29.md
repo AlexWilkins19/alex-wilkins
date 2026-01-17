@@ -1,6 +1,6 @@
 ---
-title: "'Horrific and beautiful' whale rescue image wins photography prize"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18130805/sei274675219.jpg?width=788"
+title: "Why Google’s custom AI chips are shaking up the tech industry"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/28130712/SEI_275896064.jpg?width=788"
 index: 29
 weight: 29
 ---

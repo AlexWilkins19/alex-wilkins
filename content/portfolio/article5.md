@@ -1,6 +1,6 @@
 ---
-title: "Gargantuan black hole may be a remnant from the dawn of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/22162757/SEI_278780705.jpg?width=788"
+title: "We're about to simulate a human brain on a supercomputer"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/09152611/SEI_280163466.jpg?width=788"
 index: 5
 weight: 5
 ---

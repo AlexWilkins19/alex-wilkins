@@ -1,6 +1,6 @@
 ---
-title: "Astronomers uncover the topsy-turvy atmosphere of a distant planet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/18152351/SEI_240413141.jpg?width=788"
+title: "New Scientist recommends 13 Ways of Looking at AI, Art & Music"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/14122556/SEI_239482708.jpg?width=788"
 index: 145
 weight: 145
 ---

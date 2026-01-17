@@ -1,6 +1,6 @@
 ---
-title: "A controversial experiment threatened to kill the multiverse in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/15135033/SEI_277406814.jpg?width=788"
+title: "Physicists stirred up controversy with scientific cooking tips in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18120711/SEI_274766337.jpg?width=788"
 index: 13
 weight: 13
 ---

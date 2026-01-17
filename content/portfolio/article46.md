@@ -1,6 +1,6 @@
 ---
-title: "NASA's asteroid deflection test had unexpected and puzzling outcome"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01115548/SEI_268328614.jpg?width=788"
+title: "Rogue planet gains 6 billion tonnes per second in record growth spurt"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01163119/SEI_268492983.jpg?width=788"
 index: 46
 weight: 46
 ---

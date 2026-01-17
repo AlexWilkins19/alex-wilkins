@@ -1,6 +1,6 @@
 ---
-title: "Light-based AI image generator uses almost no power"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/27142425/SEI_263486522.jpg?width=788"
+title: "Deflecting a deadly asteroid just got a lot less dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
 index: 58
 weight: 58
 ---
