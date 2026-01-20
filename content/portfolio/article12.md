@@ -1,6 +1,6 @@
 ---
-title: "2026 Mars mission will set out to solve the mystery of its moons"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
+title: "Three supermassive black holes have been spotted merging into one"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/22112252/SEI_278767490.jpg?width=788"
 index: 12
 weight: 12
 ---

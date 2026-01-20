@@ -1,6 +1,6 @@
 ---
-title: "First ever 'black hole bomb' created in the lab"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/24112328/SEI_248622512.jpg?width=788"
+title: "Concerns raised over AI trained on 57 million NHS medical records"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/07105447/SEI_250200236.jpg?width=788"
 index: 116
 weight: 116
 ---

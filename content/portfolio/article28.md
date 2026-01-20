@@ -1,6 +1,6 @@
 ---
-title: "Planned satellite launches could ruin Hubble Space Telescope images"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/03111454/SEI_276620613.jpg?width=788"
+title: "Chance of a devastating asteroid impact briefly spiked in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09212610/SEI_273826369.jpg?width=788"
 index: 28
 weight: 28
 ---

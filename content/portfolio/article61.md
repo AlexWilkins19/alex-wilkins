@@ -1,6 +1,6 @@
 ---
-title: "Why auroras are so much brighter and more easily visible recently"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/10175408/SEI_254244957.jpg?width=788"
+title: "Deflecting a deadly asteroid just got a lot less dangerous"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/10115742/SEI_265341371.jpg?width=788"
 index: 61
 weight: 61
 ---

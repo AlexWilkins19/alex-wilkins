@@ -1,6 +1,6 @@
 ---
-title: "Particle physicists may have solved a strange mystery about the muon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/07/26174904/SEI_213967714.jpg?width=788"
+title: "Black holes may inherit their magnetic fields from neutron stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/08/02164138/SEI_215484512.jpg?width=788"
 index: 245
 weight: 245
 ---

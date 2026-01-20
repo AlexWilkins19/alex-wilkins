@@ -1,6 +1,6 @@
 ---
-title: "Where exactly does the quantum world end and concrete reality begin?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16173634/SEI_247755746.jpg?width=788"
+title: "Will we ever have confirmation of life outside our solar system?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/17155025/SEI_247848019.jpg?width=788"
 index: 123
 weight: 123
 ---

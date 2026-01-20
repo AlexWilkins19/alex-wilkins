@@ -1,6 +1,6 @@
 ---
-title: "New Glenn launch: Blue Origin's reusable rocket set for maiden flight"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/08103556/SEI_235265115.jpg?width=788"
+title: "Physicists discover the secret to perfect cacio e pepe pasta"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09165158/SEI_235457061.jpg?width=788"
 index: 176
 weight: 176
 ---

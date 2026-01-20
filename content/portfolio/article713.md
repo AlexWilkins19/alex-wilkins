@@ -1,6 +1,6 @@
 ---
-title: "‘Near impossible’ plant-growing technique could revolutionise farming"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2021/12/22145311/PRI_216064173.jpg?width=600"
+title: "James Webb Space Telescope is carrying out its most critical manoeuvre"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/04125745/PRI_217181494.jpg?width=600"
 index: 713
 weight: 713
 ---

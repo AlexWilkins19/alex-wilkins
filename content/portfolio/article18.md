@@ -1,6 +1,6 @@
 ---
-title: "Ancient rock art revealed in all its glory in stunning photographs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/16105537/SEI_277414882.jpg?width=788"
+title: "A controversial experiment threatened to kill the multiverse in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/15135033/SEI_277406814.jpg?width=788"
 index: 18
 weight: 18
 ---

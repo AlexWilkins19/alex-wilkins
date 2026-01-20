@@ -1,6 +1,6 @@
 ---
-title: "Starlink satellites are leaking radio signals that may ruin astronomy"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/09134308/SEI_254524859.jpg?width=788"
+title: "Is superintelligent AI just around the corner, or just a sci-fi dream?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/13102402/SEI_255250069.jpg?width=788"
 index: 99
 weight: 99
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Chance of a devastating asteroid impact briefly spiked in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09212610/SEI_273826369.jpg?width=788"
+title: "Putting data centres in space isn't going to happen any time soon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/19143557/SEI_278498090.jpg?width=788"
 index: 25
 weight: 25
 ---

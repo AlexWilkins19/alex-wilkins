@@ -1,6 +1,6 @@
 ---
-title: "Nuclear fusion gets a boost from a controversial debunked experiment"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/20123451/SEI_2626376081.jpg?width=788"
+title: "JWST gets a closer look at interstellar comet 3I/ATLAS"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/08/26151540/SEI_263395590.jpg?width=788"
 index: 65
 weight: 65
 ---

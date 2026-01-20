@@ -1,6 +1,6 @@
 ---
-title: "Virtual reality mask adds realism by making it harder to breathe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/10140902/SEI_103214958.jpg?width=600"
+title: "Quantum communication system could detect earthquakes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/05/16165756/SEI_103772762.jpg?width=600"
 index: 644
 weight: 644
 ---

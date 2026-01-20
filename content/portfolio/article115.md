@@ -1,6 +1,6 @@
 ---
-title: "Housework robots are a step closer as they learn to work in any home"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/25145625/SEI_248786535.jpg?width=788"
+title: "All living things emit an eerie glow that is snuffed out upon death"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/09144248/SEI_250569734.jpg?width=788"
 index: 115
 weight: 115
 ---

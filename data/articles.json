@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Filming the universe’s biggest dramas: Best ideas of the century",
+      "url": "https://www.newscientist.com/article/2508569-filming-the-universes-biggest-dramas-best-ideas-of-the-century/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/13160000/SEI_280671241.jpg?width=788",
+      "scrapedAt": "2026-01-20T01:51:51.887Z"
+    },
+    {
+      "title": "Our solar system is extremely weird: Best ideas of the century",
+      "url": "https://www.newscientist.com/article/2508561-our-solar-system-is-extremely-weird-best-ideas-of-the-century/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/13155859/SEI_280668442.jpg?width=788",
+      "scrapedAt": "2026-01-20T01:51:51.887Z"
+    },
+    {
+      "title": "Star appears to have vanished in a failed supernova",
+      "url": "https://www.newscientist.com/article/2512066-star-appears-to-have-vanished-in-a-failed-supernova/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/16163655/SEI_281025050.jpg?width=788",
+      "scrapedAt": "2026-01-20T01:51:51.887Z"
+    },
+    {
       "title": "Amateur mathematicians solve long-standing maths problems with AI",
       "url": "https://www.newscientist.com/article/2511954-amateur-mathematicians-solve-long-standing-maths-problems-with-ai/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/01/16151753/gettyimages-1219382595_2.jpg?width=788",

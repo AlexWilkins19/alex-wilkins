@@ -1,6 +1,6 @@
 ---
-title: "The perfect boiled egg takes more than half an hour to cook"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/05150121/SEI_238664712.jpg?width=788"
+title: "Stunning image shows the closest ever Einstein ring"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/10095727/SEI_239317117.jpg?width=788"
 index: 156
 weight: 156
 ---

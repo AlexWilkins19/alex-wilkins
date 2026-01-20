@@ -1,6 +1,6 @@
 ---
-title: "Electric Dreams is past echo of today’s debates on AI-generated art"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/28160605/suzanne-treister-fictional-videogame-stills-are-you-dreaming-1991-92.-courtesy-the-artist-annely-juda-fine-art-london-and-p.p.o.w.jpg?width=788"
+title: "Flying robot leaps upwards and then takes to the air like a bird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/04124137/SEI_231807062.jpg?width=788"
 index: 196
 weight: 196
 ---

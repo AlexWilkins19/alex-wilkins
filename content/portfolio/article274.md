@@ -1,6 +1,6 @@
 ---
-title: "'Unluckiest star' may be trapped in deadly dance with a black hole"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/29150747/SEI_206466432.jpg?width=788"
+title: "China's Chang'e 6 spacecraft begins sampling on far side of the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/03112711/SEI_207202406.jpg?width=788"
 index: 274
 weight: 274
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Glowing biological quantum sensor could track how cells form"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/20133550/SEI_233846796.jpg?width=788"
+title: "Physicists discover that 'impossible' particles could actually be real"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/08124942/SEI_235356737.jpg?width=788"
 index: 178
 weight: 178
 ---

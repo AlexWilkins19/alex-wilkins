@@ -1,6 +1,6 @@
 ---
-title: "Is a deadly asteroid about to hit Earth? Meet the man who can tell you"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788"
+title: "'Horrific and beautiful' whale rescue image wins photography prize"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18130805/sei274675219.jpg?width=788"
 index: 34
 weight: 34
 ---

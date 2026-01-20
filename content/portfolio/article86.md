@@ -1,6 +1,6 @@
 ---
-title: "Fig trees may benefit climate by turning carbon dioxide into stone"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/04115335/SEI_257617955.jpg?width=788"
+title: "Peculiar plant could help us reconstruct ancient Earth’s climate"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10110500/SEI_258525845.jpg?width=788"
 index: 86
 weight: 86
 ---

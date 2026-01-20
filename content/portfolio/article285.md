@@ -1,6 +1,6 @@
 ---
-title: "Fusion reactors could create ingredients for a nuclear weapon in weeks"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/07165056/SEI_203064463.jpg?width=788"
+title: "Quantum internet draws near thanks to entangled memory breakthroughs"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=788"
 index: 285
 weight: 285
 ---

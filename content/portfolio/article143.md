@@ -1,6 +1,6 @@
 ---
-title: "Asteroid 2024 YR4 will now almost certainly miss Earth in 2032"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/21115104/SEI_240784761.jpg?width=788"
+title: "Thread-based computer could be knitted into clothes to monitor health"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/02/26121331/SEI_241382288.jpg?width=788"
 index: 143
 weight: 143
 ---

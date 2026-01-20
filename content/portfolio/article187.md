@@ -1,6 +1,6 @@
 ---
-title: "The sun may spit out giant solar flares more often than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/12160933/SEI_232965865.jpg?width=788"
+title: "Ultra-thin diamond wafers for electronics made using sticky tape"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/12/18154149/SEI_233657356.jpg?width=788"
 index: 187
 weight: 187
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Radioactive ion beam could target tumours more precisely"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/09/27154313/SEI_223408368.jpg?width=788"
+title: "New Scientist recommends astronomy exhibition Borrowed Light in Berlin"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/01103652/SEI_222990768.jpg?width=788"
 index: 218
 weight: 218
 ---

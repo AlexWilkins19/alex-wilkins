@@ -1,6 +1,6 @@
 ---
-title: "A controversial experiment threatened to kill the multiverse in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/15135033/SEI_277406814.jpg?width=788"
+title: "2026 Mars mission will set out to solve the mystery of its moons"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
 index: 15
 weight: 15
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Astronomers claim strongest evidence of alien life yet"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/16155056/SEI_247753911.jpg?width=788"
+title: "Quantum batteries could make quantum computers more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/04/22123803/SEI_247646109.jpg?width=788"
 index: 122
 weight: 122
 ---

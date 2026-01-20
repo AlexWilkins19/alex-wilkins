@@ -1,6 +1,6 @@
 ---
-title: "The arid air of Death Valley may actually be a valuable water source"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/11093655/SEI_255024047.jpg?width=788"
+title: "Stunning pictures show the first ever artificial solar eclipse"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/16120404/SEI_255393257.jpg?width=788"
 index: 98
 weight: 98
 ---

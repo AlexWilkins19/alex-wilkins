@@ -1,6 +1,6 @@
 ---
-title: "James Webb Space Telescope has finished unfolding its massive mirror"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/10110947/PRI_217942257.jpg?width=600"
+title: "Long-lasting radiation shields may make super-Earths friendly for life"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/01/13131825/PRI_218327491.jpg?width=600"
 index: 707
 weight: 707
 ---

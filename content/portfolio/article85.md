@@ -1,6 +1,6 @@
 ---
-title: "AI could be about to completely change the way we do mathematics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/04152101/SEI_257841124.jpg?width=788"
+title: "Trees on city streets cope with drought by drinking from leaky pipes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10143422/SEI_258436529.jpg?width=788"
 index: 85
 weight: 85
 ---

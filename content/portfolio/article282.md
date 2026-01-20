@@ -1,6 +1,6 @@
 ---
-title: "Quantum internet draws near thanks to entangled memory breakthroughs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/15153313/SEI_204219476.jpg?width=788"
+title: "What is artificial general intelligence, and is it a useful concept?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/05/20144944/SEI_205166454.jpg?width=788"
 index: 282
 weight: 282
 ---

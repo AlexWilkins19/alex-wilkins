@@ -1,6 +1,6 @@
 ---
-title: "Underwater volcanic brine pools could be home to extreme life forms"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/15143850/SEI_259096022.jpg?width=788"
+title: "Peculiar galaxy seems to contain surprisingly pristine stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
 index: 79
 weight: 79
 ---

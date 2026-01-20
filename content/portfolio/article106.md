@@ -1,6 +1,6 @@
 ---
-title: "This new book is a one-sided attempt to puncture the AI bubble"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/19160844/SEI_251040596.jpg?width=788"
+title: "Physicists are waging a cosmic battle over the nature of dark energy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/05/23105151/SEI_252596197.jpg?width=788"
 index: 106
 weight: 106
 ---

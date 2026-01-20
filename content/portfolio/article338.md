@@ -1,6 +1,6 @@
 ---
-title: "Caves seen on the surface of a comet for the first time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/12110251/SEI_186875306.jpg?width=788"
+title: "Watch a plant-inspired robot grow towards light like a vine"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/01/18162943/SEI_187761517.jpg?width=788"
 index: 338
 weight: 338
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Trees on city streets cope with drought by drinking from leaky pipes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/10143422/SEI_258436529.jpg?width=788"
+title: "Underwater volcanic brine pools could be home to extreme life forms"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/15143850/SEI_259096022.jpg?width=788"
 index: 82
 weight: 82
 ---

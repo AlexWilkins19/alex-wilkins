@@ -1,6 +1,6 @@
 ---
-title: "We finally know in detail how salt dissolves in water"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/22112231/SEI_134028847.jpg?width=600"
+title: "Genetically modified tobacco plant produces cocaine in its leaves"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/11/24172334/SEI_135020070.jpg?width=600"
 index: 534
 weight: 534
 ---

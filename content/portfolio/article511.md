@@ -1,6 +1,6 @@
 ---
-title: "Hearing noise and moving our body helps us gauge the passing of time"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/01111821/SEI_142459622.jpg?width=600"
+title: "Ultrasound illusion could make buttons on a touchscreen feel real"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/02/07110805/SEI_143101022.jpg?width=600"
 index: 511
 weight: 511
 ---

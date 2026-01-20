@@ -1,6 +1,6 @@
 ---
-title: "Physicists want to drill a 5-kilometre-deep hole on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/05124516/SEI_207356862.jpg?width=788"
+title: "Hybrid design could make nuclear fusion reactors more efficient"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/14165059/SEI_208720609.jpg?width=788"
 index: 269
 weight: 269
 ---

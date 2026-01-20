@@ -1,6 +1,6 @@
 ---
-title: "First exoplanet picture from James Webb Space Telescope revealed"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/01152155/SEI_122413546.jpg?width=600"
+title: "Swarm of light-sail spacecraft could be propelled by laser on the moon"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2022/09/06174711/SEI_123297727.jpg?width=600"
 index: 583
 weight: 583
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Rogue planet gains 6 billion tonnes per second in record growth spurt"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01163119/SEI_268492983.jpg?width=788"
+title: "Biodegradable plastic made from bamboo is strong and easy to recycle"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07111650/SEI_269357822.jpg?width=788"
 index: 46
 weight: 46
 ---

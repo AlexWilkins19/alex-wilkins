@@ -1,6 +1,6 @@
 ---
-title: "The asteroid Bennu is even weirder than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/11200520/SEI_190273320.jpg?width=788"
+title: "Most quakes on Mars happen during the summer – and we don’t know why"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/03/14160308/sei243597525.jpg?width=788"
 index: 131
 weight: 131
 ---

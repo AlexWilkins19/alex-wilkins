@@ -1,6 +1,6 @@
 ---
-title: "Is superintelligent AI just around the corner, or just a sci-fi dream?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/13102402/SEI_255250069.jpg?width=788"
+title: "Dead NASA satellite unexpectedly emits powerful radio pulse"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/06/19165928/SEI_256119070.jpg?width=788"
 index: 96
 weight: 96
 ---

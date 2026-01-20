@@ -1,6 +1,6 @@
 ---
-title: "The laws of physics appear to follow a mysterious mathematical pattern"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/10/17122723/SEI_225583756.jpg?width=788"
+title: "Our only visit to Uranus came at an unusual time for the planet"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/11/11145255/SEI_228852345.jpg?width=788"
 index: 210
 weight: 210
 ---

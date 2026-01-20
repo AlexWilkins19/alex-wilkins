@@ -1,6 +1,6 @@
 ---
-title: "Did a star blow up and hit Earth 10 million years ago?"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
+title: "NASA's asteroid deflection test had unexpected and puzzling outcome"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01115548/SEI_268328614.jpg?width=788"
 index: 51
 weight: 51
 ---

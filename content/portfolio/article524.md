@@ -1,6 +1,6 @@
 ---
-title: "First satellite launch from the UK failed due to an ‘anomaly’"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/10004828/SEI_139692185.jpg?width=600"
+title: "The future of food: How to farm insects for a growing population"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/01/13143758/ynsect_insect_farm-8-1-scaled-e1673620748598.jpg?width=600"
 index: 524
 weight: 524
 ---

@@ -1,6 +1,6 @@
 ---
-title: "These striking photos are a window into the world of quantum physics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/07141826/sei279933924.jpg?width=788"
+title: "Amateur mathematicians solve long-standing maths problems with AI"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/16151753/gettyimages-1219382595_2.jpg?width=788"
 index: 4
 weight: 4
 ---

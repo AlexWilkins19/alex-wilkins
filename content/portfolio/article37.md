@@ -1,6 +1,6 @@
 ---
-title: "The biggest controversy in maths could be settled by a computer"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10093201/SEI_273280996.jpg?width=788"
+title: "Is a deadly asteroid about to hit Earth? Meet the man who can tell you"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788"
 index: 37
 weight: 37
 ---

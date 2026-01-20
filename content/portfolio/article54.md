@@ -1,6 +1,6 @@
 ---
-title: "Lunar missions may contaminate the moon with hardy Earth microbes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15115739/SEI_265737659.jpg?width=788"
+title: "Did a star blow up and hit Earth 10 million years ago?"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/26134319/SEI_267738740.jpg?width=788"
 index: 54
 weight: 54
 ---
