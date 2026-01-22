@@ -1,6 +1,6 @@
 ---
-title: "Is a deadly asteroid about to hit Earth? Meet the man who can tell you"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/05114839/SEI_273018916.jpg?width=788"
+title: "Mathematicians say Google's AI tools are supercharging their research"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18115936/SEI_274772807.jpg?width=788"
 index: 37
 weight: 37
 ---

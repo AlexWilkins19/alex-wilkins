@@ -1,6 +1,6 @@
 ---
-title: "Lunar missions may contaminate the moon with hardy Earth microbes"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/15115739/SEI_265737659.jpg?width=788"
+title: "Venus has lava tubes, and they're weird"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/09/22162825/SEI_267222984.jpg?width=788"
 index: 57
 weight: 57
 ---
