@@ -1,6 +1,6 @@
 ---
-title: "Quantum computers could simulate a black hole in the next decade"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/25131905/SEI_152546861.jpg?width=788"
+title: "Chemists are teaching GPT-4 to do chemistry and control lab robots"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/04/26122341/SEI_153218895.jpg?width=788"
 index: 469
 weight: 469
 ---

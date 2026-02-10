@@ -1,6 +1,6 @@
 ---
-title: "Microphone made of atom-thick graphene could be used in smartphones"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/20164801/SEI_209577968.jpg?width=788"
+title: "Mercury may have a layer of diamond beneath its grey surface"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/06/24111356/SEI_209752577.jpg?width=788"
 index: 264
 weight: 264
 ---

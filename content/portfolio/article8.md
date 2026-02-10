@@ -1,6 +1,6 @@
 ---
-title: "These striking photos are a window into the world of quantum physics"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/07141826/sei279933924.jpg?width=788"
+title: "Distant 'little red dot' galaxies may contain baby black holes"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/14140619/SEI_280674634.jpg?width=788"
 index: 8
 weight: 8
 ---
