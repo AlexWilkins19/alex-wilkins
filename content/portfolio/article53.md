@@ -1,6 +1,6 @@
 ---
-title: "NASA's asteroid deflection test had unexpected and puzzling outcome"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01115548/SEI_268328614.jpg?width=788"
+title: "Endearing photos of bats show clever adaptations like long tongues"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
 index: 53
 weight: 53
 ---

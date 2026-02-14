@@ -1,6 +1,6 @@
 ---
-title: "Mathematicians are bitterly divided over a controversial proof"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/27162121/SEI_197636519.jpg?width=788"
+title: "Hyperelastic gel is one of the stretchiest materials known to science"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/03/28134456/SEI_197723296.jpg?width=788"
 index: 301
 weight: 301
 ---

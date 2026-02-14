@@ -1,6 +1,6 @@
 ---
-title: "Odds of asteroid 2024 YR4 hitting the moon may rise to 30 per cent"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10113243/SEI_273826369.jpg?width=788"
+title: "Static electricity can remove frost from windows using little energy"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/11151224/SEI_273953585.jpg?width=788"
 index: 41
 weight: 41
 ---

@@ -1,6 +1,6 @@
 ---
-title: "Vent on Venus is clearest sign yet the planet is volcanically active"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/15115316/SEI_148282957.jpg?width=600"
+title: "Windows filled with see-through wood layer help hold in heat"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/03/16121418/SEI_148522522.jpg?width=600"
 index: 495
 weight: 495
 ---
