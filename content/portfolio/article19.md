@@ -1,6 +1,6 @@
 ---
-title: "Physicists stirred up controversy with scientific cooking tips in 2025"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/18120711/SEI_274766337.jpg?width=788"
+title: "2026 Mars mission will set out to solve the mystery of its moons"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/09140709/SEI_276890264.jpg?width=788"
 index: 19
 weight: 19
 ---

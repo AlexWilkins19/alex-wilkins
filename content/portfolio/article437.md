@@ -1,6 +1,6 @@
 ---
-title: "Microplastics found in the soil on farms used to grow crops"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/11112443/SEI_163589417.jpg?width=788"
+title: "Stars found hidden in huge cloud wrapped around the Milky Way"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/07/12115548/SEI_163183838.jpg?width=788"
 index: 437
 weight: 437
 ---

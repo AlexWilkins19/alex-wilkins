@@ -1,6 +1,6 @@
 ---
-title: "BepiColombo snaps Mercury's dark craters and volcanic plains"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09123042/SEI_235439936.jpg?width=788"
+title: "Physicists discover the secret to perfect cacio e pepe pasta"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/01/09165158/SEI_235457061.jpg?width=788"
 index: 180
 weight: 180
 ---
