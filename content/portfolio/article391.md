@@ -1,6 +1,6 @@
 ---
-title: "Oddly bright burst may mean space is more transparent than we thought"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/23111533/SEI_176698845.jpg?width=788"
+title: "Ice-spewing supervolcano may have been found on Pluto"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2023/10/25131739/SEI_177256083.jpg?width=788"
 index: 391
 weight: 391
 ---

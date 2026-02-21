@@ -1,6 +1,6 @@
 ---
-title: "Ancient rock art revealed in all its glory in stunning photographs"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/16105537/SEI_277414882.jpg?width=788"
+title: "A ghostly glow was seen emanating from living things in 2025"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/11/10171854/SEI_273019560.jpg?width=788"
 index: 25
 weight: 25
 ---

@@ -1,6 +1,6 @@
 ---
-title: "A robot dog has learned to open doors with its leg"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/22125649/SEI_192712713.jpg?width=788"
+title: "Huge set of galaxies is set to form largest cluster in known universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2024/02/21162939/SEI_191496908.jpg?width=788"
 index: 320
 weight: 320
 ---

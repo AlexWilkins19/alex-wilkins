@@ -1,6 +1,6 @@
 ---
-title: "Can we battle the downsides of a rule-based world, asks a new book"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/19142407/SEI_280658042.jpg?width=788"
+title: "Huge hot blobs inside Earth may have made its magnetic field wonky"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/13111639/SEI_284328217.jpg?width=788"
 index: 4
 weight: 4
 ---

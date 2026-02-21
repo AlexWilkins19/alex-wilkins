@@ -1,6 +1,6 @@
 ---
-title: "Black hole stars really do exist in the early universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/12140217/SEI_277755167.jpg?width=788"
+title: "The best space pictures of 2025, from supernovae to moon landings"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/12/01113827/SEI_258150203.jpg?width=788"
 index: 28
 weight: 28
 ---

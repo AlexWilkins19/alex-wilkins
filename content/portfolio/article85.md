@@ -1,6 +1,6 @@
 ---
-title: "DeepMind and OpenAI claim gold in International Mathematical Olympiad"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/22165214/SEI_259756152.jpg?width=788"
+title: "Peculiar galaxy seems to contain surprisingly pristine stars"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/07/24154438/SEI_259967957.jpg?width=788"
 index: 85
 weight: 85
 ---

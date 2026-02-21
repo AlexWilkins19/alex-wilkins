@@ -1,6 +1,6 @@
 ---
-title: "Our solar system is extremely weird: Best ideas of the century"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/13155859/SEI_280668442.jpg?width=788"
+title: "Can we battle the downsides of a rule-based world, asks a new book"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/01/19142407/SEI_280658042.jpg?width=788"
 index: 6
 weight: 6
 ---

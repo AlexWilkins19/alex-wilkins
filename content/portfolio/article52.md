@@ -1,6 +1,6 @@
 ---
-title: "Exceptional star is the most pristine object known in the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/03115011/SEI_268518337.jpg?width=788"
+title: "Biodegradable plastic made from bamboo is strong and easy to recycle"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/07111650/SEI_269357822.jpg?width=788"
 index: 52
 weight: 52
 ---

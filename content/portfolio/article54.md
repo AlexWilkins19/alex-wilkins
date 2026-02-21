@@ -1,6 +1,6 @@
 ---
-title: "Endearing photos of bats show clever adaptations like long tongues"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/01152806/SEI_267470800.jpg?width=788"
+title: "Exceptional star is the most pristine object known in the universe"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2025/10/03115011/SEI_268518337.jpg?width=788"
 index: 54
 weight: 54
 ---
