@@ -1,6 +1,6 @@
 ---
-title: "Scientists want to put a super laser on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/17120341/SEI_285495592.jpg?width=788"
+title: "Search for radio signals finds no hint of alien civilisation on K2-18b"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/19120113/SEI_285811953.jpg?width=788"
 index: 3
 weight: 3
 ---
