@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Human brain cells on a chip learned to play Doom in a week",
+      "url": "https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/27124116/SEI_287024727.jpg?width=788",
+      "scrapedAt": "2026-02-28T02:00:03.057Z"
+    },
+    {
       "title": "What to read this week: Ripples on the Cosmic Ocean by Dagomar Degroot",
       "url": "https://www.newscientist.com/article/mg26935840-300-what-to-read-this-week-ripples-on-the-cosmic-ocean-by-dagomar-degroot/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/23104452/SEI_285518121.jpg?width=788",

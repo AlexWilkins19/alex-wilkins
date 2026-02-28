@@ -1,6 +1,6 @@
 ---
-title: "We've spotted the strongest microwave laser in the known universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/19170657/SEI_285805938.jpg?width=788"
+title: "Loophole found that makes quantum cloning possible"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23113259/SEI_286485850.jpg?width=788"
 index: 3
 weight: 3
 ---
