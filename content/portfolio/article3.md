@@ -1,6 +1,6 @@
 ---
-title: "Loophole found that makes quantum cloning possible"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23113259/SEI_286485850.jpg?width=788"
+title: "What to read this week: Ripples on the Cosmic Ocean by Dagomar Degroot"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23104452/SEI_285518121.jpg?width=788"
 index: 3
 weight: 3
 ---

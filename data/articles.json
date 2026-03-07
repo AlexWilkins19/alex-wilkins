@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Chemistry clues could detect aliens unlike any life on Earth",
+      "url": "https://www.newscientist.com/article/2518409-chemistry-clues-could-detect-aliens-unlike-any-life-on-earth/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06152638/SEI_287654955.jpg?width=788",
+      "scrapedAt": "2026-03-07T02:03:26.485Z"
+    },
+    {
       "title": "Human brain cells on a chip learned to play Doom in a week",
       "url": "https://www.newscientist.com/article/2517389-human-brain-cells-on-a-chip-learned-to-play-doom-in-a-week/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/02/27124116/SEI_287024727.jpg?width=788",
