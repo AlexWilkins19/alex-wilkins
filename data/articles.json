@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "How an intern helped build the AI that shook the world",
+      "url": "https://www.newscientist.com/article/2518451-how-an-intern-helped-build-the-ai-that-shook-the-world/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06175754/SEI_288146249.jpg?width=788",
+      "scrapedAt": "2026-03-08T02:21:08.029Z"
+    },
+    {
+      "title": "The moment that kicked off the AI revolution",
+      "url": "https://www.newscientist.com/article/2518450-the-moment-that-kicked-off-the-ai-revolution/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06172512/SEI_288143490.jpg?width=788",
+      "scrapedAt": "2026-03-08T02:21:08.029Z"
+    },
+    {
       "title": "Chemistry clues could detect aliens unlike any life on Earth",
       "url": "https://www.newscientist.com/article/2518409-chemistry-clues-could-detect-aliens-unlike-any-life-on-earth/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06152638/SEI_287654955.jpg?width=788",
