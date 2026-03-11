@@ -1,6 +1,6 @@
 ---
-title: "How an intern helped build the AI that shook the world"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06175754/SEI_288146249.jpg?width=788"
+title: "Startup is building the first data centre to use human brain cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/10165132/SEI_288777185.jpg?width=788"
 index: 1
 weight: 1
 ---

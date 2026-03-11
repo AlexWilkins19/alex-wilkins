@@ -1,6 +1,6 @@
 ---
-title: "Human brain cells on a chip learned to play Doom in a week"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/27124116/SEI_287024727.jpg?width=788"
+title: "How an intern helped build the AI that shook the world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06175754/SEI_288146249.jpg?width=788"
 index: 4
 weight: 4
 ---

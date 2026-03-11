@@ -1,6 +1,24 @@
 {
   "articles": [
     {
+      "title": "Startup is building the first data centre to use human brain cells",
+      "url": "https://www.newscientist.com/article/2518930-startup-is-building-the-first-data-centre-to-use-human-brain-cells/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/10165132/SEI_288777185.jpg?width=788",
+      "scrapedAt": "2026-03-11T02:06:54.244Z"
+    },
+    {
+      "title": "Mystery 'whippet' space explosion is the brightest of its kind",
+      "url": "https://www.newscientist.com/article/2518683-mystery-whippet-space-explosion-is-the-brightest-of-its-kind/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/10112856/SEI_288652133.jpg?width=788",
+      "scrapedAt": "2026-03-11T02:06:54.244Z"
+    },
+    {
+      "title": "Mathematics is undergoing the biggest change in its history",
+      "url": "https://www.newscientist.com/article/2518526-mathematics-is-undergoing-the-biggest-change-in-its-history/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/09101527/SEI_287813875.jpg?width=788",
+      "scrapedAt": "2026-03-11T02:06:54.244Z"
+    },
+    {
       "title": "How an intern helped build the AI that shook the world",
       "url": "https://www.newscientist.com/article/2518451-how-an-intern-helped-build-the-ai-that-shook-the-world/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/03/06175754/SEI_288146249.jpg?width=788",

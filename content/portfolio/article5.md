@@ -1,6 +1,6 @@
 ---
-title: "What to read this week: Ripples on the Cosmic Ocean by Dagomar Degroot"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23104452/SEI_285518121.jpg?width=788"
+title: "The moment that kicked off the AI revolution"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06172512/SEI_288143490.jpg?width=788"
 index: 5
 weight: 5
 ---

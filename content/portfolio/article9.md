@@ -1,6 +1,6 @@
 ---
-title: "Scientists want to put a super laser on the moon"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/17120341/SEI_285495592.jpg?width=788"
+title: "Loophole found that makes quantum cloning possible"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23113259/SEI_286485850.jpg?width=788"
 index: 9
 weight: 9
 ---
