@@ -28,6 +28,10 @@ const fs = require('fs');
       existingArticles.map(article => [article.url, article])
     );
 
+    const existingTitles = new Set(
+      existingArticles.map(article => article.title.trim().toLowerCase())
+    );
+
     const page = await browser.newPage();
     await page.setViewport({ width: 1920, height: 1080 });
     
@@ -141,8 +145,14 @@ const fs = require('fs');
               foundAllOldArticlesWithImages = false;
             }
           } else {
-            newArticles.push(article);
-            foundAllOldArticlesWithImages = false;
+            const titleKey = article.title.trim().toLowerCase();
+            if (existingTitles.has(titleKey)) {
+              console.log(`Skipping duplicate title: "${article.title}"`);
+            } else {
+              newArticles.push(article);
+              existingTitles.add(titleKey);
+              foundAllOldArticlesWithImages = false;
+            }
           }
         }
 
@@ -172,6 +182,15 @@ const fs = require('fs');
     if (newArticles.length > 0 || updatedExistingArticles) {
       existingArticles = Array.from(existingArticlesMap.values());
       existingArticles = [...newArticles, ...existingArticles];
+
+      // Deduplicate by title, keeping first occurrence
+      const seenTitles = new Set();
+      existingArticles = existingArticles.filter(article => {
+        const titleKey = article.title.trim().toLowerCase();
+        if (seenTitles.has(titleKey)) return false;
+        seenTitles.add(titleKey);
+        return true;
+      });
       
       fs.writeFileSync(
         'data/articles.json',
