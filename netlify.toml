@@ -1,2 +1,8 @@
 [build]
-  environment = { RUBY_VERSION = "2.7.2" }
+  command = "hugo -D"
+  publish = "public"
+
+  [build.environment]
+    HUGO_VERSION = "0.120.4"
+    NODE_VERSION = "18"
+    RUBY_VERSION = "2.7.2"
