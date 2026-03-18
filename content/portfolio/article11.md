@@ -1,6 +1,6 @@
 ---
-title: "We've spotted the strongest microwave laser in the known universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/19170657/SEI_285805938.jpg?width=788"
+title: "What to read this week: Ripples on the Cosmic Ocean by Dagomar Degroot"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23104452/SEI_285518121.jpg?width=788"
 index: 11
 weight: 11
 ---
