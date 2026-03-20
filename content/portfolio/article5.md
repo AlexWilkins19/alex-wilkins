@@ -1,6 +1,6 @@
 ---
-title: "Start-up is building the first data centre to use human brain cells"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/10165132/SEI_288777185.jpg?width=788"
+title: "Particle discovered at CERN solves a 20-year-old mystery"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/16183552/SEI_289727933.jpg?width=788"
 index: 5
 weight: 5
 ---

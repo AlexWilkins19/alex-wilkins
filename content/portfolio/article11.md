@@ -1,6 +1,6 @@
 ---
-title: "Chemistry clues could detect aliens unlike any life on Earth"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06152638/SEI_287654955.jpg?width=788"
+title: "How an intern helped build the AI that shook the world"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06175754/SEI_288146249.jpg?width=788"
 index: 11
 weight: 11
 ---
