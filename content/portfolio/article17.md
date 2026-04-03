@@ -1,6 +1,6 @@
 ---
-title: "Human brain cells on a chip learned to play Doom in a week"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/27124116/SEI_287024727.jpg?width=788"
+title: "Chemistry clues could detect aliens unlike any life on Earth"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/06152638/SEI_287654955.jpg?width=788"
 index: 17
 weight: 17
 ---
