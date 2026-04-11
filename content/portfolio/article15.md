@@ -1,6 +1,6 @@
 ---
-title: "Mathematics is undergoing the biggest change in its history"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/09101527/SEI_287813875.jpg?width=788"
+title: "Startup is building the first data centre to use human brain cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/10165132/SEI_288777185.jpg?width=788"
 index: 15
 weight: 15
 ---

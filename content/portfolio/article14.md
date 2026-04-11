@@ -1,6 +1,6 @@
 ---
-title: "Mystery 'whippet' space explosion is the brightest of its kind"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/10112856/SEI_288652133.jpg?width=788"
+title: "Start-up is building the first data centre to use human brain cells"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/03/10165132/SEI_288777185.jpg?width=788"
 index: 14
 weight: 14
 ---

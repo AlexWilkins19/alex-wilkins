@@ -1,6 +1,6 @@
 ---
-title: "Loophole found that makes quantum cloning possible"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/23113259/SEI_286485850.jpg?width=788"
+title: "Human brain cells on a chip learned to play Doom in a week"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/02/27124116/SEI_287024727.jpg?width=788"
 index: 21
 weight: 21
 ---

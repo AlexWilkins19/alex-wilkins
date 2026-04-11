@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "The secret project to settle controversial maths proof with a computer",
+      "url": "https://www.newscientist.com/article/2522687-the-secret-project-to-settle-controversial-maths-proof-with-a-computer/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/10154013/SEI_292647731.jpg?width=788",
+      "scrapedAt": "2026-04-11T02:26:11.511Z"
+    },
+    {
+      "title": "Quantum batteries could be charged by reversing time",
+      "url": "https://www.newscientist.com/article/2522404-quantum-batteries-could-be-charged-by-reversing-time/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/09144318/SEI_292436999.jpg?width=788",
+      "scrapedAt": "2026-04-11T02:26:11.511Z"
+    },
+    {
       "title": "We may have seen a 'dirty fireball' star explosion for the first time",
       "url": "https://www.newscientist.com/article/2522015-we-may-have-seen-a-dirty-fireball-star-explosion-for-the-first-time/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/04/02144417/SEI_291818531.jpg?width=788",
