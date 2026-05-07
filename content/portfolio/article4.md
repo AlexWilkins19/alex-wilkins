@@ -1,6 +1,6 @@
 ---
-title: "We may have just glimpsed the universe's first stars"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/04/02132328/SEI_291806429.jpg?width=788"
+title: "Quantum batteries could be charged by reversing time"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/04/09144318/SEI_292436999.jpg?width=788"
 index: 4
 weight: 4
 ---
