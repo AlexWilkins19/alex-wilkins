@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Mathematical AI helps researchers crack 50-year-old problem",
+      "url": "https://www.newscientist.com/article/2528290-mathematical-ai-helps-researchers-crack-50-year-old-problem/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg?width=788",
+      "scrapedAt": "2026-05-29T03:44:51.818Z"
+    },
+    {
+      "title": "Start-ups are racing to revolutionise mathematics with AI",
+      "url": "https://www.newscientist.com/article/2528160-start-ups-are-racing-to-revolutionise-mathematics-with-ai/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/27163853/SEI_299120930.jpg?width=788",
+      "scrapedAt": "2026-05-29T03:44:51.818Z"
+    },
+    {
       "title": "NASA plans a base on the moon spanning hundreds of square kilometres",
       "url": "https://www.newscientist.com/article/2528075-nasa-plans-a-base-on-the-moon-spanning-hundreds-of-square-kilometres/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/27125546/SEI_299107874.jpg?width=788",
