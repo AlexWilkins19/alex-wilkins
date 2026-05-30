@@ -1,6 +1,6 @@
 ---
-title: "Start-ups are racing to revolutionise mathematics with AI"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/27163853/SEI_299120930.jpg?width=788"
+title: "Mathematical AI helps researchers crack 50-year-old problem"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg?width=788"
 index: 2
 weight: 2
 ---

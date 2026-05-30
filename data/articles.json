@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Aim high but don't shoot for the moon, mathematicians advise",
+      "url": "https://www.newscientist.com/article/2528468-aim-high-but-dont-shoot-for-the-moon-mathematicians-advise/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/29151601/SEI_299360591.jpg?width=788",
+      "scrapedAt": "2026-05-30T03:32:35.155Z"
+    },
+    {
       "title": "Mathematical AI helps researchers crack 50-year-old problem",
       "url": "https://www.newscientist.com/article/2528290-mathematical-ai-helps-researchers-crack-50-year-old-problem/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg?width=788",
