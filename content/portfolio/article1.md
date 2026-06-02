@@ -1,6 +1,6 @@
 ---
-title: "Aim high but don't shoot for the moon, mathematicians advise"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/29151601/SEI_299360591.jpg?width=788"
+title: "A golden age of maths is dawning and mathematicians are freaking out"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/27113338/SEI_299038953.jpg?width=788"
 index: 1
 weight: 1
 ---
