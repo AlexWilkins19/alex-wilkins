@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "title": "Escher: The paradoxical artist beloved by mathematicians",
+      "url": "https://www.newscientist.com/article/2528873-escher-the-paradoxical-artist-beloved-by-mathematicians/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/02155024/sei299831800.jpg?width=788",
+      "scrapedAt": "2026-06-04T04:09:16.371Z"
+    },
+    {
+      "title": "CERN’s new chief on the gamble that could fix our picture of reality",
+      "url": "https://www.newscientist.com/article/2527353-cerns-new-chief-on-the-gamble-that-could-fix-our-picture-of-reality/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/20123508/SEI_298142299.jpg?width=788",
+      "scrapedAt": "2026-06-04T04:09:16.371Z"
+    },
+    {
       "title": "A golden age of maths is dawning and mathematicians are freaking out",
       "url": "https://www.newscientist.com/article/2526650-a-golden-age-of-maths-is-dawning-and-mathematicians-are-freaking-out/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/05/27113338/SEI_299038953.jpg?width=788",
