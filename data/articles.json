@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "First working nuclear clock heralds a new era in timekeeping",
+      "url": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg?width=788",
+      "scrapedAt": "2026-06-13T03:54:22.222Z"
+    },
+    {
       "title": "Explore the mind-bending and paradoxical art of M C. Escher",
       "url": "https://www.newscientist.com/article/2528873-explore-the-mind-bending-and-paradoxical-art-of-m-c-escher/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/02155024/sei299831800.jpg?width=788",
