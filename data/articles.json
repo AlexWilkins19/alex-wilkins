@@ -1,6 +1,12 @@
 {
   "articles": [
     {
+      "title": "Inside the start-up aiming for a giant leap in robot intelligence",
+      "url": "https://www.newscientist.com/article/2530349-inside-the-start-up-aiming-for-a-giant-leap-in-robot-intelligence/",
+      "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/15103718/SEI_301109304.jpg?width=788",
+      "scrapedAt": "2026-06-16T04:18:12.766Z"
+    },
+    {
       "title": "First working nuclear clock heralds a new era in timekeeping",
       "url": "https://www.newscientist.com/article/2530094-first-working-nuclear-clock-heralds-a-new-era-in-timekeeping/",
       "imageUrl": "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg?width=788",
