@@ -1,6 +1,6 @@
 ---
-title: "Mathematical AI helps researchers crack 50-year-old problem"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/28142543/SEI_299236955.jpg?width=788"
+title: "A golden age of maths is dawning and mathematicians are freaking out"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/27113338/SEI_299038953.jpg?width=788"
 index: 10
 weight: 10
 ---

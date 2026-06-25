@@ -1,6 +1,6 @@
 ---
-title: "Aim high but don't shoot for the moon, mathematicians advise"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/29151601/SEI_299360591.jpg?width=788"
+title: "CERN’s new chief on the gamble that could fix our picture of reality"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/20123508/SEI_298142299.jpg?width=788"
 index: 9
 weight: 9
 ---

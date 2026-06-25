@@ -1,6 +1,6 @@
 ---
-title: "Frank Close: Finding the building blocks of the universe"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/05180737/frank-close-yt-thumb-b_clean.jpg?width=788"
+title: "NASA plans a base on the moon spanning hundreds of square kilometres"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/05/27125546/SEI_299107874.jpg?width=788"
 index: 14
 weight: 14
 ---

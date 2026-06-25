@@ -1,6 +1,6 @@
 ---
-title: "First working nuclear clock heralds a new era in timekeeping"
-imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/06/11121422/SEI_300736260.jpg?width=788"
+title: "Gas from Uranus reveals it has an icy centre"
+imageUrl: "https://images.newscientist.com/wp-content/uploads/2026/06/19122108/SEI_302066427.jpg?width=788"
 index: 4
 weight: 4
 ---
